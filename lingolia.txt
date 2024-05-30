@@ -1,0 +1,158 @@
+=====ADVERBS OF PLACE=====			
+everywhere	ĉie 	adv. place	
+here	ĉi tie 	adv. place	
+right	dekstre 	adv. place	
+inside	interne 	adv. place	
+inside	ene	adv. place	
+somewhere	ie 	adv. place	
+in front	antaŭe 	adv. place	
+behind	malantaŭe 	adv. place	
+left	maldekstre 	adv. place	
+under	malsupre 	adv. place	
+underneath	malsupre 	adv. place	
+nowhere	nenie 	adv. place	
+upstairs	supre 	adv. place	
+there	tie 	adv. place	
+=====ADVERBS OF TIME=====			
+soon	baldaŭ 	adv. time	
+always	ĉiam 	adv. time	
+daily	ĉiutage 	adv. time	
+finally	fine 	adv. time	
+yesterday	hieraŭ 	adv. time	
+today	hodiaŭ 	adv. time	
+sometime	iam 	adv. time	
+already	jam 	adv. time	
+tomorrow	morgaŭ 	adv. time	
+never	neniam 	adv. time	
+often	ofte 	adv. time	
+then	tiam 	adv. time	
+immediately	tuj 	adv. time	
+on Fridays	vendrede 	adv. time	
+=====ADVERBS OF MANNER=====			
+otherwise	alie 	adv. manner	
+also	ankaŭ 	adv. manner	
+likewise	ankaŭ 	adv. manner	
+hardly	apenaŭ 	adv. manner	
+unfortunately	bedaŭrinde 	adv. manner	
+probably	eventuale 	adv. manner	
+possibly	eble	adv. manner	
+really	efektive	adv. manner	in fact, real, in reality, not imagined
+really	vere 	adv. manner	true, not false
+extremely	ekstreme 	adv. manner	
+hopefully	espereble 	adv. manner	
+as follows	jene 	adv. manner	
+almost	preskaŭ 	adv. manner	
+enough	sufiĉe 	adv. manner	
+very	tre 	adv. manner	
+completely	tute 	adv. manner	
+gladly	volonte 	adv. manner	
+=====ADVERBS OF REASON=====			
+then	do 	adv. reason	
+so	do 	adv. reason	
+subsequently	sekve 	adv. reason	
+thus	sekve 	adv. reason	
+consequently	sekve 	adv. reason	
+consistently	konsekvence 	adv. reason	
+consequently	konsekvence 	adv. reason	
+therefore	konsekvence 	adv. reason	
+nevertheless	tamen 	adv. reason	
+however	tamen 	adv. reason	
+yet	tamen 	adv. reason	
+still	tamen 	adv. reason	
+therefore	tial 	adv. reason	
+for that reason	tial 	adv. reason	
+that’s why	tial 	adv. reason	
+in that way	tiel 	adv. reason	
+in that manner	tiel 	adv. reason	
+in such a fashion	tiel 	adv. reason	
+therefore	pro kio 	adv. relative	
+that’s why	pro kio 	adv. relative	
+where	kie 	adv. relative	
+when	kiam 	adv. relative	
+'=====PREPOSITIONS OF TIME=====			
+before	antaŭ	prep. time | at or during a earlier time	
+ago	antaŭ	prep. time | at or during a earlier time	
+after	post	prep. time | after something	
+for	de	prep. time | for a period of time	
+for	dum	prep. time | spanning an entire duration of time	
+during	en	prep. time | at some time within a specific time frame	
+in	en	prep. time | at some time within a specific time frame	
+since	ekde	prep. time | from a specific point in time until now	
+until	ĝis	prep. time | up to/by a specific time	
+by	ĝis	prep. time | up to/by a specific time	
+at	je	prep. time | a particular time	
+			
+'=====PREPOSITIONS OF PLACE=====			
+to	al	prep. place | to a place, to a person	
+in front of	antaŭ	prep. place | in front/before	
+beside	apud	prep. place | next to (without touching)	
+next to	apud	prep. place | next to (without touching)	
+at	ĉe	prep. place | exact position (next to, in front of)	
+by	ĉe	prep. place | exact position (next to, in front of)	
+around	ĉirkaŭ	prep. place | around something	
+by	de	prep. place | from a place (from where) or by somebody	
+from	de	prep. place | from a place (from where) or by somebody	
+outside of	ekster	prep. place | beyond a closed area	
+out of	ekster	prep. place | beyond a closed area	
+from	el	prep. place | from where	
+in	en	prep. place | in a place, book, car, picture, world	
+until	ĝis	prep. place | destination	
+up to	ĝis	prep. place | destination	
+as far as	ĝis	prep. place | destination	
+between	inter	prep. place | there is something on either side	
+opposite	kontraŭ	prep. place | facing, on the other side	
+along	laŭ	prep. place | following lengthwise	
+behind	malantaŭ	prep. place | at the far side of something (hidden)	
+past	preter	prep. place | pass something/someone (go/drive/fly …)	
+below	sub	prep. place | under something	
+beneath	sub	prep. place | under something	
+under	sub	prep. place | under something	
+above	super	prep. place | above something, but not directly on it, over something and away	
+over	super	prep. place | above something, but not directly on it, over something and away	
+on	sur	prep. place | fixed to something, above something (in contact), on one side or the other	
+through	tra	prep. place | limited from above, below and on the sides, from one side to the other	
+across	trans	prep. place | from one side to the other, on the opposite side of
+on the other side of	trans	prep. place | from one side to the other, on the opposite side of
+over	trans	prep. place | from one side to the other, on the opposite side of
+'=====OTHER PREPOSITIONS=====			
+instead of	anstataŭ	prep. misc | replace something with something else	
+of	da	prep. misc | how much of something	
+by	de	prep. misc | expresses possession	
+from	de	prep. misc | expresses possession	
+between	inter	prep. misc | interaction between two people	
+against	kontraŭ	prep. misc | opponent of someone/something	
+apart from	krom	prep. misc | not considering	
+except for	krom	prep. misc | not considering	
+with	kun	prep. misc | together with someone/thing	
+according to	laŭ	prep. misc | in agreement with, as stated	
+despite	malgraŭ	prep. misc | nevertheless, notwithstanding	
+in spite of	malgraŭ	prep. misc | nevertheless, notwithstanding	
+with	per	prep. misc | with the use of something	
+by means of	per	prep. misc | with the use of something	
+through	per	prep. misc | with the use of something	
+each	po	prep. misc | for a divided amount, followed by the nominative	
+for	por	prep. misc | outcome of an action	
+about	pri	prep. misc | talk about something	
+concerning	pri	prep. misc | talk about something	
+because of	pro	prep. misc | because of someone/thing	
+without	sen	prep. misc | without someone/thing	
+'=====DATES=====			
+Monday	undo		
+Tuesday	mardo		
+Wednesday	merkredo		
+Thursday	ĵaŭdo		
+Friday	vendredo		
+Saturday	sabato		
+Sunday	dimanĉo		
+January	januaro		
+February	februaro		
+March	marto		
+April	aprilo		
+May	majo		
+June	junio		
+July	julio		
+August	aŭgusto		
+September	septembro		
+October	oktobro		
+November	novembro		
+December	decembro		
