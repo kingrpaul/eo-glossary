@@ -6,10 +6,10 @@ accord	akordo
 sharp	akra	
 creeps up	al'ŝtel'iras	v. (ntr)
 alarmed	alarmite	
-add	aldoni	(tr)
-Alexandria	Aleksandrio	PIV
+add	aldoni	v. (tr)
+bring	alporti	v. (tr)
 altar	altaro	
-hint	aludi	(tr)
+hint	aludi	v. (tr)
 lover	amanto	
 flock	amasiĝi	PIV: to pile up or become a crowd
 ambitious	ambicia	
@@ -20,52 +20,54 @@ pastime	amuzaĵo
 amusement	amuzaĵo	
 angel	anĝelo	
 English	angla	
-England	Anglio	
 as well	ankaŭ	
 years ago	antaŭ jaroj	
 preexistence	antaŭ'ekzisto	
 forwards	antaŭen	
 go forward	antaŭen'iru	v. (ntr)
 looked forward to	antaŭĝojitaj	as in anticipated
-advance	antaŭiĝi	"(ntr) move forward, for ""progresi"" for advancement through ranks"
+advance	antaŭiĝi	"v. (ntr) move forward, for ""progresi"" for advancement through ranks"
 apron	antaŭtuko	
 ancient	antikva	
 apart	aparte	
-belongs	aparteni	(ntr)
-Apollo	Apolono	PIV
+belongs	aparteni	v. (ntr)
 boar	apro	
 approval	aprobo	
 beside	apud	
-arrange	aranĝi	(tr)
+arrange	aranĝi	v. (tr)
 grove	arbareto	
 silver	arĝenta	
 associated with	asociita kun	
+look	aspekti	v. (ntr) to appear as
 appearance	aspekto	
 attack	atako	
-achieve	atingi	(tr) 
+achieve	atingi	v. (tr) 
 atmosphere	atmosfero	
-hears	aŭdas	(tr)
-hear	aŭdi	(tr)
+hears	aŭdas	v. (tr)
+hear	aŭdi	v. (tr)
+listen	aŭskulti	v. (tr)
 hark	aŭskultu	
 auspicious	aŭspicia	
 crave	avidi	v. (tr)
 ass	azeno	ie donkey
 balustrade	balustrado	
-bathe	bani	(tr) or baniĝi to bathe oneself
+bathe	bani	v. (tr) or baniĝi to bathe oneself
 bath	bano	
-fight	batali	(ntr)
-fought	batalis	(ntr)
+fight	batali	v. (ntr)
+fought	batalis	v. (ntr)
+remorse	bedaŭro	
 handsome	bela	
 berry	bero	
-need	bezoni	(tr)
+need	bezoni	v. (tr)
 library	biblioteko	
 picture	bildo	
 whiteness	blankeco	
-blinds	blindigas	(tr)
-blinded you	blindigis vin	(tr - the person who was blinded)
+blinds	blindigas	v. (tr)
+blinded you	blindigis vin	v. (tr - the person who was blinded)
 tasty	bongusta	
 goodwill	bonvolon	
 please	bonvolu	please
+bank	bordo	n. as in river-banks
 beef	bovaĵo	
 embrace	brakumi	v. (tr)
 twig	branĉeto	
@@ -73,7 +75,7 @@ bough	branĉo
 gleams	brilas	
 glow	brilo	
 british	brita	
-burn	bruli	(ntr) -ig- to burn somthing else
+burn	bruli	v. (ntr) -ig- to burn something else
 brusquely	bruske	
 wagoner	ĉaristo	
 are giving way	cedas	
@@ -87,65 +89,70 @@ stops	ĉesi	to cease
 hither	ĉi tien	
 in every respect	ĉia'maniere	
 evergreen	ĉiamverdo	
+it all	ĉio	i.e. everything
 circumstances	cirkonstancoj	
 all these years	ĉiuj ĉi tiuj jaroj	
 dance	danci	
 dangerous	danĝera	
-continue	daŭri	(ntr)
-Bodleian	de Bodlejo	
+continue	daŭri	v. (ntr)
 henceforth	de nun	
 from time immemorial	de post tempo nememorebla	PIV (Z)
-December	decembro	
 defiant	defia	
-defies	defias	(tr)
+defies	defias	v. (tr)
 twelve	dekdua	
 twelfth	dekdua	
 decorative	dekoracia	
 to the right	dekstren	
+displacement	delokeco	
+questioningly	demande	
 destiny	destino	
-destroy	detrui	(tr)
+destroy	detrui	v. (tr)
 with dignity	digne	
 dignity	digno	
-Sunday	dimanĉo	
+tell	diri	v. (tr - the thing told)
+various	diversa	
 manor house	domego	
 mansion	domego	
 manor	domego	
+present	donaco	ie gift
 give	doni	
 asleep	dormanta	
 dramatic	drama	
 second	dua	after first
 doubted	dubis	v. (tr)
 afreet	efrito	a powerful evil jinni, demon, or monstrous giant in Arabic mythology
-Egypt	Egiptujo	
 echo	eĥo	
 to light	ekbruligi	
 since	ekde	
 outdoor	ekster’doma	syn. Subĉiela
-to exist	ekzisti	(ntr)
+to exist	ekzisti	v. (ntr)
 existence	ekzisto	
 creep out	el'ŝtel'iri	v. (ntr)
 unearths	el’terigas	
+tend	emas	as in, has the tendency
+enters	eniras	v. (tr)
 enters	eniras	
-enters	eniras	(tr)
 bring in 	enporti	
+bury	enterigi	v. (tr)
 eagerness	entuziasmo	
 escort	eskorto	
-hope	esperi	(tr)
+hope	esperi	v. (tr)
 expression	esprimo	
 creature	estaĵo	
+being	estante	
 Is described	estas priskribita	
 was held in high repute	estis estimata	
 future	estonteco	
 obvious	evidenta	
 fire	fajro	
 fact	fakto	
-falls	falas	(ntr)
+falls	falas	v. (ntr)
 family	familio	
 conceit	fantazio	a sort of thought
 Pharaoh	Faraono	
+make	fari	v. (tr)
 bunch	fasko	
 favourable	favora	Eager to grant advantage to
-February	februaro	
 happily	feliĉe	
 holiday	ferio	
 festive	festa	
@@ -154,36 +161,41 @@ feast	festeno
 celebrate	festi	
 party	festo	
 celebration	festo	
+flame	flamo	
 flower-seller	flor’vendisto	
-Florence	Florenco	Italian city
 to flower	flori	
 to bloom	flori	
 flower	floro	
 bloom	floro	
 flower	floro	
-flows	fluas	(ntr)
-flies	flugas	(ntr)
-flown	flugis	(ntr)
-whisper	flustri	(tr)
-were absent	forestis	(ntr)
+flows	fluas	v. (ntr)
+flies	flugas	v. (ntr)
+flown	flugis	v. (ntr)
+whisper	flustri	v. (tr)
+is given up	fordonita	
+were absent	forestis	v. (ntr)
 forget	forgesi	
 forgotten	forgesita	
-left	foriris	(ntr)
-put aside	formeti	(tr)
+left	foriris	v. (ntr)
+put aside	formeti	v. (tr)
 becoming extinct	formortas	
 hardy	fortika	
 stronghold	fortikaĵo	
 frontispiece	frontispico	
-fled	fuĝis	(ntr) to flee from danger
+fled	fuĝis	v. (ntr) to flee from danger
+glistening	fulmetada	
 mirth	gajeco	
-gain	gajni	(tr)
+gain	gajni	v. (tr)
 garden	ĝardeno	
 hospitable	gastama	
 inn	gastejo	
 host	gastiganto	also: gastiginto
 wedding	geedziĝo	
 marriage	geedziĝo	
+makes a gesture	gesti	v. (ntr)
+gesture	gesto	
 it is used	ĝin uzitas	
+to the end	ĝis la fino	
 ice	glacio	
 sword	glavo	
 glory	gloro	
@@ -195,42 +207,41 @@ big-boned	grand’osta
 bigwig	grandulo	
 matters	gravas	
 Grecian	greka	
-Greece	Grekio	
 greybeard	grizbarbo	
 grotesque	groteska	
 soil	grundo	soil
 gravel	gruzo	
 ivy	hedero	
 home	hejmo	hejme-at home, hejmen-toward home
-help	helpi	(tr - iun, al iu)
+help	helpi	v. (tr - iun, al iu)
 to aid	helpi	
-Hesperides	Hesperidoj	
-hesitate	heziti	(ntr)
+hesitate	heziti	v. (ntr)
 hesitation	hezito	
 hymn	himno	
 human	homa	
 crowd	homamaso	
-honour	honori	(tr) n-honoro
-honori	honori	(tr) show respect
-am ashamed	hontas	(tr)
+honour	honori	v. (tr) n-honoro
+honori	honori	v. (tr) show respect
+am ashamed	hontas	v. (tr)
 chorus	ĥoro	
 for some reason	ial	
 idea	ideo	
-become	iĝi	(ntr)
+become	iĝi	v. (ntr)
 holly	ileksa	the bush
+imaginative	imagema	
 natives	indiĝenoj	
-teach	instrui	(tr - the thing taught)
+teach	instrui	v. (tr - the thing taught)
 within doors	Intern'dome	
-plotting	intrigi	(ntr)
+plotting	intrigi	v. (ntr)
 plot	intrigo	 cunning activity to make or break a cause
 anything	io ajn	
 go	iri	
+komencitas	is begun	v. (tr)
 anybody	iu ajn	
+some	iuj	eg 'some people' or 'some books'
 century	jarcento	
 yearlong	jarlonga	
 at your service	je via servo	
-Jesus	Jesuo	
-John	Johano	name
 rejoicings	jubiloj	
 yule-log	Jul'ŝtipo	
 calculate	kalkuli	(tr/ntr)
@@ -241,15 +252,16 @@ country	kamparo	as in countryside, not city
 couch	kanapo	
 Candlemas	Kandelfesto	PIV
 Boar's Head	Kapo de Apro	
-seize	kapti	(tr)
+seize	kapti	v. (tr)
 character	karakteron	
 the waits	karol’kantistoj	carol singers
 carol	karolo	ie Christmas song
-hides	kaŝas	(tr)
+hides	kaŝas	v. (tr)
 hiding-place	kaŝejo	
 beaver	kastoro	
-stir	kirli	(tr)
-kiss	kisi	(tr)
+stir	kirli	v. (tr)
+kiss	kisi	v. (tr)
+gossip	klaĉo	gossip, always negative
 classic	klasika	
 classical	klasika	
 classic	klasika	
@@ -263,9 +275,10 @@ known	konataj
 accordingly	konforme	PVI: Such that it's similar to that of another object, regarded as a model
 bewilderment	konfuzo	
 have known	konis	v. (tr)
-agree	konsenti	(ntr)
+realise	konscii	v (tr/ntr) to be aware
+agree	konsenti	v. (ntr)
 consent	konsento	
-counsel	konsili	(tr)
+counsel	konsili	v. (tr)
 council	konsilio	a leading body of people
 heart	koro	
 portly	korpulenta	
@@ -274,7 +287,7 @@ choir	koruso	syn. ĥoro
 Cosimo	Kosimo	personal-name
 lattice	kradita	ie covered by a lattice
 crackle	kraketi	
-grows	kreskas	(ntr)
+grows	kreskas	v. (ntr)
 criminal	krima	like a criminal
 Christmas Morning	Kristnask’mateno	
 Christmas-day	Kristnask’tago	
@@ -283,12 +296,14 @@ Christmas-eve	Kristnask’vespero
 Chrismasse Carolles	Kristnaskaj Karoloj	
 Christmas	Kristnasko	
 etc	ktp	
-share	kunhavigi	(tr)
+share	kunhavigi	v. (tr)
 clasping	kunpremo	
+curious	kurioza	exciting interes
 quaint	kuriozaj	
 although	kvankam	
 oaken	kverkaj	
 quietly	kviete	
+present day	la estanteco	
 labourer	laboristo	
 weary	laca	
 lantern	lanterno	
@@ -296,44 +311,47 @@ left	lasis	v. (tr) e.g. to leave behind
 last	last	after all the others
 laurel	laŭro	
 aloud	laŭte	
-learn	learni	(tr)
-read	legi	(tr)
+learn	learni	v. (tr)
+read	legi	v. (tr)
 lion	leono	
 clever	lerta	
 cleverly	lerte	
 skill	lerteco	
-bind	ligi	(tr)
+bind	ligi	v. (tr)
 connected	ligitaj	
-would bind	ligus	(tr)
+would bind	ligus	v. (tr)
 plays	ludas	(tr/ntr)
 cradled	lulita	
 ill-fortune	malbon'fortuno	
 amiss	malbone	
 evil	malbono	
 contemptuous	malestima	
-undo	malfari	(tr)
-prevent	malhelpi	(tr)
+undo	malfari	v. (tr)
+slight	malgrava	not serious
+prevent	malhelpi	v. (tr)
 old lady	maljunulino	
 brief	mallonga	
 old-fashioned	malmoderna	
 little	malmulte	
-forbid	malpermesi	(tr)
+forbid	malpermesi	v. (tr)
 displeasure	malplezuro	
 diminish	malpliigi	
 poor	malriĉa	
 foolish	malsaĝa	
 fool	malsaĝulo	
+ailment	malsaneto	
+would make  ill	malsanigus	v. (tr)
 uneasiness	maltrankvilo	
+palm	manplato	as in the palm of the hand
 mask	masko	
 dawn	matenkrepusko	
 minstrelsye	menestrelaĵo	music of minstrels
 mind	menso	
-deserve	meriti	(tr)
-put	meti	(tr)
+deserve	meriti	v. (tr)
+put	meti	v. (tr)
 Middle Ages	Mezepoko	
 midland counties	mezlandaj graflandoj	
 honey	mielo	
-Miller	Milero	Family-name
 mysteries	misteroj	
 miserable	mizera	
 mockery	mokataĵo	
@@ -350,35 +368,41 @@ ourselves	ni mem
 blackened	nigrita	
 midnight	noktomezo	
 bride	novedzino	
-offer	oferto	(tr) not used for gifts
+present day	nuneco	
+present day	nuntempo	
+offer	oferto	v. (tr) not used for gifts
 office	oficejo	
-happen	okazi	(ntr)
+happen	okazi	v. (ntr)
 occasions	okazoj	
 Oxford	Oksfordo	
 shadow	ombro	
+gossip	onidiro	rumor, positive or negative
 opinions	opinio	
 ear	orelo	
 earrings	orelringoj	
 decorations	ornamaĵoj	
 decorated	ornamitaj	
 palette	paletro	
-forgive	pardoni	(tr) pardoni ion al iu | pardoni iun pri io 
+palm	palmo	as in the tree
+forgive	pardoni	v. (tr) pardoni ion al iu | pardoni iun pri io 
 apologise	pardonpeti	
 relative	parenco	
+congregation	paroĥanaro	collective parishioners
 speech	parolado	
-speak	paroli	(ntr) | (tr-that which is spoken)
-talk	paroli	(tr)
+speak	paroli	v. (ntr) | (tr-that which is spoken)
+talk	paroli	v. (tr)
 passes	pasas	
 step	paŝo	a step in walking
 landscape	pejzaĝo	
-hangs	pendas	(ntr)
-betray	perfidi	(tr)
+hangs	pendas	v. (ntr)
+remorse	pento	Remorse
+betray	perfidi	v. (tr)
 treachery	perfido	
-allow	permesi	(tr)
+allow	permesi	v. (tr)
 persons	personoj	
 disturb	perturbi	v. (tr)
-implore	petegi	(tr | petegi iun pri io | petegi ion de iu)
-beg	petegi	(tr | petegi iun pri io | petegi ion de iu)
+implore	petegi	v. (tr | petegi iun pri io | petegi ion de iu)
+beg	petegi	v. (tr | petegi iun pri io | petegi ion de iu)
 heavy	peza	
 footstep	pied'paŝo	
 point	pinto	tip of sword or needle
@@ -387,21 +411,22 @@ platter	plado
 floor	planko	
 biggest	plej granda	
 fill	plenigi	
-fulfil	plenumi	(tr)
-have fulfilled	plenumis	(tr)
+fulfil	plenumi	v. (tr)
+have fulfilled	plenumis	v. (tr)
 pleasure	plezuro	
 higher	pli alta	
-increase	pliigi	(tr) make something more
-dive	plonĝi	(ntr)
+increase	pliigi	v. (tr) make something more
+dive	plonĝi	v. (ntr)
 further	plua	
 further	plue	
 gloss	poluro	
 pomp	pompo	
 dagger	ponardo	
 people 	popolo	ie “the English people”
+to be cured	por esti resanigita	lit. for the purpose of being restored to health
 gate	pordego	
 gate	pordego	
-carries	portas	(tr)
+carries	portas	v. (tr)
 afterglow	post'brilo	
 demand	postuli	
 pose	pozo	
@@ -410,17 +435,21 @@ practical	praktika	ie not theoretical
 forefathers	prapatroj	if both sexes: prauloj
 ancestor	praulo	
 particularly	precipe	
-prefer	preferi	(tr)
+prefer	preferi	v. (tr)
 church	preĝejo	
 church	preĝejo	
-took	prenis	(tr)
+prize	premi	
+took	prenis	v. (tr)
 printed	presita	
 passed me by	preterpasis min	
 prince	princo	
+prophetic	profeta	
+prophesies	profeti	to make prophesy
 deep	profunde	ie deeply
 delay	prokrasto	
 near	proksima	
 plum-pudding	prun’pudingo	
+public	publika	
 point	punkto	exact location
 tells	rakontas	
 hurries	rapidas	
@@ -430,17 +459,25 @@ prevails	regas
 regular	regula	consistent
 meet	renkontas	
 repute	reputacio	
-return	reveni	(ntr)
-abjure	rezigni	(tr)  PIV: definitely leave as unworkable or unattainable
-gaze	rigardi	(tr)
-watching	rigardi	(tr)
-reap	rikolti	(tr)
+have recovered	resaniĝis	v. (ntr)
+resurrection	resurekto	
+return	reveni	v. (ntr)
+return	reveni	v. (ntr)
+abjure	rezigni	v. (tr)  PIV: definitely leave as unworkable or unattainable
+receives	ricevi	v. (tr)
+gaze	rigardi	v. (tr)
+watching	rigardi	v. (tr)
+look	rigardi	v. (tr) to look at with the eyes
+reap	rikolti	v. (tr)
+remorse	rimorso	
 stream	rivereto	
 rosemary plant	rosmaren’planto	
 rosemary	rosmareno	
 roast	rostita	ie one that has been roasted
+rounds	rundojn	as in, making the rounds
+pretend	ŝajnigi	v. (ntr)
 greet	saluti	
-Samos	Samoso	PIV, Greek island
+sanatorium	sanatorio	residential rehab, ≠hospitalo
 holy	sankta	
 saturnalia	saturnalio	
 knows	scias	v. (tr)
@@ -448,10 +485,10 @@ follow	sekvi	v. (tr)
 abandon	senbrideco	lit. unbridled-ness
 still	senmove	not moving
 impatient	senpacienca	
-feel	senti	(tr - the feeeling felt)
+feel	senti	v. (tr - the feeeling felt)
 seriously	serioze	
 season	sezono	
-means	signifis	(tr-has the meaning of)
+means	signifis	v. (tr-has the meaning of)
 silken	silka	
 sketch	skizo	
 lonely	soleca	
@@ -464,7 +501,7 @@ lot	sorto	lot in life, as in fate
 fate	sorto	
 wild	sovaĝa	
 pageantry	spektaklo	
-to trace	spuri	(tr) to follow traces left by an action
+to trace	spuri	v. (tr) to follow traces left by an action
 stable	stalo	horse house (or other animals)
 manger	staltrogo	
 state	stato	
@@ -486,44 +523,35 @@ tempt	tenti	v. (tr)
 like that	tiel	
 afraid	tima	
 frightened	tima	
-fears	timas	(tr)
+fears	timas	v. (tr)
 entitled	titolita	as in “given the title of”
-Thos.	Tomaso	Personal-name
 grave	tombo	
 torches	torĉojn	
-torture	torturi	(tr)
+torture	torturi	v. (tr)
 traditions	tradicioj	
 is treated	traktita	
 third	tria	after the second
 potation	trinkaĵo	
 exaggerate	troigi	v. (tr)
 excess	troo	
-found	trovis	(tr)
+found	trovis	v. (tr)
 instantly	tuj	
-torment	turmenti	(tr)
-touch	tuŝi	(tr)
+torment	turmenti	v. (tr)
+touch	tuŝi	v. (tr)
+all	tuta	
 squire	varleto	
 alas	ve	
 Venice	Venecio	PIV
-come	veni	(ntr)
+come	veni	v. (ntr)
 really	vere	vere: in truth | reale: in reality
 dusk	vesperkrepusko	
 weather	vetero	
 village	vilaĝo	
-Wynkin de Worde	Vinko Devordo	
 mistletoe	visko	
 alive	viva	
 voice	voĉo	
 lane	vojeto	small country road
-want	voli	(tr)
+want	voli	v. (tr)
 volume	volumo	ie book in a collection
-injure	vundi	(tr)
-curious	kurioza	exciting interes
-look	rigardi	v. (tr) to look at with the eyes
-look	aspekti	v. (ntr) to appear as
-make	fari	v. (tr)
-would make  ill	malsanigus	v. (tr)
-palm	palmo	as in the tree
-palm	manplato	as in the palm of the hand
-tell	diri	v. (tr - the thing told)
-it all	ĉio	i.e. everything
+injure	vundi	v. (tr)
+thank	danki	v. (tr)
