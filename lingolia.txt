@@ -1,143 +1,143 @@
 =====ADVERBS OF PLACE=====			
-everywhere	ĉie 	adv. place	
-here	ĉi tie 	adv. place	
-right	dekstre 	adv. place	
-inside	interne 	adv. place	
-inside	ene	adv. place	
-somewhere	ie 	adv. place	
-in front	antaŭe 	adv. place	
-behind	malantaŭe 	adv. place	
-left	maldekstre 	adv. place	
-under	malsupre 	adv. place	
-underneath	malsupre 	adv. place	
-nowhere	nenie 	adv. place	
-upstairs	supre 	adv. place	
-there	tie 	adv. place	
+everywhere	ĉie 	adv.
+here	ĉi tie 	adv.
+right	dekstre 	adv.
+inside	interne 	adv.
+inside	ene	adv.
+somewhere	ie 	adv.
+in front	antaŭe 	adv.
+behind	malantaŭe 	adv.
+left	maldekstre 	adv.
+under	malsupre 	adv.
+underneath	malsupre 	adv.
+nowhere	nenie 	adv.
+upstairs	supre 	adv.
+there	tie 	adv.
 =====ADVERBS OF TIME=====			
-soon	baldaŭ 	adv. time	
-always	ĉiam 	adv. time	
-daily	ĉiutage 	adv. time	
-finally	fine 	adv. time	
-yesterday	hieraŭ 	adv. time	
-today	hodiaŭ 	adv. time	
-sometime	iam 	adv. time	
-already	jam 	adv. time	
-tomorrow	morgaŭ 	adv. time	
-never	neniam 	adv. time	
-often	ofte 	adv. time	
-then	tiam 	adv. time	
-immediately	tuj 	adv. time	
-on Fridays	vendrede 	adv. time	
+soon	baldaŭ 	adv.
+always	ĉiam 	adv.
+daily	ĉiutage 	adv.
+finally	fine 	adv.
+yesterday	hieraŭ 	adv.
+today	hodiaŭ 	adv.
+sometime	iam 	adv.
+already	jam 	adv.
+tomorrow	morgaŭ 	adv.
+never	neniam 	adv.
+often	ofte 	adv.
+then	tiam 	adv. at that time "not earlier than then"
+immediately	tuj 	adv.
+on Fridays	vendrede 	adv.
 =====ADVERBS OF MANNER=====			
-otherwise	alie 	adv. manner	
-also	ankaŭ 	adv. manner	
-likewise	ankaŭ 	adv. manner	
-hardly	apenaŭ 	adv. manner	
-unfortunately	bedaŭrinde 	adv. manner	
-probably	eventuale 	adv. manner	
-possibly	eble	adv. manner	
-really	efektive	adv. manner	in fact, real, in reality, not imagined
-really	vere 	adv. manner	true, not false
-extremely	ekstreme 	adv. manner	
-hopefully	espereble 	adv. manner	
-as follows	jene 	adv. manner	
-almost	preskaŭ 	adv. manner	
-enough	sufiĉe 	adv. manner	
-very	tre 	adv. manner	
-completely	tute 	adv. manner	
-gladly	volonte 	adv. manner	
+otherwise	alie 	adv.
+also	ankaŭ 	adv.
+likewise	ankaŭ 	adv.
+hardly	apenaŭ 	adv.
+unfortunately	bedaŭrinde 	adv.
+probably	eventuale 	adv.
+possibly	eble	adv.
+really	efektive	adv.in fact, real, in reality, not imagined
+really	vere 	adv.true, not false
+extremely	ekstreme 	adv.
+hopefully	espereble 	adv.
+as follows	jene 	adv.
+almost	preskaŭ 	adv.
+enough	sufiĉe 	adv.
+very	tre 	adv.
+completely	tute 	adv.
+gladly	volonte 	adv.
 =====ADVERBS OF REASON=====			
-then	do 	adv. reason	
-so	do 	adv. reason	
-subsequently	sekve 	adv. reason	
-thus	sekve 	adv. reason	
-consequently	sekve 	adv. reason	
-consistently	konsekvence 	adv. reason	
-consequently	konsekvence 	adv. reason	
-therefore	konsekvence 	adv. reason	
-nevertheless	tamen 	adv. reason	
-however	tamen 	adv. reason	
-yet	tamen 	adv. reason	
-still	tamen 	adv. reason	
-therefore	tial 	adv. reason	
-for that reason	tial 	adv. reason	
-that’s why	tial 	adv. reason	
-in that way	tiel 	adv. reason	
-in that manner	tiel 	adv. reason	
-in such a fashion	tiel 	adv. reason	
+then	do 	adv. logical consequence "you see then that..." or "so why don't you?"
+so	do 	adv. logical consequence "you see then that..." or "so why don't you?"
+subsequently	sekve 	adv.
+thus	sekve 	adv.
+consequently	sekve 	adv.
+consistently	konsekvence 	adv.
+consequently	konsekvence 	adv.
+therefore	konsekvence 	adv.
+nevertheless	tamen 	adv.
+however	tamen 	adv.
+yet	tamen 	adv.
+still	tamen 	adv.
+therefore	tial 	adv.
+for that reason	tial 	adv.
+that’s why	tial 	adv.
+in that way	tiel 	adv.
+in that manner	tiel 	adv.
+in such a fashion	tiel 	adv.
 therefore	pro kio 	adv. relative	
 that’s why	pro kio 	adv. relative	
 where	kie 	adv. relative	
 when	kiam 	adv. relative	
 '=====PREPOSITIONS OF TIME=====			
-before	antaŭ	prep. time | at or during a earlier time	
-ago	antaŭ	prep. time | at or during a earlier time	
-after	post	prep. time | after something	
-for	de	prep. time | for a period of time	
-for	dum	prep. time | spanning an entire duration of time	
-during	en	prep. time | at some time within a specific time frame	
-in	en	prep. time | at some time within a specific time frame	
-since	ekde	prep. time | from a specific point in time until now	
-until	ĝis	prep. time | up to/by a specific time	
-by	ĝis	prep. time | up to/by a specific time	
-at	je	prep. time | a particular time	
+before	antaŭ	prep. at or during a earlier time	
+ago	antaŭ	prep. at or during a earlier time	
+after	post	prep. after something	
+for	de	prep. for a period of time	
+for	dum	prep. spanning an entire duration of time	
+during	en	prep. at some time within a specific time frame	
+in	en	prep. at some time within a specific time frame	
+since	ekde	prep. from a specific point in time until now	
+until	ĝis	prep. up to/by a specific time	
+by	ĝis	prep. up to/by a specific time	
+at	je	prep. a particular time	
 			
 '=====PREPOSITIONS OF PLACE=====			
-to	al	prep. place | to a place, to a person	
-in front of	antaŭ	prep. place | in front/before	
-beside	apud	prep. place | next to (without touching)	
-next to	apud	prep. place | next to (without touching)	
-at	ĉe	prep. place | exact position (next to, in front of)	
-by	ĉe	prep. place | exact position (next to, in front of)	
-around	ĉirkaŭ	prep. place | around something	
-by	de	prep. place | from a place (from where) or by somebody	
-from	de	prep. place | from a place (from where) or by somebody	
-outside of	ekster	prep. place | beyond a closed area	
-out of	ekster	prep. place | beyond a closed area	
-from	el	prep. place | from where	
-in	en	prep. place | in a place, book, car, picture, world	
-until	ĝis	prep. place | destination	
-up to	ĝis	prep. place | destination	
-as far as	ĝis	prep. place | destination	
-between	inter	prep. place | there is something on either side	
-opposite	kontraŭ	prep. place | facing, on the other side	
-along	laŭ	prep. place | following lengthwise	
-behind	malantaŭ	prep. place | at the far side of something (hidden)	
-past	preter	prep. place | pass something/someone (go/drive/fly …)	
-below	sub	prep. place | under something	
-beneath	sub	prep. place | under something	
-under	sub	prep. place | under something	
-above	super	prep. place | above something, but not directly on it, over something and away	
-over	super	prep. place | above something, but not directly on it, over something and away	
-on	sur	prep. place | fixed to something, above something (in contact), on one side or the other	
-through	tra	prep. place | limited from above, below and on the sides, from one side to the other	
-across	trans	prep. place | from one side to the other, on the opposite side of
-on the other side of	trans	prep. place | from one side to the other, on the opposite side of
-over	trans	prep. place | from one side to the other, on the opposite side of
+to	al	prep. to a place, to a person	
+in front of	antaŭ	prep. in front/before
+beside	apud	prep. next to (without touching)
+next to	apud	prep. next to (without touching)
+at	ĉe	prep. exact position (next to, in front of)
+by	ĉe	prep. exact position (next to, in front of)
+around	ĉirkaŭ	prep. around something	
+by	de	prep. from a place or by somebody	
+from	de	prep. from a place or by somebody	
+outside of	ekster	prep. beyond a closed area	
+out of	ekster	prep. beyond a closed area	
+from	el	prep. from where	
+in	en	prep. in a place, book, car, picture, world	
+until	ĝis	prep. destination	
+up to	ĝis	prep. destination	
+as far as	ĝis	prep. destination	
+between	inter	prep. there is something on either side	
+opposite	kontraŭ	prep. facing, on the other side	
+along	laŭ	prep. following lengthwise	
+behind	malantaŭ	prep. at the far side of something (hidden)	
+past	preter	prep. pass something/someone (go/drive/fly …)	
+below	sub	prep. under something	
+beneath	sub	prep. under something	
+under	sub	prep. under something	
+above	super	prep. above or over something, but not directly on it
+over	super	prep. above or over something, but not directly on it
+on	sur	prep. fixed to something, above something (in contact), on one side or the other	
+through	tra	prep. limited from above, below and on the sides, from one side to the other	
+across	trans	prep. from one side to the other, on the opposite side of
+on the other side of	trans	prep. from one side to the other, on the opposite side of
+over	trans	prep. from one side to the other, on the opposite side of
 '=====OTHER PREPOSITIONS=====			
-instead of	anstataŭ	prep. misc | replace something with something else	
-of	da	prep. misc | how much of something	
-by	de	prep. misc | expresses possession	
-from	de	prep. misc | expresses possession	
-between	inter	prep. misc | interaction between two people	
-against	kontraŭ	prep. misc | opponent of someone/something	
-apart from	krom	prep. misc | not considering	
-except for	krom	prep. misc | not considering	
-with	kun	prep. misc | together with someone/thing	
-according to	laŭ	prep. misc | in agreement with, as stated	
-despite	malgraŭ	prep. misc | nevertheless, notwithstanding	
-in spite of	malgraŭ	prep. misc | nevertheless, notwithstanding	
-with	per	prep. misc | with the use of something	
-by means of	per	prep. misc | with the use of something	
-through	per	prep. misc | with the use of something	
-each	po	prep. misc | for a divided amount, followed by the nominative	
-for	por	prep. misc | outcome of an action	
-about	pri	prep. misc | talk about something	
-concerning	pri	prep. misc | talk about something	
-because of	pro	prep. misc | because of someone/thing	
-without	sen	prep. misc | without someone/thing	
+instead of	anstataŭ	prep. replace something with something else	
+of	da	prep. how much of something	
+by	de	prep. expresses possession	
+from	de	prep. expresses possession	
+between	inter	prep. interaction between two people	
+against	kontraŭ	prep. opponent of someone/thing	
+apart from	krom	prep. not considering	
+except for	krom	prep. not considering	
+with	kun	prep. together with someone/thing	
+according to	laŭ	prep. in agreement with, as stated	
+despite	malgraŭ	prep. nevertheless, notwithstanding	
+in spite of	malgraŭ	prep. nevertheless, notwithstanding	
+with	per	prep. with the use of something	
+by means of	per	prep. with the use of something	
+through	per	prep. with the use of something	
+each	po	prep. for a divided amount, followed by the nominative	
+for	por	prep. outcome of an action	
+about	pri	prep. talk about something	
+concerning	pri	prep. talk about something	
+because of	pro	prep. because of someone/thing	
+without	sen	prep. without someone/thing	
 '=====DATES=====			
-Monday	undo		
+Monday	lundo		
 Tuesday	mardo		
 Wednesday	merkredo		
 Thursday	ĵaŭdo		

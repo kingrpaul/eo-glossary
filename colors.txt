@@ -1,0 +1,17 @@
+black	nigra													
+blue	blua													
+brown	bruna													
+ebony	ebona													
+fair	blonda													
+green	verda													
+grey	griza													
+orange	oranĝa													
+purple	purpura													
+red	ruĝa													
+rose	roza													
+scarlet	skarlata													
+silver	arĝenta													
+turquoise	turkisa													
+violet	viola													
+white	blanka													
+yellow	flava													

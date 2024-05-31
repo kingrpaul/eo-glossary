@@ -1,0 +1,15 @@
+Alexandria	Aleksandrio	PIV
+England	Anglio	
+Apollo	Apolono	PIV
+Bodleian	de Bodlejo	
+Egypt	Egiptujo	
+Florence	Florenco	Italian city
+Greece	Grekio	
+Hesperides	Hesperidoj	
+Jesus	Jesuo	
+John	Johano	name
+Miller	Milero	Family-name
+Samos	Samoso	PIV, Greek island
+Thos.	Tomaso	Personal-name
+Wynkin de Worde	Vinko Devordo	
+Whittier	Vitiero	
