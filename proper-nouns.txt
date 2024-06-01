@@ -1,10 +1,12 @@
+'=== PLACES	'===	
 Alexandria	Aleksandrio	PIV
 England	Anglio	
-Apollo	Apolono	PIV
-Bodleian	de Bodlejo	
 Egypt	Egiptujo	
 Florence	Florenco	Italian city
 Greece	Grekio	
+'=== OTHER	'===	
+Apollo	Apolono	PIV
+Bodleian	de Bodlejo	
 Hesperides	Hesperidoj	
 Jesus	Jesuo	
 John	Johano	name
@@ -13,3 +15,4 @@ Samos	Samoso	PIV, Greek island
 Thos.	Tomaso	Personal-name
 Wynkin de Worde	Vinko Devordo	
 Whittier	Vitiero	
+Gaudeamus Omnes	Ni Ĉiuj Ĝoju	Chant, Latin: Let us all Rejoice

@@ -9,6 +9,7 @@ alarmed	alarmite
 add	aldoni	v. (tr)
 bring	alporti	v. (tr)
 altar	altaro	
+referring to	aludante	
 hint	aludi	v. (tr)
 lover	amanto	
 flock	amasiĝi	PIV: to pile up or become a crowd
@@ -94,6 +95,7 @@ circumstances	cirkonstancoj
 all these years	ĉiuj ĉi tiuj jaroj	
 dance	danci	
 dangerous	danĝera	
+thank	danki	v. (tr)
 continue	daŭri	v. (ntr)
 henceforth	de nun	
 from time immemorial	de post tempo nememorebla	PIV (Z)
@@ -109,6 +111,7 @@ destiny	destino
 destroy	detrui	v. (tr)
 with dignity	digne	
 dignity	digno	
+stout-legged	dike kruraj	
 tell	diri	v. (tr - the thing told)
 various	diversa	
 manor house	domego	
@@ -231,6 +234,7 @@ holly	ileksa	the bush
 imaginative	imagema	
 natives	indiĝenoj	
 teach	instrui	v. (tr - the thing taught)
+mingle	intermiksiĝi	
 within doors	Intern'dome	
 plotting	intrigi	v. (ntr)
 plot	intrigo	 cunning activity to make or break a cause
@@ -278,6 +282,8 @@ have known	konis	v. (tr)
 realise	konscii	v (tr/ntr) to be aware
 agree	konsenti	v. (ntr)
 consent	konsento	
+kept	konservita	
+preserved	konservita	
 counsel	konsili	v. (tr)
 council	konsilio	a leading body of people
 heart	koro	
@@ -332,6 +338,7 @@ prevent	malhelpi	v. (tr)
 old lady	maljunulino	
 brief	mallonga	
 old-fashioned	malmoderna	
+old-time	malmoderna	
 little	malmulte	
 forbid	malpermesi	v. (tr)
 displeasure	malplezuro	
@@ -360,12 +367,14 @@ monk	monaĥo
 to a great extent	multe	
 nation	nacio	
 nature	naturo	
+was not fixed	ne estis fiksita	
 takes no account of me	ne konsideras min	
 indigestible	nedigestebla	
 snow on the ground	neĝo sur la tero	
 no one	neniu	
 ourselves	ni mem	
 blackened	nigrita	
+benighted	nokte kaptita	
 midnight	noktomezo	
 bride	novedzino	
 present day	nuneco	
@@ -480,6 +489,7 @@ greet	saluti
 sanatorium	sanatorio	residential rehab, ≠hospitalo
 holy	sankta	
 saturnalia	saturnalio	
+foaming	ŝaŭma	ie frothy
 knows	scias	v. (tr)
 follow	sekvi	v. (tr)
 abandon	senbrideco	lit. unbridled-ness
@@ -515,16 +525,18 @@ signature	subskribo
 sunset	sunsubiro	
 above the door	super'porde	
 superstition	superstiĉo	
+surplice	surplisoj	liturgical garment
 table	tablo	
 tankards	tasegoj	
 fit	taŭga	suitable
 suitable	taŭga	
+rafters	tegmenta trabaro	
 tempt	tenti	v. (tr)
 like that	tiel	
 afraid	tima	
 frightened	tima	
 fears	timas	v. (tr)
-entitled	titolita	as in “given the title of”
+entitled	titolita	“given the title of”
 grave	tombo	
 torches	torĉojn	
 torture	torturi	v. (tr)
@@ -554,4 +566,3 @@ lane	vojeto	small country road
 want	voli	v. (tr)
 volume	volumo	ie book in a collection
 injure	vundi	v. (tr)
-thank	danki	v. (tr)
