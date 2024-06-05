@@ -1,4 +1,4 @@
-=====ADVERBS OF PLACE=====			
+=====ADVERBS OF PLACE=====		
 everywhere	ĉie 	adv.
 here	ĉi tie 	adv.
 right	dekstre 	adv.
@@ -13,7 +13,7 @@ underneath	malsupre 	adv.
 nowhere	nenie 	adv.
 upstairs	supre 	adv.
 there	tie 	adv.
-=====ADVERBS OF TIME=====			
+=====ADVERBS OF TIME=====		
 soon	baldaŭ 	adv.
 always	ĉiam 	adv.
 daily	ĉiutage 	adv.
@@ -25,10 +25,10 @@ already	jam 	adv.
 tomorrow	morgaŭ 	adv.
 never	neniam 	adv.
 often	ofte 	adv.
-then	tiam 	adv. at that time "not earlier than then"
+then	tiam 	"adv. at that time ""not earlier than then"""
 immediately	tuj 	adv.
 on Fridays	vendrede 	adv.
-=====ADVERBS OF MANNER=====			
+=====ADVERBS OF MANNER=====		
 otherwise	alie 	adv.
 also	ankaŭ 	adv.
 likewise	ankaŭ 	adv.
@@ -46,9 +46,9 @@ enough	sufiĉe 	adv.
 very	tre 	adv.
 completely	tute 	adv.
 gladly	volonte 	adv.
-=====ADVERBS OF REASON=====			
-then	do 	adv. logical consequence "you see then that..." or "so why don't you?"
-so	do 	adv. logical consequence "you see then that..." or "so why don't you?"
+=====ADVERBS OF REASON=====		
+then	do 	"adv. logical consequence ""you see then that..."" or ""so why don't you?"""
+so	do 	"adv. logical consequence ""you see then that..."" or ""so why don't you?"""
 subsequently	sekve 	adv.
 thus	sekve 	adv.
 consequently	sekve 	adv.
@@ -65,27 +65,7 @@ that’s why	tial 	adv.
 in that way	tiel 	adv.
 in that manner	tiel 	adv.
 in such a fashion	tiel 	adv.
-therefore	pro kio 	adv. relative	
-that’s why	pro kio 	adv. relative	
-where	kie 	adv. relative	
-when	kiam 	adv. relative	
-'=====DATES=====			
-Monday	lundo		
-Tuesday	mardo		
-Wednesday	merkredo		
-Thursday	ĵaŭdo		
-Friday	vendredo		
-Saturday	sabato		
-Sunday	dimanĉo		
-January	januaro		
-February	februaro		
-March	marto		
-April	aprilo		
-May	majo		
-June	junio		
-July	julio		
-August	aŭgusto		
-September	septembro		
-October	oktobro		
-November	novembro		
-December	decembro		
+therefore	pro kio 	adv.
+that’s why	pro kio 	adv.
+where	kie 	adv. relative
+when	kiam 	adv. relative

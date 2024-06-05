@@ -1,10 +1,13 @@
-'=== PLACES	'===	
+'=== PLACES ===		
 Alexandria	Aleksandrio	PIV
 England	Anglio	
 Egypt	Egiptujo	
 Florence	Florenco	Italian city
 Greece	Grekio	
-'=== OTHER	'===	
+Meran	Merano	
+John o’ Groats	Johano de Kvar'pencoj	proper noun, place
+Land’s End	Terfino	proper noun, place
+'=== OTHER ===		
 Apollo	Apolono	PIV
 Bodleian	de Bodlejo	
 Hesperides	Hesperidoj	
