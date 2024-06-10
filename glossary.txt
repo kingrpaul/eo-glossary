@@ -3,6 +3,7 @@ abjure	rezigni {tr}	definitely leave as unworkable or unattainable
 about	pri	talk about something
 above	super	above or over something, but not directly on it
 above the door	super'porde	
+were absent	forestis {ntr}	
 absurd	absurda	
 accord	akordo	
 according to	laŭ	in agreement with, as stated
@@ -17,14 +18,17 @@ afraid	tima
 afreet	efrito	a powerful evil jinni, demon, or monstrous giant in Arabic mythology
 after	post	after something
 afterglow	post'brilo	
+afternoon	posttagmezo	
 against	kontraŭ	opponent of someone/thing
 age	epoko	era or epoch
 agent	agento	
 agitation	agitado	
 ago	antaŭ	at or during a earlier time
 agree	konsenti {ntr}	
+to aid	helpi	
 ailing	malsana	not healthy
 ailment	malsaneto	
+airbrush	pistolfarbi {tr}	to paint with a sprayer
 alarmed	alarmite	
 alas	ve	
 Alexandria	Aleksandrio	
@@ -42,11 +46,14 @@ although	kvankam
 always	ĉiam 	
 am ashamed	hontas {tr}	
 am forgiven	estas pardonita	
+ambition	ambicio	
+ambitious	ambicia	
 ambitious	ambicia	
 amiss	malbone	
 ample	ampleksa	
 amusement	amuzaĵo	
 amusing	amuza	
+analytical	analiza	
 ancestor	praulo	
 ancient	antikva	
 angel	anĝelo	
@@ -72,6 +79,7 @@ ass	azeno	donkey
 associated with	asociita kun	
 at	ĉe	exact position (next to, in front of)
 at	je	a particular time
+at noon	tagmeze	
 at your service	je via servo	
 atmosphere	atmosfero	
 attack	atako	
@@ -94,8 +102,8 @@ beef	bovaĵo
 before	antaŭ	at or during a earlier time
 beg	petegi {tr}	beg someone or something
 beginning	komenco	
-behind	malantaŭ	at the far side of something (hidden)
 behind	malantaŭe 	
+behind	malantaŭ	at the far side of something (hidden)
 being	estante	
 believe	kredi {tr}	
 bell	sonorilo	
@@ -115,6 +123,7 @@ big-boned	grand’osta
 biggest	plej granda	
 bigwig	grandulo	
 bind	ligi {tr}	
+would bind	ligus {tr}	
 bitter	amara	literal or figurative
 bitterly	amare	
 black	nigra	
@@ -122,11 +131,13 @@ blackened	nigrita
 blinded you	blindigis vin	
 blinds	blindigas {tr}	
 bloom	floro	
+to bloom	flori	
 blue	blua	
 boar	apro	
 Boar's Head	Kapo de Apro	
 board	festen’tablo	def. long, narrow table, as used in a medieval dining hall
 Bodleian	de Bodlejo	
+to be born	naskiĝi {ntr}	
 bough	branĉo	
 bride	novedzino	
 brief	mallonga	
@@ -212,6 +223,7 @@ creeps	ŝtel'iri {ntr}
 creeps up	al'ŝtel'iras {ntr}	
 criminal	krima	like a criminal
 crowd	homamaso	
+to be cured	por esti resanigita	lit. for the purpose of being restored to health
 curious	kurioza	exciting interest
 dagger	ponardo	
 daily	ĉiutage 	
@@ -266,6 +278,7 @@ evil	malbono
 exaggerate	troigi {tr}	
 except for	krom	not considering
 excess	troo	
+to exist	ekzisti {ntr}	
 existence	ekzisto	
 expression	esprimo	
 extremely	ekstreme 	
@@ -287,6 +300,7 @@ fill	plenigi
 finally	fine 	
 fire	fajro	
 fit	taŭga	suitable
+was not fixed	ne estis fiksita	
 flame	flamo	
 fled	fuĝis {ntr}	flee from danger
 flies	flugas {ntr}	
@@ -296,6 +310,7 @@ Florence	Florenco	Italian city
 flower	floro	
 flower	floro	
 flower-seller	flor’vendisto	
+to flower	flori	
 flown	flugis {ntr}	
 flows	fluas {ntr}	
 foaming	ŝaŭma	frothy
@@ -363,9 +378,12 @@ grey	griza
 greybeard	grizbarbo	
 grotesque	groteska	
 grove	arbareto	
+grow	kreski {ntr}	to grow, increase or become bigger
+grow	kreskigi {tr}	make something grow
 grows	kreskas {ntr}	
 guarantee	garantio	
 guaranteeing	garantiante	
+guess	diveni {tr}	
 had been filled	estis plenigitaj	
 handsome	bela	
 hangs	pendas {ntr}	
@@ -396,15 +414,17 @@ hides	kaŝas {tr}
 hiding-place	kaŝejo	
 High Priest	Ĉefpastro	
 higher	pli alta	
+hill	moneto	
 hint	aludi {tr}	
 hither	ĉi tien	
+hold	teni {tr}	
 holiday	ferio	
 holly	ileksa	bush
 holy	sankta	
 home	hejmo	hejme-at home, hejmen-toward home
 honey	mielo	
-honour	honori {tr}	show respect
 honour	honoro	
+honour	honori {tr}	show respect
 hope	esperi {tr}	
 hopefully	espereble 	
 hospitable	gastama	
@@ -420,6 +440,7 @@ ignorant	malklera	uneducated
 ignorant	senscia	unknowing
 ignore	malatenti {tr}	
 ill-fortune	malbon'fortuno	
+would make  ill	malsanigus {tr}	
 imaginative	imagema	
 immediately	tuj 	
 impatient	senpacienca	
@@ -435,6 +456,7 @@ in spite of	malgraŭ	nevertheless, notwithstanding
 in such a fashion	tiel 	
 in that manner	tiel 	
 in that way	tiel 	
+in the afternoon	posttagmeze	
 inattentive	malatenta	
 increase	pliigi {tr}	make something more
 indigestible	nedigestebla	
@@ -444,6 +466,7 @@ inside	ene
 inside	interne 	
 instantly	tuj	
 instead of	anstataŭ	replace something with something else
+invent	elpensi {tr}	
 Is described	estas priskribita	
 is everywhere rife	abundas	
 is given up	fordonita	
@@ -474,17 +497,18 @@ lattice	kradita	covered by a lattice
 laurel	laŭro	
 lay	kuŝigi {tr}	lay something down, make it lie
 learn	learni {tr}	
+left	maldekstre 	
 left	foriris {ntr}	
 left	lasis {tr}	to leave behind
-left	maldekstre 	
 library	biblioteko	
+lie	mensogo	an untruth
 lie	kuŝi {ntr}	to be resting in a horizontal position
 lie	kuŝi {ntr}	to be having horizontal sexual intercourse
 lie	kuŝi {ntr}	to occupy a space, "lies to the East"
 lie	kuŝiĝi {ntr}	to lie oneself down, become and become recumbent
-lie	mensogo	an untruth
-lies	kuŝas {ntr}	
 lies	mensogoj	pl. untruths
+lies	kuŝas {ntr}	
+to light	ekbruligi	
 like that	tiel	
 likewise	ankaŭ 	
 lion	leono	
@@ -505,6 +529,7 @@ manor	domego
 manor house	domego	
 mansion	domego	
 March	marto	
+Marco	Marko	person's name
 marriage	geedziĝo	
 mask	masko	
 masterpiece	ĉefverko	
@@ -512,6 +537,7 @@ matters	gravas
 May	majo	
 means	signifis {tr}	has the meaning of
 meet	renkontas	
+memory	memoro	
 Memphis	Memfiso	city in Tennessee
 Memphis	Menefro	city in ancient Egypt
 mental	psika	psychological
@@ -528,10 +554,13 @@ mirth	gajeco
 miserable	mizera	
 mistletoe	visko	
 mockery	mokataĵo	
+mockingly	moke	
 model	modelo	
 Monday	lundo	
 monk	monaĥo	
+mount	monto	part of the name of a mountain
 mouth	buŝo	
+murmurs	murmuri {tr}	
 mysteries	misteroj	
 mysterious	mistera	
 nation	nacio	
@@ -544,11 +573,15 @@ never	neniam
 nevertheless	tamen 	
 next to	apud	next to (without touching)
 no one	neniu	
+noon	tagmezo	
 note	noti {tr}	make note of, written or mentally
 notices	rimarkas {tr}	
 November	novembro	
 nowhere	nenie 	
 oaken	kverkaj	
+obedient	obeema	
+obey	ebei {tr}	
+obeys	obeas {tr}	
 object	objekto	
 observed	celebrita	ritual celebration
 obvious	evidenta	
@@ -561,6 +594,7 @@ of some sort	iaspeca
 offer	oferto {tr}	not used for gifts
 office	oficejo	
 often	ofte 	
+oil painting	oleopentraĵo	
 old lady	maljunulino	
 old-fashioned	malmoderna	
 old-time	malmoderna	
@@ -581,6 +615,18 @@ over	trans	from one side to the other, on the opposite side of
 overlook	preteratenti {tr}	
 Oxford	Oksfordo	
 pageantry	spektaklo	
+paint	farbo	liquid paint medium
+paint	farbi {tr}	to apply paint, non-artistically
+paint	pentri {tr}	to paint as an atrist
+paint	pripentri	to decorate with paint
+to paint	pentri {tr}	
+painter	farbisto	non-atristic painter
+painter	pentristo	an artist who paints
+painterly	pentra	
+painting	pentrado	the activity or manner of artistic painting
+painting	pentrarto	a physical artistic painting
+painting	pentrarto	the art itself of painting
+paints	pentras {tr}	
 palette	paletro	
 palm	manplato	as in the palm of the hand
 palm	palmo	the tree
@@ -663,19 +709,28 @@ receives	ricevi {tr}
 recumbent	kuŝa	
 red	ruĝa	
 referring to	aludante	
+reflect	pripensi {tr}	give thought about
+reflection	pripensado	the act of reflection on an issue
+reflection	reflekto	optical as a mirror
+reflective	pripensa	
+refusal	rifuzo	
+refuse	rifuzi {tr}	
 regular	regula	consistent
 regulation	regulo	
 rejoicings	jubiloj	
 relative	parenco	
+remember	memori {tr}	
 remind	memorigi {tr}	remind of something in the future
 remind	rememorigi {tr}	remind of something in the past
 remorse	bedaŭro	
 remorse	pento	Remorse
 remorse	rimorso	
 renounce	rezigni {tr}	
+repaint	repentri {tr}	to repaint in an atristic way
 representation	prezento	an image of
 represented	montra	portrayed in a drawing note: reprezenti is act as representative
 repute	reputacio	
+was held in high repute	estis estimata	
 rest	resto	remainder
 rest	ripozi {ntr}	
 result	rezulto	
@@ -686,6 +741,8 @@ rich	riĉa
 richness	riĉeco	
 right	dekstre 	
 ring out	elsonori {tr}	
+risk	risko	possibility of failure
+risk	riski {tr}	to take a risk
 roast	rostita	one that has been roasted
 robe	robo	
 rose	roza	
@@ -700,6 +757,7 @@ Saturday	sabato
 saturnalia	saturnalio	
 say	diri {tr}	
 scarlet	skarlata	
+seascape	marpentraĵo	
 season	sezono	
 second	dua	
 seize	kapti {tr}	
@@ -732,6 +790,7 @@ somewhere	ie
 soon	baldaŭ 	
 speak	paroli {ntr}	
 speech	parolado	
+spraypaint	pistolfarbi {tr}	to paint with a sprayer
 squire	varleto	
 stable	stalo	horse house (or other animals)
 star	stelo	in the sky
@@ -752,6 +811,7 @@ Sunday	dimanĉo
 sunset	sunsubiro	
 superstition	superstiĉo	
 surplice	surpliso	liturgical garment
+surrounding	ĉirkaŭa	
 sword	glavo	
 table	tablo	
 takes no account of me	ne konsideras min	
@@ -780,23 +840,19 @@ therefore	pro kio
 therefore	tial 	
 third	tria	
 Thos.	Tomaso	name
+thought	pensis {ntr}	
+thoughtful	pripensema	prone to reflection
+thoughtless	senpripensa	
+thousand	milo	
 through	per	with the use of something
 through	tra	limited from above, below and on the sides, from one side to the other
 Thursday	ĵaŭdo	
 thus	sekve 	
 to	al	to a place, to a person
 to a great extent	multe	
-to aid	helpi	
-to be born	naskiĝi {ntr}	
-to be cured	por esti resanigita	lit. for the purpose of being restored to health
-to bloom	flori	
-to exist	ekzisti {ntr}	
-to flower	flori	
-to light	ekbruligi	
 to me	al mi	
 to the end	ĝis la fino	
 to the right	dekstren	
-to trace	spuri {tr}	to follow traces left by an action
 today	hodiaŭ 	
 tomorrow	morgaŭ 	
 took	prenis {tr}	
@@ -804,6 +860,7 @@ torches	torĉojn
 torment	turmenti {tr}	
 torture	torturi {tr}	
 touch	tuŝi {tr}	
+to trace	spuri {tr}	to follow traces left by an action
 traditions	tradicioj	
 treachery	perfido	
 Tuesday	mardo	
@@ -832,15 +889,13 @@ voice	voĉo
 volume	volumo	book in a collection
 wagoner	ĉaristo	
 want	voli {tr}	
-was held in high repute	estis estimata	
-was not fixed	ne estis fiksita	
 watching	rigardi {tr}	
+watercolor	akvofarbo	
 weary	laca	
 weather	vetero	
 wedding	geedziĝo	
 Wednesday	merkredo	
 weird	stranga	
-were absent	forestis {ntr}	
 when	kiam 	relative
 where	kie 	relative
 whisper	flustri {tr}	
@@ -853,8 +908,6 @@ with	per	with the use of something
 with dignity	digne	
 within doors	Intern'dome	
 without	sen	without someone/thing
-would bind	ligus {tr}	
-would make  ill	malsanigus {tr}	
 Wynkin de Worde	Vinko Devordo	
 yearlong	jarlonga	
 years ago	antaŭ jaroj	
@@ -862,59 +915,6 @@ yellow	flava
 yesterday	hieraŭ 	
 yet	tamen 	
 yule-log	Jul'ŝtipo	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		
 		
 		
