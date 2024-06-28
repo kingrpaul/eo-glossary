@@ -1,1373 +1,1373 @@
-abandon	senbrideco	lit. unbridled-ness
-abjure	rezigni {tr}	definitely leave as unworkable or unattainable
-about	pri	talk about something
-above	super	above or over something, but not directly on it
-above the door	super'porde	
-were absent	forestis {ntr}	
+fir cone	abia konuso	
+abruptly	abrupte	
 absurd	absurda	
-accord	akordo	
-according to	laŭ	in agreement with, as stated
-accordingly	konforme	so that it's similar to a model object
-achieve	atingi {tr}	
-across	trans	from one side to the other, on the opposite side of
-add	aldoni {tr}	
+is everywhere rife	abundas	
 adorable	adorinda	
-advance	antaŭiĝi {ntr}	move forward, "progresi" for advancement through ranks
 affect	afekcii {tr}	create change in
-afraid	tima	
-afreet	efrito	a powerful evil jinni, demon, or monstrous giant in Arabic mythology
-after	post	after something
-afterglow	post'brilo	
-afternoon	posttagmezo	
-against	kontraŭ	opponent of someone/thing
-age	epoko	era or epoch
+affected creature	afekta estajo	
+thing	afero	
+issue	afero	
+item	afero	
 agent	agento	
+thirty years of age	aĝis tridek jarojn	
 agitation	agitado	
-ago	antaŭ	at or during a earlier time
-agree	konsenti {ntr}	
-to aid	helpi	
-ailing	malsana	not healthy
-ailment	malsaneto	
-airbrush	pistolfarbi {tr}	to paint with a sprayer
+unglücksfall	akcidento	German, accident
+accord	akordo	
+sharp	akra	
+wasser	akvo	German, water
+water	akvo	
+waterfall	akvofalo	
+watercolor	akvofarbo	
+to	al	to a place, to a person
+towards	al	
+to me	al mi	
+creeps up	al'ŝtel'iras {ntr}	
 alarmed	alarmite	
-alas	ve	
+add	aldoni {tr}	
 Alexandria	Aleksandrio	
-alive	viva	
-all	tuta	
-all these years	ĉiuj ĉi tiuj jaroj	
-allow	permesi {tr}	
-almost	preskaŭ 	
-along	laŭ	following lengthwise
-aloud	laŭte	
-already	jam 	
-also	ankaŭ 	
+attached	alfiksata	
+other	alia	
+otherwise	alie 	
+bring	alporti {tr}	
+appropriate	alpropreigi {tr}	take someone's stuff
 altar	altaro	
-although	kvankam	
-always	ĉiam 	
-am ashamed	hontas {tr}	
-am forgiven	estas pardonita	
-ambition	ambicio	
-ambitious	ambicia	
-ambitious	ambicia	
-amiss	malbone	
-ample	ampleksa	
-amusement	amuzaĵo	
-amusing	amuza	
-analytical	analiza	
-ancestor	praulo	
-ancient	antikva	
-angel	anĝelo	
-anybody	iu ajn	
-anything	io ajn	
-apart	aparte	
-apart from	krom	not considering
-Apollo	Apolono	
-apologise	pardonpeti	
-appearance	aspekto	
-approval	aprobo	
-April	aprilo	
-apron	antaŭtuko	
-are giving way	cedas	
-are practiced	praktikitaj	
-around	ĉirkaŭ	around something
-arrange	aranĝi {tr}	
-as far as	ĝis	destination
-as follows	jene 	
-as well	ankaŭ	
-asleep	dormanta	
-ass	azeno	donkey
-associated with	asociita kun	
-at	ĉe	exact position (next to, in front of)
-at	je	a particular time
-at noon	tagmeze	
-at your service	je via servo	
-atmosphere	atmosfero	
-attack	atako	
-attendance	ĉeestado	
-attention	atento	
-attentive	atenta	
-attentive	atentema	
-August	aŭgusto	
-auspicious	aŭspicia	
-back	dorso	anatomical
-balustrade	balustrado	
-bank	bordo	as in river-banks
-bath	bano	
-bathe	bani {tr}	or baniĝi to bathe oneself
-beaver	kastoro	
-because of	pro	because of someone/thing
-become	iĝi {ntr}	
-becoming extinct	formortas	
-beef	bovaĵo	
-before	antaŭ	at or during a earlier time
-beg	petegi {tr}	beg someone or something
-beginning	komenco	
-behind	malantaŭe 	
-behind	malantaŭ	at the far side of something (hidden)
-being	estante	
-believe	kredi {tr}	
-bell	sonorilo	
-belongs	aparteni {ntr}	
-below	sub	under something
-beneath	sub	under something
-benighted	nokte kaptita	
-berry	bero	
-beside	apud	next to (without touching)
-beside	apud	
-betray	perfidi {tr}	
-between	inter	there is something on either side
-between	inter	interaction between two people
-bewilderment	konfuzo	
-bewitched	sorĉita	
-big-boned	grand’osta	
-biggest	plej granda	
-bigwig	grandulo	
-bind	ligi {tr}	
-would bind	ligus {tr}	
+precious	altvalora	
+referring to	aludante	
+hint	aludi {tr}	
+lover	amanto	
 bitter	amara	literal or figurative
 bitterly	amare	
-black	nigra	
-blackened	nigrita	
-blinded you	blindigis vin	
-blinds	blindigas {tr}	
-bloom	floro	
-to bloom	flori	
-blue	blua	
-boar	apro	
-Boar's Head	Kapo de Apro	
-board	festen’tablo	def. long, narrow table, as used in a medieval dining hall
-Bodleian	de Bodlejo	
-to be born	naskiĝi {ntr}	
-bough	branĉo	
-bride	novedzino	
-brief	mallonga	
-bring	alporti {tr}	
-bring in 	enporti	
-british	brita	
-brown	bruna	
-brusquely	bruske	
-bunch	fasko	
-burial	entombigo	
-burn	bruli {ntr}	bruiligi: burn something else
-bury	enterigi {tr}	
-but for	krom	not considering
-by	ĉe	exact position (next to, in front of)
-by	de	from a place or by somebody
-by	de	expresses possession
-by	ĝis	up to/by a specific time
-by means of	per	with the use of something
-calculate	kalkuli {tr|ntr}	
-Candlemas	Kandelfesto	
-carol	karolo	Christmas song
-carries	portas {tr}	
-cautious	singarda	lit. self-guarding
-cautiously	singarde	
-ceiling	plafono	
-celebrate	festi	
-celebration	festo	
-cell	ĉelo	solo room
-centre	centro	
-century	jarcento	
-ceremony	ceremonio	
-character	karakteron	
-cheerful	gajiga	cheerfulness causing
-choir	koruso	syn. ĥoro
-chorus	ĥoro	
-Chrismasse Carolles	Kristnaskaj Karoloj	
-Christmas	Kristnasko	
-Christmas Morning	Kristnask’mateno	
-Christmas-day	Kristnask’tago	
-Christmas-eve	Kristnask’vespero	
-Christmas-tide	Kristnask’tempo	
-church	preĝejo	
-circumstances	cirkonstancoj	
-clang	sonoro	
-clasping	kunprema	
-classic	klasika	
-classical	klasika	
-clever	lerta	
-cleverly	lerte	
-cloth	ŝtofo	
-collection	kolekto	
-college	kolegio	
-come	veni {ntr}	
-community	komunumo	
-complain	plendi {ntr}	
-completely	tute 	
-conceit	fantazio	a sort of thought
-concerning	pri	talk about something
-congregation	paroĥanaro	collective parishioners
-connected	ligitaj	
-consent	konsento	
-consequently	konsekvence 	
-consequently	sekve 	
-consistently	konsekvence 	
-contemptuous	malestima	
-continue	daŭri {ntr}	
-Cosimo	Kosimo	personal-name
-couch	kanapo	
-council	konsilio	a leading body of people
-counsel	konsili {tr}	
-counties	graflandoj	
-country	kamparo	as in countryside, not city
-country people	kamparanoj	
-courtyard	korto	
-cousin	kuzino	female
-crackle	kraketi	
-cradled	lulita	
-crave	avidi {tr}	
-creature	estaĵo	
-creep out	el'ŝtel'iri {ntr}	
-creeping	ŝtel'ir'anta	
-creeps	ŝtel'iri {ntr}	
-creeps up	al'ŝtel'iras {ntr}	
-criminal	krima	like a criminal
-crowd	homamaso	
-to be cured	por esti resanigita	lit. for the purpose of being restored to health
-curious	kurioza	exciting interest
-dagger	ponardo	
-daily	ĉiutage 	
-dance	danci	
-dangerous	danĝera	
-dawn	matenkrepusko	
-December	decembro	
-decorated	ornamitaj	
-decorations	ornamaĵoj	
-decorative	dekoracia	
-deep	profunde	deeply
-defiant	defia	
-defies	defias {tr}	
-delay	prokrasto	
-demand	postuli	
-deserve	meriti {tr}	
-despite	malgraŭ	nevertheless, notwithstanding
-destiny	destino	
-destroy	detrui {tr}	
-dignity	digno	
-diminish	malpliigi	
-displacement	delokeco	
-displeasure	malplezuro	
-disturb	perturbi {tr}	
-dive	plonĝi {ntr}	
-doubted	dubis {tr}	
-dramatic	drama	
-draw attention to	atentigi {tr}	
-dream	revo	as in “I have a dream”
-dream	sonĝo	while sleeping
-during	en	at some time within a specific time frame
-dusk	vesperkrepusko	
-each	po	for a divided amount, followed by the nominative
-eagerness	entuziasmo	
-ear	orelo	
-earrings	orelringoj	
-ebony	ebona	
-echo	eĥo	
-Egypt	Egiptujo	
-embrace	brakumi {tr}	
-England	Anglio	
-English	angla	
-enough	sufiĉe 	
-enters	eniras {tr}	
-enters	eniras	
-entitled	titolita	given the title of
-escort	eskorto	
-etc	ktp	
-evergreen	ĉiamverdo	
-everywhere	ĉie 	
-evil	malbono	
-exaggerate	troigi {tr}	
-except for	krom	not considering
-excess	troo	
-to exist	ekzisti {ntr}	
-existence	ekzisto	
-expression	esprimo	
-extremely	ekstreme 	
-fact	fakto	
-fair	blonda	
-fall	kuŝiĝi {ntr}	a thing to fall flat like a cut tree
-falls	falas {ntr}	
-family	familio	
-farmhouse	kampara domo	complicated by ownership & serfdom
-fate	sorto	
-favourable	favora	eager to grant advantage to
-fears	timas {tr}	
-feast	festeno	
-February	februaro	
-feel	senti {tr}	
-festive	festa	
-fight	batali {ntr}	
-fill	plenigi	
-finally	fine 	
-fire	fajro	
-fit	taŭga	suitable
-was not fixed	ne estis fiksita	
-flame	flamo	
-fled	fuĝis {ntr}	flee from danger
-flies	flugas {ntr}	
 flock	amasiĝi	to pile up or become a crowd
-floor	planko	
-Florence	Florenco	Italian city
-flower	floro	
-flower	floro	
-flower-seller	flor’vendisto	
-to flower	flori	
-flown	flugis {ntr}	
-flows	fluas {ntr}	
-foaming	ŝaŭma	frothy
-follow	sekvi {tr}	
+ambitious	ambicia	
+ambitious	ambicia	
+ambition	ambicio	
 fondly	ame	
-food	manĝaĵo	
-fool	malsaĝulo	
-foolish	malsaĝa	
-footstep	pied'paŝo	
-for	de	for a period of time
-for	dum	spanning an entire duration of time
-for	por	outcome of an action
-for some reason	ial	
-for that reason	tial 	
-forbid	malpermesi {tr}	
-forefathers	prapatroj	if both sexes: prauloj
-forget	forgesi	
-forgive	pardoni {tr}	forgive someone or something
-forgotten	forgesita	
+love	ami {tr}	
+has loved	amis {tr}	
+ample	ampleksa	
+amusing	amuza	
+amusement	amuzaĵo	
+pastime	amuzaĵo	
+analytical	analiza	
+angel	anĝelo	
+English	angla	
+England	Anglio	
+Englishman	anglo	
+angles	angulo	
+as well	ankaŭ	
+too	ankaŭ	
+also	ankaŭ 	
+likewise	ankaŭ 	
+still	ankoraŭ	action did not stop
+anksia	anksia	
+instead of	anstataŭ	replace something with something else
+ago	antaŭ	at or during a earlier time
+before	antaŭ	at or during a earlier time
+in front of	antaŭ	in front/before
+years ago	antaŭ jaroj	
+preexistence	antaŭ'ekzisto	
+in front	antaŭe 	
 forwards	antaŭen	
-fought	batalis {ntr}	
-found	trovis {tr}	
-Friday	vendredo	
-frightened	tima	
-from	de	from a place or by somebody
-from	de	expresses possession
-from	el	from where
-from time immemorial	de post tempo nememorebla	
-frontispiece	frontispico	
-fulfil	plenumi {tr}	
-further	plua	
-further	plue	
-future	estonteco	
-gain	gajni {tr}	
-garden	ĝardeno	
-gasthaus	gastejo	
-gate	pordego	
-gate	pordego	
-Gaudeamus Omnes	Ni Ĉiuj Ĝoju	“Let us all Rejoice,” Latin title of a chant
-gaze	rigardi {tr}	
-generally	ĝenerale	in general
-gesture	gesto	
-girl	fraŭlino	young lady, unmarried woman
-give	doni {tr}	
-gladly	volonte 	
-gleams	brilas	
-glistening	fulmetada	
-glory	gloro	
-gloss	poluro	
-glow	brilo	
-go	iri	
 go forward	antaŭen'iru {ntr}	
-gondola	gondola	
-gondolier	gondolisto	
-goodwill	bonvolon	
-gossip	klaĉo	gossip, always negative
-gossip	onidiro	rumor, positive or negative
-grave	tombo	
-gravel	gruzo	
-Grecian	greka	
-Greece	Grekio	
-green	verda	
-greet	saluti	
-grey	griza	
-greybeard	grizbarbo	
-grotesque	groteska	
-grove	arbareto	
-grow	kreski {ntr}	to grow, increase or become bigger
-grow	kreskigi {tr}	make something grow
-grows	kreskas {ntr}	
-guarantee	garantio	
-guaranteeing	garantiante	
-guess	diveni {tr}	
-had been filled	estis plenigitaj	
-handsome	bela	
-hangs	pendas {ntr}	
-happen	okazi {ntr}	
-happily	feliĉe	
+looked forward to	antaŭĝojitaj	as in anticipated
+advance	antaŭiĝi {ntr}	move forward, "progresi" for advancement through ranks
+apron	antaŭtuko	
+ancient	antikva	
+apart	aparte	
+belongs	aparteni {ntr}	
 hardly	apenaŭ 	
-hardy	fortika	
-hark	aŭskultu	
-has given	donis {tr}	
-have fulfilled	plenumis {tr}	
-have given	donis {tr}	
-have known	konis {tr}	
-have promised	promesis {tr}	
-have recovered	resaniĝis {ntr}	
+Apollo	Apolono	
+April	aprilo	
+boar	apro	
+approval	aprobo	
+beside	apud	next to (without touching)
+beside	apud	
+next to	apud	next to (without touching)
+arrange	aranĝi {tr}	
+grove	arbareto	
+sapling	arbido	
+tree	arbo	
+silver	arĝenta	
+silver	arĝenta	
+fragrant	aroma	
+associated with	asociita kun	
+look	aspekti {ntr}	appear as
+appearance	aspekto	
+asthma	astmo	
+attack	atako	
+attentive	atenta	
+attentive	atentema	
+draw attention to	atentigi {tr}	
+attention	atento	
+care	atento	being meticulous
+achieve	atingi {tr}	
+reach	atingi {tr}	
+atmosphere	atmosfero	
+hears	aŭdas {tr}	
 hear	aŭdi {tr}	
 heard	aŭdis {tr}	
-hears	aŭdas {tr}	
-heart	koro	
-hearth	kameno	
-heavy	peza	
-help	helpi {tr}	
-henceforth	de nun	
-here	ĉi tie 	
-hesitate	heziti {ntr}	
-hesitation	hezito	
-Hesperides	Hesperidoj	
-hides	kaŝas {tr}	
-hiding-place	kaŝejo	
-High Priest	Ĉefpastro	
-higher	pli alta	
-hill	moneto	
-hint	aludi {tr}	
-hither	ĉi tien	
-hold	teni {tr}	
-holiday	ferio	
-holly	ileksa	bush
-holy	sankta	
-home	hejmo	hejme-at home, hejmen-toward home
-honey	mielo	
-honour	honoro	
-honour	honori {tr}	show respect
-hope	esperi {tr}	
-hopefully	espereble 	
-hospitable	gastama	
-host	gastiganto	also: gastiginto
-however	tamen 	
-human	homa	
-hurries	rapidas	
-hymn	himno	
-ice	glacio	
-idea	ideo	
-idiotic	idiota	
-ignorant	malklera	uneducated
-ignorant	senscia	unknowing
-ignore	malatenti {tr}	
-ill-fortune	malbon'fortuno	
-would make  ill	malsanigus {tr}	
-imaginative	imagema	
-immediately	tuj 	
-impatient	senpacienca	
-implore	petegi {tr}	implore someone or something
-in	en	in a place, book, car, picture, world
-in	en	at some time within a specific time frame
-in days of yore	pra'antaŭe	
-in every respect	ĉia'maniere	
-in front	antaŭe 	
-in front of	antaŭ	in front/before
-in love	enamiĝinte	
-in spite of	malgraŭ	nevertheless, notwithstanding
-in such a fashion	tiel 	
-in that manner	tiel 	
-in that way	tiel 	
-in the afternoon	posttagmeze	
-inattentive	malatenta	
-increase	pliigi {tr}	make something more
-indigestible	nedigestebla	
-injure	vundi {tr}	
-inn	gastejo	
-inside	ene	
-inside	interne 	
-instantly	tuj	
-instead of	anstataŭ	replace something with something else
-invent	elpensi {tr}	
-Is described	estas priskribita	
-is everywhere rife	abundas	
-is given up	fordonita	
-is treated	traktita	
-it all	ĉio	everything
-it is used	ĝin uzitas	
-ivy	hedero	
-January	januaro	
-Jesus	Jesuo	
-John	Johano	name
-John o’ Groats	Johano de Kvar'pencoj	
-July	julio	
-June	junio	
-kept	konservita	
-kiss	kisi {tr}	
-knee	genuo	
-known	konata	
-knows	konas {tr}	
-knows	scias {tr}	
-komencitas	is begun {tr}	
-labourer	laboristo	
-Land’s End	Terfino	
-landscape	pejzaĝo	
-lane	vojeto	small country road
-lantern	lanterno	
-last	last	after all the others
-lattice	kradita	covered by a lattice
-laurel	laŭro	
-lay	kuŝigi {tr}	lay something down, make it lie
-learn	learni {tr}	
-left	maldekstre 	
-left	foriris {ntr}	
-left	lasis {tr}	to leave behind
-library	biblioteko	
-lie	mensogo	an untruth
-lie	kuŝi {ntr}	to be resting in a horizontal position
-lie	kuŝi {ntr}	to be having horizontal sexual intercourse
-lie	kuŝi {ntr}	to occupy a space, "lies to the East"
-lie	kuŝiĝi {ntr}	to lie oneself down, become and become recumbent
-lies	mensogoj	pl. untruths
-lies	kuŝas {ntr}	
-to light	ekbruligi	
-like that	tiel	
-likewise	ankaŭ 	
-lion	leono	
-lip	lipo	
+August	aŭgusto	
 listen	aŭskulti {tr}	
-little	malmulte	
-loneliness	soleco	
-lonely	soleca	
-look	aspekti {ntr}	appear as
-look	rigardi {tr}	to look at with the eyes
-looked forward to	antaŭĝojitaj	as in anticipated
-lot	sorto	lot in life, as in fate
-lover	amanto	
-make	fari {tr}	
-makes a gesture	gesti {ntr}	
-manger	staltrogo	
+hark	aŭskultu	
+auspicious	aŭspicia	
+crave	avidi {tr}	
+ass	azeno	donkey
+bobbed	balanciĝis	
+presently	baldaŭ	soon
+soon	baldaŭ 	
+balustrade	balustrado	
+banal	banala	
+bathe	bani {tr}	or baniĝi to bathe oneself
+bath	bano	
+stick	bastono	
+fight	batali {ntr}	
+fought	batalis {ntr}	
+blow	bato	hit or strike
+unfortunately	bedaŭrinde 	
+remorse	bedaŭro	
+handsome	bela	
+pretty	bela	
+berry	bero	
+need	bezoni {tr}	
+library	biblioteko	
+picture	bildo	
+white	blanka	
+whiteness	blankeco	
+blinds	blindigas {tr}	
+blinded you	blindigis vin	
+fair	blonda	
+blow	blovi {ntr}	as the wind
+blue	blua	
+bubbling	bobelanta	
+tasty	bongusta	
+goodwill	bonvolon	
+please	bonvolu	please
+bank	bordo	as in river-banks
+beef	bovaĵo	
+embrace	brakumi {tr}	
+twig	branĉeto	
+bough	branĉo	
+gleams	brilas	
+glow	brilo	
+british	brita	
+burn	bruli {ntr}	bruiligi: burn something else
+brown	bruna	
+brusquely	bruske	
+mouth	buŝo	
+wagoner	ĉaristo	
+chaste	ĉasta	
+at	ĉe	exact position (next to, in front of)
+by	ĉe	exact position (next to, in front of)
+are giving way	cedas	
+attendance	ĉeestado	
+High Priest	Ĉefpastro	
+masterpiece	ĉefverko	
+observed	celebrita	ritual celebration
+cell	ĉelo	solo room
+centre	centro	
+ceremony	ceremonio	
+assuredly	certe	
+stops	ĉesi	cease
+stopped	ĉesigis	made it stop
+here	ĉi tie 	
+hither	ĉi tien	
+this	ĉi tiu	
+in every respect	ĉia'maniere	
+ever	ĉiam	always
+always	ĉiam 	
+ever afterwards	ĉiam poste	
+evergreen	ĉiamverdo	
+everywhere	ĉie 	
+ubiquity	ĉieo	
+crumpled	ĉifitajn	
+it all	ĉio	everything
+all this	ĉio ĉi 	
+around	ĉirkaŭ	around something
+surrounding	ĉirkaŭa	
+circumstances	cirkonstancoj	
+each	ĉiu	
+all these years	ĉiuj ĉi tiuj jaroj	
+a year	ĉiujare	yearly
+daily	ĉiutage 	
+of	da	how much of something
+dance	danci	
+dangerous	danĝera	
+thank	danki {tr}	
+went on	daŭre	
+continue	daŭri {ntr}	
+by	de	from a place or by somebody
+by	de	expresses possession
+for	de	for a period of time
+from	de	from a place or by somebody
+from	de	expresses possession
+Bodleian	de Bodlejo	
+henceforth	de nun	
+from time immemorial	de post tempo nememorebla	
+December	decembro	
+made his mind up	decidiĝis {ntr}	
+defiant	defia	
+defies	defias {tr}	
+gutter	defluilo	
+had cut it down	dehakis ĝin	
+twelfth	dekdua	
+twelve	dekdua	
+dozen	dekduo	
+downhill	deklive	
+decorative	dekoracia	
+right	dekstre 	
+to the right	dekstren	
+displacement	delokeco	
+questioningly	demande	
+ask	demandi {tr}	inquire
+again	denove	
+cog	dentrada dento	tooth of a gear
+destined	destinita	
+destiny	destino	
+had cut it off	detranĉis ĝin	
+destroy	detrui {tr}	
+with dignity	digne	
+dignity	digno	
+stout-legged	dike kruraj	
+Sunday	dimanĉo	
+say	diri {tr}	
+tell	diri {tr}	
+divide	disigi {tr}	separate something previously united
+parting of the ways	disiĝo de la vojoj	
+guess	diveni {tr}	
+various	diversa	
+various	diversaj	
+so	do 	logical consequence
+then	do 	logical consequence
 manor	domego	
 manor house	domego	
 mansion	domego	
-March	marto	
-Marco	Marko	person's name
+house	domo	
+present	donaco	gift
+present	donaco	gift
+give	doni {tr}	
+has given	donis {tr}	
+have given	donis {tr}	
+asleep	dormanta	
+sleep	dormi {ntr}	
+back	dorso	anatomical
+dubo	doubt	
+dramatic	drama	
+drowned	dronis {ntr}	
+had been drowned	dronis	drowned
+two days later	du tagojn poste	
+second	dua	
+doubted	dubis {tr}	
+score	dudeko	twenty
+for	dum	spanning an entire duration of time
+as	dum	during the time that
+while	dum	
+for a moment	dum momento	
+double-handed saw	duoble tenila segilo	aka misery whip
+obey	ebei {tr}	
+plain	ebenaĵo	
+plane	ebeno	
+possibly	eble	
+be possible	ebli {ntr}	
+enabled	ebligis {ntr}	
+ebony	ebona	
+even	eĉ	
+really	efektive	in fact, real, in reality, not imagined
+afreet	efrito	a powerful evil jinni, demon, or monstrous giant in Arabic mythology
+Egypt	Egiptujo	
+echo	eĥo	
+light	ekbruligi {tr}	start a fire
+to light	ekbruligi	
+since	ekde	from a specific point in time until now
+since	ekde	
+caught	ekhavita	as in a disease was caught
+clutching	ekkaptante	
+set in motion	ekmovi {tr}	
+bestir	ekmoviĝi {ntr}	
+start	ekmoviĝi	begin to move
+out of	ekster	beyond a closed area
+outside of	ekster	beyond a closed area
+outdoor	ekster’doma	
+extremely	ekstreme 	
+for instance	ekzemple	
+existence	ekzistado	the ongoing fact of one's existing
+to exist	ekzisti {ntr}	
+existence	ekzisto	
+from	el	from where
+creep out	el'ŝtel'iri {ntr}	
+unearths	el’terigas	
+choose	elekti {tr}	
+chose	elektis {tr}	
+cropping out	eliranta	
+dislodged	elpelita	
+invent	elpensi {tr}	
+fished out	elprenis fiŝe	
+ring out	elsonori {tr}	
+stand	elteni {tr}	endure
+tend	emas	has the tendency
+during	en	at some time within a specific time frame
+in	en	in a place, book, car, picture, world
+in	en	at some time within a specific time frame
+into	en	
+in love	enamiĝinte	
+inside	ene	
+enters	eniras {tr}	
+enters	eniras	
+threw it in	enĵetis ĝin	
+investigation	enketo	
+bring in 	enporti	
+crept in	enŝteliĝis {ntr}	
+bury	enterigi {tr}	
+burial	entombigo	
+eagerness	entuziasmo	
+envy	envii	
+envy	envio	
+wrapping up	envolvi {tr}	
+epitomise	epitomiĝi {ntr}	be an epitome
+age	epoko	era or epoch
+Eros	Eroso	Cupid
+escort	eskorto	
+hopefully	espereble 	
+hope	esperi {tr}	
+hopeful	esperplena	
+expression	esprimo	
+creature	estaĵo	
+being	estante	
+am forgiven	estas pardonita	
+Is described	estas priskribita	
+was	estis {ntr}	
+There was	Estis	
+It was	Estis	
+was accepted	estis akceptata	
+was taking	estis elportonta	was fixing to take
+sucked under	estis englutita	lit. was swallowed
+was held in high repute	estis estimata	
+was just going to be married	estis jus geedziĝonta	
+had been filled	estis plenigitaj	
+was headed	estis titolita	had a text heading of
+future	estonteco	
+expected	estus atendinta	would have been expecting
+would have had	estus havintaj	
+European	eŭropa	
+probably	eventuale 	
+obvious	evidenta	
+truism	evidentaĵo	
+lighthearted	facilanima	
+light-heartedly	facilanime	easy-going, lit. easy-souled
+easily	facile	
+fire	fajro	
+fact	fakto	
+falls	falas {ntr}	
+folded	faldi {tr}	
+fallen	falinta	fallen because it once fell
+fell	falis {ntr}	
+family	familio	
+conceit	fantazio	a sort of thought
+Pharaoh	Faraono	
+paint	farbi {tr}	to apply paint, non-artistically
+painter	farbisto	non-atristic painter
+paint	farbo	liquid paint medium
+make	fari {tr}	
+feel	fartas {ntr}	
+bunch	fasko	
+favourable	favora	eager to grant advantage to
+February	februaro	
+happy	feliĉa	
+happily	feliĉe	
+holiday	ferio	
+iron	fero	
+festive	festa	
+board	festen’tablo	def. long, narrow table, as used in a medieval dining hall
+feast	festeno	
+celebrate	festi	
+celebration	festo	
+party	festo	
+engaged to be married	fianĉiĝita	
+proud	fiera	
+fix	fiksi {tr}	attach to a place
+had fastened on	fiksiĝis {ntr}	
+fastened itself	fiksiĝis {ntr}	
+jammed	fiksiĝis {ntr}	
+stuck	fiksite	
+philanthropic	filantropia	
+finally	fine 	
+fast	firme	adv. firmly
+flame	flamo	
+sideways	flanken	
+yellow	flava	
+flower-seller	flor’vendisto	
+Florence	Florenco	Italian city
+to bloom	flori	
+to flower	flori	
+bloom	floro	
+flower	floro	
+flower	floro	
+fliessandes	fluanta	German, "flowing"
+flows	fluas {ntr}	
+flies	flugas {ntr}	
+flown	flugis {ntr}	
+whisper	flustri {tr}	
+sheet	folio	sheet of paper
+is given up	fordonita	
+were absent	forestis {ntr}	
+forget	forgesi	
+forgotten	forgesita	
+left	foriris {ntr}	
+led off	forkondukis {tr}	
+put aside	formeti {tr}	
+becoming extinct	formortas	
+hefty	forta	strong
+hardy	fortika	
+stronghold	fortikaĵo	
+smash	frakasi {tr}	
+fraction	frakcio	
+tap	frapeto	
+sister	fratino	nun
+girl	fraŭlino	young lady, unmarried woman
+frantic	freneza	crazy
+frontispiece	frontispico	
+fled	fuĝis {ntr}	flee from danger
+glistening	fulmetada	
+frantic	furioza	furious
+merrily	gaje	
+mirth	gajeco	
+cheerful	gajiga	cheerfulness causing
+gain	gajni {tr}	
+guaranteeing	garantiante	
+guarantee	garantio	
+garden	ĝardeno	
+hospitable	gastama	
+gasthaus	gastejo	
+inn	gastejo	
+host	gastiganto	also: gastiginto
 marriage	geedziĝo	
-mask	masko	
-masterpiece	ĉefverko	
+wedding	geedziĝo	
+groan	ĝemego	
+generally	ĝenerale	in general
+trouble	ĝeno	nuisance or disturbance
+knee	genuo	
+makes a gesture	gesti {ntr}	
+gesture	gesto	
+it	ĝi	
+it was caught	ĝi estis kaptita	
+it is used	ĝin uzitas	
+spun	giris {ntr}	
+as far as	ĝis	destination
+by	ĝis	up to/by a specific time
+until	ĝis	destination
+until	ĝis	up to/by a specific time
+up to	ĝis	destination
+till	ĝis	until
+to the end	ĝis la fino	
+ice	glacio	
+sword	glavo	
+glory	gloro	
+gondola	gondola	
+gondolier	gondolisto	
+counties	graflandoj	
+pomegranate	granato	
+big-boned	grand’osta	
+big	granda	big
+great	granda	large
+massive	grandega	very large
+bigwig	grandulo	
 matters	gravas	
+Grecian	greka	
+Greece	Grekio	
+grey	griza	
+greybeard	grizbarbo	
+grotesque	groteska	
+soil	grundo	soil
+gravel	gruzo	
+just	ĝuste	exactly
+stop	halti {ntr}	
+stopped	haltigis	stopped a thing in a seemingly temporary way
+had	havis {tr}	
+had little enough	havis malgrande sufiĉe	
+just chanced to be	hazarde troviĝis	
+ivy	hedero	
+home	hejmo	hejme-at home, hejmen-toward home
+to aid	helpi	
+help	helpi {tr}	
+meadow	herbejo	
+inherited	heredita	
+Hesperides	Hesperidoj	
+hesitate	heziti {ntr}	
+hesitation	hezito	
+yesterday	hieraŭ 	
+hymn	himno	
+today	hodiaŭ 	
+human	homa	
+crowd	homamaso	
+honour	honori {tr}	show respect
+honour	honoro	
+am ashamed	hontas {tr}	
+chorus	ĥoro	
+mood	humoro	
+for some reason	ial	
+sometime	iam 	
+of some sort	iaspeca	
+idea	ideo	
+idiotic	idiota	
+somewhere	ie 	
+anywhere	ie ajn	
+become	iĝi {ntr}	
+holly	ileksa	bush
+imaginative	imagema	
+imperative	imperativa	
+headlong	impete	rushing unreservedly
+impulse	impulso	
+put it on	imputis ĝin al	attribute responsibility 
+native	indiĝeno	
+children⁠	infanoj	
+children	infanoj	
+influential	influa	
+influence	influi {tr}	
+influence	influo	
+institution	institucio	
+teach	instrui {tr}	
+mean	intenci {tr}	intended action
+meant	intencis {tr}	intended action
+purpose	intenco	
+between	inter	there is something on either side
+between	inter	interaction between two people
+mingle	intermiksiĝi	
+within doors	Intern'dome	
+inside	interne 	
+plotting	intrigi {ntr}	
+plot	intrigo	cunning activity to make or break a cause
+flood	inundo	
+something	io	
+anything	io ajn	
+rather	iomete	to some degree
+go	iri	
+irritating	iritanta	
+komencitas	is begun {tr}	
+somebody	iu	table-word
+anybody	iu ajn	
+some	iuj	countable things
+already	jam 	
+January	januaro	
+century	jarcento	
+yearlong	jarlonga	
+Thursday	ĵaŭdo	
+at	je	a particular time
+at this very moment	je ĉi tiu preciza momento	
+at your service	je via servo	
+as follows	jene 	
+Jesus	Jesuo	
+toss	ĵeti {tr}	
+John	Johano	name
+John o’ Groats	Johano de Kvar'pencoj	
+Jove	Jovo	Jupiter
+rejoicings	jubiloj	
+yule-log	Jul'ŝtipo	
+July	julio	
+June	junio	
+paper	jurnalo	newspaper
+just now	ĵus	occuring just a moment before now
+framework	kadraro	
+and	kaj	
+calculate	kalkuli {tr|ntr}	
+hearth	kameno	
+farmhouse	kampara domo	complicated by ownership & serfdom
+peasant	kamparano	
+country people	kamparanoj	
+rustics	kamparanoj	
+country	kamparo	as in countryside, not city
+couch	kanapo	
+Candlemas	Kandelfesto	
+headache	kapdoloro	
+Boar's Head	Kapo de Apro	
+seize	kapti {tr}	
+caught	kaptiĝis	become caught as in a trap
+character	karakteron	
+the waits	karol’kantistoj	carol singers
+carol	karolo	Christmas song
+hides	kaŝas {tr}	
+hiding-place	kaŝejo	
+beaver	kastoro	
+cause	kaŭzi {tr}	
+that	ke	introduces a clause, if clause shows purpose, use ‘por ke’
+when	kiam 	relative
+where	kie 	relative
+like	kiel	
+as before	kiel antaŭe	
+stir	kirli {tr}	
+whirl	kirliĝi {ntr}	
+kiss	kisi {tr}	
+gossip	klaĉo	gossip, always negative
+plainly	klare	
+classic	klasika	
+classical	klasika	
+dipping	kliniĝanta	leaning over
+stooped	kliniĝis {ntr}	
+sluice	kluzo	
+bang	knali {ntr}	make a bang or snap sound
+wedge	kojni {tr}	immobilize with a wedge
+college	kolegio	
+collection	kolekto	
+combined	kombiniĝi {ntr}	become combined
+went scurrying away	komencis fore krabli	
+beginning	komenco	
+complete	kompleta	
+of course	kompreneble	
+community	komunumo	
+knows	konas {tr}	
+known	konata	
+accordingly	konforme	so that it's similar to a model object
+bewilderment	konfuzo	
+have known	konis {tr}	
+realise	konscii {tr|ntr}	to be aware
+realise	konscii	be aware
+consequently	konsekvence 	
+consistently	konsekvence 	
+therefore	konsekvence 	
+agree	konsenti {ntr}	
+consent	konsento	
+keep	konservi {tr}	not lose
+kept	konservita	
+preserved	konservita	
+counsel	konsili {tr}	
+council	konsilio	a leading body of people
+advice	konsilo	
+consuming beauty	konsumema beleco	
+against	kontraŭ	opponent of someone/thing
+opposite	kontraŭ	facing, on the other side
+heart	koro	
+bodyguard	korpogardisto	
+portly	korpulenta	
+courtyard	korto	
+choir	koruso	syn. ĥoro
+Cosimo	Kosimo	personal-name
+fee	kotizo	
+spat	kraĉis {ntr}	
+lattice	kradita	covered by a lattice
+crackle	kraketi	
+believe	kredi {tr}	
+grows	kreskas {ntr}	
+grow	kreski {ntr}	to grow, increase or become bigger
+grow	kreskigi {tr}	make something grow
+shout	krii {ntr}	
+criminal	krima	like a criminal
+Christmas Morning	Kristnask’mateno	
+Christmas-day	Kristnask’tago	
+Christmas-tide	Kristnask’tempo	
+Christmas-eve	Kristnask’vespero	
+Chrismasse Carolles	Kristnaskaj Karoloj	
+Christmas	Kristnasko	
+apart from	krom	not considering
+but for	krom	not considering
+except for	krom	not considering
+into the bargain	krome	
+etc	ktp	
+climax	kulmino {tr|ntr}	
+with	kun	together with someone/thing
+share	kunhavigi {tr}	
+clasping	kunprema	
+treatment	kuracado	
+curious	kurioza	exciting interest
+quaint	kuriozaj	
+course of life	kursado de vivo	
+recumbent	kuŝa	
+lies	kuŝas {ntr}	
+lie	kuŝi {ntr}	to be resting in a horizontal position
+lie	kuŝi {ntr}	to be having horizontal sexual intercourse
+lie	kuŝi {ntr}	to occupy a space, "lies to the East"
+lay	kuŝigi {tr}	lay something down, make it lie
+fall	kuŝiĝi {ntr}	a thing to fall flat like a cut tree
+lie	kuŝiĝi {ntr}	to lie oneself down, become and become recumbent
+cousin	kuzino	female
+although	kvankam	
+oaken	kverkaj	
+quietly	kviete	
+the	la	
+the others	la aliuloj	
+present day	la estanteco	
+the side	la flanko	
+the female	la ino	
+the Campagna	la Kamparo	Roman Campagna, countryside around Rome
+the latter	la lasta	
+the way	la maniero kiel	manner in which
+the male	la masklo	
+hardworking	laborema	
+foreman	laborestro	
+work	labori {ntr}	
+labourer	laboristo	
+workman	laboristo⁠	
+weary	laca	
+lantern	lanterno	
+left	lasis {tr}	to leave behind
+last	last	after all the others
+according to	laŭ	in agreement with, as stated
+along	laŭ	following lengthwise
+with	laŭ	along
+laurel	laŭro	
+aloud	laŭte	
+learn	learni {tr}	
+reader	leganto	
+read	legi {tr}	
+lion	leono	
+clever	lerta	
+cleverly	lerte	
+skill	lerteco	
+note	letereto	short letter written to someone else
+he	li	
+him	li	
+bind	ligi {tr}	
+connected	ligitaj	
+wooden	ligna	
+wood	ligno	
+would bind	ligus {tr}	
+lip	lipo	
+dwell	loĝi {tr}	
+local	loka	
+spot	loko	
+place	loko	
+plays	ludas {tr|ntr}	
+cradled	lulita	
+light bath	lum'bano	light bath
+light	lumo	visible radiation, source of light, figurative light, light part of painting
+Monday	lundo	
 May	majo	
-means	signifis {tr}	has the meaning of
-meet	renkontas	
-memory	memoro	
+behind	malantaŭ	at the far side of something (hidden)
+behind	malantaŭe 	
+inattentive	malatenta	
+ignore	malatenti {tr}	
+ill-fortune	malbon'fortuno	
+amiss	malbone	
+evil	malbono	
+left	maldekstre 	
+contemptuous	malestima	
+undo	malfari {tr}	
+weak	malforta	
+thin-blooded	malfortik'sanga	
+shall be late	malfruos {ntr}	
+ragged	malglata	
+sad	malĝoja	
+little	malgranda	
+despite	malgraŭ	nevertheless, notwithstanding
+in spite of	malgraŭ	nevertheless, notwithstanding
+slight	malgrava	not serious
+prevent	malhelpi {tr}	
+old lady	maljunulino	
+ignorant	malklera	uneducated
+discover	malkovri {tr}	
+brief	mallonga	
+old-fashioned	malmoderna	
+old-time	malmoderna	
+little	malmulte	
+forbid	malpermesi {tr}	
+light	malpeza	not heavy, lit. or fig.
+lightly	malpeze	
+displeasure	malplezuro	
+diminish	malpliigi	
+slowly	malrapide	
+poor	malriĉa	
+foolish	malsaĝa	
+fool	malsaĝulo	
+of a different sort	malsamaspeco	
+ailing	malsana	not healthy
+ailment	malsaneto	
+getting ill	malsaniĝi {ntr}	
+would make  ill	malsanigus {tr}	
+under	malsupre 	
+underneath	malsupre 	
+down	malsupren	downward
+uneasiness	maltrankvilo	
+chill	malvarm'tremo	sensation of a chill accompanied by trembling
+chill	malvarmeto	
+food	manĝaĵo	
+palm	manplato	as in the palm of the hand
+Tuesday	mardo	
+Marco	Marko	person's name
+seascape	marpentraĵo	
+March	marto	
+machinery	maŝinaro	
+mask	masko	
+dawn	matenkrepusko	
+matures	maturiĝas	
 Memphis	Memfiso	city in Tennessee
+remember	memori {tr}	
+remind	memorigi {tr}	remind of something in the future
+memory	memoro	
 Memphis	Menefro	city in ancient Egypt
-mental	psika	psychological
+minstrelsye	menestrelaĵo	music of minstrels
+mind	menso	
+mind	menso	
+lie	mensogo	an untruth
+lies	mensogoj	pl. untruths
 Meran	Merano	
+deserve	meriti {tr}	
+Wednesday	merkredo	
+put	meti {tr}	
 method	metodo	
 Middle Ages	Mezepoko	
 midland counties	mezlandaj graflandoj	
-midnight	noktomezo	
+honey	mielo	
 Miller	Milero	name
-mind	menso	
-mingle	intermiksiĝi	
-minstrelsye	menestrelaĵo	music of minstrels
-mirth	gajeco	
+thousand	milo	
+wonderful thing	mirindaĵo	
+mysterious	mistera	
+mysteries	misteroj	
 miserable	mizera	
-mistletoe	visko	
+model	modelo	
 mockery	mokataĵo	
 mockingly	moke	
-model	modelo	
-Monday	lundo	
+tender	molan	in regard to meat
+moment	momento	
 monk	monaĥo	
+hill	moneto	
+money	mono	
 mount	monto	part of the name of a mountain
-mouth	buŝo	
+mountain	monto	
+represented	montra	portrayed in a drawing note: reprezenti is act as representative
+show	montri {tr}	
+morsel	mordaĵo	
+tomorrow	morgaŭ 	
+gloomy	morna	dark and depressing
+death	morto	
+motion	movo	
+mill	muelilo	
+to a great extent	multe	
 murmurs	murmuri {tr}	
-mysteries	misteroj	
-mysterious	mistera	
+wall	muro	
+muscle	muskolo	
 nation	nacio	
-native	indiĝeno	
-nature	naturo	
-near	proksima	
-need	bezoni {tr}	
 neighbourhood	najbaraĵo	vs kvartalo (district)
+to be born	naskiĝi {ntr}	
+nature	naturo	
+was not fixed	ne estis fiksita	
+takes no account of me	ne konsideras min	
+necessary	necesa	
+undecided	nedecidite	while being undecided
+indigestible	nedigestebla	
+snow on the ground	neĝo sur la tero	
+unimportant	negrava	
+minor poet	negrava poeto	poet who is not one of "the greats"
+unknowing	nekonanta	
+unknown	nekonata	
+immovably	nemoveble	
 never	neniam 	
-nevertheless	tamen 	
-next to	apud	next to (without touching)
-no one	neniu	
-noon	tagmezo	
-note	noti {tr}	make note of, written or mentally
-notices	rimarkas {tr}	
-November	novembro	
 nowhere	nenie 	
-oaken	kverkaj	
-obedient	obeema	
-obey	ebei {tr}	
+nothing	nenio	
+no	neniom da	no amount
+no one	neniu	
+irresistible	nerezistebla	
+Gaudeamus Omnes	Ni Ĉiuj Ĝoju	“Let us all Rejoice,” Latin title of a chant
+ourselves	ni mem	
+black	nigra	
+blackened	nigrita	
+benighted	nokte kaptita	
+midnight	noktomezo	
+call	nomi {tr}	to refer to as, "you call that a knife?"
+nominal	nominala	
+name	nomo	
+note	noti {tr}	make note of, written or mentally
+note	noto	short reminder written to yourself
+newfound	nove trovita	
+bride	novedzino	
+November	novembro	
+touch	nuanco	delicate distinction
+present day	nuneco	
+present day	nuntempo	
 obeys	obeas {tr}	
+obedient	obeema	
 object	objekto	
-observed	celebrita	ritual celebration
-obvious	evidenta	
-occasions	okazoj	
-October	oktobro	
-of	da	how much of something
-of a different sort	malsamaspeco	
-of course	kompreneble	
-of some sort	iaspeca	
+obstinate	obstina	
+recalcitrant	obstina	
 offer	oferto {tr}	not used for gifts
 office	oficejo	
 often	ofte 	
-oil painting	oleopentraĵo	
-old lady	maljunulino	
-old-fashioned	malmoderna	
-old-time	malmoderna	
-on	sur	fixed to something & in contact
-on Fridays	vendrede 	
-on the other side of	trans	from one side to the other, on the opposite side of
-opinions	opinio	
-opposite	kontraŭ	facing, on the other side
-orange	oranĝa	
-otherwise	alie 	
-ourselves	ni mem	
-out of	ekster	beyond a closed area
-outdoor	ekster’doma	
-outdoor	subĉiela	
-outside of	ekster	beyond a closed area
-over	super	above or over something, but not directly on it
-over	trans	from one side to the other, on the opposite side of
-overlook	preteratenti {tr}	
+happen	okazi {ntr}	
+occasions	okazoj	
 Oxford	Oksfordo	
-pageantry	spektaklo	
-paint	farbo	liquid paint medium
-paint	farbi {tr}	to apply paint, non-artistically
-paint	pentri {tr}	to paint as an atrist
-paint	pripentri	to decorate with paint
-to paint	pentri {tr}	
-painter	farbisto	non-atristic painter
-painter	pentristo	an artist who paints
+October	oktobro	
+eye	okulo	
+oil painting	oleopentraĵo	
+shadow	ombro	
+one⁠	oni	
+a person’s	onia	relating to some unmentioned person
+gossip	onidiro	rumor, positive or negative
+opinions	opinio	
+orange	oranĝa	
+ear	orelo	
+earrings	orelringoj	
+decorations	ornamaĵoj	
+decorated	ornamitaj	
+parcel	pakaĵo	package
+wrap up	paki	pack up
+palette	paletro	
+palm	palmo	the tree
+paragraph	paragrafo	
+forgive	pardoni {tr}	forgive someone or something
+apologise	pardonpeti	
+relative	parenco	
+congregation	paroĥanaro	collective parishioners
+speech	parolado	
+speak	paroli {ntr}	
+talk	paroli {tr}	
+part	parto	
+passing	pasantaj	as in: passing years
+passes	pasas	
+passionately	pasie	
+step	paŝo	a step in walking
+patrician	patricio	
+father	patro	
+pause	paŭzi {ntr}	
+scrap	pecaĉo	
+piece	peceto	
+landscape	pejzaĝo	
+hangs	pendas {ntr}	
+hung	pendis {ntr}	
+effort	peno	
+thought	pensis {ntr}	
+remorse	pento	Remorse
 painterly	pentra	
 painting	pentrado	the activity or manner of artistic painting
 painting	pentrarto	a physical artistic painting
 painting	pentrarto	the art itself of painting
 paints	pentras {tr}	
-palette	paletro	
-palm	manplato	as in the palm of the hand
-palm	palmo	the tree
-particularly	precipe	
-party	festo	
-passed me by	preterpasis min	
-passes	pasas	
-passing	pasantaj	as in: passing years
-past	preter	pass something/someone (go/drive/fly …)
-pastime	amuzaĵo	
-pay attention to	priatenti {tr}	
-peasant	kamparano	
-people 	popolo	populace
-perform	plenumi {tr}	fulfill
-perform	roli {tr}	as an actor
+paint	pentri {tr}	to paint as an atrist
+to paint	pentri {tr}	
+painter	pentristo	an artist who paints
+by means of	per	with the use of something
+through	per	with the use of something
+with	per	with the use of something
+betray	perfidi {tr}	
+treachery	perfido	
+allow	permesi {tr}	
 persons	personoj	
-Pharaoh	Faraono	
-picture	bildo	
-plainly	klare	
-platter	plado	
-plays	ludas {tr|ntr}	
-please	bonvolu	please
-pleased	plaĉita	
-pleasure	plezuro	
-plot	intrigo	cunning activity to make or break a cause
-plotting	intrigi {ntr}	
-plum-pudding	prun’pudingo	
+disturb	perturbi {tr}	
+beg	petegi {tr}	beg someone or something
+implore	petegi {tr}	implore someone or something
+ask	peti {tr}	request
+heavy	peza	
+weight	pezo	
+footstep	pied'paŝo	
+foot	piedo	
+picnic	pikniko	
+pine woods	pinaro	
 point	pinto	tip of sword or needle
-point	punkto	exact location
-pomegranate	granato	
+airbrush	pistolfarbi {tr}	to paint with a sprayer
+spraypaint	pistolfarbi {tr}	to paint with a sprayer
+picturesque	pitoreska	
+pleased	plaĉita	
+platter	plado	
+ceiling	plafono	
+floor	planko	
+plopped	plaŭdis {ntr}	
+biggest	plej granda	
+lightest	plej malpeza	least heavy
+complain	plendi {ntr}	
+fill	plenigi	
+fulfil	plenumi {tr}	
+perform	plenumi {tr}	fulfill
+have fulfilled	plenumis {tr}	
+pleasure	plezuro	
+higher	pli alta	
+better	pli bone	
+increase	pliigi {tr}	make something more
+dive	plonĝi {ntr}	
+further	plua	
+further	plue	
+several	pluraj	
+each	po	for a divided amount, followed by the nominative
+gout	podagro	
+poetic	poezia	
+gloss	poluro	
+dusty	polva	
 pomp	pompo	
-poor	malriĉa	
-portly	korpulenta	
+dagger	ponardo	
+people 	popolo	populace
+popular	populara	
+for	por	outcome of an action
+to be cured	por esti resanigita	lit. for the purpose of being restored to health
+so that	por ke	
+gate	pordego	
+gate	pordego	
+carries	portas {tr}	
+porter	portisto	
+after	post	after something
+ in due course	post iom da tempo	
+afterglow	post'brilo	
+position	posteno	position as in job
+post	posteno	
+in the afternoon	posttagmeze	
+afternoon	posttagmezo	
+demand	postuli	
+mighty	potenca	powerful
+can	povas {tr}	has the ability to
+way	pozicio	position
 pose	pozo	
-possibly	eble	
-potation	trinkaĵo	
+in days of yore	pra'antaŭe	
 practical	praktika	not theoretical
-preexistence	antaŭ'ekzisto	
+are practiced	praktikitaj	
+forefathers	prapatroj	if both sexes: prauloj
+ancestor	praulo	
+particularly	precipe	
+exactitude	precizeco	
 prefer	preferi {tr}	
-present	donaco	gift
-present day	la estanteco	
-present day	nuneco	
-present day	nuntempo	
-presently	baldaŭ	soon
-preserved	konservita	
-pretend	ŝajnigi {ntr}	
-pretty	bela	
-prevails	regas	
-prevent	malhelpi {tr}	
-prince	princo	
-printed	presita	
+church	preĝejo	
 prize	premi	
-probably	eventuale 	
+pressure	premo	
+took	prenis {tr}	
+picked it up	prenis ĝin	
+printed	presita	
+almost	preskaŭ 	
+past	preter	pass something/someone (go/drive/fly …)
+overlook	preteratenti {tr}	
+passed me by	preterpasis min	
+representation	prezento	an image of
+about	pri	talk about something
+concerning	pri	talk about something
+pay attention to	priatenti {tr}	
+prince	princo	
+reflective	pripensa	
+reflection	pripensado	the act of reflection on an issue
+thoughtful	pripensema	prone to reflection
+reflective	pripensema	thoughtful
+reflect	pripensi {tr}	give thought about
+wonder about	pripensi {tr}	
+paint	pripentri	to decorate with paint
+because of	pro	because of someone/thing
+due to	pro	cause of action
+out of	pro	as a result of
+that’s why	pro kio 	
+therefore	pro kio 	
 procession	procesia	
-promised	promesis {tr}	
-prophesies	profeti	make prophesy
 prophetic	profeta	
-protect	protekti {tr}	
-protection	protekto	
+prophesies	profeti	make prophesy
+deep	profunde	deeply
+delay	prokrasti {tr}	
+delay	prokrasto	
+near	proksima	
+walk	promeno	
+have promised	promesis {tr}	
+promised	promesis {tr}	
+proposed	proponis geedziĝon	proposed marriage
+of his own	propran	
+property	propreaĵo	special characteristic
+peculiarity	propreeco	
 protective	protekta	
 protectively	protekte	
+protect	protekti {tr}	
+protection	protekto	
+plum-pudding	prun’pudingo	
+mental	psika	psychological
 public	publika	
+pulp	pulpo	
+point	punkto	exact location
+neat	pura	clean
 purple	purpura	
-put	meti {tr}	
-put aside	formeti {tr}	
-quaint	kuriozaj	
-questioningly	demande	
-quietly	kviete	
-rafters	tegmenta trabaro	
-read	legi {tr}	
+push	puŝi {tr}	
+radium	radiumo	
+wheel	rado	
+mill-wheel	rado de muelilo	
+tells	rakontas	
+edge	rando	
+buttercup	ranunkolo	
+hurrying	rapidanta	
+hurries	rapidas	
+hurried	rapidi {ntr}	
 real	reala	vs. imagata (imagined) & ŝajna (apparent)
-realise	konscii {tr|ntr}	to be aware
 reality	realo	
-really	efektive	in fact, real, in reality, not imagined
-really	vere	in truth
-really	vere	in reality
-really	vere 	true, not false
-reap	rikolti {tr}	
-receives	ricevi {tr}	
-recumbent	kuŝa	
-red	ruĝa	
-referring to	aludante	
-reflect	pripensi {tr}	give thought about
-reflection	pripensado	the act of reflection on an issue
 reflection	reflekto	optical as a mirror
-reflective	pripensa	
-refusal	rifuzo	
-refuse	rifuzi {tr}	
+prevails	regas	
 regular	regula	consistent
 regulation	regulo	
-rejoicings	jubiloj	
-relative	parenco	
-remember	memori {tr}	
-remind	memorigi {tr}	remind of something in the future
 remind	rememorigi {tr}	remind of something in the past
-remorse	bedaŭro	
-remorse	pento	Remorse
-remorse	rimorso	
-renounce	rezigni {tr}	
+meet	renkontas	
+was turned upside down	renversiĝis {ntr}	
 repaint	repentri {tr}	to repaint in an atristic way
-representation	prezento	an image of
-represented	montra	portrayed in a drawing note: reprezenti is act as representative
 repute	reputacio	
-was held in high repute	estis estimata	
+reputation	reputacio	
+have recovered	resaniĝis {ntr}	
+stay	resti {ntr}	
 rest	resto	remainder
-rest	ripozi {ntr}	
-result	rezulto	
 resurrection	resurekto	
 return	reveni {ntr}	
 return	reveni {ntr}	
+dream	revo	as in “I have a dream”
+dreamer	revulo	one who tends to dream rather than act
+abjure	rezigni {tr}	definitely leave as unworkable or unattainable
+renounce	rezigni {tr}	
+had led to	rezultigis	resulted in, originated
+result	rezulto	
 rich	riĉa	
 richness	riĉeco	
-right	dekstre 	
-ring out	elsonori {tr}	
-risk	risko	possibility of failure
+receives	ricevi {tr}	
+laugh	ridi {ntr}	
+refuse	rifuzi {tr}	
+refusal	rifuzo	
+gaze	rigardi {tr}	
+look	rigardi {tr}	to look at with the eyes
+watching	rigardi {tr}	
+rigid	rigide	
+reap	rikolti {tr}	
+concern	rilati {ntr}	is related to
+rhyming	rimanta	
+notices	rimarkas {tr}	
+notice	rimarki {tr}	
+remorse	rimorso	
+rest	ripozi {ntr}	
+rest	ripozo	the thing one has while resting, a rest
 risk	riski {tr}	to take a risk
-roast	rostita	one that has been roasted
+risk	risko	possibility of failure
+revealing	rivela	
+reveal	riveli {tr}	
+stream	rivereto	
 robe	robo	
-rose	roza	
-rosemary	rosmareno	
+rivulet	rojo	
+perform	roli {tr}	as an actor
+break	rompiĝi	become broken
 rosemary plant	rosmaren’planto	
+rosemary	rosmareno	
+roast	rostita	one that has been roasted
+rose	roza	
+rubbish	rubaĵo	
+red	ruĝa	
+blush	ruĝiĝi {ntr}	redden, incl. by shame
+tumbling	ruliĝante	
 rounds	rundojn	as in, making the rounds
-rustics	kamparanoj	
-safe	sekura	
-Samos	Samoso	Greek Island
-sanatorium	sanatorio	residential rehab, ≠hospitalo
 Saturday	sabato	
+pretend	ŝajnigi {ntr}	
+swore	sakri {ntr}	used profanity
+salary	salajro	
+leaped	saltis {ntr}	
+greet	saluti	
+just the same	same	in the same way
+Samos	Samoso	Greek Island
+well	sana	healthy
+healthy	sana	
+sanatorium	sanatorio	residential rehab, ≠hospitalo
+change	ŝanĝi {tr}	
+holy	sankta	
 saturnalia	saturnalio	
-say	diri {tr}	
-scarlet	skarlata	
-seascape	marpentraĵo	
-season	sezono	
-second	dua	
-seize	kapti {tr}	
+foaming	ŝaŭma	frothy
+knows	scias {tr}	
+wonder	scivoli	
+if so	se jes	
+but	sed	
+sawmill	segejo	
+safe	sekura	
+consequently	sekve 	
+subsequently	sekve 	
+thus	sekve 	
+follow	sekvi {tr}	
+solemnity	seleno	
+without	sen	without someone/thing
+unsuccessful	sen'sukces'ema	tending to be unsuccessful as a person
+carelessly	senatente	
+abandon	senbrideco	lit. unbridled-ness
+aimless	sencela	
+sending	sendi {tr}	
+bare-armed	senmanika	sleeveless
+still	senmove	not moving
+idle	senokupa	
+idly	senokupe	
+impatient	senpacienca	
+thoughtless	senpripensa	
+ignorant	senscia	unknowing
+felt	sensis {tr}	physical sensation
+unsuccessful	sensukcesa	unsuccessful as a single event
+feel	senti {tr}	
+sentimental	sentimentala	
+useless	senutila	
 September	septembro	
 seriously	serioze	
-shadow	ombro	
-share	kunhavigi {tr}	
-sharp	akra	
-show	montri {tr}	
-signature	subskribo	
+season	sezono	
+his	sia	
+sat	sidis {ntr}	
+means	signifis {tr}	has the meaning of
 silken	silka	
-silver	arĝenta	
-silver	arĝenta	
-since	ekde	from a specific point in time until now
-since	ekde	
-sister	fratino	nun
+sympathy	simpatio	
+cautious	singarda	lit. self-guarding
+cautiously	singarde	
+tearing	ŝiranta	
+system	sistemo	
+scarlet	skarlata	
 sketch	skizo	
-skill	lerteco	
-sleep	dormi {ntr}	
-slight	malgrava	not serious
-snow on the ground	neĝo sur la tero	
-so	do 	logical consequence
-so that	por ke	
-soil	grundo	soil
+sober	sobra	
+lonely	soleca	
+loneliness	soleco	
 solemn	solena	
-solemnity	seleno	
-some	iuj	countable things
-sometime	iam 	
-somewhere	ie 	
-soon	baldaŭ 	
-speak	paroli {ntr}	
-speech	parolado	
-spraypaint	pistolfarbi {tr}	to paint with a sprayer
-squire	varleto	
-stable	stalo	horse house (or other animals)
-star	stelo	in the sky
-state	stato	
-step	paŝo	a step in walking
-step	ŝtupo	steps of a staircase
-still	senmove	not moving
-still	tamen 	
-stir	kirli {tr}	
-stone	ŝtona	made of stone
-stops	ĉesi	cease
-stout-legged	dike kruraj	
-stream	rivereto	
-stronghold	fortikaĵo	
-subsequently	sekve 	
-suitable	taŭga	
-Sunday	dimanĉo	
-sunset	sunsubiro	
-superstition	superstiĉo	
-surplice	surpliso	liturgical garment
-surrounding	ĉirkaŭa	
-sword	glavo	
-table	tablo	
-takes no account of me	ne konsideras min	
-talk	paroli {tr}	
-tankards	tasegoj	
-tasty	bongusta	
-teach	instrui {tr}	
-tell	diri {tr}	
-tells	rakontas	
-tempt	tenti {tr}	
-tend	emas	has the tendency
-tender	molan	in regard to meat
-thank	danki {tr}	
-that	ke	introduces a clause, if clause shows purpose, use ‘por ke’
-that	tio	that thing
-that	tiu	that one
-that’s	tio estas	
-that’s why	pro kio 	
-that’s why	tial 	
-the waits	karol’kantistoj	carol singers
-then	do 	logical consequence
-then	tiam 	at that time "not earlier than then"
-there	tie 	
-therefore	konsekvence 	
-therefore	pro kio 	
-therefore	tial 	
-third	tria	
-Thos.	Tomaso	name
-thought	pensis {ntr}	
-thoughtful	pripensema	prone to reflection
-thoughtless	senpripensa	
-thousand	milo	
-through	per	with the use of something
-through	tra	limited from above, below and on the sides, from one side to the other
-Thursday	ĵaŭdo	
-thus	sekve 	
-to	al	to a place, to a person
-to a great extent	multe	
-to me	al mi	
-to the end	ĝis la fino	
-to the right	dekstren	
-today	hodiaŭ 	
-tomorrow	morgaŭ 	
-took	prenis {tr}	
-torches	torĉojn	
-torment	turmenti {tr}	
-torture	torturi {tr}	
-touch	tuŝi {tr}	
-to trace	spuri {tr}	to follow traces left by an action
-traditions	tradicioj	
-treachery	perfido	
-Tuesday	mardo	
-turquoise	turkisa	
-twelfth	dekdua	
-twelve	dekdua	
-twig	branĉeto	
-ubiquity	ĉieo	
-under	malsupre 	
-under	sub	under something
-underneath	malsupre 	
-undo	malfari {tr}	
-unearths	el’terigas	
-uneasiness	maltrankvilo	
-unfortunately	bedaŭrinde 	
-until	ĝis	destination
-until	ĝis	up to/by a specific time
-up to	ĝis	destination
-upstairs	supre 	
-various	diversa	
-Venice	Venecio	
-very	tre 	
-village	vilaĝo	
-violet	viola	
-voice	voĉo	
-volume	volumo	book in a collection
-wagoner	ĉaristo	
-want	voli {tr}	
-watching	rigardi {tr}	
-watercolor	akvofarbo	
-weary	laca	
-weather	vetero	
-wedding	geedziĝo	
-Wednesday	merkredo	
-weird	stranga	
-when	kiam 	relative
-where	kie 	relative
-whisper	flustri {tr}	
-white	blanka	
-whiteness	blankeco	
-Whittier	Vitiero	
+dream	sonĝo	while sleeping
+bell	sonorilo	
+clang	sonoro	
+bewitched	sorĉita	
+fate	sorto	
+lot	sorto	lot in life, as in fate
 wild	sovaĝa	
-with	kun	together with someone/thing
-with	per	with the use of something
-with dignity	digne	
-within doors	Intern'dome	
-without	sen	without someone/thing
-Wynkin de Worde	Vinko Devordo	
-yearlong	jarlonga	
-years ago	antaŭ jaroj	
-yellow	flava	
-yesterday	hieraŭ 	
+had saved	ŝparis {tr}	
+certain	specifa	
+pageantry	spektaklo	
+expert	spertulo	
+gush	ŝpruci {ntr}	
+splashed	ŝprucis {ntr}	
+to trace	spuri {tr}	to follow traces left by an action
+stable	stalo	horse house (or other animals)
+manger	staltrogo	
+state	stato	
+creeping	ŝtel'ir'anta	
+creeps	ŝtel'iri {ntr}	
+star	stelo	in the sky
+cloth	ŝtofo	
+stone	ŝtona	made of stone
+stone	ŝtono	
+weird	stranga	
+strain	streĉi {tr}	
+tension	streĉo	
+tight	strikte	
+studejo	studejo	place to study
+step	ŝtupo	steps of a staircase
+below	sub	under something
+beneath	sub	under something
+under	sub	under something
+outdoor	subĉiela	
+signature	subskribo	
+enough	sufiĉe 	
+sunset	sunsubiro	
+above	super	above or over something, but not directly on it
+over	super	above or over something, but not directly on it
+above the door	super'porde	
+extra bit	superfluo	
+superstition	superstiĉo	
+upstairs	supre 	
+on	sur	fixed to something & in contact
+upon	sur	
+surplice	surpliso	liturgical garment
+on the way back	survoje reen	
+swung	svingiĝis {ntr}	
+table	tablo	
+mooned	tag'revis obsede	lit. daydreamed obsessively
+at noon	tagmeze	
+noon	tagmezo	
+talent	talento	
+however	tamen 	
+nevertheless	tamen 	
+still	tamen 	
 yet	tamen 	
-yule-log	Jul'ŝtipo	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+tankards	tasegoj	
+fit	taŭga	suitable
+suitable	taŭga	
+fit	taŭgi {ntr}	be suitable
+rafters	tegmenta trabaro	
+temperament	temperamento	
+tendency	tendenco	
+hold	teni {tr}	
+tempt	tenti {tr}	
+Land’s End	Terfino	
+such	tia 	of that kind or degree
+for that reason	tial 	
+that’s why	tial 	
+therefore	tial 	
+then	tiam 	at that time "not earlier than then"
+there⁠	tie	
+there	tie 	
+like that	tiel	
+thus	tiel	in such a way
+so	tiel	in that way
+in such a fashion	tiel 	
+in that manner	tiel 	
+in that way	tiel 	
+ it seemed	tiel ŝajnis	
+afraid	tima	
+frightened	tima	
+fears	timas {tr}	
+that	tio	that thing
+that’s	tio estas	
+so much	tiom	
+Tyrolese	Tirola	
+Tiroler Sparbank	Tirola Ŝparbanko	Tyrolean Savings Bank
+entitled	titolita	given the title of
+that	tiu	that one
+Thos.	Tomaso	name
+grave	tombo	
+torches	torĉojn	
+rushing water	torenta akvo	as in a rivulet
+torture	torturi {tr}	
+through	tra	limited from above, below and on the sides, from one side to the other
+traditions	tradicioj	
+tragic	tragedia	
+is treated	traktita	
+sawn-off	tranĉita	
+across	trans	from one side to the other, on the opposite side of
+on the other side of	trans	from one side to the other, on the opposite side of
+over	trans	from one side to the other, on the opposite side of
+crossing	transirante	
+very	tre 	
+tremble	tremi {ntr}	
+dip	trempetiĝi {ntr}	become dipped in liquid
+soak	trempi {tr}	
+three weeks before	tri semajnojn antaŭe	
+third	tria	
+triangular	triangula	
+potation	trinkaĵo	
+triumphant	triumfa	
+overbalanced	tro balanciĝis {ntr}	
+trough	trogo	
+exaggerate	troigi {tr}	
+excess	troo	
+found	trovis {tr}	
+instantly	tuj	
+immediately	tuj 	
+in an instant	tuje	
+turquoise	turkisa	
+torment	turmenti {tr}	
+turn	turni {tr}	
+revolving	turniĝanta	
+touch	tuŝi {tr}	
+all	tuta	
+whole	tuta	
+entire	tuta	
+completely	tute 	
+fellow	ulo	
+one	unu	
+first few lines	unuajn kelkajn liniojn	
+once	unufoje	on one occasion
+use	uzi {tr}	
+squire	varleto	
+alas	ve	
+on Fridays	vendrede 	
+Friday	vendredo	
+Venice	Venecio	
+come	veni {ntr}	
+green	verda	
+really	vere	in truth
+really	vere	in reality
+really	vere 	true, not false
+pouring	verŝiĝanta	
+endways	vertikale	
+dusk	vesperkrepusko	
+weather	vetero	
+going for a drive	veturi {ntr}	
+meat	viando	
+village	vilaĝo	
+vineyards	vinberejo	
+Wynkin de Worde	Vinko Devordo	
+violet	viola	
+violet rays	viola radioj	
+man	viro	
+men	viroj	
+mistletoe	visko	
+Whittier	Vitiero	
+alive	viva	
+living	vivado	
+life	vivo	
+wobble	vobli {ntr}	
+wobbling	voblo	
+voice	voĉo	
+lane	vojeto	small country road
+road	vojo	
+call	voki {tr}	call to
+call	voko	
+will call	vokos {tr}	call to
+want	voli {tr}	
+gladly	volonte 	
+volume	volumo	book in a collection
+injure	vundi {tr}	
+X-rays	X-radioj	
+care	zorgo	concern and responsibility
 		
 		
 		
