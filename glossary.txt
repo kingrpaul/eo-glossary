@@ -1,4392 +1,4094 @@
-fir cone	abia konuso	
-subscription	abona	
-abruptly	abrupte	
+fir cone	abia konuso	n.
+subscription	abona	adj.
+abruptly	abrupte	adv.
 abstraction	abstrakto	not short summary
-absurd	absurda	
-is everywhere rife	abundas	
-awful	aĉa	causing fear; appalling; terrible
-initiate	adepto	new member
-goodbye	adiaŭ	forever or long time
-take leave of	adiaŭi	
-awed	admirante	
+absurd	absurda	adj.
+is everywhere rife	abundas	v.
+awful	aĉa	adj. causing fear; appalling; terrible
+initiate	adepto	n. new member
+goodbye	adiaŭ	int. forever or long time
+take leave of	adiaŭi	v.
+awed	admirante	adv.
 awe	admiro	admiration
-adult	adolto	one fully grown
-adorable	adorinda	
-adultery	adulto	
-air	aero	
-affect	afekcii {tr}	create change in, have an emotional impact on
-affected creature	afekta estajo	
-affect	afekti {tr}	pretend, put on airs
-affair	afero	
-issue	afero	
-item	afero	
-matter	afero	
-thing	afero	
-poster	afiŝo	
-affliction	aflikto	
-agent	agento	
-thirty years of age	aĝis tridek jarojn	
-agitation	agitado	
-recognize	agnoski	by official declaration
-agnostic	agnostika	
-age	aĝo	time in existence
-death-throes	agonio	
-accent	akcento	stress on a syllable; musical accent.
-accent	akĉento	of a certain dialect region
-reception	akcepto	act of receiving, not a party
-unglücksfall	akcidento	German, accident
-accord	akordo	
-keen	akra	
-sharp	akra	
-grasshopper	akrido	
-locust	akrido	
-actively	aktive	
-current	aktuala	
-present-day	aktuala	
-topical	aktuala	
-up to date	aktuala	
-on time	akurata	
-prompt	akurata	
-punctual	akurata	
-wasser	akvo	German, water
-water	akvo	
-waterfall	akvofalo	
-watercolor	akvofarbo	
-to	al	to a place, to a person
-towards	al	
-to me	al mi	
-creeps up	al'ŝtel'iras {ntr}	
-alarmed	alarmite	
-alarm	alarmo	
-add	aldoni {tr}	
-Alexandria	Aleksandrio	
-awning	alero	roof overhang
-eave	alero	roof overhang
-roof overhang	alero	
-attached	alfiksata	
-face	alfronti {tr}	face adversity
-other	alia	
-otherwise	alie 	
-paragraph	alineo	in ordinary text
+adult	adolto	n. one fully grown
+adorable	adorinda	adj.
+adultery	adulto	n.
+air	aero	n.
+affect	afekcii	v.tr create change in, have an emotional impact on
+affected creature	afekta estajo	n.
+affect	afekti	v.tr pretend, put on airs
+affair	afero	n.
+issue	afero	n.
+item	afero	n.
+matter	afero	n.
+thing	afero	n.
+poster	afiŝo	n.
+affliction	aflikto	n.
+agent	agento	n.
+thirty years of age	aĝis tridek jarojn	*
+agitation	agitado	n.
+recognize	agnoski	v.tr by official declaration
+agnostic	agnostika	adj.
+age	aĝo	n. time in existence
+death-throes	agonio	n.
+accent	akcento	n. stress on a syllable; musical accent.
+accent	akĉento	n. of a certain dialect region
+reception	akcepto	n. act of receiving, not a party
+unglücksfall	akcidento	n. German, accident
+accord	akordo	n.
+keen	akra	adj.
+sharp	akra	adj.
+grasshopper	akrido	n.
+locust	akrido	n.
+actively	aktive	adv.
+current	aktuala	adj.
+present-day	aktuala	adj.
+topical	aktuala	adj.
+up to date	aktuala	adj.
+on time	akurata	adj.
+prompt	akurata	adj.
+punctual	akurata	adj.
+wasser	akvo	n. German, water
+water	akvo	n.
+waterfall	akvofalo	n.
+watercolor	akvofarbo	n.
+to	al	prep. to a place, to a person
+towards	al	prep.
+to me	al mi	v.
+creeps up	al'ŝtel'iras	v.ntr
+alarmed	alarmite	adv.
+alarm	alarmo	n.
+add	aldoni	v.tr
+Alexandria	Aleksandrio	n.
+awning	alero	n. roof overhang
+eave	alero	n. roof overhang
+roof overhang	alero	n.
+attached	alfiksata	adj.
+face	alfronti	v.tr face adversity
+other	alia	adj.
+otherwise	alie	adv.
+paragraph	alineo	n. in ordinary text
 wing	alo	wing of a plane or building
-bring	alporti {tr}	
-appropriate	alproprigi {tr}	take someone's stuff
-high	alta	
+bring	alporti	v.tr
+appropriate	alproprigi	v.tr take someone's stuff
+high	alta	adj.
 high school	alta lernejo	college (grades 13 and above)
-altar	altaro	
-high up	alte	
-height	alteco	
-attract	altiri {tr}	
-precious	altvalora	
-referring to	aludante	
-allude to	aludi	
-hint	aludi {tr}	
-speak of	aludi	
-allude to	aludi (+ al)	
+altar	altaro	n.
+high up	alte	adv.
+height	alteco	n.
+attract	altiri	v.tr
+precious	altvalora	n.
+referring to	aludante	adv.
+hint	aludi	v.tr
+speak of	aludi	v.
+allude to	aludi (+ al)	v.
 reference	aludo	indirectly mentioning a thing
-roll up	alveni {tr}	
-lover	amanto	
-bitter	amara	literal or figurative
-bitterly	amare	
-in large quantities	amase	
-in throngs	amase	
-amass	amasigi	
-flock	amasiĝi	to pile up or become a crowd
-crowd	amaso	
-mass	amaso	
-pile	amaso	
-beloved	amata	
-ambitious	ambicia	
-ambition	ambicio	
-fondly	ame	
-love	ami {tr}	
-has loved	amis {tr}	
-make love	amori	
+roll up	alveni	v.tr
+lover	amanto	n.
+bitter	amara	adj. literal or figurative
+bitterly	amare	adv.
+in large quantities	amase	adv.
+in throngs	amase	adv.
+amass	amasigi	v.
+flock	amasiĝi	v.ntr to pile up or become a crowd
+crowd	amaso	n.
+mass	amaso	n.
+pile	amaso	n.
+beloved	amata	adj. 
+ambitious	ambicia	adj.
+ambition	ambicio	n.
+fondly	ame	adv.
+love	ami	v.tr
+has loved	amis	v.tr
+make love	amori	v.
 love	amoro	sexual love, love affair, sexual activity
-ample	ampleksa	
-bulky	ampleksa	
-large	ampleksa	bulky
-amusing	amuza	
-entertaining	amuza	
-funny	amuza	amusing
-amusement	amuzaĵo	
-pastime	amuzaĵo	
-amuse	amuzi	
-be entertained	amuziĝi	
-analytical	analiza	
-angel	anĝelo	
-English	angla	
-England	Anglio	
-Englishman	anglo	
-agony	angoro	
-anguish	angoro	
-anxiety	angoro	
-angle	angulo	
-soul	animo	
-as well	ankaŭ	
-too	ankaŭ	
-also	ankaŭ 	
-likewise	ankaŭ 	
+ample	ampleksa	adj.
+bulky	ampleksa	adj.
+large	ampleksa	adj. bulky
+amusing	amuza	adj.
+entertaining	amuza	adj.
+funny	amuza	adj. amusing
+amusement	amuzaĵo	n.
+pastime	amuzaĵo	n.
+amuse	amuzi	v.
+be entertained	amuziĝi	v.
+analytical	analiza	adj.
+angel	anĝelo	n.
+English	angla	adj.
+England	Anglio	n.
+Englishman	anglo	n.
+agony	angoro	n.
+anguish	angoro	n.
+anxiety	angoro	n.
+angle	angulo	n.
+soul	animo	n.
+as well	ankaŭ	adv.
+too	ankaŭ	adv.
+also	ankaŭ	adv.
+likewise	ankaŭ	adv.
 still	ankoraŭ	action did not stop
-not yet	ankoraŭ ne	
-anxious	anksia	
+not yet	ankoraŭ ne	adv.
+anxious	anksia	adj.
 instead of	anstataŭ	replace something with something else
-instead of	anstataŭ	
-act in place of	anstataŭi	
-be a replacement for	anstataŭi	
-replace	anstataŭi	take the place of
-take the place of	anstataŭi	
-replace	anstataŭigi	replace (something) with (something)
+act in place of	anstataŭi	v.
+be a replacement for	anstataŭi	v.
+replace	anstataŭi	v. take the place of
+take the place of	anstataŭi	v.
+replace	_anstataŭigi	v.tr replace (something) with (something)
 ago	antaŭ	at or during a earlier time, eg antaŭ tri tagoj
 before	antaŭ	at or during a earlier time
 in front of	antaŭ	in front/before
-before	antaŭ 	
-years ago	antaŭ jaroj	
-recently	antaŭ nelonge	
-preexistence	antaŭ'ekzisto	
-in front	antaŭe 	
-forwards	antaŭen	
-go forward	antaŭen'iru {ntr}	
-looked forward	antaŭĝojis pri	
+years ago	antaŭ jaroj	*
+recently	antaŭ nelonge	adv.
+preexistence	antaŭ'ekzisto	n.
+in front	antaŭe	adv.
+forwards	antaŭen	adv.
+go forward	antaŭen'iru	v.ntr
+looked forward	antaŭĝojis pri	v.
 looked forward to	antaŭĝojitaj	as in anticipated
-advance	antaŭiĝi {ntr}	move forward
-apron	antaŭtuko	
-prevision	antaŭvido	
-expectation	anticipio	
-ancient	antikva	
-apparatus	aparato	
-device	aparato	
-apart	aparte	
-belong	aparteni {ntr}	
-barely	apenaŭ	
-hardly	apenaŭ 	
-justification	apologio	formal justification
-Apollo	Apolono	
-April	aprilo	
-boar	apro	
-approval	aprobo	
+advance	antaŭiĝi	v.ntr move forward
+apron	antaŭtuko	n.
+prevision	antaŭvido	n.
+expectation	anticipio	n.
+ancient	antikva	adj.
+apparatus	aparato	n.
+device	aparato	n.
+apart	aparte	adv.
+belong	aparteni	v.ntr
+barely	apenaŭ	adv.
+hardly	apenaŭ	adv.
+justification	apologio	n. formal justification
+Apollo	Apolono	n.
+April	aprilo	n.
+boar	apro	n.
+approval	aprobo	n.
 beside	apud	next to (without touching)
 by	apud	next to
 next to	apud	next to (without touching)
-arrange	aranĝi {tr}	
-dispose	aranĝi	
-array	aranĝo	arrangement
-grove	arbareto	
-forest	arbaro	
-sapling	arbido	
-tree	arbo	
-crane	argano	machine only
-drilling hoist	argano	
+arrange	aranĝi	v.tr
+dispose	aranĝi	v.
+array	aranĝo	n. arrangement
+grove	arbareto	n.
+forest	arbaro	n.
+sapling	arbido	n.
+tree	arbo	n.
+crane	argano	n. machine only
+drilling hoist	argano	n.
 hoist	argano	drilling
-silver	arĝenta	
-silver	arĝento	
-mud	argilo	
-argument	argumento	point put forward
-fragrant	aroma	
-herb	aromherbo	seasoning
-artificial	artefarita	
+silver	arĝenta	adj.
+silver	arĝento	n.
+mud	argilo	n.
+argument	argumento	n. point put forward
+fragrant	aroma	adj.
+herb	aromherbo	n. seasoning
+artificial	artefarita	adj.
 assert	aserti	in good faith or in logic
-claim	aserti	in good faith or in logic
-asphalt	asfalto	
-pitch	asfalto	
-tar	asfalto	
-associated with	asociita kun	
-appear	aspekti	how one looks to others
-look	aspekti {ntr}	appear as, how one looks to others
-appearance	aspekto	
-asthma	astmo	
-attack	atako	
-assault	atenci	
-await	atendi	
-expect	atendi	
-wait for	atendi	
-attentive	atenta	
-attentive	atentema	
-be careful	atenti {tr}	pay attention
-pay attention to	atenti	
-call attention to	atentigi	
-caution	atentigi	somebody
-draw attention to	atentigi {tr}	
-remark	atentigi	
-attention	atento	
-care	atento	being meticulous
-achieve	atingi {tr}	
-reach	atingi {tr}	
-reach	atingo	
-atmosphere	atmosfero	
-or	aŭ	
-hears	aŭdas {tr}	
-hear	aŭdi {tr}	
-heard	aŭdis {tr}	
-August	aŭgusto	
-halo	aŭreolo	over the head, in art
-listen	aŭskulti {tr}	
-hark	aŭskultu	
-auspicious	aŭspicia	
-genuine	aŭtentika	original, not forged
-warn	averti {tr}	
-crave	avidi {tr}	
-acquire	avigi al si	
-procure	avigi al si	
+claim	aserti	v. in good faith or in logic
+asphalt	asfalto	n.
+pitch	asfalto	n.
+tar	asfalto	n.
+associated with	asociita kun	*
+appear	aspekti	v. how one looks to others
+look	aspekti	v.ntr appear as, how one looks to others
+appearance	aspekto	n.
+asthma	astmo	n.
+attack	atako	n.
+assault	atenci	v.
+await	atendi	v.
+expect	atendi	v.
+wait for	atendi	v.
+attentive	atenta	adj.
+attentive	atentema	adj.
+be careful	atenti	v.tr pay attention
+pay attention to	atenti	v.
+call attention to	atentigi	v.
+caution	atentigi	v.tr somebody
+draw attention to	atentigi	v.tr
+remark	atentigi	v.
+attention	atento	n.
+care	atento	n. being meticulous
+achieve	atingi	v.tr
+reach	atingi	v.tr
+reach	atingo	n.
+atmosphere	atmosfero	n.
+or	aŭ	conj.
+hears	aŭdas	v.tr
+hear	aŭdi	v.tr
+heard	aŭdis	v.tr
+August	aŭgusto	n.
+halo	aŭreolo	n. over the head, in art
+listen	aŭskulti	v.tr
+hark	aŭskultu	v.
+auspicious	aŭspicia	adj.
+genuine	aŭtentika	adj. original, not forged
+warn	averti	v.tr
+crave	avidi	v.tr
+acquire	avigi al si	v.
+procure	avigi al si	v.
 ass	azeno	donkey
 asylum	azilo	for refugees or mental institution
-retirement community	azilo	
-chat	babili	
-trivial	bagatela	
-mop	balai	
-sweep	balai	
-broom	balailo	
+retirement community	azilo	n.
+chat	babili	v.
+trivial	bagatela	adj.
+mop	balai	v.
+sweep	balai	v.
+broom	balailo	n.
 rock	balanci	rock something
-to swing	balanci	
-bobbed	balanciĝis	
-a clean-up	balao	
+to swing	balanci	v.
+bobbed	balanciĝis	v.ntr
+a clean-up	balao	n.
 presently	baldaŭ	soon
-soon	baldaŭ 	
+soon	baldaŭ	adv.
 dance	balo	an gathering at which one dances
-boy and girl dance	balo por gejunuloj	
-vote	baloti	
-balustrade	balustrado	
-banal	banala	
-bathe	bani {tr}	or baniĝi to bathe oneself
-banquet	bankedo	
-formal banquet	bankedo	
-bath	bano	
-stick	bastono	
-fight	batali {ntr}	
-fought	batalis {ntr}	
+boy and girl dance	balo por gejunuloj	*
+vote	baloti	v.
+balustrade	balustrado	n.
+banal	banala	adj.
+bathe	bani	v.tr or baniĝi to bathe oneself
+banquet	bankedo	n.
+formal banquet	bankedo	n.
+bath	bano	n.
+stick	bastono	n.
+fight	batali	v.ntr
+fought	batalis	v.ntr
 blow	bato	hit or strike
 market	bazaro	outdoor market, flea market
-sorry	bedaŭri {tr}	am sorry, express regret
-regret	bedaŭri 	
-unfortunately	bedaŭrinde	
-remorse	bedaŭro	
-beautiful	bela	
-handsome	bela	
-pretty	bela	
-bench	benko	
-blessing	beno	
+sorry	bedaŭri	v.tr am sorry, express regret
+regret	bedaŭri	v.
+unfortunately	bedaŭrinde	adv.
+remorse	bedaŭro	n.
+beautiful	bela	adj.
+handsome	bela	adj.
+pretty	bela	adj.
+bench	benko	n.
+blessing	beno	n.
 benzene	benzeno	C6H6
 gasoline	benzino	for automobiles
-berry	bero	
-vermin	bestetaĉoj	
-need	bezoni {tr}	
-library	biblioteko	
+berry	bero	n.
+vermin	bestetaĉoj	n.
+need	bezoni	v.tr
+library	biblioteko	n.
 estate	bieno	real rural estate
-farm	bieno	
-property	bieno	
+farm	bieno	n.
+property	bieno	n.
 balance	bilanci	balance an account
-balance sheet	bilanco	
-picture	bildo	
-trillion	biliono	
-joke	blagi	to put somebody on
-joke	blago	joking fib
-white	blanka	
-whiteness	blankeco	
-blaspheme	blasfemi	
-cuss	blasfemi	blaspheme
-swear	blasfemi	blaspheme; cuss
-blinds	blindigas {tr}	
-blinded you	blindigis vin	
+balance sheet	bilanco	n.
+picture	bildo	n.
+trillion	biliono	n.
+joke	blagi	v.tr to put somebody on
+joke	blago	n. joking fib
+white	blanka	adj.
+whiteness	blankeco	n.
+blaspheme	blasfemi	v.
+cuss	blasfemi	v. blaspheme
+swear	blasfemi	v. blaspheme; cuss
+blinds	blindigas	v.tr
+blinded you	blindigis vin	*
 blog	blogo	internet blog
-fair	blonda	blonde
-blow	blovi {ntr}	as the wind
-blue	blua	
-Bloomsbury	Blumsberio	
-boat	boato	
-bubbling	bobelanta	
-fishbowl	bokalo	
-wide-mouthed jar	bokalo	
-buck	boko	male deer
-good	bona	
-bon appetit	bonan apetiton	
-excellent	bonega	
-tasty	bongusta	
-goodwill	bonvolo	
+fair	blonda	adj. blonde
+blow	blovi	v.ntr as the wind
+blue	blua	adj.
+Bloomsbury	Blumsberio	n.
+boat	boato	n.
+bubbling	bobelanta	adj.
+fishbowl	bokalo	n.
+wide-mouthed jar	bokalo	n.
+buck	boko	n. male deer
+good	bona	adj.
+bon appetit	bonan apetiton	*
+excellent	bonega	adj.
+tasty	bongusta	adj.
+goodwill	bonvolo	n.
 please	bonvolu	please
 bank	bordo	as in river-banks
-beef	bovaĵo	
-embrace	brakumi {tr}	
-twig	branĉeto	
-bough	branĉo	
-branch	branĉo	
-Browne	Braŭno	family name
-set of shelves	bretaro	
-shelf	breto	
-gleams	brilas	
-glow	brilo	
-british	brita	
-brush	broso	
-booklet	broŝureto	
-pamphlet	broŝureto	
-paperback book	broŝuro	
-unbound pages	broŝuro	
-brow	brovo	eyebrow
-eyebrow	brovo	
-noise	bruego	
-burn	bruli {ntr}	bruiligi: burn something else
-brown	bruna	
-brusquely	bruske	
+beef	bovaĵo	n.
+embrace	brakumi	v.tr
+twig	branĉeto	n.
+bough	branĉo	n.
+branch	branĉo	n.
+Browne	Braŭno	n. family name
+set of shelves	bretaro	n.
+shelf	breto	n.
+gleams	brilas	v.
+glow	brilo	n.
+british	brita	adj.
+brush	broso	n.
+booklet	broŝureto	n.
+pamphlet	broŝureto	n.
+paperback book	broŝuro	n.
+unbound pages	broŝuro	n.
+brow	brovo	n. eyebrow
+eyebrow	brovo	n.
+noise	bruego	n.
+burn	bruli	v.ntr bruiligi: burn something else
+brown	bruna	adj.
+brusquely	bruske	adv.
 comic	bufono	crude comic performer
 jester	bufono	court jester
-curl	buklo	hair
-ringlet	buklo	hair
-buckle	buko	
-roll	bulko	baked
-ball	bulo	blob of stuff
-loaf	bulo	blob of stuff
-lump	bulo	blob of stuff
-bus	buso	
-mouth	buŝo	
-market	butikejo	set of shops
-annoy	ĉagreni	
-exasperate	ĉagreni {tr}	cause displeasure
-frustrate	ĉagreni	
-sadden	ĉagreni	
-vex	ĉagreni	
-room	ĉambro	
-blackmail	ĉantaĝo	
+curl	buklo	n. of hair
+ringlet	buklo	n. of hair
+buckle	buko	n.
+roll	bulko	n. baked good
+ball	bulo	n. blob of stuff
+loaf	bulo	n. blob of stuff
+lump	bulo	n. blob of stuff
+bus	buso	n.
+mouth	buŝo	n.
+market	butikejo	n. set of shops
+annoy	ĉagreni	v.
+exasperate	ĉagreni	v.tr cause displeasure
+frustrate	ĉagreni	v.
+sadden	ĉagreni	v.
+vex	ĉagreni	v.
+room	ĉambro	n.
+blackmail	ĉantaĝo	n.
 racket	ĉantaĝo	corrupt enterprise; especially blackmail
-chapter	ĉapitro	
+chapter	ĉapitro	n.
 for	ĉar	because
-wagoner	ĉaristo	
-carriage	ĉaro	
-cart	ĉaro	
-chariot	ĉaro	
+wagoner	ĉaristo	n.
+carriage	ĉaro	n.
+cart	ĉaro	n.
+chariot	ĉaro	n.
 charter	ĉarti	rent a vehicle
-charter	ĉarto	legal charter
-hunt	ĉasi {tr}	
-chaste	ĉasta	
+charter	ĉarto	n. legal charter
+hunt	ĉasi	v.tr
+chaste	ĉasta	adj.
 at	ĉe	exact position (next to, in front of)
 by	ĉe	exact position (next to, in front of)
-are giving way	cedas	
-yield	cedi {ntr}	
-attendance	ĉeestado	
-attend	ĉeesti	
-High Priest	Ĉefpastro	
-masterpiece	ĉefverko	
-observed	celebrita	ritual celebration
-aim	celi	
-aim for	celi	
-goal	celo	
-object	celo	of action
-point	celo	of action
-target	celo	
-cell	ĉelo	solo room
-target	celtabulo	in archery
-hundred	cent	
-centre	centro	
-ceremony	ceremonio	
-certain	certa	not having doubt, or something definite
-assuredly	certe	
+are giving way	cedas	v.tr.ntr
+yield	cedi	v.ntr
+attendance	ĉeestado	n.
+attend	ĉeesti	v.
+High Priest	Ĉefpastro	n.
+masterpiece	ĉefverko	n.
+observed	celebrita	adj. ritual celebration
+aim	celi	v.
+aim for	celi	v.
+goal	celo	n.
+object	celo	n. of action
+point	celo	n. of action
+target	celo	n.
+cell	ĉelo	n. solo room
+target	celtabulo	n. in archery
+hundred	cent	*
+centre	centro	n.
+ceremony	ceremonio	n.
+certain	certa	adj. not having doubt, or something definite
+assuredly	certe	adv.
 cease	ĉesi	cease doing something
 stop	ĉesi	cease
-discontinue	ĉesigi	to discontinue something
+discontinue	ĉesigi	v.tr to discontinue something
 stopped	ĉesigis	made it stop
-remainder	cetero	
-in all these ways	ĉi ĉiel	
-with respect to this matter	ĉi koncerne	
-herewith	ĉi kune	
-this morning	ĉi matene	
-this week	ĉi semajne	
-for this reason	ĉi tial	
-now	ĉi tiam	
-here	ĉi tie 	
-hither	ĉi tien	
-this	ĉi tiu	
-in every respect	ĉia'maniere	
+remainder	cetero	n.
+in all these ways	ĉi ĉiel	*
+with respect to this matter	ĉi koncerne	adv.
+herewith	ĉi kune	adv.
+this morning	ĉi matene	adv.
+this week	ĉi semajne	adv.
+for this reason	ĉi tial	*
+now	ĉi tiam	corr.
+here	ĉi tie	adv.
+hither	ĉi tien	corr.
+this	ĉi tiu	corr.
+in every respect	ĉia'maniere	adv.
 ever	ĉiam	always
-always	ĉiam 	
-ever afterwards	ĉiam poste	
-evergreen	ĉiamverdo	
-everywhere	ĉie 	
-in every way	ĉiel	
+always	ĉiam	corr.
+ever afterwards	ĉiam poste	adv.
+evergreen	ĉiamverdo	n.
+everywhere	ĉie	adv.
+in every way	ĉiel	corr.
 heaven	ĉielo	likely preceded by "la"
-ubiquity	ĉieo	
-digit	cifero	number
-number	cifero	digit, written sign for a number
-numeral	cifero	digit
-crumpled	ĉifitajn	
-libertine	cinika	esp. of people
-indecent	cinika	esp. of people
-obscene	cinika	esp. of people
+ubiquity	ĉieo	n.
+digit	cifero	n. number
+number	cifero	n. digit, written sign for a number
+numeral	cifero	n. digit
+crumpled	ĉifitajn	adj.
+libertine	cinika	adj. esp. of people
+indecent	cinika	adj. esp. of people
+obscene	cinika	adj. esp. of people
 Cynics	cinikoj	philosophers
 libertine	cinikulo	a libertine person
-China	Ĉinio	
-everything	ĉio	
+China	Ĉinio	n.
+everything	ĉio	n.
 it all	ĉio	everything
-all this	ĉio ĉi 	
+all this	ĉio ĉi	v.
 around	ĉirkaŭ	around something
-surrounding	ĉirkaŭa	
+surrounding	ĉirkaŭa	adj.
 round	ĉirkaŭe	around
-went about	ĉirkaŭe iris	
-circumstances	cirkonstancoj	
-each	ĉiu	
-every	ĉiu	table-word
-all these years	ĉiuj ĉi tiuj jaroj	
+went about	ĉirkaŭe iris	* use "iri" if they weren't going around something
+circumstances	cirkonstancoj	n.
+each	_ĉiu	corr.
+every	ĉiu	corr.
+all these years	ĉiuj ĉi tiuj jaroj	*
 a year	ĉiujare	yearly
-daily	ĉiutage 	
+daily	ĉiutage	adv.
 did	ĉu	asking a question
+of	_de	adv.
 of	da	how much of something
 pest	damaĝbesto	household beasty eg rat
-damage	damaĝo	
-dancing	dancado	
-dancer	dancanto	one who is dancing
-dance	danci	to dance
-dancer	dancisto	professional dancer
+damage	damaĝo	n.
+dancing	dancado	n.
+dancer	dancanto	n. one who is dancing
+dance	_danci	to dance
+dancer	dancisto	n. professional dancer
 dance	danco	a dance move, like ‘the hustle’
-dangerous	danĝera	
-thank	danki {tr}	
-thank you	dankon	
-went on	daŭre	
-continue	daŭri {ntr}	
-endure	daŭri	
-last	daŭri	endure
-continue	daŭrigi	
+dangerous	danĝera	adj.
+thank	danki	v.tr
+thank you	dankon	n.
+went on	daŭre	adv.
+continue	daŭri	v.ntr
+endure	daŭri	v.
+last	daŭri	v. endure
+continue	daŭrigi	v.
 by	de	from a place or by somebody, expresses possession
 for	de	for a period of time
 from	de	from a place or by somebody, expresses possession
-of	de	
-Bodleian	de Bodlejo	
-henceforth	de nun	
-from time immemorial	de post tempo nememorebla	
-debit	debeto	
+Bodleian	de Bodlejo	n.
+henceforth	de nun	*
+from time immemorial	de post tempo nememorebla	adj.
+debit	debeto	n.
 retail	debiti	to sell retail
 market	debito	market for something,wholesale or retail
-debtor	debitoro	
+debtor	debitoro	n.
 debut	debuti	appear for the first time
-decent	deca	
-December	decembro	
-made his mind up	decidiĝis {ntr}	
-defiant	defia	
-defies	defias {tr}	
-challenge	defii	
-gutter	defluilo	
-had cut it down	dehakis ĝin	
-twelfth	dekdua	
-twelve	dekdua	
-dozen	dekduo	
-downhill	deklive	
-decorative	dekoracia	
-right	dekstre 	
-to the right	dekstren	
-wean	dekutimigi {tr}	
-be delirious	deliri	
-rave	deliri	
-displacement	delokeco	
-questioningly	demande	
-ask	demandi {tr}	inquire, ask about something
+decent	deca	adj.
+December	decembro	n.
+made his mind up	decidiĝis	v.ntr
+defiant	defia	adj.
+defies	defias	v.tr
+challenge	defii	v.
+gutter	defluilo	n.
+had cut it down	dehakis ĝin	*
+twelfth	dekdua	adj.
+twelve	dekdua	adj.
+dozen	dekduo	n.
+downhill	deklive	adv.
+decorative	dekoracia	adj.
+right	dekstre	adv.
+to the right	dekstren	adv.
+wean	dekutimigi	v.tr
+be delirious	deliri	v.
+rave	deliri	v.
+displacement	delokeco	n.
+questioningly	demande	adv.
+ask	demandi	v.tr inquire, ask about something
 resign	demisii	from a position
-again	denove	
+again	denove	adv.
 another	denove	again
 cog	dentrada dento	tooth of a gear
-depend	dependi	
-depression	depresio	clinical depression
-depressed	deprimita	
-depression	deprimo	sub-clinical depression
+depend	dependi	v.
+depression	depresio	n. clinical depression
+depressed	deprimita	adj.
+depression	deprimo	n. sub-clinical depression
 all the more	des pli	idiom
-the more	des pli	
-dessert	deserto	
-destined	destinita	
-destiny	destino	
-had cut it off	detranĉis ĝin	
-destroy	detrui {tr}	
-must	devas {ntr}	(+inf)
-have to	devi	
-must	devi	
-must not	devi ne	
-motto	devizo	
-watchword	devizo	
-ought to	devus	
-should	devus	
-desert	dezerto	
-desire	deziri {tr}	
-wishes	deziri {tr}	
-desire	deziro	
-attend orgies	diboĉi	
-be degenerate	diboĉi	
-be dissolute	diboĉi	
-be licentious	diboĉi	
-be profligate	diboĉi	
-make excessively merry	diboĉi	
+the more	des pli	v.
+dessert	deserto	n.
+destined	destinita	adj.
+destiny	destino	n.
+had cut it off	detranĉis ĝin	*
+destroy	detrui	v.tr
+must	devas	v.ntr (+inf)
+have to	devi	v.
+must	devi	v.
+must not	devi ne	adv.
+motto	devizo	n.
+watchword	devizo	n.
+ought to	devus	v.
+should	devus	v.
+desert	dezerto	n.
+desire	deziri	v.tr
+wishes	deziri	v.tr
+desire	deziro	n.
+attend orgies	diboĉi	v.
+be degenerate	diboĉi	v.
+be dissolute	diboĉi	v.
+be licentious	diboĉi	v.
+be profligate	diboĉi	v.
+make excessively merry	diboĉi	v.
 break	difekti	v.
 damage	difekti	v.
-spoil	difekti	
-digit	diĝito	
-digital	diĝito	
-with dignity	digne	
-dignity	digno	
-bulky	dika	plump
-fat	dika	of people or animals
-plump	dika	
-stout	dika	
-thick	dika	
-stout-legged	dike kruraj	
-Sunday	dimanĉo	
+spoil	difekti	v.
+digit	diĝito	n.
+digital	diĝito	n.
+with dignity	digne	adv.
+dignity	digno	n.
+bulky	dika	adj. plump
+fat	dika	adj. of people or animals
+plump	dika	adj.
+stout	dika	adj.
+thick	dika	adj.
+stout-legged	dike kruraj	*
+Sunday	dimanĉo	n.
 direct	direkti	eg questions; one’s feet; a hose; or tourist
-govern	direkti	
-guide	direkti	
-manage	direkti	
-remark	diri	
-say	diri {tr}	
-tell	diri {tr}	
-service	diservo	religious service
-divide	disigi {tr}	separate something previously united
-parting of the ways	disiĝo de la vojoj	
+govern	direkti	v.
+guide	direkti	v.
+manage	direkti	v.
+remark	diri	v.
+say	diri	v.tr
+tell	diri	v.tr
+service	diservo	n. religious service
+divide	disigi	v.tr separate something previously united
+parting of the ways	disiĝo de la vojoj	*
 discount	diskonto	on financial instruments
-have access to	disponi	
-have available	disponi	
-afford	disponigi	make available
-arrange	dispozicii	
-place	dispozicii	
-set out	dispozicii	
-argument	disputo	
-disagreement	disputo	
-distinguish	distingi {tr}	
-guess	diveni {tr}	
-various	diversa	
-various	diversa	
-divide	dividi	
-share	dividi	
-so	do 	logical consequence
-then	do 	logical consequence
-buck	dolaro	dollar
-dollar	dolaro	
-gentle	dolĉa	
-sweet	dolĉa	when of water, fresh not salty
-agony	dolorego	
-horrible pain	dolorego	
-cause pain	dolori {tr}	
-hurt	dolori {tr}	
-pain	doloro	
+have access to	disponi	v.
+have available	disponi	v.
+afford	disponigi	v.tr make available
+arrange	dispozicii	v.
+place	dispozicii	v.
+set out	dispozicii	v.
+argument	_disputo	n.
+disagreement	disputo	n.
+distinguish	distingi	v.tr
+guess	diveni	v.tr
+various	diversa	adj.
+divide	dividi	v.
+share	dividi	v.
+so	do	logical consequence
+then	do	logical consequence
+buck	dolaro	n. dollar
+dollar	dolaro	n.
+gentle	dolĉa	adj.
+sweet	dolĉa	adj. when of water, fresh not salty
+agony	dolorego	n.
+horrible pain	dolorego	n.
+cause pain	dolori	v.tr
+hurt	dolori	v.tr
+pain	doloro	n.
 loss	domaĝo	regrettable loss actual or potential
-manor	domego	
-manor house	domego	
-mansion	domego	
-house	domo	
-present	donaco	gift
-give	doni {tr}	
-has given	donis {tr}	
-have given	donis {tr}	
-asleep	dormanta	
-sleep	dormi {ntr}	
-thorn	dorno	
+manor	domego	n.
+manor house	domego	n.
+mansion	domego	n.
+house	domo	n.
+present	donaco	n. gift
+give	doni	v.tr
+has given	donis	v.tr
+have given	donis	v.tr
+asleep	dormanta	adj.
+sleep	dormi	v.ntr
+thorn	dorno	n.
 back	dorso	anatomical
-doubt	dubo	
-dramatic	drama	
-wire	drato	
-dream	sonĝo	a dream had while sleeping
-tame	dresi	wild animals
-train	dresi	wild animals
+doubt	dubo	n.
+dramatic	drama	adj.
+wire	drato	n.
+dream	sonĝo	n. dream had while sleeping
+tame	dresi	v. wild animals
+train	dresi	v. wild animals
 booze it up	drinki	drink something alcoholic to excess
-drink	drinki	drink something alcoholic to excess
-guzzle	drinki	drink something alcoholic to excess
-herb	drogherbo	medicinal
-drowned	dronis {ntr}	
+drink	drinki	v. drink something alcoholic to excess
+guzzle	drinki	v. drink something alcoholic to excess
+herb	drogherbo	n. medicinal
+drowned	dronis	v.ntr
 had been drowned	dronis	drowned
-two days later	du tagojn poste	
-second	dua	
-doubted	dubis {tr}	
+two days later	du tagojn poste	adv.
+second	dua	adj.
+doubted	dubis	v.tr
 dub	dubli	dub a film
-twenty-six	dudek ses	
+twenty-six	dudek ses	n.
 score	dudeko	twenty
-as	dum	during the time that
+as	dum	prep. during the time that
 for	dum	spanning an entire duration of time
-while	dum	
-for a moment	dum momento	
+while	dum	conj.
+for a moment	dum momento	n.
 double-handed saw	duoble tenila segilo	aka misery whip
-double	duobligi	
-halfway	duonvoje	
-obey	ebei {tr}	
-flat	ebena	not bumpy
-plain	ebenaĵo	
-plane	ebeno	
-might	eble	
-perhaps	eble	
-possibly	eble	
-might break	eble rompiĝus	
-be possible	ebli {ntr}	
-enabled	ebligis {ntr}	
-ebony	ebona	
-even	eĉ	
-still	eĉ	even
-even from	eĉ de	
-get married	ediniĝi	become a wife
-breed	eduki	
-bring up	eduki	
-cultivate	eduki	a talent
-domesticate	eduki	
-educate	eduki	
-rear	eduki	
-tame	eduki	
-train	eduki	
-get married	edziĝi	become a husband
-wife	edzino	
-husband	edzo	
-actual	efektiva	actually existing
-existing	efektiva	actually existing
-genuinely	efektive	really, actually, indeed
-really	efektive	in fact, real, in reality, not imagined
-affect	efektivigi	to bring about, to effect
-bring about	efektivigi	
-to effect	efektivigi	bring about
-effective	efika	
-efficacious	efika	
+double	duobligi	v.
+halfway	duonvoje	adv.
+flat	ebena	adj. not bumpy
+plain	ebenaĵo	n.
+plane	ebeno	n.
+might	eble	adv.
+perhaps	eble	adv.
+possibly	eble	adv.
+might break	eble rompiĝus	*
+be possible	ebli	v.ntr
+enabled	ebligis	v.ntr
+ebony	ebona	adj.
+even	eĉ	adv.
+still	eĉ	adv. even
+even from	eĉ de	adv.
+get married	ediniĝi	v.ntr become a wife
+breed	eduki	v.tr
+bring up	eduki	v.tr
+cultivate	eduki	v.tr a talent
+domesticate	eduki	v.tr
+educate	eduki	v.tr
+rear	eduki	v.tr
+tame	eduki	v.tr
+train	eduki	v.tr
+get married	edziĝi	v.ntr become a husband
+wife	edzino	n.
+husband	edzo	n.
+actual	efektiva	adj. actually existing
+existing	efektiva	adv. actually existing
+genuinely	efektive	adv. really, actually, indeed
+really	efektive	adv. real, not imagined
+affect	efektivigi	v.tr to bring about, to effect
+bring about	efektivigi	v.
+to effect	efektivigi	v.tr bring about
+effective	efika	adj.
+efficacious	efika	adj.
 afreet	efrito	a powerful evil jinni, demon, or monstrous giant in Arabic mythology
-tremendously	ege	
-more than good	ege bona	
-Egypt	Egiptujo	
-echo	eĥo	
-flash	ekbrilo	
-light	ekbruligi {tr}	start a fire
-to light	ekbruligi	
+tremendously	ege	adv.
+more than good	ege bona	adj.
+Egypt	Egiptujo	n.
+echo	eĥo	n.
+flash	ekbrilo	n.
+light	ekbruligi	v.tr start a fire
+to light	ekbruligi	v.
 since	ekde	from a specific point in time until now
 caught	ekhavita	as in a disease was caught
-clutching	ekkaptante	
-become acquainted with	ekkoni	
-come to know	ekkoni	
-meet	ekkoni	meet for the first time
-church	eklezio	as an organization
-set in motion	ekmovi {tr}	
-bestir	ekmoviĝi {ntr}	
-start	ekmoviĝi	begin to move
-come to know	ekscii	
-find out about	ekscii	
-thrill	ekscito	
-exhibit	ekshibicio	
-exhibitionism	ekshibicio	
-resign	eksiĝi	from a position
-excuse	ekskuzo	
+clutching	ekkaptante	adv.
+become acquainted with	ekkoni	v.tr
+come to know	ekkoni	v.tr
+meet	ekkoni	v.tr meet for the first time
+church	eklezio	n. as an organization
+set in motion	ekmovi	v.tr
+bestir	ekmoviĝi	v.ntr
+start	ekmoviĝi	v.ntr begin to move
+come to know	ekscii	v.
+find out about	ekscii	v.
+thrill	ekscito	n.
+exhibit	ekshibicio	n.
+exhibitionism	ekshibicio	n.
+resign	eksiĝi	v.ntr from a position
+excuse	ekskuzo	n.
 study	ekspertizi	conduct a commissioned study or research report
 study	ekspertizo	conduct of a commissioned study
-exhibit	ekspozicio	
+exhibit	ekspozicio	n.
 beyond	ekster	outside of
 out of	ekster	beyond a closed area
 outside of	ekster	beyond a closed area
-outdoor	ekster’doma	
-extremely	ekstreme 	
+outdoor	ekster’doma	adj.
+extremely	ekstreme	adv.
 balance	ekvilibri	be in equilibrium
-balance	ekvilibrigi	bring into balance
-examination	ekzameno	detailed examination
-inquiry	ekzameno	
-inspection	ekzameno	thorough inspection
-for instance	ekzemple	
+balance	ekvilibrigi	v.tr bring into balance
+examination	ekzameno	n. detailed examination
+inquiry	ekzameno	n.
+inspection	ekzameno	n. thorough inspection
+for instance	ekzemple	adv.
 copy	ekzemplero	eg of a book
-example	ekzemplo	
-instance	ekzemplo	
+example	ekzemplo	n.
+instance	ekzemplo	n.
 drill	ekzerci	to drill or exercise somebody
-exercise	ekzerci {tr}	practice; to drill or exercise somebody; practicer in accusative eg "ekzercas sin al pieco"
+exercise	ekzerci	v.tr practice; to drill or exercise somebody; practicer in accusative eg "ekzercas sin al pieco"
 practice	ekzerci	practice, practicer in accusative eg "ekzercas sin al pieco"
-practice	ekzerciĝi	as the piano
+practice	ekzerciĝi	v.ntr as the piano
 exercise	ekzerco	an exercise
 existence	ekzistado	the ongoing fact of one's existing
-to exist	ekzisti {ntr}	
-existence	ekzisto	
+to exist	ekzisti	v.ntr
+existence	ekzisto	n.
 from	el	from where
-made from	el	
-creep out	el'ŝtel'iri {ntr}	
-unearths	el’terigas	
-publish	eldoni	
-choose	elekti {tr}	
-elect	elekti	
-pick out	elekti	
-select	elekti	
-take coffee	elekti kafon	
-chose	elektis {tr}	
-electricity	elektro	
+made from	el	prep.
+creep out	el'ŝtel'iri	v.ntr
+unearths	el’terigas	v.
+publish	eldoni	v.
+choose	elekti	v.tr
+elect	elekti	v.
+pick out	elekti	v.
+select	elekti	v.
+take coffee	elekti kafon	*
+chose	elektis	v.tr
+electricity	elektro	n.
 elementary school	elementa lernejo	the first six years or so of schoo
-elf	elfo	
-sprite	elfo	
-cropping out	eliranta	
-got out	eliris {ntr}	
-got out	elirus	
-dislodged	elpelita	
-invent	elpensi {tr}	
-fished out	elprenis fiŝe	
-ring out	elsonori {tr}	
-pay out	elspezi	
-spend	elspezi	
-stood out	elstaris	
-stand	elteni {tr}	endure
+elf	elfo	n.
+sprite	elfo	n.
+cropping out	eliranta	adj.
+got out	eliris	v.ntr
+got out	elirus	v.
+dislodged	elpelita	adj.
+invent	elpensi	v.tr
+fished out	elprenis fiŝe	adv.
+ring out	elsonori	v.tr
+pay out	elspezi	v.
+spend	elspezi	v.
+stood out	elstaris	v.
+stand	elteni	v.tr endure
 tend	emas	has the tendency
-emerita	emerito	
-emeritus	emerito	
-retired person	emerito	
-retiree	emerito	
-emphasise	emfazi	
-tendency	emo	
-affect	emocio	an emotion
-emotion	emocio	
+emerita	emerito	n.
+emeritus	emerito	n.
+retired person	emerito	n.
+retiree	emerito	n.
+emphasise	emfazi	v.
+tendency	emo	n.
+affect	emocio	n. an emotion
+emotion	emocio	n.
 during	en	at some time within a specific time frame
 in	en	in a place, within a time-frame
-into	en	
+into	en	prep.
 at any other time	en ajna alia tempo	idiom
 any moment	en iu ajn momento	idiom: at any moment
 at the age of	en la aĝo de	idiom
-in love	enamiĝinte	
-inside	ene	
-enters	eniras {tr}	
-enter	eniri	
-threw it in	enĵetis ĝin	
-investigation	enketo	
-bring in 	enporti	
-crept in	enŝteliĝis {ntr}	
-bury	enterigi {tr}	
-burial	entombigo	
-undertake	entrepreni	
-eagerness	entuziasmo	
-bored	enua	
-dull	enuiga	boring
-envy	envii	
-envy	envio	
-wrapping up	envolvi {tr}	
-epitomise	epitomiĝi {ntr}	be an epitome
+in love	enamiĝinte	adv.
+inside	ene	adv.
+enters	eniras	v.tr
+enter	eniri	v.
+threw it in	enĵetis ĝin	*
+investigation	enketo	n.
+bring in	enporti	v.
+crept in	enŝteliĝis	v.ntr
+bury	enterigi	v.tr
+burial	entombigo	n.
+undertake	entrepreni	v.
+eagerness	entuziasmo	n.
+bored	enua	adj.
+dull	enuiga	adj. boring
+envy	envii	v.
+envy	envio	n.
+wrapping up	envolvi	v.tr
+epitomise	epitomiĝi	v.ntr be an epitome
 age	epoko	era or epoch
 Eros	Eroso	Cupid
-essential	esenca	
+essential	esenca	adj.
 escape	eskapi	(el/tr)
-escort	eskorto	
-hopefully	espereble 	
-hope	esperi {tr}	
-hope for	esperi	
-hopeful	esperplena	
-expression	esprimo	
-phrase	esprimo	turn of phrase
-turn of phrase	esprimo	
-creature	estaĵo	
-being	estante	
+escort	eskorto	n.
+hopefully	espereble	adv.
+hope	esperi	v.tr
+hope for	esperi	v.
+hopeful	esperplena	adj.
+expression	esprimo	n.
+phrase	esprimo	n. turn of phrase
+turn of phrase	esprimo	n.
+creature	estaĵo	n.
+being	estante	adv.
 it is	estas	idiom
-am forgiven	estas pardonita	
-Is described	estas priskribita	
-be	esti	
-It was	Estis	
-There was	Estis	
-was	estis {ntr}	
-were	estis	
-was accepted	estis akceptata	
+am forgiven	estas pardonita	adj.
+Is described	estas priskribita	adj.
+be	esti	v.
+it was	estis	v.ntr
+there was	wstis	v.ntr
+was	estis	v.ntr
+were	estis	v.ntr
+was accepted	estis akceptata	adj.
 was taking	estis elportonta	was fixing to take
 sucked under	estis englutita	lit. was swallowed
-was held in high repute	estis estimata	
-had gone out	estis foririnta	
-was just going to be married	estis jus geedziĝonta	
-had been filled	estis plenigitaj	
-have been suffering	estis suferanta	
+was held in high repute	estis estimata	adj.
+had gone out	estis foririnta	adj.
+was just going to be married	estis jus geedziĝonta	adj.
+had been filled	estis plenigitaj	*
+have been suffering	estis suferanta	adj.
 was tempted	estis tentata	was in a state of temptation
 was headed	estis titolita	had a text heading of
-future	estonta	
-future	estonteco	
-board of directors	estraro	
+future	estonta	adj.
+future	estonteco	n.
+board of directors	estraro	n.
 manager	estro	boss
-would be	estus {tr}	
+would be	estus	v.tr
 expected	estus atendinta	would have been expecting
-would have had	estus havintaj	
-floor	etaĝo	story of a building
-story	etaĝo	story of a building
-family farm	etbieno	
-atmosphere	etoso	
-European	eŭropa	
-event	evento	
-in case of need	eventuala	
-possible	eventuala	
-probably	eventuale 	
-obvious	evidenta	
-truism	evidentaĵo	
-avoid	eviti {tr}	
-be transformed	evolui	
-evolve	evolui	
-lighthearted	facilanima	
+would have had	estus havintaj	*
+floor	etaĝo	n. story of a building
+story	etaĝo	n. story of a building
+family farm	etbieno	n.
+atmosphere	etoso	n.
+European	eŭropa	adj.
+event	evento	n.
+in case of need	eventuala	adj.
+possible	eventuala	adj.
+probably	eventuale	adv. more in the sense of possibly
+obvious	evidenta	adj.
+truism	evidentaĵo	n.
+avoid	eviti	v.tr
+be transformed	evolui	v.
+evolve	evolui	v.
+lighthearted	facilanima	adj.
 light-heartedly	facilanime	easy-going, lit. easy-souled
-easily	facile	
-crisp	facilrompa	
-fragile	facilrompa	
-fire	fajro	
-branch	fako	of science, art
-compartment	fako	section, compartment (of a drawer or box)
-department	fako	including university departments
-specialty	fako	professional specialty
-fact	fakto	
-college	fakultato	of a university
-department	fakultato	of a university
-division	fakultato	of a university
-faculty	fakultato	university faculty
-capability	fakulto	
-faculty	fakulto	capability
-falls	falas {ntr}	
-brochure	faldfolio	
-pamphlet	faldfolio	
-fold	faldi {tr}	
-fallen	falinta	fallen because it once fell
-fell	falis {ntr}	
-family	familio	
+easily	facile	adv.
+crisp	facilrompa	adj.
+fragile	facilrompa	adj.
+fire	fajro	n.
+branch	fako	n. of science, art
+compartment	fako	n. section, compartment (of a drawer or box)
+department	fako	n. including university departments
+specialty	fako	n. professional specialty
+fact	fakto	n.
+college	fakultato	n. of a university
+department	fakultato	n. of a university
+division	fakultato	n. of a university
+faculty	fakultato	n. university faculty
+capability	fakulto	n.
+faculty	fakulto	n. capability
+falls	falas	v.ntr
+brochure	faldfolio	n.
+pamphlet	faldfolio	n.
+fold	faldi	v.tr
+fallen	falinta	adj. fallen because it once fell
+fell	falis	v.ntr
+family	familio	n.
 fanfare	fanfaro	musical
-brag	fanfaroni	
-put on the dog	fanfaroni	
-show off	fanfaroni	
+brag	fanfaroni	v.
+put on the dog	fanfaroni	v.
+show off	fanfaroni	v.
 conceit	fantazio	a sort of thought
-Pharaoh	Faraono	
-does	faras	
-paint	farbi {tr}	to apply paint, non-artistically
+Pharaoh	Faraono	n.
+does	faras	v.
+paint	farbi	v.tr to apply paint, non-artistically
 painter	farbisto	non-atristic painter
 paint	farbo	liquid paint medium
 stuff	farĉi	esp food: pork chops, grape leaves etc.
 by	fare de	made by
-do	fari {tr}	
-make	fari {tr}	
-made	farigis	
+do	fari	v.tr
+make	fari	v.tr
+made	farigis	v.
 bulked so largely	faris sin tiel ampleksa	lit. "made himself so comprehensive"
 farm	farmi	to farm (land) as a tenant
 farmer	farmisto	tenant farmer
 farm	farmo	rental farm land
-feel	fartas {ntr}	
-fare	farti	
-get on	farti	
-fascinated	fascini {tr}	
-bunch	fasko	
-bad luck	fatalo	
-fell fate	fatalo	
-favourable	favora	eager to grant advantage to
-favored	favorata	
-be favorable toward	favori	
+feel	fartas	v.ntr
+fare	farti	v.
+get on	farti	v.
+fascinated	fascini	v.tr
+bunch	fasko	n.
+bad luck	fatalo	n.
+fell fate	fatalo	n.
+favourable	favora	adj. eager to grant advantage to
+favored	favorata	adj.
+be favorable toward	favori	v.
 favor	favori	be favorable toward
-favoured	favori {tr}	
-fever	febro	
-February	februaro	
-shit	fek	
-happy	feliĉa	
-happily	feliĉe	
-happiness	feliĉo	
-pelt	felo	
-holiday	ferio	
-iron	fero	
-festive	festa	
+favoured	favori	v.tr
+fever	febro	n.
+February	februaro	n.
+happy	feliĉa	adj.
+happily	feliĉe	adv.
+happiness	feliĉo	n.
+pelt	felo	n.
+holiday	ferio	n.
+iron	fero	n.
+festive	festa	adj.
 board	festen’tablo	def. long, narrow table, as used in a medieval dining hall
-attend a party	festeni	
+attend a party	festeni	v.
 feast	festeni	attend a party
-have a party	festeni	
-make merry	festeni	
-banquet	festeno	
-dinner party	festeno	
-feast	festeno	
-gala	festeno	
-celebrate	festi	
+have a party	festeni	v.
+make merry	festeni	v.
+banquet	festeno	n.
+dinner party	festeno	n.
+feast	festeno	n.
+gala	festeno	n.
+celebrate	festi	v.
 festival	festivalo	as in “film festival”
-celebration	festo	
-party	festo	
-festoon	festono	
-engaged to be married	fianĉiĝita	
-proud	fiera	
-fuck	fik	
-fix	fiksi {tr}	attach to a place
-fastened itself	fiksiĝis {ntr}	
-had fastened on	fiksiĝis {ntr}	
-jammed	fiksiĝis {ntr}	
-stuck	fiksite	
-philanthropic	filantropia	
-eventual	fina	
-final	fina	
-last	fina	
-ultimate	fina	
-finally	fine 	
+celebration	festo	n.
+party	festo	n.
+festoon	festono	n.
+engaged to be married	fianĉiĝita	adj.
+proud	fiera	adj.
+fix	fiksi	v.tr attach to a place
+fastened itself	fiksiĝis	v.ntr
+had fastened on	fiksiĝis	v.ntr
+jammed	fiksiĝis	v.ntr
+stuck	fiksite	adv.
+philanthropic	filantropia	adj.
+eventual	fina	adj.
+final	fina	adj.
+last	fina	adj.
+ultimate	fina	adj.
+finally	fine	adv.
 finish	fini	finish something or doing something
-Finn	finno	
-end	fino	
-business	firmao	
-enterprise	firmao	
-firm	firmao	
+Finn	finno	n.
+end	fino	n.
+business	firmao	n.
+enterprise	firmao	n.
+firm	firmao	n.
 fast	firme	adv. firmly
-business	firmo	
-enterprise	firmo	
-firm	firmo	
-flag	flago	
-inflame	flamigi {tr}	raise flames in a burning thing, or excite strongly
-flame	flamo	
-sideways	flanken	
-side	flanko	
-flattering	flata	
-flora	flaŭro	
-yellow	flava	
-flower-seller	flor’vendisto	
+business	firmo	n.
+enterprise	firmo	n.
+firm	firmo	n.
+flag	flago	n.
+inflame	flamigi	v.tr raise flames in a burning thing, or excite strongly
+flame	flamo	n.
+sideways	flanken	adv.
+side	flanko	n.
+flattering	flata	adj.
+flora	flaŭro	n.
+yellow	flava	adj.
+flower-seller	flor’vendisto	n.
 Florence	Florenco	Italian city
-to bloom	flori	
-to flower	flori	
-bloom	floro	
-flower	floro	
-vase	florvazo	
+to bloom	flori	v.
+to flower	flori	v.
+bloom	floro	n.
+flower	floro	n.
+vase	florvazo	n.
 fliessandes	fluanta	German, "flowing"
 running	fluanta	flowing
-flows	fluas {ntr}	
-flies	flugas {ntr}	
-flown	flugis {ntr}	
-whispering	flustranta	
-is whispering	flustras	
-whisper	flustri {tr}	
-once	foje	
-occasion	fojo	
+flows	fluas	v.ntr
+flies	flugas	v.ntr
+flown	flugis	v.ntr
+whispering	flustranta	adj.
+is whispering	flustras	v.
+whisper	flustri	v.tr
+once	foje	adv.
+occasion	fojo	n.
 time	fojo	occasion
 sheet	folio	sheet of paper
-foundation	fondaĵo	charitable foundation
-found	fondi	
-founding	fondo	
-foundation	fondumo	charitable foundation
+foundation	fondaĵo	n. charitable foundation
+found	fondi	v.
+founding	fondo	n.
+foundation	fondumo	n. charitable foundation
 fund	fonduso	charitable trust
-background	fono	
-fountain	fontano	
-font	fonto	
-fountain	fonto	
-origin	fonto	
-source	fonto	
+background	fono	n.
+fountain	fontano	n.
+font	fonto	n.
+fountain	fonto	n.
+origin	fonto	n.
+source	fonto	n.
 spring	fonto	water source
-away	for	
-distant	for	
-conservatory	forcejo	
-greenhouse	forcejo	
-is given up	fordonita	
-were absent	forestis {ntr}	
-forgetfulness	forgesemo	
-forget	forgesi	
-forgotten	forgesita	
-cast off	forigi	
-put aside	forigi	
-left	foriris {ntr}	
-cast off	forĵeti	
-throw out	forĵeti	
-snatch	forkapti	
-led off	forkondukis {tr}	
-put aside	formeti {tr}	
-becoming extinct	formortas	
-tear away	forŝiri {tr}	
-hefty	forta	strong
-strong	forta	
-hardy	fortika	
-stronghold	fortikaĵo	
-force	forto	
-fortunate	fortuna	
-avert	forturni	
-direct away	forturni	
-take a picture	foti	
+away	for	*
+distant	for	*
+conservatory	forcejo	n.
+greenhouse	forcejo	n.
+is given up	fordonita	adj.
+were absent	forestis	v.ntr
+forgetfulness	forgesemo	n.
+forget	forgesi	v.
+forgotten	forgesita	adj.
+cast off	forigi	v.
+put aside	forigi	v.
+left	foriris	v.ntr
+cast off	forĵeti	v.
+throw out	forĵeti	v.
+snatch	forkapti	v.
+led off	forkondukis	v.tr
+put aside	formeti	v.tr
+becoming extinct	formortas	v.
+tear away	forŝiri	v.tr
+hefty	forta	adj. strong
+strong	forta	adj.
+hardy	fortika	adj.
+stronghold	fortikaĵo	n.
+force	forto	n.
+fortunate	fortuna	adj.
+avert	forturni	v.
+direct away	forturni	v.
+take a picture	foti	v.
 camera	fotilo	esp a still camera
-brittle	frakasebla	shatterable
-smash	frakasi {tr}	
-fraction	frakcio	
+brittle	frakasebla	adj. shatterable
+smash	frakasi	v.tr
+fraction	frakcio	n.
 pat	frapeto	as in “pat on the backside”
-tap	frapeto	
-jarring	frapiĝo	result of impact
-sister	fratino	incl nuns
-girl	fraŭlino	young lady, unmarried woman
-miss	fraŭlino	
-master	fraŭlo	
-phrase	frazero	
-sentence	frazo	
-crazy	freneza	
-frantic	freneza	crazy
-be crazy	frenezi	
-raving mad	frenezi	
-madness	frenezo	
-lightness	frivoleco	frivolity
-frontispiece	frontispico	
+tap	frapeto	n.
+jarring	frapiĝo	n. result of impact
+sister	fratino	n. incl nuns
+girl	fraŭlino	n. young lady, unmarried woman
+miss	fraŭlino	n.
+master	fraŭlo	n.
+phrase	frazero	n.
+sentence	frazo	n.
+crazy	freneza	adj.
+frantic	freneza	adj. crazy
+be crazy	frenezi	v.
+raving mad	frenezi	v.
+madness	frenezo	n.
+lightness	frivoleco	n. frivolity
+frontispiece	frontispico	n.
 brow	frunto	forehead
-forehead	frunto	
-fik	fuck	fik
-fled	fuĝis {ntr}	flee from danger
-glistening	fulmetada	
-foundation	fundamento	of a building, or essential basis
-base	fundo	
-bottom	fundo	
-innermost part	fundo	
-underside	fundo	
-frantic	furioza	furious
-rage	furiozi	
-raging	furiozi	
-break wind	furzi	
-fart	furzi	
+forehead	frunto	n.
+fuck	fik	int.
+fled	fuĝis	v.ntr flee from danger
+glistening	fulmetada	adj.
+foundation	fundamento	n. of a building, or essential basis
+base	fundo	n.
+bottom	fundo	n.
+innermost part	fundo	n.
+underside	fundo	n.
+frantic	furioza	adj. furious
+rage	furiozi	v.
+raging	furiozi	v.
+break wind	furzi	v.
+fart	furzi	v.
 mess up	fuŝi	 to mess (something) up
 future tense	futuro	in grammar
-carefree	gaja	
-festive	gaja	
-high spirited	gaja	
-jolly	gaja	
-merrily	gaje	
-jollity	gajeco	
-mirth	gajeco	
-cheerful	gajiga	cheerfulness causing
+carefree	gaja	adj.
+festive	gaja	adj.
+high spirited	gaja	adj.
+jolly	gaja	adj.
+merrily	gaje	adv.
+jollity	gajeco	n.
+mirth	gajeco	n.
+cheerful	gajiga	adj. cheerfulness causing
 earn	gajni	money
-gain	gajni {tr}	
+gain	gajni	v.tr
 win	gajni	money
-gallery	galerio	
-galvanise	galvanizi {tr}	
-guaranteeing	garantiante	
-guarantee	garantio	
-garden	ĝardeno	
-guard	gardi	
+gallery	galerio	n.
+galvanise	galvanizi	v.tr
+guaranteeing	garantiante	adv.
+guarantee	garantio	n.
+garden	ĝardeno	n.
+guard	gardi	v.
 gas	gaso	state of matter
-hospitable	gastama	
-gasthaus	gastejo	
-inn	gastejo	
+hospitable	gastama	adj.
+gasthaus	gastejo	n.
+inn	gastejo	n.
 host	gastiganto	also: gastiginto
 media	gazetaro	the press
-the press	gazetaro	
-magazine	gazeto	
-newspaper	gazeto	
-periodical	gazeto	incl magazines and newspapers
-gauze	gazo	
-lawn	gazono	decorative lawn
-get married	geedziĝi	become a married couple, heterosexual
-marriage	geedziĝo	
-wedding	geedziĝo	
-gay	geja	homosexual
-homosexual	geja	
-groan	ĝemego	
+the press	gazetaro	n.
+magazine	gazeto	n.
+newspaper	gazeto	n.
+periodical	gazeto	n. incl magazines and newspapers
+gauze	gazo	n.
+lawn	gazono	n. decorative lawn
+get married	geedziĝi	v.ntr become a married couple, heterosexual
+marriage	geedziĝo	n.
+wedding	geedziĝo	n.
+gay	geja	adj. homosexual
+homosexual	geja	adj.
+groan	ĝemego	n.
 generally	ĝenerale	in general
-disturb	ĝeni	
-hamper	ĝeni	
-inconvenience	ĝeni	
+disturb	ĝeni	v.
+hamper	ĝeni	v.
+inconvenience	ĝeni	v.
 trouble	ĝeno	nuisance or disturbance
-genteel	ĝentila	
-polite	ĝentila	
-knee	genuo	
-parent	gepatro	
-parents	gepatroj	
-guerilla	gerilano gerilisto	
-guerilla war	gerilo	
-makes a gesture	gesti {ntr}	
-gesture	gesto	
+genteel	ĝentila	adj.
+polite	ĝentila	adj.
+knee	genuo	n.
+parent	gepatro	n.
+parents	gepatroj	n.
+guerilla	gerilano gerilisto	n.
+guerilla war	gerilo	n.
+makes a gesture	gesti	v.ntr
+gesture	gesto	n.
 ghetto	geto	Jewish quarter
-it	ĝi	
-it was caught	ĝi estis kaptita	
-sales counter	giĉeto	
-sales window	giĉeto	
-rings	gimnastikaj ringoj	gymnastic rings
-gymnasium	gimnastikejo	place designated for gymnastics.
+it	ĝi	n.
+it was caught	ĝi estis kaptita	adj.
+sales counter	giĉeto	n.
+sales window	giĉeto	n.
+rings	gimnastikaj ringoj	n. gymnastic rings
+gymnasium	gimnastikejo	n. place designated for gymnastics.
 high school	gimnazio	especially in German-speaking countries
-it is used	ĝin uzitas	
-whirl	girigi	whirl a dance partner
-spun	giris {ntr}	
+it is used	ĝin uzitas	*
+whirl	girigi	v.tr whirl a dance partner
+spun	giris	v.ntr
 as far as	ĝis	destination
-as much as	ĝis	
+as much as	ĝis	*
 by	ĝis	up to/by a specific time
 till	ĝis	until
 until	ĝis	destination, up to/by a specific time
 up to	ĝis	destination
-goodbye	ĝis (la) revido	
-to the end	ĝis la fino	
-till tomorrow	ĝis morgaŭ	
-by tomorrow	ĝis morgaŭ 	
-ice	glacio	
-glass	glaso	a drinking glass
-smooth	glata	
-sword	glavo	
-globe	globo	
-gloriously	glore	
-glory	gloro	
-take a pill	gluti pilolon	
-happily	ĝoje	
-delight	ĝojo	
+goodbye	ĝis la revido	*
+to the end	ĝis la fino	n.
+till tomorrow	ĝis morgaŭ	*
+by tomorrow	ĝis morgaŭ	*
+ice	glacio	n.
+glass	glaso	n. a drinking glass
+smooth	glata	adj.
+sword	glavo	n.
+globe	globo	n.
+gloriously	glore	adv.
+glory	gloro	n.
+take a pill	gluti pilolon	*
+happily	ĝoje	adv.
+delight	ĝojo	n.
 goal	golo	in football and similar games
-gondola	gondola	
-gondolier	gondolisto	
-gorilla	gorilo	
-by degrees	grade	
-gradually	grade	
+gondola	gondolo	n.
+gondolier	gondolisto	n.
+gorilla	gorilo	n.
+by degrees	grade	adv.
+gradually	grade	adv.
 county	graflando	territory ruled by a count
-counties	graflandoj	
-pomegranate	granato	
-big-boned	grand’osta	
-big	granda	
-great	granda	large
-large	granda	
-massive	granda	large
+counties	graflandoj	n.
+pomegranate	granato	n.
+big-boned	grand’osta	adj.
+big	granda	adj.
+great	granda	adj. large
+large	granda	adj.
+massive	granda	adj. large
 much	grandan parton	idiom
-landed estate	grandbieno	
-massive	grandega	very large
-bigwig	grandulo	
-greasy	grasa	
-fat	graso	
-oil	graso	
-matters	gravas	
-importance	graveco	
-sandstone	grejso	
-Grecian	greka	
-Greece	Grekio	
-Greek	greko	a modern Greek
+landed estate	grandbieno	n.
+massive	grandega	adj. very large
+bigwig	grandulo	n.
+greasy	grasa	adj.
+fat	graso	n.
+oil	graso	n.
+matters	gravas	v.
+importance	graveco	n.
+sandstone	grejso	n.
+Grecian	greka	adj.
+Greece	Grekio	n.
+Greek	greko	n. a modern Greek
 pasturage	greso	grazing material
-cricket	grilo	
-grey	griza	
-greybeard	grizbarbo	
+cricket	grilo	n.
+grey	griza	adj.
+greybeard	grizbarbo	n.
 wholesale	grosieri	to sell wholesale
-grotesque	groteska	
-grotto	groto	
+grotesque	groteska	adj.
+grotto	groto	n.
 small cave	groto	esp a decorated or artificial cave
 soil	grundo	soil
-crane	gruo	both bird and machine
-gravel	gruzo	
+crane	gruo	n. both bird and machine
+gravel	gruzo	n.
 eagle-owl	gufo	Bubo bubo, a nocturnal owl
-enjoy	ĝui {tr}	
-enjoyment	ĝuo	
-accurate	ĝusta	
-correct	ĝusta	
-right	ĝusta	proper
-in time	ĝustatempe	
-just	ĝuste	exactly
-properly	ĝuste	
-be governess	guverni	
-be tutor	guverni	
+enjoy	ĝui	v.tr
+enjoyment	ĝuo	n.
+accurate	ĝusta	adj.
+correct	ĝusta	adj.
+right	ĝusta	adj. proper
+in time	ĝustatempe	adv.
+just	ĝuste	adv. exactly
+properly	ĝuste	adv.
+be governess	guverni	v.
+be tutor	guverni	v.
 guard	gvardiano	a single guardsman
 guard	gvardio	as in “Swiss Guard” or “Red Guard”
-hallelujah	haleluja	
-hall	halo	
-large room	halo	
-halo	haloo	in astronomy
-halt	halti	come to a halt
-stop	halti {ntr}	
+hallelujah	haleluja	adj.
+hall	halo	n.
+large room	halo	n.
+halo	haloo	n. in astronomy
+halt	halti	v. come to a halt
+stop	halti	v.ntr
 stopped	haltigis	stopped a thing in a seemingly temporary way
-stop dead	haltu kiel mortinte	
+stop dead	haltu kiel mortinte	adv.
 Chinese	hano	an ethnic Chinese
 khan	ĥano	leader of Turkish, Tartar, or Mongol tribe
-haunt	hanti {tr}	
-chaos	ĥaoso	
+haunt	hanti	v.tr
+chaos	ĥaoso	n.
 hair	hararo	a set of hair
 hair	haro	a hair
-hastily	haste	
-having	havante	
-have	havas	
-have	havi	
-make available	havigi	
-provide	havigi	
-had	havis {tr}	
-had little enough	havis malgrande sufiĉe	
-just chanced to be	hazarde troviĝis	
-ivy	hedero	
+hastily	haste	adv.
+having	havante	adv.
+have	havas	v.
+have	havi	v.
+make available	havigi	v.
+provide	havigi	v.
+had	havis	v.tr
+had little enough	havis malgrande sufiĉe	adv.
+just chanced to be	hazarde troviĝis	*
+ivy	hedero	n.
 home	hejmo	hejme-at home, hejmen-toward home
-brightly	hele 	
-Greek	heleno	an ancient Greek
-help	helpi {tr}	to help
-to aid	helpi	
-meadow	herbejo	
+brightly	hele	adv.
+Greek	heleno	n. an ancient Greek
+help	helpi	v.tr to help
+to aid	helpi	v.
+meadow	herbejo	n.
 grass	herbo	one plant or blade of grass
-inherited	heredita	
-Hesperides	Hesperidoj	
-hesitate	heziti {ntr}	
-hesitation	hezito	
-yesterday	hieraŭ 	
-hymn	himno	
+inherited	heredita	adj.
+Hesperides	Hesperidoj	n.
+hesitate	heziti	v.ntr
+hesitation	hezito	n.
+yesterday	hieraŭ	*
+hymn	himno	n.
 swallow	hirundo	type of bird
 comedian	histriono	Third-rate comedian
 oh	ho	interjection
-today	hodiaŭ 	
-human	homa	
-crowd	homamaso	
-honour	honori {tr}	show respect
-honour	honoro	
-am ashamed	hontas {tr}	
-horizontal	horizontala	
-hour	horo	
-chorus	ĥoro	
-humor	humoro	emotional state | body fluid
-mood	humoro	
-humor	humuro	wit
-wit	humuro	
-for some reason	ial	
-sometime	iam 	
-of some sort	iaspeca	
-idealist	idealisto	
-idea	ideo	
-idiotic	idiota	
-somewhere	ie 	
-anywhere	ie ajn	
-become	iĝi {ntr}	
-holly	ileksa	bush
-their	ilia	
-them	ilin	
+today	hodiaŭ	*
+human	homa	adj.
+crowd	homamaso	n.
+honour	honori	v.tr show respect
+honour	honoro	n.
+am ashamed	hontas	v.tr
+horizontal	horizontala	adj.
+hour	horo	n.
+chorus	ĥoro	n.
+humor	humoro	n. emotional state or body fluid
+mood	humoro	n.
+humor	humuro	n. wit
+wit	humuro	n.
+for some reason	ial	corr.
+sometime	iam	corr.
+of some sort	iaspeca	adj.
+idealist	idealisto	n.
+idea	ideo	n.
+idiotic	idiota	adj.
+somewhere	ie	adv.
+anywhere	ie ajn	corr.
+become	iĝi	v.ntr
+holly	ileksa	adj. related to the bush
+their	ilia	adj.
+them	ilin	n.
 imagined	imagata	ant. reala
-imaginative	imagema	
-imperative	imperativa	
+imaginative	imagema	adj.
+imperative	imperativa	adj.
 headlong	impete	rushing unreservedly
-imply	implici	
-entangle	impliki	
-implicate	impliki	
-tax	imposti	
-impulse	impulso	
-put it on	imputis ĝin al	attribute responsibility 
+imply	implici	v.
+entangle	impliki	v.
+implicate	impliki	v.
+tax	imposti	v.
+impulse	impulso	n.
+put it on	imputis ĝin al	attribute responsibility
 por	in preparation for	por
-agitate	inciti	
-incite	inciti	
-stir up	inciti	
-indifference	indiferenteco	
-native	indiĝeno	
-baby carriage	infanĉareto	
-pram	infanĉareto	
-children⁠	infanoj	
-children	infanoj	
-influential	influa	
-affect	influi	affect or influence
-influence	influi {tr}	
-influence	influo	
-inform	informi {tr}	
-become informed about	informiĝi	
-check out	informiĝi	
-learn about	informiĝi	
+agitate	inciti	v.
+incite	inciti	v.
+stir up	inciti	v.
+indifference	indiferenteco	n.
+native	indiĝeno	n.
+baby carriage	infanĉareto	n.
+pram	infanĉareto	n.
+children	infanoj	n.
+influential	influa	adj.
+affect	_influi	b. affect or influence
+influence	influi	v.tr
+influence	influo	n.
+inform	informi	v.tr
+become informed about	informiĝi	v.
+check out	informiĝi	v.
+learn about	informiĝi	v.
 indoctrinate	inici	into a society
-initiate	inici	into a society
-initiate	iniciati	be the first to do
+initiate	inici	v. into a society
+initiate	_iniciati	v. be the first to do
 authority	instanco	normally used in the plural
 the authorities	instanco	normally used in the plural
-instinct	instinkto	
-institution	institucio	
-teach	instrui {tr}	someone or something
+instinct	instinkto	n.
+institution	institucio	n.
+teach	instrui	v.tr someone or something
 to teach how	instrui	to do something
-abuse	insulti	
-revile	insulti	
-yell at	insulti	
-mean	intenci {tr}	intended action
-meant	intencis {tr}	intended action
-purpose	intenco	
-intense	intensa	
-among	inter	
+abuse	insulti	v.
+revile	insulti	v.
+yell at	insulti	v.
+mean	intenci	v.tr intended action
+meant	intencis	v.tr intended action
+purpose	intenco	n.
+intense	intensa	adj.
+among	inter	prep.
 between	inter	there is something on either side, interaction between two people
-interest	interesi	
-interest rate	interezo	
-mingle	intermiksiĝi	
-within doors	Intern'dome	
-inside	interne 	
-negotiate	intertrakti	
-intimately	intime	
-plotting	intrigi {ntr}	
+interest	interesi	v.
+interest rate	interezo	n.
+mingle	intermiksiĝi	v.
+within doors	Intern'dome	adv.
+inside	interne	adv.
+negotiate	intertrakti	v.
+intimately	intime	adv.
+plotting	intrigi	v.ntr
 plot	intrigo	cunning activity to make or break a cause
-flood	inundo	
-invite	inviti	
-something	io	
-anything	io ajn	
+flood	inundo	n.
+invite	inviti	v.
+something	io	n.
+anything	io ajn	corr.
 slight pause	Iometa paŭzo	idiom
 rather	iomete	to some degree
-go	iri	
-went	iris	
-irritating	iritanta	
-komencitas	is begun {tr}	
-somebody	iu	
-someone	iu	
-anybody	iu ajn	
+go	iri	v.
+went	iris	v.
+irritating	iritanta	adj.
+komencitas	is begun	v.tr
+somebody	iu	corr.
+someone	iu	corr.
+anybody	iu ajn	corr.
 some	iuj	countable things
 Issidy	Izidio	woman's first name
 did	ja	emphasize a verb
-jacket	jaketo	(1) book jacket | (2) baby’s jacket
+jacket	jaketo	n. book jacket or baby’s jacket
 jacket	ĵaketo	(1) morning coat; (2) a woman’s suit jacket.; (3) little ĵako.
-jacket	jako	as in bed jacket | ski jacket | smoking jacket etc | usually for a man
-jack	ĵako	electrical or telephone jack
-jealous	ĵaluza	
-possessive	ĵaluza	
-already	jam	
-already	jam	
-January	januaro	
-century	jarcento	
-yearlong	jarlonga	
-year	jaro	
-Thursday	ĵaŭdo	
+jacket	jako	n. as in bed jacket, ski jacket, smoking jacket etc; usually for a man
+jack	ĵako	n. electrical or telephone jack
+jealous	ĵaluza	adj.
+possessive	ĵaluza	adj.
+already	jam	adv.
+January	januaro	n.
+century	jarcento	n.
+yearlong	jarlonga	adj.
+year	jaro	n.
+Thursday	ĵaŭdo	n.
 at	je	a particular time
-at this very moment	je ĉi tiu preciza momento	
+at this very moment	je ĉi tiu preciza momento	n.
 at heart	je koro	idiom
 at such a time	je tia tempo	idiom
-at your service	je via servo	
-behold	jen	
-here is	jen	
-as follows	jene 	
-yes	jes	
-Jesus	Jesuo	
-glance	ĵeta rigardo	
-throw	ĵeti	
-toss	ĵeti {tr}	
-pitch	ĵeto	
-throw	ĵeto	
-toss	ĵeto	
+at your service	je via servo	n.
+behold	jen	*
+here is	jen	*
+as follows	jene	adv.
+yes	jes	*
+Jesus	Jesuo	n.
+glance	ĵeta rigardo	n.
+throw	ĵeti	v.
+toss	ĵeti	v.tr
+pitch	ĵeto	n.
+throw	ĵeto	n.
+toss	ĵeto	n.
 John	Johano	name
-John o’ Groats	Johano de Kvar'pencoj	
+John o’ Groats	Johano de Kvar'pencoj	n.
 Jove	Jovo	Jupiter
-the more	ju pli	
-rejoicings	jubiloj	
-yule-log	Jul'ŝtipo	
-July	julio	
-young	juna	
-youth	juneco	being young
-June	junio	
-teenager	junulo	
-young person	junulo	
-youth	junulo	young person
-jury	ĵurio	
+the more	ju pli	v.
+rejoicings	jubiloj	n.
+yule-log	Jul'ŝtipo	n.
+July	julio	n.
+young	juna	adj.
+youth	juneco	n. being young
+June	junio	n.
+teenager	junulo	n.
+young person	junulo	n.
+youth	junulo	n. young person
+jury	ĵurio	n.
 paper	jurnalo	newspaper
-newspaper	ĵurnalo	
+newspaper	ĵurnalo	n.
 jurisprudence	juro	the science of law
-oath	ĵuro	
+oath	ĵuro	n.
 a moment ago	ĵus	just
-just	ĵus	
 just now	ĵus	occuring just a moment before now
-fair	justa	
-just	justa	
-just-ness	justeco	
-justice	justeco	
-give up Esperanto	kabei	
-cabinet	kabineto	in a government
-exhibition hall	kabineto	small exhibition hall
-office	kabineto	
-study	kabineto	
-framework	kadraro	
-and	kaj	
-calculate	kalkuli {tr|ntr}	
-count on	kalkuli	
-count up	kalkuli	
-depend on	kalkuli	
-libel	kalumnio	
-slander	kalumnio	
-hearth	kameno	
-mantel	kamenŝranko	mantelpiece
-mantelpiece	kamenŝranko	
-movie camera	kamerao	
-videocam	kamerao	
+fair	_justa	adj.
+just	justa	adj.
+just-ness	justeco	n.
+justice	justeco	n.
+give up Esperanto	kabei	v.
+cabinet	kabineto	n. in a government
+exhibition hall	kabineto	n. small exhibition hall
+office	kabineto	n.
+study	kabineto	n.
+framework	kadraro	n.
+and	kaj	conj.
+calculate	kalkuli	v.tr.ntr
+count on	kalkuli	v.
+count up	kalkuli	v.
+depend on	kalkuli	v.
+libel	kalumnio	n.
+slander	kalumnio	n.
+hearth	kameno	n.
+mantel	kamenŝranko	n. mantelpiece
+mantelpiece	kamenŝranko	n.
+movie camera	kamerao	n.
+videocam	kamerao	n.
 chamber	kamero	in a machine as combustion chamber
-closet	kamero	
+closet	kamero	n.
 farmhouse	kampara domo	complicated by ownership & serfdom
-peasant	kamparano	
-country people	kamparanoj	
-rustics	kamparanoj	
+peasant	kamparano	n.
+country people	kamparanoj	n.
+rustics	kamparanoj	n.
 country	kamparo	as in countryside, not city
-couch	kanapo	
-Candlemas	Kandelfesto	
-cane	kano	as in sugar cane
-sing	kanti	
+couch	kanapo	n.
+Candlemas	Kandelfesto	n.
+cane	kano	n. as in sugar cane
+sing	kanti	v.
 canton	kantono	Swiss canton
 county	kantono	U.S. county
-ability	kapablo	
-headache	kapdoloro	
-Boar's Head	Kapo de Apro	
+ability	kapablo	n.
+headache	kapdoloro	n.
+Boar's Head	Kapo de Apro	n.
 caprice	kaprico	change of will
 caprice	kapriĉo	in music
-bell pepper	kapsiko	
-chili pepper	kapsiko	
-catch	kapti {tr}	verb
-seize	kapti {tr}	
+bell pepper	kapsiko	n.
+chili pepper	kapsiko	n.
+catch	kapti	v.tr
+seize	kapti	v.tr
 caught	kaptiĝis	become caught as in a trap
-dear	kara	
-expensive	kara	
-precious	kara	
-character	karaktero	
+dear	kara	adj.
+expensive	kara	adj.
+precious	kara	adj.
+character	karaktero	n.
 the waits	karol’kantistoj	carol singers
 carol	karolo	Christmas song
-hides	kaŝas {tr}	
-hiding-place	kaŝejo	
-conceal	kaŝi {tr}	
-treasurer	kasisto	
-hidden	kaŝita	
-cash register	kaso	
-coin bank	kaso	
-fund	kaso	
-till	kaso	
-beaver	kastoro	
-cotton	katuno	cloth
-cause	kaŭzi {tr}	
-hollow	kava	
-sunken	kava	
-kava	kavao	
-cave	kaverno	esp a natural cave
-cavity	kavo	
-dimple	kavo	
-eye-socket	kavo	
-hole	kavo	
-sunken spot	kavo	
-casino	kazino	
+hides	kaŝas	v.tr
+hiding-place	kaŝejo	n.
+conceal	kaŝi	v.tr
+treasurer	kasisto	n.
+hidden	kaŝita	adj.
+cash register	kaso	n.
+coin bank	kaso	n.
+fund	kaso	n.
+till	kaso	n.
+beaver	kastoro	n.
+cotton	katuno	n. cloth
+cause	kaŭzi	v.tr
+hollow	kava	adj.
+sunken	kava	adj.
+kava	kavao	n.
+cave	kaverno	n. esp a natural cave
+cavity	kavo	n.
+dimple	kavo	n.
+eye-socket	kavo	n.
+hole	kavo	n.
+sunken spot	kavo	n.
+casino	kazino	n.
 case	kazo	eg law medicine grammar
-that	ke	introduce clause, if shows purpose use ‘por ke’
-sometimes	kelkfoje	
-when	kiam 	relative
+that	_ke	introduce clause, if shows purpose use ‘por ke’
+sometimes	kelkfoje	adv.
+when	kiam	relative
 farm	kibuco	Israeli collective farm
-where	kie 	relative
-as	kiel	like, in the manner of
+where	kie	relative
+as	_kiel	like, in the manner of
 as in	kiel	as if in
-like	kiel	
-as before	kiel antaŭe	
-as possible	kiel eble	
-as possible	kiel eble plej	abbr kep
-whose	kies	
-what	kio	
-stir	kirli {tr}	
-whirl	kirliĝi {ntr}	
-kiss	kisi {tr}	
-who	kiu	
-whom	kiun	
-gossip	klaĉi	
-gossip	klaĉo	gossip, always negative
-clank	klaki	
-clatter	klaki	(ntr)
-click	klaki	(ntr)
-clearly	klare	
-plainly	klare	
-classic	klasika	
-classical	klasika	
+like	kiel	corr.
+as before	kiel antaŭe	adv.
+as possible	kiel eble	adv.
+as possible	kiel eble plej	abbr='kep'
+whose	kies	corr.
+what	kio	n.
+stir	kirli	v.tr
+whirl	kirliĝi	v.ntr
+kiss	kisi	v.tr
+who	kiu	corr.
+whom	kiun	corr.
+gossip	klaĉi	v.
+gossip	klaĉo	n. gossip, always negative
+clank	klaki	v.
+clatter	klaki	v.ntr
+click	klaki	v.ntr
+clearly	klare	adv.
+plainly	klare	adv.
+classic	klasika	adj.
+classical	klasika	adj.
 class	klaso	incl class in school; made up of students
-sort	klaso	
-species	klaso	
-clown	klaŭno	Circus clown
-cultivated	klera	
-educated	klera	
-well informed	klera	
-wise	klera	
-dipping	kliniĝanta	leaning over
-stooped	kliniĝis {ntr}	
-busy oneself with	klopodi	
-deal with	klopodi	
-endeavor	klopodi	
-make efforts	klopodi	
-manage	klopodi	
-set about	klopodi	
-take steps	klopodi	
-giggle	klukridi	
-snicker	klukridi	
-titter	klukridi	
-sluice	kluzo	
-bang	knali {ntr}	make a bang or snap sound
-wedge	kojni {tr}	immobilize with a wedge
-college	kolegio	
-collection	kolekto	
-made him angry	kolerigis lin	
-anger	kolero	
-farm	kolĥozo	Soviet collective farm
-colouring	kolorigo	the color which has been applied
-colour	koloro	
-command	komandi	
-control	komandi	
-brush	kombi	through something esp hair
-comb	kombi	through something esp hair
-comb	kombilo	
-combined	kombiniĝi {ntr}	become combined
-a combing out	kombo	
-first	komenca	initial, at the beginning
-at first	komence	
-went scurrying away	komencis fore krabli	
-beginning	komenco	
-business	komerco	
-committee chair	komisiito	
-special delegate	komisiito	
+sort	klaso	n.
+species	klaso	n.
+clown	klaŭno	n. Circus clown
+cultivated	klera	adj.
+educated	klera	adj.
+well informed	klera	adj.
+wise	klera	adj.
+dipping	kliniĝanta	adj. leaning over
+stooped	kliniĝis	v.ntr
+busy oneself with	klopodi	v.
+deal with	klopodi	v.
+endeavor	klopodi	v.
+make efforts	klopodi	v.
+manage	klopodi	v.
+set about	klopodi	v.
+take steps	klopodi	v.
+giggle	klukridi	v.
+snicker	klukridi	v.
+titter	klukridi	v.
+sluice	kluzo	n.
+bang	knali	v.ntr make a bang or snap sound
+wedge	kojni	v.tr immobilize with a wedge
+college	kolegio	n.
+collection	kolekto	n.
+made him angry	kolerigis lin	*
+anger	kolero	n.
+farm	kolĥozo	n. Soviet collective farm
+colouring	kolorigo	n. the color which has been applied
+colour	koloro	n.
+command	komandi	v.
+control	komandi	v.
+brush	kombi	v. through something esp hair
+comb	kombi	v. through something esp hair
+comb	kombilo	n.
+combined	kombiniĝi	v.ntr become combined
+a combing out	kombo	n.
+first	komenca	adj. initial, at the beginning
+at first	komence	adv.
+went scurrying away	komencis fore krabli	v.
+beginning	komenco	n.
+business	komerco	n.
+committee chair	komisiito	n.
+special delegate	komisiito	n.
 clerk	komizo	assistant salaryman
-chest of drawers	komodo	
-compassion	kompato	
-forgiveness	kompato	
-sympathy	kompato	
-compensate for	kompensi	
-make up for	kompensi	
-offset	kompensi	
-complete	kompleta	
-of course	kompreneble	
-communicate	komuniki	
-report	komuniki	
-community	komunumo	
-knows	konas {tr}	
-known	konata	
-acquaintance	konato	
-concentrate	koncentriĝi {ntr}	
-affect	koncerni	to concern, relate to, affect
-concern	koncerni	
-relate to	koncerni	
+chest of drawers	komodo	n.
+compassion	kompato	n.
+forgiveness	kompato	n.
+sympathy	kompato	n.
+compensate for	kompensi	v.
+make up for	kompensi	v.
+offset	kompensi	v.
+complete	kompleta	adj.
+of course	kompreneble	adv.
+communicate	komuniki	v.
+report	komuniki	v.
+community	komunumo	n.
+knows	konas	v.tr
+known	konata	adj.
+acquaintance	konato	n.
+concentrate	koncentriĝi	v.ntr
+affect	koncerni	v. to concern, relate to, affect
+concern	koncerni	v.
+relate to	koncerni	v.
 sentence	kondamno	in court
 verdict	kondamno	in court
 condition	kondiĉo	of a contract
 conduct	konduki	an orchestra
-lead	konduki {tr}	
-chauffeur	konduki aŭtomobile {tr}	take someone somewhere by car
+lead	konduki	v.tr
+chauffeur	konduki aŭtomobile	v.tr take someone somewhere by car
 conduct	kondukti	an electrical current
 conductor	konduktoro	on a train or bus
-conduct	konduti {ntr}	oneself well or badly
-logically related	koneksa	
+conduct	konduti	v.ntr oneself well or badly
+logically related	koneksa	adj.
 connect	konekti	eg an electrical circuit
-ready-made garment	konfekcio	
+ready-made garment	konfekcio	n.
 accordingly	konforme	so that it's similar to a model object
-bewilderment	konfuzo	
-congress	kongreso	
-convention	kongreso	
-be acquainted with	koni	
-know	koni	be acquainted with
-have known	konis {tr}	
-knew	konis	
-shell	konko	
-shell fish	konkulo	
+bewilderment	konfuzo	n.
+congress	kongreso	n.
+convention	kongreso	n.
+be acquainted with	koni	v.tr
+know	koni	v.tr be acquainted with
+have known	konis	v.tr
+knew	konis	v.tr
+shell	konko	n.
+shell fish	konkulo	n.
 competition	konkurenco	especially commercial or political
-compete	konkuri	
+compete	konkuri	v.
 contest	konkurso	with judges and rules
 conscious	konscii	be conscious of
-realise	konscii {tr|ntr}	to be aware
-consciousness	konscio	
-consistent	konsekvenca	
-logical	konsekvenca	
-orthodox	konsekvenca	
-consequently	konsekvence 	
-consistently	konsekvence 	
-therefore	konsekvence 	
-logical result	konsekvenco	
-agree	konsenti {ntr}	
-consent	konsento	
-keep	konservi {tr}	not lose
-preserve	konservi	
-kept	konservita	
-preserved	konservita	
-dreamed of	konsideris	considered
-counsel	konsili {tr}	
+realise	konscii	v.tr.ntr to be aware
+consciousness	konscio	n.
+consistent	konsekvenca	adj.
+logical	konsekvenca	adj.
+orthodox	konsekvenca	adj.
+consequently	konsekvence	adv.
+consistently	konsekvence	adv.
+therefore	konsekvence	adv.
+logical result	konsekvenco	n.
+agree	konsenti	v.ntr
+consent	konsento	n.
+keep	konservi	v.tr not lose
+preserve	konservi	v.
+kept	konservita	adj.
+preserved	konservita	adj.
+dreamed of	konsideris	v. considered
+counsel	konsili	v.tr
 council	konsilio	a leading body of people
-advice	konsilo	
-permanent	konstanta	
-regular	konstanta	
-discover	konstati	
-find out	konstati	
-prove	konstati	
-scientifically demonstrate	konstati	
-dismayed	konsternita	
-consuming beauty	konsumema beleco	
-contact	kontakto	
+advice	konsilo	n.
+permanent	konstanta	adj.
+regular	konstanta	adj.
+discover	konstati	v.
+find out	konstati	v.
+prove	konstati	v.
+scientifically demonstrate	konstati	v.
+dismayed	konsternita	adj.
+consuming beauty	konsumema beleco	n.
+contact	kontakto	n.
 cash	kontanto	ready cash
-account statement	konteltiro	
-accountant	kontisto	
-bookkeeper	kontisto	
-account	konto	
-office	kontoro	especially in a factory
+account statement	konteltiro	n.
+accountant	kontisto	n.
+bookkeeper	kontisto	n.
+account	konto	n.
+office	kontoro	n. especially in a factory
 work station	kontoro	clerical workplace
-contrast	kontrasto	
+contrast	kontrasto	n.
 against	kontraŭ	opponent of someone/thing
 opposite	kontraŭ	facing, on the other side
-check	kontroli	
-check out	kontroli	
-inspect	kontroli	
-supervise	kontroli	
-appropriate	konvena	
-fitting	konvena	
-seemly	konvena	
-well-suited	konvena	
-becomes	konvenas al {ntr}	is well suited to in an enhancing way
-converse	konversacii	
-conversation	konversacio	
-imitation	kopio	
-photocopy	kopio	
-reproduction	kopio	
-copulation	kopulacio	
-correct	korekta	relating to correction
-corrective	korekta	
+check	kontroli	v.
+check out	kontroli	v.
+inspect	kontroli	v.
+supervise	kontroli	v.
+appropriate	konvena	adj.
+fitting	konvena	adj.
+seemly	konvena	adj.
+well-suited	konvena	adj.
+becomes	konvenas al	v.ntr is well suited to in an enhancing way
+converse	konversacii	v.
+conversation	konversacio	n.
+imitation	kopio	n.
+photocopy	kopio	n.
+reproduction	kopio	n.
+copulation	kopulacio	n.
+correct	korekta	adj. relating to correction
+corrective	korekta	adj.
 correspond	korespondi	exchange letters or other messages
-exchange letters	korespondi	
-exchange messages	korespondi	
-heart	koro	
-bodily	korpa	
-bodyguard	korpogardisto	
-corpulent	korpulenta	
-fat	korpulenta	of people
-portly	korpulenta	
-courtyard	korto	
-affect	kortuŝi	have an emotional impact on
+exchange letters	korespondi	v.
+exchange messages	korespondi	v.
+heart	koro	n.
+bodily	korpa	adj.
+bodyguard	korpogardisto	n.
+corpulent	korpulenta	adj.
+fat	korpulenta	adj. of people
+portly	korpulenta	adj.
+courtyard	korto	n.
+affect	kortuŝi	v. have an emotional impact on
 choir	koruso	syn. ĥoro
 Cosimo	Kosimo	personal-name
-nightmare	koŝmaro	
-fee	kotizo	
+nightmare	koŝmaro	n.
+fee	kotizo	n.
 muck	koto	mud
-mud	koto	
-cotton	kotono	fiber
-spit	kraĉi	
-spat	kraĉis {ntr}	
-lattice	kradita	covered by a lattice
-pencil	krajono	
-crackle	kraketi	
-clatter	kraki {ntr}	
-crack	kraki {ntr}	
-crisp	krakmaĉa	
-crunchy	krakmaĉa	
+mud	_koto	n.
+cotton	kotono	n. fiber
+spit	kraĉi	v.
+spat	kraĉis	v.ntr
+lattice	kradita	adj. covered by a lattice
+pencil	krajono	n.
+crackle	kraketi	v.
+clatter	kraki	v.ntr
+crack	kraki	v.ntr
+crisp	krakmaĉa	adj.
+crunchy	krakmaĉa	adj.
 cramp	kramfo	medical condition
-bracket	krampo	
-clamp	krampo	
+bracket	krampo	n.
+clamp	krampo	n.
 parenthesis	krampo	rondaj() rektaj[] angulaj<> kurbaj{}
-cranium	kranio	
-skull	kranio	
-faucet	krano	
-believe	kredi {tr}	
-twilight	krepusko	
-grows	kreskas {ntr}	
-grow	kreski {ntr}	to grow, increase or become bigger
-grow	kreskigi {tr}	make something grow
-burst	krevi	
-explode	krevi	
-pop apart	krevi	
-popcorn	krevmaizo	
-shout	krii {ntr}	
-criminal	krima	like a criminal
-crinkled	krispa	
-wavy	krispa	
-Christmas Morning	Kristnask’mateno	
-Christmas-day	Kristnask’tago	
-Christmas-tide	Kristnask’tempo	
-Christmas-eve	Kristnask’vespero	
-Chrismasse Carolles	Kristnaskaj Karoloj	
-Christmas	Kristnasko	
-finding fault	kritiki	
+cranium	kranio	n.
+skull	kranio	n.
+faucet	krano	n.
+believe	kredi	v.tr
+twilight	krepusko	n.
+grows	kreskas	v.ntr
+grow	kreski	v.ntr to grow, increase or become bigger
+grow	kreskigi	v.tr make something grow
+burst	krevi	v.
+explode	krevi	v.
+pop apart	krevi	v.
+popcorn	krevmaizo	n.
+shout	krii	v.ntr
+criminal	krima	adj. like a criminal
+crinkled	krispa	adj.
+wavy	krispa	adj.
+Christmas Morning	Kristnask’mateno	n.
+Christmas-day	Kristnask’tago	n.
+Christmas-tide	Kristnask’tempo	n.
+Christmas-eve	Kristnask’vespero	n.
+Chrismasse Carolles	Kristnaskaj Karoloj	*
+Christmas	Kristnasko	n.
+finding fault	kritiki	v.
 apart from	krom	not considering
 but for	krom	not considering
 except for	krom	not considering
-into the bargain	krome	
-crisp	krusta	
-crust	krusto	
-scab	krusto	
-etc	ktp	
-climax	kulmino {tr|ntr}	
-cultivate	kultivi	crops
+into the bargain	krome	adv.
+crisp	krusta	adj.
+crust	krusto	n.
+scab	krusto	n.
+etc	ktp	*
+climax	kulmino	n.
+cultivate	kultivi	v. crops
 till	kultivi	soil
-cultivate	kulturi	
-develop	kulturi	
-raise	kulturi	
-along with	kun	
-alongside	kun	
-together with	kun	
+cultivate	kulturi	v.
+develop	kulturi	v.
+raise	kulturi	v.
+along with	kun	*
+alongside	kun	*
+together with	kun	*
 with	kun	together with someone/thing
 partner	kun'danc'ant'ino	female dance partner
-together	kune	
-merge	kunfandiĝi {ntr}	become melted together
-share	kunhavigi {tr}	
-clasping	kunprema	
+together	kune	adv.
+merge	kunfandiĝi	v.ntr become melted together
+share	kunhavigi	v.tr
+clasping	kunprema	adj.
 partner	kunulo	life partner, not married
-meeting	kunveno	
-treatment	kuracado	
-heal	kuraci	
-treat	kuraci	an illness or wound
+meeting	kunveno	n.
+treatment	kuracado	n.
+heal	kuraci	v.
+treat	kuraci	v. an illness or wound
 doctor	kuracisto	physician
-physician	kuracisto	
-plucky	kuraĝa	
-curious	kurioza	exciting interest
-funny	kurioza	funny as in strange or curious
-inscrutable	kurioza	
-strange	kurioza	
-quaint	kurioza	
-course of life	kursado de vivo	
+physician	kuracisto	n.
+plucky	kuraĝa	adj.
+curious	kurioza	adj. exciting interest
+funny	kurioza	adj. funny as in strange or curious
+inscrutable	kurioza	adj.
+strange	kurioza	adj.
+quaint	kurioza	adj.
+course of life	kursado de vivo	n.
 course	kurso	made up of lessons
-course	kurso	made up of lessons
-recumbent	kuŝa	
-lies	kuŝas {ntr}	
-lie	kuŝi {ntr}	to be resting in a horizontal position, to be having horizontal sexual intercourse, to occupy a space eg "lies to the East"
-lay	kuŝigi {tr}	lay something down, make it lie
-fall	kuŝiĝi {ntr}	a thing to fall flat like a cut tree
-lie	kuŝiĝi {ntr}	to lie oneself down, become and become recumbent
-usual	kutima	
-usually	kutime	
-accustomed	kutimi  	(+ inf.; al aŭ tr) to be accustomed to
+recumbent	kuŝa	adj.
+lies	kuŝas	v.ntr
+lie	kuŝi	v.ntr to be resting in a horizontal position, to be having horizontal sexual intercourse, to occupy a space eg "lies to the East"
+lay	kuŝigi	v.tr lay something down, make it lie
+fall	kuŝiĝi	v.ntr a thing to fall flat like a cut tree
+lie	kuŝiĝi	v.ntr to lie oneself down, become and become recumbent
+usual	kutima	adj.
+usually	kutime	adv.
+accustomed	kutimi 	(+ inf.; al aŭ tr) to be accustomed to
 cousin	kuzino	female
-although	kvankam	
-though	kvankam	
-quadruple	kvarobligi	
+although	kvankam	conj.
+though	kvankam	conj.
+quadruple	kvarobligi	v.
 district	kvartalo	a district of a city
 quarter	kvartalo	district
-as	kvazaŭ	
-as if	kvazaŭ	
-as if it were	kvazaŭ	
-as though	kvazaŭ	
-like	kvazaŭ	
-seemingly	kvazaŭ	
-oaken	kverka	
-ask for contributions	kvesti	
-quietly	kviete	
+as	kvazaŭ	*. as if
+as if	kvazaŭ	*
+as if it were	kvazaŭ	*
+as though	kvazaŭ	*
+like	kvazaŭ	*. as if
+seemingly	kvazaŭ	*
+oaken	kverka	adj.
+ask for contributions	kvesti	v.
+quietly	kviete	adv.
 quiz	kvizo	esp trivia contest
-the	la	
-the others	la aliuloj	
-present day	la estanteco	
-the very end	la fina fino	
-the side	la flanko	
-the female	la ino	
+the	la	adj.
+the others	la aliuloj	n.
+present day	la estanteco	n.
+the very end	la fina fino	n.
+the side	la flanko	n.
+the female	la ino	n.
 the Campagna	la Kamparo	Roman Campagna, countryside around Rome
-the latter	la lasta	
-Chinese	la mandarena	the official language of China
+the latter	la lasta	adj.
+Chinese	la mandarena	adj. the official language of China
 the way	la maniero kiel	manner in which
-the male	la masklo	
-hardworking	laborema	
-foreman	laborestro	
-work	labori {ntr}	
-labourer	laboristo	
-workman	laboristo	
-labour	laboro	
-weary	laca	
-wearily	lace	
-lantern	lanterno	
-lard	lardi	decorating something unnecessarily
-bacon	lardo	
-wide	larĝa	
-leave	lasi	
-let	lasi	
-left	lasis {tr}	to leave behind
-last	last	after all the others
-recent	lasta	
-recently	lastatempe	
+the male	la masklo	n.
+hardworking	laborema	adj.
+foreman	laborestro	n.
+work	labori	v.ntr
+labourer	laboristo	n.
+workman	laboristo	n.
+labour	laboro	n.
+weary	laca	adj.
+wearily	lace	adv.
+lantern	lanterno	n.
+lard	lardi	v. decorating something unnecessarily
+bacon	lardo	n.
+wide	larĝa	adj.
+leave	lasi	v.
+let	lasi	v.
+left	lasis	v.tr to leave behind
+last	_lasta	adj. after all the others
+recent	lasta	adj.
+recently	_lastatempe	adv.
 according to	laŭ	in agreement with, as stated
 along	laŭ	following lengthwise
 by	laŭ	according to
-to	laŭ	in the opinion of
+to	laŭ	prep. in the opinion of
 with	laŭ	along
-as possible	laŭeble	
-laurel	laŭro	
-loud	laŭta	
-aloud	laŭte	
-learn	learni {tr}	
-lesson	leciono	
-reader	leganto	
-lightness	leĝereco	nonchalance
-read	legi {tr}	
+as possible	laŭeble	adv.
+laurel	laŭro	n.
+loud	laŭta	adj.
+aloud	laŭte	adv.
+lesson	leciono	n.
+reader	leganto	n.
+lightness	leĝereco	n. nonchalance
+read	legi	v.tr
 marguerite	lekanto	a large daisy
-lick	leki	
-lion	leono	
+lick	leki	v.
+lion	leono	n.
 learner	lernanto	before university
 pupil	lernanto	before university
 student	lernanto	before university
 school	lernejo	place where learning takes place
-learn	lerni	
-study	lerni	
-adept	lerta	
-clever	lerta	
-quick to learn	lerta	
-cleverly	lerte	
-skill	lerteco	
-clever person	lertulo	
-quick learner	lertulo	
-note	letereto	short letter written to someone else
-lift	levi {tr}	
-he	li	
-him	li	
-dragonfly	libelo	
-freedom	libereco	
-book	libro	
-bookkeeper	librotenisto	
+learn	lerni	v.tr
+study	_lerni	v.tr
+adept	lerta	adj.
+clever	lerta	adj.
+quick to learn	lerta	adj.
+cleverly	lerte	adv.
+skill	lerteco	n.
+clever person	lertulo	n.
+quick learner	lertulo	n.
+note	letereto	n. short letter written to someone else
+lift	levi	v.tr
+he	li	v.
+him	li	v.
+dragonfly	libelo	n.
+freedom	libereco	n.n.
+book	libro	n.
+bookkeeper	librotenisto	n.
 high school	liceo	especially in French-speaking countries
-bind	ligi {tr}	
-connected	ligitaj	
-wooden	ligna	
-wood	ligno	
-benzine	ligroino	
-would bind	ligus {tr}	
-leak	liki	as a container
-leak	likiĝi	as a fluid
-limitation	limo	
-lip	lipo	
-typefont	literaro	
+bind	ligi	v.tr
+connected	ligitaj	adj.
+wooden	ligna	adj.
+wood	ligno	n.
+benzine	ligroino	n.
+would bind	ligus	v.tr
+leak	liki	v. as a container
+leak	likiĝi	v.ntr as a fluid
+limitation	limo	n.
+lip	lipo	n.
+typefont	literaro	n.
 left	liva	~maldesktra
-dweller	loĝanto	
-dwell	loĝi {tr}	
-local	loka	
-locale	lokalo	
-place	lokalo	
-place	loko	
-spot	loko	
-grasshopper	lokusto	
+dweller	loĝanto	n.
+dwell	loĝi	v.tr
+local	loka	adj.
+locale	lokalo	n.
+place	lokalo	n.
+place	_loko	n.
+spot	loko	n.
+grasshopper	lokusto	n.
 lady	lordino	British nobility
 lord	lordo	British nobility
-drawing	loterio	
-lottery	loterio	
-plays	ludas {tr|ntr}	
-game	ludo	
-earn	lukri	
-gain	lukri	
-win	lukri	
-luxury	lukso	
-cradled	lulita	
+drawing	loterio	n.
+lottery	loterio	n.
+plays	ludas	v.tr.ntr
+game	ludo	n.
+earn	lukri	v.
+gain	lukri	v.
+win	lukri	v.
+luxury	lukso	n.
+cradled	lulita	adj.
 light bath	lum'bano	light bath
-light	lumo	visible radiation, source of light, figurative light, light part of painting
-Monday	lundo	
-rent payment	lupago	
-wolf	lupo	
-matzo	maco	
-chewing	maĉo	
-department store	magazeno	
+light	_lumo	visible radiation, source of light, figurative light, light part of painting
+Monday	lundo	n.
+rent payment	lupago	n.
+wolf	lupo	n.
+matzo	maco	n.
+chewing	maĉo	n.
+department store	magazeno	n.
 magazine	magazeno	powder  (for explosives)
-shop	magazeno	
-supermarket	magazeno	
-warehouse	magazeno	
+shop	magazeno	n.
+supermarket	magazeno	n.
+warehouse	magazeno	n.
 magazine	magazino	popular magazine (for amusement)
 wand	magia bastoneto	magic wand, small magical stick
-May	majo	
+May	majo	n.
 maquis	makiso	editerranean shrub
-hate	malami	
-hated	malamita	unloved
+hate	malami	v.
+hated	malamita	adj. unloved
 behind	malantaŭ	at the far side of something (hidden)
-behind	malantaŭe 	
-backwards	malantaŭen	
-inattentive	malatenta	
-ignore	malatenti {tr}	
-unsightliness	malbeleco	
-ill-fortune	malbon'fortuno	
-amiss	malbone	
-awful	malbonega	very bad
-evil	malbono	
-dull	malbrila	not visually bright
-indecent	maldeca	
-left	maldekstre 	
-despair	malespero	
-contemptuous	malestima	
-undo	malfari {tr}	
-open	malferma	eg an open opportunity, open as an defining feature
-opens	malfermas {tr}	
-open	malfermi {tr}	cause to be open
-opens	malfermiĝas {ntr}	
-opened	malfermiĝis {ntr}	
+behind	malantaŭe	adv.
+backwards	malantaŭen	adv.
+inattentive	malatenta	adj.
+ignore	malatenti	v.tr
+unsightliness	malbeleco	n.
+ill-fortune	malbon'fortuno	n.
+amiss	malbone	adv.
+awful	_malbonega	adj. very bad
+evil	malbono	n.
+dull	_malbrila	adj. not visually bright
+indecent	maldeca	adj.
+left	maldekstre	adv.
+despair	malespero	n.
+contemptuous	malestima	adj.
+undo	malfari	v.tr
+open	malferma	adj. eg an open opportunity, open as an defining feature
+opens	malfermas	v.tr
+open	malfermi	v.tr cause to be open
+opens	malfermiĝas	v.ntr
+opened	malfermiĝis	v.ntr
 open	malfermita	eg door that has been opened
-will open	malfermos {tr}	
-weak	malforta	
-thin-blooded	malfortik'sanga	
-shall be late	malfruos {ntr}	
-dreary	malgaja	
-ragged	malglata	
-sad	malĝoja	
-sadness	malĝojo	
-little	malgranda	
-small	malgranda	
+will open	malfermos	v.tr
+weak	malforta	adj.
+thin-blooded	malfortik'sanga	adj.
+shall be late	malfruos	v.ntr
+dreary	malgaja	adj.
+ragged	malglata	adj.
+sad	malĝoja	adj.
+sadness	malĝojo	n.
+little	malgranda	adj.
+small	malgranda	adj.
 despite	malgraŭ	nevertheless, notwithstanding
 in spite of	malgraŭ	nevertheless, notwithstanding
-slight	malgrava	not serious
-wrong	malĝusta	improper
-wrongly⁠	malĝuste	
-prevent	malhelpi {tr}	
-racket	malhonestaĵo	
-shakedown	malhonestaĵo	
-old	maljuna	
-old lady	maljunulino	
-old person	maljunulo	
-old people	maljunuloj	
-vaguely	malklare	
-ignorant	malklera	uneducated
-discover	malkovri {tr}	
-brief	mallonga	
-darkness	mallumo	
-old-fashioned	malmoderna	
-old-time	malmoderna	
+slight	malgrava	adj. not serious
+wrong	malĝusta	adj. improper
+wrongly⁠	malĝuste	adv.
+prevent	malhelpi	v.tr
+racket	malhonestaĵo	n.
+shakedown	malhonestaĵo	n.
+old	maljuna	adj.
+old lady	maljunulino	n.
+old person	maljunulo	n.
+old people	maljunuloj	*
+vaguely	malklare	adv.
+ignorant	malklera	adj. uneducated
+discover	malkovri	v.tr
+brief	mallonga	adj.
+darkness	mallumo	n.
+old-fashioned	malmoderna	adj.
+old-time	malmoderna	adj.
 hard fact	malmola fakto	idiom
-little	malmulte	
-rough draft	malneto	
-old	malnova	
-rare	malofta	
-rarely	malofte	
+little	malmulte	adv.
+rough draft	malneto	n.
+old	malnova	adj.
+rare	malofta	adj.
+rarely	malofte	adv.
 defect	malperfektaĵo	n.
 imperfection	malperfektaĵo	n.
-forbid	malpermesi {tr}	
-light	malpeza	not heavy, lit. or fig.
-lightly	malpeze	
-least	malplej	
-displeasure	malplezuro	
-diminish	malpliigi	
-reduce	malpliigi {tr}	
-wrong	malprava	inaccurate
-pollution	malpurado	
-uncleanliness	malpurado	
-dirt	malpuraĵo	
-filth	malpuraĵo	
-muck	malpuraĵo	
-pollution	malpuraĵo	
-pollution	malpureco	
-uncleanliness	malpureco	
-pollution	malpuro	
-uncleanliness	malpuro	
-slowly	malrapide	
-poor	malriĉa	
-foolish	malsaĝa	
-fool	malsaĝulo	
-of a different sort	malsamaspeco	
-ailing	malsana	not healthy
-ailment	malsaneto	
-getting ill	malsaniĝi {ntr}	
-would make  ill	malsanigus {tr}	
-malady	malsano	
-waste	malŝpari	
-under	malsupre 	
-underneath	malsupre 	
+forbid	malpermesi	v.tr
+light	malpeza	adj. not heavy, lit. or fig.
+lightly	malpeze	adv.
+least	malplej	*
+displeasure	malplezuro	n.
+diminish	malpliigi	v.
+reduce	malpliigi	v.tr
+wrong	malprava	adj. inaccurate
+pollution	malpurado	n.
+uncleanliness	malpurado	n.
+dirt	malpuraĵo	n.
+filth	malpuraĵo	n.
+muck	malpuraĵo	n.
+pollution	malpuraĵo	n.
+pollution	malpureco	n.
+uncleanliness	malpureco	n.
+pollution	_malpuro	n.
+uncleanliness	_malpuro	n.
+slowly	malrapide	adv.
+poor	malriĉa	adj.
+foolish	malsaĝa	adj.
+fool	malsaĝulo	n.
+of a different sort	malsamaspeco	n.
+ailing	malsana	adj. not healthy
+ailment	malsaneto	n.
+getting ill	malsaniĝi	v.ntr
+would make  ill	malsanigus	v.tr
+malady	malsano	n.
+waste	malŝpari	v.
+under	malsupre	adv.
+underneath	malsupre	adv.
 down	malsupren	downward
-worry	maltrankviligi	
-uneasiness	maltrankvilo	
-pee	maltrinki	
-urinate	maltrinki	
-chill	malvarm'tremo	sensation of a chill accompanied by trembling
-cool	malvarma	not hot
-chill	malvarmeto	
-close	malvasta	small, and confining 
-sin	malvirto	
-vice	malvirto	
-recklessness	malzorgemo	
+worry	maltrankviligi	v.
+uneasiness	maltrankvilo	n.
+pee	maltrinki	v.
+urinate	maltrinki	v.
+chill	malvarm'tremo	n. sensation of a chill accompanied by trembling
+cool	malvarma	adj. not hot
+chill	_malvarmeto	n.
+close	malvasta	adj. small, and confining
+sin	malvirto	n.
+vice	malvirto	n.
+recklessness	malzorgemo	n.
 Mandarin	mandareno	official in Imperial China
-Mandarin orange	mandarino	
-food	manĝaĵo	
-manner	maniero	
-be lacking	manki	
-be missed	manki	
-be missing	manki	
-be needed	manki	
-defect	manko	
-lack	manko	
-missing part	manko	
+Mandarin orange	mandarino	n.
+food	manĝaĵo	n.
+manner	maniero	n.
+be lacking	manki	v.
+be missed	manki	v.
+be missing	manki	v.
+be needed	manki	v.
+defect	manko	n.
+lack	manko	n.
+missing part	manko	n.
 palm	manplato	as in the palm of the hand
-coat	mantelo	
+coat	mantelo	n.
 mantle	mantelo	coat
-robe	mantelo	
-Tuesday	mardo	
+robe	mantelo	n.
+Tuesday	mardo	n.
 Marco	Marko	person's name
-mark	marko	
-sea	maro	
-seascape	marpentraĵo	
-March	marto	
-machinery	maŝinaro	
-solid	masiva	not porous (pora) or hollow (kava)
-mask	masko	
+mark	marko	n.
+sea	maro	n.
+seascape	marpentraĵo	n.
+March	marto	n.
+machinery	maŝinaro	n.
+solid	masiva	adj. not porous (pora) or hollow (kava)
+mask	masko	n.
 mass	maso	in physics
 quantity	maso	indefinite quantity
-sporting match	matĉo	
-dawn	matenkrepusko	
-mattress	matraco	
+sporting match	matĉo	n.
+dawn	matenkrepusko	n.
+mattress	matraco	n.
 vase	matraso	long-necked glass vase
-matrix	matrico	
-mold	matrico	
-matures	maturiĝas	
+matrix	matrico	n.
+mold	matrico	n.
+matures	maturiĝas	v.
 furniture	meblo	piece of furniture
 medicine	medicino	the theory or practice of medicine
-medicine	medikamento	as something to be taken
-environment	medio	
+medicine	_medikamento	as something to be taken
+environment	medio	n.
 medium	mediumo	spirit medium
-Memphis	Memfiso	city in Tennessee
-remember	memori {tr}	
-remind	memorigi {tr}	of something in the future
-memory	memoro	
-Memphis	Menefro	city in ancient Egypt
+Memphis	Memfiso	n. city in Tennessee
+remember	memori	v.tr put into memory
+remind	memorigi	v.tr of something in the future
+memory	memoro	n.
+Memphis	Menefro	n. city in ancient Egypt
 minstrelsye	menestrelaĵo	music of minstrels
-mind	menso	
-lie	mensogi	be mendacious ie tell untruths
+mind	menso	n.
+lie	mensogi	v.tr be mendacious ie tell untruths
 lie	mensogo	an untruth
 lies	mensogoj	pl. untruths
-Meran	Merano	
-deserve	meriti {tr}	
+Meran	Merano	n.
+deserve	meriti	v.tr
 market	merkato	as a system of trading
-Wednesday	merkredo	
+Wednesday	merkredo	n.
 mass	meso	Catholic service
-put	meti {tr}	
+put	meti	v.tr
 set	metis	put, past tense
-method	metodo	
-medium	meza	
-middle	meza	
-midway	meze de	
-Middle Ages	Mezepoko	
-midland counties	mezlandaj graflandoj	
+method	metodo	n.
+medium	meza	adj.
+middle	meza	adj.
+midway	meze de	adv.
+Middle Ages	Mezepoko	n.
+midland counties	mezlandaj graflandoj	*
 middle school	mezlernejo	junior high school and high school, ~ grades 7-12
-honey	mielo	
-expression	mieno	appearance of the face
-gentle	milda	
-mild	milda	
-relieve	mildigi {tr}	make gentler
-Miller	Milero	name
-billion	miliardo	
-thousand	milo	
-sinister	minaca	threatening
-wonderful thing	mirindaĵo	
-mission building	misiejo	
-mission complex	misiejo	
-mission	misio	
-quest	misio	
-mysterious	mistera	
-mysteries	misteroj	
-myth	mito	
-mythology	mitologio	
-scholar of mythology	mitologo	
-mussel	mitulo	
-miserable	mizera	
-model	modelo	
-in moderation	modere	
-admirable	mojosa	
-cool	mojosa	fashionable
-fashionable	mojosa	
-mockery	mokataĵo	
-mockingly	moke	
-tender	mola	in regard to meat
-moment	momento	
-monk	monaĥo	
-world	mondo	
-hill	monteto	
-money	mono	
+honey	mielo	n.
+expression	mieno	n. appearance of the face
+gentle	milda	adj.
+mild	milda	adj.
+relieve	mildigi	v.tr make gentler
+Miller	Milero	n. name
+billion	miliardo	n.
+thousand	milo	n.
+sinister	minaca	adj. threatening
+wonderful thing	mirindaĵo	n.
+mission building	misiejo	n.
+mission complex	misiejo	n.
+mission	misio	n.
+quest	misio	n.
+mysterious	mistera	adj.
+mysteries	misteroj	n.
+myth	mito	n.
+mythology	mitologio	n.
+scholar of mythology	mitologo	n.
+mussel	mitulo	n.
+miserable	mizera	adj.
+model	modelo	n.
+in moderation	modere	adv.
+admirable	mojosa	adj.
+cool	mojosa	adj. fashionable
+fashionable	mojosa	adj.
+mockery	mokataĵo	n.
+mockingly	moke	adv.
+tender	mola	adj. in regard to meat
+moment	momento	n.
+monk	monaĥo	n.
+world	mondo	n.
+hill	monteto	n.
+money	mono	n.
 mount	monto	part of the name of a mountain
-mountain	monto	
-represented	montra	portrayed in a drawing
+mountain	monto	n.
+represented	montra	adj. portrayed in a drawing
 demonstrate	montri	by illustration
-show	montri {tr}	
+show	montri	v.tr
 pug	mopso	pugdog
-morsel	mordaĵo	
-bite	mordi	
-tomorrow	morgaŭ 	
+morsel	mordaĵo	n.
+bite	mordi	v.
+tomorrow	morgaŭ	*
 gloomy	morna	dark and depressing
-gloom	morno	
-die	morti	
-fatal	mortiga	
-kill	mortigi	
-death	morto	
+gloom	morno	n.
+die	morti	v.
+fatal	mortiga	adj.
+kill	mortigi	v.
+death	morto	n.
 dance of death	mortodanco	medieval painting theme
-grape juice	mosto	
-grace	moŝto	title for royalty
-highness	moŝto	title for royalty
-majesty	moŝto	title for royalty
-moving	movanta	
-move	movi {ntr}	
-moves	moviĝas {ntr}	
-motion	movo	
-mill	muelilo	
-mucus	muko	
-mucous membrane	mukozo	
+grape juice	mosto	n.
+grace	moŝto	n. title for royalty
+highness	moŝto	n. title for royalty
+majesty	moŝto	n. title for royalty
+moving	movanta	adj.
+move	movi	v.ntr
+moves	moviĝas	v.ntr
+motion	movo	n.
+mill	muelilo	n.
+mucus	muko	n.
+mucous membrane	mukozo	n.
 mold	muldi	to mold
 mold	muldilo	a mold
-much	multa	generally avoided in the singular in favor of multe da
-many	multaj	
-to a great extent	multe	
-murder	murdi	
-murmurs	murmuri {tr}	
-wall	muro	
-muscle	muskolo	
-music	muziko	
-nation	nacio	
-swim	naĝi {ntr}	
+much	multa	adj. generally avoided in the singular in favor of multe da
+many	multaj	adj.
+to a great extent	multe	adv.
+murder	murdi	v.
+murmurs	murmuri	v.tr
+wall	muro	n.
+muscle	muskolo	n.
+music	muziko	n.
+nation	nacio	n.
+swim	naĝi	v.ntr
 neighbourhood	najbaraĵo	vs kvartalo (district)
-to be born	naskiĝi {ntr}	
-natural	natura	
-nature	naturo	
+to be born	naskiĝi	v.ntr
+natural	natura	adj.
+nature	naturo	n.
 Nazi	nazio	member of the German National Socialist party or regime
-nostril	naztruo	
-not	ne	
+nostril	naztruo	n.
+not	ne	adv.
 it was nothing	ne dankinde	you’re welcome
 no problem	ne dankinde	you’re welcome
-you’re welcome	ne dankinde	
+you’re welcome	ne dankinde	adv.
 mustn’t	ne devas	idiom
-need not	ne devi	
-was not fixed	ne estis fiksita	
-takes no account of me	ne konsideras min	
-untrodden	ne'sur'tret'ita	
-necessary	necesa	
+need not	ne devi	v.
+was not fixed	ne estis fiksita	adj.
+takes no account of me	ne konsideras min	*
+untrodden	ne'sur'tret'ita	adj.
+necessary	necesa	adj.
 undecided	nedecidite	while being undecided
-indigestible	nedigestebla	
-impossible	neeble	
-indelible	neforigebla	
-informal	neformala	
-snow on the ground	neĝo sur la tero	
+indigestible	nedigestebla	adj.
+impossible	neeble	adv.
+indelible	neforigebla	adj.
+informal	neformala	adj.
+snow on the ground	neĝo sur la tero	n.
 business	negoco	a business
-commercial transaction	negoco	
-unimportant	negrava	
+commercial transaction	negoco	n.
+unimportant	negrava	adj.
 minor poet	negrava poeto	poet who is not one of "the greats"
 Negro	negro	person of African ancestry
-neither	nek	
-nor	nek	
-unknowing	nekonanta	
-unknown	nekonata	
-incredulous	nekredema	not credulous
-skeptical	nekredema	not credulous
-unusual	nekutima	
-immovably	nemoveble	
-never	neniam 	
-nowhere	nenie 	
-nothing	nenio	
+neither	nek	conj.
+nor	nek	conj.
+unknowing	nekonanta	adj.
+unknown	nekonata	adj.
+incredulous	nekredema	adj. not credulous
+skeptical	nekredema	adj. not credulous
+unusual	nekutima	adj.
+immovably	nemoveble	adv.
+never	neniam	corr.
+nowhere	nenie	adv.
+nothing	nenio	n.
 no	neniom da	no amount
-no one	neniu	
-abnormality	nenormalaĵo	
-defect	nenormalaĵo	
-irresistible	nerezistebla	
+no one	neniu	corr.
+abnormality	nenormalaĵo	n.
+defect	nenormalaĵo	n.
+irresistible	nerezistebla	adj.
 underpaid	nesufiĉe pagata	idiom
-clearly visible	neta	
-distinct	neta	
-unlikely	neverŝajna	
-invisible	nevidebla	
+clearly visible	neta	adj.
+distinct	neta	adj.
+unlikely	neverŝajna	adj.
+invisible	nevidebla	adj.
 Gaudeamus Omnes	Ni Ĉiuj Ĝoju	“Let us all Rejoice,” Latin title of a chant
-ourselves	ni mem	
-black	nigra	
-depressing	nigra	sentiments attitudes
-ominous	nigra	sentiments attitudes
-blackened	nigrita	
-benighted	nokte kaptita	
-midnight	noktomezo	
+ourselves	ni mem	*
+black	nigra	adj.
+depressing	nigra	adj. sentiments attitudes
+ominous	nigra	adj. sentiments attitudes
+blackened	nigrita	adj.
+benighted	nokte kaptita	adj.
+midnight	noktomezo	n.
 counter	nombrilo	numbering device
-call	nomi {tr}	to refer to as, "you call that a knife?"
-name	nomi	
+call	nomi	v.tr to refer to as, "you call that a knife?"
+name	nomi	v.
 to call	nomi	to call a name
-nominal	nominala	
-name	nomo	
+nominal	nominala	adj.
+name	nomo	n.
 appoint	nomumi	to appoint (to a post)
 name	nomumi	to appoint (to a post)
-note	noti {tr}	make note of, written or mentally
-note	noto	short reminder written to yourself
-new	nova	
-lie fallow	novali	
+note	noti	v.tr make note of, written or mentally
+note	_noto	n. short reminder written to yourself
+new	nova	adj.
+lie fallow	novali	v.
 wool gathering	novali	figuratively lie fallow
 fallow land	novalo	land lying fallow
 nova	novao	in astronomy
-newfound	nove trovita	
-bride	novedzino	
-short story	novelo	
-November	novembro	
+newfound	nove trovita	adj.
+bride	novedzino	n.
+short story	novelo	n.
+November	novembro	n.
 novice	novico	religious order or inexpert
-lay person	novulo	
-novice	novulo	
+lay person	novulo	n.
+novice	novulo	n.
 well	nu	interjection or conjuntion
 touch	nuanco	delicate distinction
-cloud	nubo	
-numeral	numeralo	
-numerator	numeratoro	
-number	numeri	to number
-cipher	numero	
+cloud	nubo	n.
+numeral	numeralo	n.
+numerator	numeratoro	n.
+number	numeri	v. to number
+cipher	numero	n.
 copy	numero	of a magazine
-digit	numero	
+digit	numero	n.
 edition	numero	of a magazine
-number	numero	
-present day	nuneco	
-present day	nuntempo	
+number	_numero	n.
+present day	nuneco	n.
+present day	_nuntempo	n.
 just	nur	merely
-merely	nur	
-only	nur	
-mere	nura	
-obeys	obeas {tr}	
-obedient	obeema	
-obey	obei {tr}	+ 'al'
-concept	objekto	physical object; mental concept; grammatical object
-object	objekto	physical object; mental concept; grammatical object
-object	obĵeti	to object
-obsess	obsedi {tr}	
-obstinate	obstina	
-recalcitrant	obstina	
-smell	odoro	
-by means of	per	
-insult	ofendi	
-offend	ofendi	
-offer	oferi	offer as a sacrifice
-offer	oferti	offer something for a price
-offer	oferto {tr}	not used for gifts
-office	oficejo	
-office	ofico	professional position
-offer	ofri	to a guest
-common	ofta	
-often	ofte	
-often	ofte 	
-affair	okazaĵo	event
-happen	okazi {ntr}	
-took place	okazis	
-instance	okazo	
-occasion	okazo	
-opportunity	okazo	
-occasions	okazoj	
-Oxford	Oksfordo	
-October	oktobro	
-eye	okulo	
-occupy	okupi	
-occupy oneself	okupiĝi	
-busy	okupita	
-than	ol	
-oil painting	oleopentraĵo	
-shadow	ombro	
-one	oni	
-a person’s	onia	relating to some unmentioned person
+merely	nur	adv.
+only	nur	adv.
+mere	nura	adj.
+obeys	obeas	v.tr
+obedient	obeema	adj.
+obey	obei	v.tr + 'al'
+concept	objekto	n. physical object; mental concept; grammatical object
+object	_objekto	n. physical object; mental concept; grammatical object
+object	obĵeti	v. to object
+obsess	obsedi	v.tr
+obstinate	obstina	adj.
+recalcitrant	obstina	adj.
+smell	odoro	n.
+insult	ofendi	v.
+offend	ofendi	v.
+offer	oferi	v. offer as a sacrifice
+offer	oferti	v. offer something for a price
+offer	oferto	v.tr not used for gifts
+office	_oficejo	n.
+office	ofico	n. professional position
+offer	ofri	v. to a guest
+common	ofta	adj.
+often	ofte	adv.
+affair	okazaĵo	n. event
+happen	okazi	v.ntr
+took place	okazis	v.
+instance	okazo	n.
+occasion	_okazo	n.
+opportunity	okazo	n.
+occasions	okazoj	n.
+Oxford	Oksfordo	n.
+October	oktobro	n.
+eye	okulo	n.
+occupy	okupi	v.
+occupy oneself	okupiĝi	v.
+busy	okupita	adj.
+than	ol	*
+oil painting	oleopentraĵo	n.
+shadow	ombro	n.
+one	oni	v.
+a person’s	onia	adj. relating to some unmentioned person
 gossip	onidiro	rumor, positive or negative
-have the opinion that	opinii	
-opinion	opinio	
-convenient	oportuna	
-handy	oportuna	
-orange	oranĝa	
-conservatory	oranĝerio	
-greenhouse	oranĝerio	
-commonplace	ordinara	
-ear	orelo	
-earrings	orelringoj	
-organ	organo	body part
-organ	orgeno	musical instrument
+have the opinion that	opinii	v.
+opinion	opinio	n.
+convenient	oportuna	adj.
+handy	oportuna	adj.
+orange	oranĝa	adj.
+conservatory	oranĝerio	n.
+greenhouse	oranĝerio	n.
+commonplace	ordinara	adj.
+ear	orelo	n.
+earrings	orelringoj	n.
+organ	organo	n. body part
+organ	orgeno	n. musical instrument
 orgy	orgio	wild party
 oregano	origano	seasoning
-begin	origini	
-originate	origini	
-origin	origino	
-decorations	ornamaĵoj	
-decorated	ornamitaj	
-oyster	ostro	
-pay	pagi	amount paid is in the accusative
-joking around	pajacado	
-practical jokes	pajacaĵoj	
-pranks	pajacaĵoj	
-buffoon	pajaco	
-clown	pajaco	buffoon
-parcel	pakaĵo	package
-wrap up	paki	pack up
-pale	pala	
-palette	paletro	
+begin	origini	v.
+originate	origini	v.
+origin	origino	n.
+decorations	ornamaĵoj	n.
+decorated	ornamitaj	adj.
+oyster	ostro	n.
+pay	pagi	v.tr amount paid is in the accusative
+joking around	pajacado	n.
+practical jokes	pajacaĵoj	n.
+pranks	pajacaĵoj	n.
+buffoon	pajaco	n.
+clown	pajaco	n. buffoon
+parcel	pakaĵo	n. package
+wrap up	paki	v. pack up
+pale	pala	adj.
+palette	paletro	n.
 palm	palmo	the tree
-pamphlet	pamfleto	usually libellous often humorous often political pamphlet
-dress	pansi	to dress a wound
-paprika	papriko	
-red pepper	papriko	
-paragraph	paragrafo	numbered part of a legal document
-forgive	pardoni {tr}	forgive someone or something
-apologise	pardonpeti	
-apology	pardonpeto	
-I’m sorry	pardonu min	
+pamphlet	pamfleto	n. usually libellous often humorous often political pamphlet
+dress	pansi	v. to dress a wound
+paprika	papriko	n.
+red pepper	papriko	n.
+paragraph	paragrafo	n. numbered part of a legal document
+forgive	pardoni	v.tr forgive someone or something
+apologise	pardonpeti	v.
+apology	pardonpeto	n.
+I’m sorry	pardonu min	*
 relative	parenco	a relative
-parenthetical expression	parentezo	
-side comment	parentezo	
+parenthetical expression	parentezo	n.
+side comment	parentezo	n.
 congregation	paroĥanaro	collective parishioners
-speech	parolado	
-speak	paroli {ntr}	
-talk	paroli {tr}	
-spoke	parolis	
+speech	parolado	n.
+speak	paroli	v.ntr
+talk	paroli	v.tr
+spoke	parolis	v.
 speech	parolo	capacity or action
-partner	partnero	in a vague & ambiguous sense
-part	parto	
+partner	_partnero	in a vague & ambiguous sense
+part	parto	n.
 passing	pasantaj	as in: passing years
-passes	pasas	
-passionately	pasie	
-pamphlet	paskvilo	libelous, often humorous, often political pamphlet
+passes	pasas	v.
+passionately	pasie	adv.
+pamphlet	paskvilo	n. libelous, often humorous, often political pamphlet
 step	paŝo	a step in walking
-crayon	paŝtelo	
-shepherd	paŝtisto	
-frying pan	pato	
+crayon	paŝtelo	n.
+shepherd	paŝtisto	n.
+frying pan	pato	n.
 stalemate	pato	in chess
-patrician	patricio	
-father	patro	
-pause	paŭzi {ntr}	
-scrap	pecaĉo	
-piece	peceto	
-bad luck	peĉo	
+patrician	patricio	n.
+father	patro	n.
+pause	paŭzi	v.ntr
+scrap	pecaĉo	n.
+piece	peceto	n.
+bad luck	peĉo	n.
 pitch	peĉo	tar
-tar	peĉo	
-landscape	pejzaĝo	
-clam	pekteno	
-scallop	pekteno	
-furpiece	pelto	
-hangs	pendas {ntr}	
-hung	pendis {ntr}	
-make an effort	peni	
-strive	peni	
-try	peni	
-effort	peno	
-consider	pensi	
-ponder	pensi	
-think	pensi	
-pension	pensio	
-have been thinking	pensis {ntr}	
-thought	pensis {ntr}	
+tar	peĉo	n.
+landscape	pejzaĝo	n.
+clam	pekteno	n.
+scallop	pekteno	n.
+furpiece	pelto	n.
+hangs	pendas	v.ntr
+hung	pendis	v.ntr
+make an effort	peni	v.
+strive	peni	v.
+try	peni	v.
+effort	peno	n.
+consider	pensi	v.
+ponder	pensi	v.
+think	pensi	v.
+pension	pensio	n.
+have been thinking	pensis	v.ntr
+thought	pensis	v.ntr
 thought	pensis + inf.	intended to
-retired person	pensiulo	
-retiree	pensiulo	
-remorse	pento	Remorse
-painterly	pentra	
+retired person	pensiulo	n.
+retiree	pensiulo	n.
+remorse	pento	n.
+painterly	pentra	adj.
 painting	pentrado	the activity or manner of artistic painting
 painting	pentrarto	a physical artistic painting, the art itself of painting
-paints	pentras {tr}	
-paint	pentri {tr}	to paint as an artist
-to paint	pentri {tr}	
+paints	pentras	v.tr
+paint	pentri	v.tr to paint as an artist
+to paint	pentri	v.tr
 painter	pentristo	an artist who paints
 by means of	per	with the use of something
 through	per	with the use of something
 with	per	with the use of something
 one fell swoop	per unuopa svingo	one fell swoop
-agent	peranto	
-facilitator	peranto	
-go-between	peranto	
-lose	perdi {tr}	
-flawless	perfekta	
-perfect	perfekta	
-without flaw	perfekta	
-betray	perfidi {tr}	
-treachery	perfido	
-rape	perforti	
-ravish	perforti	
-violence	perforto	
-mediate	peri	
+agent	peranto	n.
+facilitator	peranto	n.
+go-between	peranto	n.
+lose	perdi	v.tr
+flawless	perfekta	adj.
+perfect	perfekta	adj.
+without flaw	perfekta	adj.
+betray	perfidi	v.tr
+treachery	perfido	n.
+rape	perforti	v.
+ravish	perforti	v.
+violence	perforto	n.
+mediate	peri	v.
 intermediary	perilo	something intermediary
 means	perilo	something intermediary
-earn	perlabori	
-allow	permesi {tr}	
+earn	perlabori	v.
+allow	permesi	v.tr
 follow	persekuti	as prey
-hunt	persekuti	
-persecute	persekuti	
+hunt	persekuti	v.
+persecute	persekuti	v.
 sue	persekuti	in court
-torment	persekuti	
-pursue	persekutis {tr}	
-persons	personoj	
-disturb	perturbi {tr}	
-Passover	Pesaĥo	
-weigh	pesi	
-plague	pesto	
-beg	petegi {tr}	beg someone or something
-implore	petegi {tr}	implore someone or something
-ask	peti {tr}	request, ask (someone) for something
-naughty	petola	
-act up	petoli	
-flirt	petoli	
-frolic	petoli	
-goof around	petoli	
+torment	persekuti	v.
+pursue	persekutis	v.tr
+persons	personoj	n.
+disturb	perturbi	v.tr
+Passover	Pesaĥo	n.
+plague	pesto	n.
+beg	petegi	v.tr beg someone or something
+implore	petegi	v.tr implore someone or something
+ask	peti	v.tr request, ask (someone) for something
+naughty	petola	adj.
+act up	petoli	v.
+flirt	petoli	v.
+frolic	petoli	v.
+goof around	petoli	v.
 play	petoli	frolic
-practical joke	petolo	
-prank	petolo	
-petroleum	petrolo	
-heavy	peza	
+practical joke	petolo	n.
+prank	petolo	n.
+petroleum	petrolo	n.
+heavy	peza	adj.
 weigh	pezi	to have a weight of an amount
 weigh upon	pezi	as a burden
-weight	pezo	
-pizza	pico	
-female genitalia	piĉo	
-pitch	piĉo	musical 
-footstep	pied'paŝo	
-foot	piedo	
-magpie	pigo	
-lazy	pigra	
-prick	piki	
-picnic	pikniko	
-pine woods	pinaro	
-point	pinto	tip of sword or needle
-pick	pioĉi	work with a pick
-pick	pioĉo	a pick
-off-color joke	pipro	
-pepper	pipro	
-peppercorn	pipro	
-pee	pisi	
-airbrush	pistolfarbi {tr}	to paint with a sprayer
-spraypaint	pistolfarbi {tr}	to paint with a sprayer
-pitch	pitĉo	musical note
-picturesque	pitoreska	
-be pleasing to	plaĉi	
+weight	pezo	n.
+pizza	pico	n.
+female genitalia	piĉo	n.
+pitch	piĉo	n. musical
+footstep	pied'paŝo	n.
+foot	piedo	n.
+magpie	pigo	n.
+lazy	pigra	adj.
+prick	piki	v.
+picnic	pikniko	n.
+pine woods	pinaro	n.
+point	pinto	n. tip of sword or needle
+pick	pioĉi	v. work with a pick
+pick	pioĉo	n. a pick
+off-color joke	pipro	n.
+pepper	pipro	n.
+peppercorn	pipro	n.
+pee	pisi	v.
+airbrush	pistolfarbi	v.tr to paint with a sprayer
+spraypaint	pistolfarbi	v.tr to paint with a sprayer
+pitch	pitĉo	n. musical note
+picturesque	pitoreska	adj.
+be pleasing to	plaĉi	v.
 is pleasing to	plaĉi	i.e. "like" very colloquial
-pleased	plaĉita	
-platter	plado	
-serving plate	plado	
-ceiling	plafono	
-floor	planko	
-flat	plata	
-plate	plato	
-slab	plato	
-lapping	plaŭdanta	
-plopped	plaŭdis {ntr}	
-most	plej	
-keenest	plej akra	
-best loved	plej amata	
+pleased	plaĉita	adj.
+platter	plado	n.
+serving plate	plado	n.
+ceiling	plafono	n.
+floor	_planko	n.
+flat	plata	adj.
+plate	plato	n.
+slab	plato	n.
+lapping	plaŭdanta	adj.
+plopped	plaŭdis	v.ntr
+most	plej	*
+keenest	plej akra	adj.
+best loved	plej amata	adj.
 favorite	plej amata	best loved
-biggest	plej granda	
+biggest	plej granda	adj.
 lightest	plej malpeza	least heavy
-deepest	plej profunda	
-best liked	plej ŝatata	
-favorite	plej ŝatata	
-plaid	plejdo	
-most of the time	plejofte	
-adult	plenaĝulo	
-grown-up	plenaĝulo	
-complain	plendi {ntr}	
-fill	plenigi	
-adult	plenkreskulo	
-grown-up	plenkreskulo	
-fulfil	plenumi {tr}	
-perform	plenumi {tr}	fulfill
-have fulfilled	plenumis {tr}	
-tray	pleto	
-with pleasure	plezure	
-pleasure	plezuro	
-more	pli	
+deepest	plej profunda	adj.
+best liked	plej ŝatata	adj.
+favorite	plej ŝatata	adj.
+plaid	plejdo	n.
+most of the time	plejofte	adv.
+adult	plenaĝulo	n.
+grown-up	plenaĝulo	n.
+complain	plendi	v.ntr
+fill	plenigi	v.
+adult	plenkreskulo	n.
+grown-up	plenkreskulo	n.
+fulfil	plenumi	v.tr
+perform	plenumi	v.tr fulfill
+have fulfilled	plenumis	v.tr
+tray	pleto	n.
+with pleasure	plezure	adv.
+pleasure	plezuro	n.
+more	pli	v.
 grew more accustomed to	pli alkutimiĝis	idiom
-higher	pli alta	
-better	pli bone	
-more than	pli ol	
-improved	plibonigita	
-increase	pliigi {tr}	make something more
-dive	plonĝi {ntr}	
-continuing	plu	
-further	plua	
-further	plue	
-pick	pluki	flowers
+higher	pli alta	adj.
+better	pli bone	adv.
+more than	pli ol	*
+improved	plibonigita	adj.
+increase	pliigi	v.tr make something more
+dive	plonĝi	v.ntr
+continuing	plu	*
+further	plua	adj.
+further	plue	adv.
+pick	_pluki	v. pick flowers
 pluck	pluki	pick (flowers)
-awkward	plumpa	
-gauche	plumpa	
-inelegant	plumpa	
-several	pluraj	
+awkward	plumpa	adj.
+gauche	plumpa	adj.
+inelegant	plumpa	adj.
+several	pluraj	adj.
 refer	plusendi	something to someone
 send on to	plusendi	something to someone
-rain	pluvo	
-apiece	po	
+rain	pluvo	n.
+apiece	po	n.
 each	po	for a divided amount, followed by the nominative
-gout	podagro	
-pulpit	podio	
-reviewing box	podio	
-rostrum	podio	
-speaker’s platform	podio	
-apiece	poe	
-poetic	poezia	
+gout	podagro	n.
+pulpit	podio	n.
+reviewing box	podio	n.
+rostrum	podio	n.
+speaker’s platform	podio	n.
+apiece	poe	adv.
+poetic	poezia	adj.
 goblet	pokalo	stemmed glass
 grail	pokalo	stemmed glass
-stemmed glass	pokalo	
-police officer	policano	
-police officer	policisto	
+stemmed glass	pokalo	n.
+police officer	policano	n.
+police officer	policisto	n.
 the police	polico	as an institution
-insurance policy	poliso	
-policy	politiko	
-politics	politiko	
-nocturnal emission	polucio	
-environmental pollution	poluo	
-pollution	poluo	environmental pollution
-gloss	poluro	
-dusty	polva	
-dust	polvo	
-pomp	pompo	
-dagger	ponardo	
-people 	popolo	populace
-popular	populara	
-for	por	outcome of an action
-in order to	por	
-to	por	for the purpose of
+insurance policy	poliso	n.
+policy	politiko	n.
+politics	politiko	n.
+nocturnal emission	polucio	n.
+environmental pollution	poluo	n.
+pollution	poluo	n. environmental pollution
+gloss	poluro	n.
+dusty	polva	adj.
+dust	polvo	n.
+pomp	pompo	n.
+dagger	ponardo	n.
+people	popolo	populace
+popular	populara	adj.
+for	_por	outcome of an action
+in order to	por	*
+to	por	prep. for the purpose of
 to be cured	por esti resanigita	lit. for the purpose of being restored to health
-so that	por ke	
+so that	por ke	adv.
 lest	por ke [...] ne	so that [he] not
-porous	pora	
-gate	pordego	
-pork	porkaĵo	
-pig	porko	
-lard	porkograso	
-pore	poro	
-tiny hole	poro	
-carries	portas {tr}	
+porous	pora	adj.
+gate	pordego	n.
+pork	porkaĵo	n.
+pig	porko	n.
+lard	_porkograso	n.
+pore	poro	n.
+tiny hole	poro	n.
+carries	portas	v.tr
 bore	portis	carried as a burden
-carried	portis {tr}	
-porter	portisto	
+carried	portis	v.tr
+porter	portisto	n.
 after	post	after something; in time
-in due course	post iom da tempo	
-afterglow	post'brilo	
-afterwards	poste	
+in due course	post iom da tempo	n.
+afterglow	post'brilo	n.
+afterwards	poste	adv.
 position	posteno	job, place in the organization hierarchy
-post	posteno	
-in the afternoon	posttagmeze	
-afternoon	posttagmezo	
+post	posteno	n.
+in the afternoon	posttagmeze	adv.
+afternoon	posttagmezo	n.
 making	postulante	demanding
-demand	postuli	
-require	postuli	
+demand	postuli	v.
+require	postuli	v.
 mighty	potenca	powerful
-pot	poto	
-saucepan	poto	
-can	povas {tr}	has the ability to
+pot	poto	n.
+saucepan	poto	n.
+can	povas	v.tr has the ability to
 be able to	povi	do something
-know how to	povi	
-could	povis	
+know how to	povi	v.
+could	povis	v.
 way	pozicio	position
-pose	pozo	
-in days of yore	pra'antaŭe	
+pose	pozo	n.
+in days of yore	pra'antaŭe	adv.
 practical	praktika	not theoretical
 practice	praktiki	practice a profession
-are practiced	praktikitaj	
+are practiced	praktikitaj	adj.
 practical experience	praktiko	as against theory
 practice	praktiko	as against theory
 profession	praktiko	as against theory
-ferryboat	pramo	
+ferryboat	pramo	n.
 forefathers	prapatroj	if both sexes: prauloj
-ancestor	praulo	
+ancestor	praulo	n.
 right	prava	accurate
-particularly	precipe	
-accurate	preciza	
-precise	preciza	
-exactly	precize	
-just	precize	exactly
-exactitude	precizeco	
-sermon	prediko	
-favorite	preferata	preferred
-preferred	preferata	
-prefer	preferi {tr}	
-church	preĝejo	
+particularly	precipe	adv.
+accurate	preciza	adj.
+precise	preciza	adj.
+exactly	precize	adv.
+just	precize	adv. exactly
+exactitude	precizeco	n.
+sermon	prediko	n.
+favorite	_preferata	adj. preferred
+preferred	preferata	adj.
+prefer	preferi	v.tr
+church	preĝejo	n.
 synagogue	preĝejo	a building lit. place to pray
 temple	preĝejo	a building lit. place to pray
-lecture	prelego	
+lecture	prelego	n.
 speech	prelego	lecture
-press	premi	
-prize	premi	
-pressure	premo	
-take	preni	
-took	prenis {tr}	
-picked it up	prenis ĝin	
-print	presi	
-printed	presita	
-almost	preskaŭ 	
-ready	preta	
+press	premi	v.
+prize	premi	v.
+pressure	premo	n.
+take	preni	v.
+took	prenis	v.tr
+picked it up	prenis ĝin	*
+print	presi	v.
+printed	presita	adj.
+almost	preskaŭ	adv.
+ready	preta	adj.
 adduce	preteksti	as a pretext
-claim	pretendi	to one’s own advantage
+claim	pretendi	v. to one’s own advantage
 past	preter	pass (go/drive/fly…) someone/thing
-overlook	preteratenti {tr}	
-pass	preterpasi {tr}	pass by, esp by auto
-passed me by	preterpasis min	
+overlook	preteratenti	v.tr
+pass	preterpasi	v.tr pass by, esp by auto
+passed me by	preterpasis min	*
 representation	prezento	an image of
-president	prezidanto	one presiding
-president	prezidento	country | organization
-preside	prezidi	
-president-elect	prezidonto	
+president	prezidanto	n. one presiding
+president	prezidento	n. of a country or organization
+preside	prezidi	v.
+president-elect	prezidonto	n.
 about	pri	talk about something
 concerning	pri	talk about something
 of	pri	about
-pay attention to	priatenti {tr}	
-transplant	prikli	
-prince	princo	
+pay attention to	priatenti	v.tr
+transplant	prikli	v.
+prince	princo	n.
 print out	printi	eg from a computer file
-reflective	pripensa	
-reflection	pripensado	the act of reflection on an issue
-reflective	pripensema	thoughtful
+reflective	pripensa	adj.
+reflection	pripensado	n. the act of reflection on an issue
+reflective	pripensema	adj. thoughtful
 thoughtful	pripensema	prone to reflection
-reflect	pripensi {tr}	give thought about
-wonder about	pripensi {tr}	
+reflect	pripensi	v.tr give thought about
+wonder about	pripensi	v.tr
 paint	pripentri	to decorate with paint
-tend	prizorgi	
-worry about	prizorgi	
+tend	prizorgi	v.
+worry about	prizorgi	v.
 because of	pro	because of someone/thing
 due to	pro	cause of action
-for	pro	
-for the sake of	pro	
+for	pro	n.
+for the sake of	pro	n.
 out of	pro	as a result of
-that’s why	pro kio 	
-therefore	pro kio 	
+that’s why	pro kio	n.
+therefore	pro kio	n.
 lest	pro timo ke	for fear that
-procedure	procedo	
+procedure	procedo	n.
 process	procedo	as an industrial process
-customary or legal procedure	proceduro	
-procession	procesia	
-lawsuit	proceso	
-natural process	procezo	
+customary or legal procedure	proceduro	n.
+procession	procesia	adj.
+lawsuit	proceso	n.
+natural process	procezo	n.
 process	procezo	as a natural process
 profane	profani	pollute a sacred space
-religious pollution	profano	
-uninitiated person	profano	
-professional	profesia	
-prophetic	profeta	
+religious pollution	profano	n.
+uninitiated person	profano	n.
+professional	profesia	adj.
+prophetic	profeta	adj.
 prophesies	profeti	make prophesy
-profit from	profiti	
-take advantage of	profiti	
-profound	profunda	
+profit from	profiti	v.
+take advantage of	profiti	v.
+profound	profunda	adj.
 deep	profunde	deeply
-deeply	profunde	
-profoundly	profunde	
-deepen	profundigi {tr}	
-advance	progresi {ntr}	advance through ranks
-delay	prokrasti {tr}	
-delay	prokrasto	
-near	proksima	
+deeply	profunde	adv.
+profoundly	profunde	adv.
+deepen	profundigi	v.tr
+advance	progresi	v.ntr advance through ranks
+delay	prokrasti	v.tr
+delay	prokrasto	n.
+near	proksima	adj.
 go for a stroll	promeni	one can promeni in a boat on a bike in a car etc as well as by foot
 go for an outing	promeni	one can promeni in a boat on a bike in a car etc as well as by foot
-take a walk	promeni	
-walk	promeno	
-have promised	promesis {tr}	
-promised	promesis {tr}	
+take a walk	promeni	v.
+walk	promeno	n.
+have promised	promesis	v.tr
+promised	promesis	v.tr
 promotion	promocio	receiving a higher rank
-offer	proponi	something | to do something
+offer	_proponi	v. offer something or to do something
 proposed	proponis geedziĝon	proposed marriage
-own	propra	
-of his own	propran	
-property	propreaĵo	special characteristic
-peculiarity	propreeco	
-protective	protekta	
-protectively	protekte	
-protect	protekti	especially through one’s influence or authority
-protection	protekto	
-experiment with	provi	
-test	provi	
-try	provi {tr}	
-try out	provi	
-caterer	proviantanto	
-cater	provianti	
+own	propra	adj.
+of his own	propran	adj.
+property	propreaĵo	n. special characteristic
+peculiarity	propreeco	n.
+protective	protekta	adj.
+protectively	protekte	adv.
+protect	protekti	v. esp through influence or authority
+protection	protekto	n.
+experiment with	provi	v.
+test	provi	v.
+try	_provi	v.tr
+try out	provi	v.
+caterer	proviantanto	n.
+cater	provianti	v.
 provisions	provianto	normally food
 provision	provizi	one usually provizas someone “with” (per or je) something
 supply	provizi	one usually provizas someone “with” (per or je) something
-temporarily	provizore	
-plum-pudding	prun’pudingo	
-plum	pruno	
-borrow	prunti	
-lend	prunti	
+temporarily	provizore	adv.
+plum-pudding	prun’pudingo	n.
+plum	pruno	n.
+borrow	prunti	v.
+lend	prunti	v.
 show	pruvi	by reasoning
-mental	psika	psychological
-public	publika	
-face powder	pudro	
-backside	pugo	
-buttocks	pugo	
-pulp	pulpo	
-gunpowder	pulvo	
-powder	pulvoro	
-point	punkto	exact location
-bookstand	pupitro	
-lectern	pupitro	
-rostrum	pupitro	
-neat	pura	clean
-purple	purpura	
-push	puŝi {tr}	
+mental	psika	adj. psychological
+public	publika	adj.
+face powder	pudro	n.
+backside	pugo	n.
+buttocks	pugo	n.
+pulp	pulpo	n.
+gunpowder	pulvo	n.
+powder	pulvoro	n.
+point	_punkto	n. exact location
+bookstand	pupitro	n.
+lectern	pupitro	n.
+rostrum	pupitro	n.
+neat	pura	adj. clean
+purple	purpura	adj.
+push	puŝi	v.tr
 radiation	radiado	as in radiotherapy radioactivity
 radio	radio	as a communications medium
-ray	radio	
+ray	radio	n.
 spoke	radio	of a wheel or the analogous part of a radially symmetrical object
 radio	radioaparato	as a communications instrument
 radio	radioricevilo	as a communications instrument
-radium	radiumo	
-wheel	rado	
-mill-wheel	rado de muelilo	
+radium	radiumo	n.
+wheel	rado	n.
+mill-wheel	rado de muelilo	n.
 ride	rajdi	to ride astride something
-by rights	rajte	
-snowshoe	rakedo	
-tennis racket	rakedo	
-rocket	raketo	
-tells	rakontas	
-edge	rando	
-buttercup	ranunkolo	
-hurrying	rapidanta	
-hurries	rapidas	
-swiftly	rapide	
-hurried	rapidi {ntr}	
-comb up	rasti	
-rake up	rasti	
-rake	rastilo	
-a raking out	rasto	
-enrapture	ravi	
-lawn	razeno	decorative lawn
+by rights	rajte	adv.
+snowshoe	rakedo	n.
+tennis racket	rakedo	n.
+rocket	raketo	n.
+tells	rakontas	v.
+edge	rando	n.
+buttercup	ranunkolo	n.
+hurrying	rapidanta	adj.
+hurries	rapidas	v.
+swiftly	rapide	adv.
+hurried	rapidi	v.ntr
+comb up	rasti	v.
+rake up	rasti	v.
+rake	rastilo	n.
+a raking out	rasto	n.
+enrapture	ravi	v.
+lawn	razeno	n. decorative lawn
 real	reala	ant. imagata & ŝajna
-reality	realo	
-editorial office	redakcio	
-editor	redaktisto	
-editorial office	redaktoro	
-professional paper	referaĵo	
-technical report	referaĵo	
-report	referi	make a research report
-reflection	reflekto	optical as a mirror
-prevails	regas	
-control	regi	
-manage	regi	
-reign over	regi	
-film producer	reĝisoro	
-stage manager	reĝisoro	
-government	registaro	
-king	reĝo	
-regular	regula	consistent
-regulation	regulo	
+reality	realo	n.
+editorial office	redakcio	n.
+editor	redaktisto	n.
+editorial office	redaktoro	n.
+professional paper	referaĵo	n.
+technical report	referaĵo	n.
+report	referi	v. make a research report
+reflection	_reflekto	n. optical as a mirror
+prevails	regas	v.
+control	regi	v.
+manage	regi	v.
+reign over	regi	v.
+film producer	reĝisoro	n.
+stage manager	reĝisoro	n.
+government	registaro	n.
+king	reĝo	n.
+regular	regula	adj. consistent
+regulation	regulo	n.
 begin again	rekomenci	resume
-resume	rekomenci	
+resume	rekomenci	v.
 repay	rekompenci	a kindness or service
-recognize	rekoni	
-recall	rememori {tr}	
-remind	rememorigi {tr}	remind of something in the past
-meet	renkontas	
-encounter	renkonti	
-meet	renkonti	someone
+recognize	_rekoni	v.tr
+recall	rememori	v.tr
+remind	rememorigi	v.tr remind of something in the past
+meet	renkontas	v.
+encounter	renkonti	v.
+meet	_renkonti	someone
 run into	renkonti	someone
-meet	renkontiĝi {ntr}	meet each other
-dividend	rento	
-interest payment	rento	
-interest rate	rentumo	
-was turned upside down	renversiĝis {ntr}	
-repaint	repentri {tr}	to repaint in an atristic way
-represented	reprezentis	acted as representative, eg lawyer
-reputation	reputacio	
-repute	reputacio	
-have recovered	resaniĝis {ntr}	
-take responsibility	respondeci	
-answer	respondi	
-correspond	respondi	
-line up	respondi	
-respond	respondi	
-take responsibility	responsi	
-stay	resti {ntr}	
-rest	resto	remainder
-don’t worry	restu trankvila	
-abstract	resumo	
-résumé	resumo	
-summary	resumo	
-resurrection	resurekto	
-web-site	retejo	
-retain	reteni	
-retires	retiras	
-Internet	reto	
-net 	reto	
-network	reto	
-looking back	retro'rigardante	
-go back	retroiri {ntr}	
-moves back	retromoviĝas {ntr}	
-steps back	retropaŝas {ntr}	
-revelation	revelacio	
-return	reveni {ntr}	
-dream	revo	as in “I have a dream”
+meet	renkontiĝi	v.ntr meet each other
+dividend	rento	n.
+interest payment	rento	n.
+interest rate	rentumo	n.
+was turned upside down	renversiĝis	v.ntr
+repaint	repentri	v.tr to repaint in an atristic way
+represented	_reprezentis	v.acted as representative, eg lawyer
+reputation	reputacio	n.
+repute	reputacio	n.
+have recovered	resaniĝis	v.ntr
+take responsibility	respondeci	v.
+answer	respondi	v.
+correspond	respondi	v.
+line up	respondi	v.
+respond	respondi	v.
+take responsibility	responsi	v.
+stay	resti	v.ntr
+rest	resto	n. remainder
+don’t worry	restu trankvila	adj.
+abstract	resumo	n.
+résumé	resumo	n.
+summary	resumo	n.
+resurrection	resurekto	n.
+web-site	retejo	n.
+retain	reteni	v.
+retires	retiras	v.
+Internet	reto	n.
+net	reto	n.
+network	reto	n.
+looking back	retro'rigardante	adv.
+go back	retroiri	v.ntr
+moves back	retromoviĝas	v.ntr
+steps back	retropaŝas	v.ntr
+revelation	revelacio	n.
+return	reveni	v.ntr
+dream	revo	n. aspirational, while awake
 dreamer	revulo	one who tends to dream rather than act
-journal	revuo	
-magazine	revuo	
-technical journal	revuo	
+journal	revuo	n.
+magazine	revuo	n.
+technical journal	revuo	n.
 resignation	rezignacio	as a mental state
-abandon	rezigni	
-abjure	rezigni {tr}	definitely leave as unworkable or unattainable
-give up	rezigni	
-give up claims to	rezigni	
-renounce	rezigni {tr}	
-surrender	rezigni	
+abandon	rezigni	v.
+abjure	rezigni	v.tr definitely leave as unworkable or unattainable
+give up	rezigni	v.
+give up claims to	rezigni	v.
+renounce	rezigni	v.tr
+surrender	rezigni	v.
 had led to	rezultigis	resulted in, originated
-consequence	rezulto	
-effect	rezulto	
-result	rezulto	
+consequence	rezulto	n.
+effect	rezulto	n.
+result	rezulto	n.
 defect	ribeli	to defect; rebel
 rebel	ribeli	to defect
 currant	ribo	berry
-rich	riĉa	
-richness	riĉeco	
-receives	ricevi {tr}	
-smiling	ridetante	
-smiles	ridetas {ntr}	
-smile	rideti	
-smirk	rideti	
-smile	rideto	
-laugh	ridi {ntr}	
-funny	ridinda	worthy  of mocking
-ridiculous	ridinda	
-refuse	rifuzi {tr}	
-refusal	rifuzo	
-gaze	rigardi {tr}	
-look	rigardi {tr}	to look at with the eyes
-watching	rigardi {tr}	
-rigid	rigide	
-rigorous	rigora	
-strict	rigora	
+rich	riĉa	adj.
+richness	riĉeco	n.
+receives	ricevi	v.tr
+smiling	ridetante	adv.
+smiles	ridetas	v.ntr
+smile	rideti	v.
+smirk	rideti	v.
+smile	rideto	n.
+laugh	ridi	v.ntr
+funny	ridinda	adj. worthy  of mocking
+ridiculous	ridinda	adj.
+refuse	rifuzi	v.tr
+refusal	rifuzo	n.
+gaze	rigardi	v.tr
+look	rigardi	v.tr to look at with the eyes
+watching	rigardi	v.tr
+rigid	rigide	adv.
+rigorous	rigora	adj.
+strict	rigora	adj.
 cackle	rikani	cackle malevolently
-sneer	rikani	
-reap	rikolti {tr}	
-be entailed by	rilati	
-concern	rilati {ntr}	is related to
-have a connection with	rilati	
-make reference to	rilati	
-relate to	rilati	
-affect	rilati (+ al)	be connected to, related to, entailed by
-rhyming	rimanta	
-notices	rimarkas {tr}	
-notice	rimarki {tr}	
-remarked	rimarkis {tr}	
-device	rimedo	
-means	rimedo	
-medium	rimedo	
-resource	rimedo	
-solution	rimedo	
-remorse	rimorso	
-rib	ripo	
-rest	ripozi {ntr}	
-rest	ripozo	the thing one has while resting, a rest
-risk	riski {tr}	to take a risk
+sneer	rikani	v.
+reap	rikolti	v.tr
+be entailed by	rilati	v.
+concern	rilati	v.ntr is related to
+have a connection with	rilati	v.
+make reference to	rilati	v.
+relate to	rilati	v.
+affect	rilati (+ al)	v. be connected to, related to, entailed by
+rhyming	rimanta	adj.
+notices	rimarkas	v.tr
+notice	_rimarki	v.tr
+remarked	rimarkis	v.tr
+device	rimedo	n.
+means	rimedo	n.
+medium	rimedo	n.
+resource	rimedo	n.
+solution	rimedo	n.
+remorse	_rimorso	n.
+rib	ripo	n.
+rest	_ripozi	v.ntr
+rest	ripozo	n. the thing one has while resting, a rest
+risk	riski	v.tr to take a risk
 risk	risko	possibility of failure
-revealing	rivela	
-reveal	riveli {tr}	
-stream	rivereto	
-dress	robo	
-robe	robo	
-rivulet	rojo	
-perform	roli {tr}	as an actor
+revealing	rivela	adj.
+reveal	riveli	v.tr
+stream	rivereto	n.
+dress	_robo	n.
+robe	robo	n.
+rivulet	rojo	n.
+perform	roli	v.tr as an actor
 Roman	romaniano	an ancient Roman
-Rome	Romanio	
-novel	romano	
-Roman	Romano	
-Roman	romano	
+Rome	Romanio	n.
+novel	romano	n.
+Roman	Romano	n.
+Roman	romano	n.
 Roman	romiano	an ancient Roman
-Rome	Romio	
-break	rompiĝi	become broken
-rosemary plant	rosmaren’planto	
-rosemary	rosmareno	
-dew	roso	
+Rome	Romio	n.
+rosemary plant	rosmaren’planto	n.
+rosemary	rosmareno	n.
+dew	roso	n.
 roast	rostita	that has been roasted
-proboscis	rostro	
-snout	rostro	
-trunk	rostro	
-rose	roza	
-rose	rozo	
-rubbish	rubaĵo	
-red	ruĝa	
-blush	ruĝiĝi {ntr}	redden, incl. by shame
-tumbling	ruliĝante	
-French Switzerland	Rumandio	
-French Swiss	rumando	
-Romania	Rumanio	
-Romanian	rumano	
+proboscis	rostro	n.
+snout	rostro	n.
+trunk	rostro	n.
+rose	roza	adj.
+rose	rozo	n.
+rubbish	rubaĵo	n.
+red	ruĝa	adj.
+blush	ruĝiĝi	v.ntr redden, incl. by shame
+tumbling	ruliĝante	adv.
+French Switzerland	Rumandio	n.
+French Swiss	rumando	n.
+Romania	Rumanio	n.
+Romanian	rumano	n.
 rounds	rundojn	as in, making the rounds
-routine	rutino	
-cunning	ruza	
-trick	ruzo	
-trickster	ruzulo	
-Saturday	sabato	
-sandy	sabla	
+routine	rutino	n.
+cunning	ruza	adj.
+trick	ruzo	n.
+trickster	ruzulo	n.
+Saturday	sabato	n.
+sandy	sabla	adj.
 apparent	ŝajna	ant. reala
-assumed	ŝajniga	 feigned
-make it seem as though	ŝajnigi	
-pretend	ŝajnigi {ntr}	
-cuss	sakri	
+assumed	ŝajniga	adj. feigned
+make it seem as though	ŝajnigi	v.
+pretend	ŝajnigi	v.ntr
+cuss	sakri	v.
 swear	sakri	cuss
-swore	sakris {ntr}	used profanity
-salary	salajro	
-salt	salo	
-leaped	saltis {ntr}	
-greet	saluti	
-same	sama	
+swore	sakris	v.ntr used profanity
+salary	salajro	n.
+salt	salo	n.
+leaped	saltis	v.ntr
+greet	saluti	v.
+same	sama	adj.
 just the same	same	in the same way
 brother	samideano	(as in “Hallelujah brother!”)
-comrade	samideano	
-fellow Esperantist	samideano	
+comrade	samideano	n.
+fellow Esperantist	samideano	n.
 sister	samideano	as in “Hallelujah sister!”
-Samos	Samoso	Greek Island
-healthy	sana	
+Samos	Samoso	n. Greek Island
+healthy	sana	adj.
 well	sana	healthy
 sanatorium	sanatorio	residential rehab, ≠hospitalo
-change	ŝanĝi {tr}	
-blood	sango	
-holy	sankta	
-sacred	sankta	
-burden	ŝarĝo	
-appreciated	ŝatata	
-much liked	ŝatata	
+change	ŝanĝi	v.tr
+blood	_sango	n.
+holy	sankta	adj.
+sacred	sankta	adj.
+burden	ŝarĝo	n.
+appreciated	ŝatata	adj.
+much liked	ŝatata	adj.
 appreciate	ŝati	to appreciate
 like	ŝati	to like
 value	ŝati	to value
-satirical	satira	
-satire	satiro	
-satyr	satiro	???CHECK
-satyr	satiruso	
-saturnalia	saturnalio	
-foaming	ŝaŭma	frothy
-knowledge	sciaĵo	
-knows	scias {tr}	
-be aware of	scii	be aware of a fact
-know	scii	know a fact
+satirical	satira	adj.
+satire	satiro	n.
+satyr	satiruso	n.
+saturnalia	saturnalio	n.
+foaming	ŝaŭma	adj. frothy
+knowledge	sciaĵo	n.
+knows	scias	v.tr
+be aware of	scii	v. be aware of a fact
+know	scii	v. know a fact
 know how to	scipovi	more specific form of povi
-curious	scivola	
-wanting to know	scivola	
-curious	scivolema	
-wonder	scivoli {tr}	mentally
-if so	se jes	
-meeting	seanco	
+curious	scivola	adj.
+wanting to know	scivola	adj.
+curious	scivolema	adj.
+wonder	scivoli	v.tr mentally
+if so	se jes	*
+meeting	seanco	n.
 sitting	seanco	of parliament; committee; doctor & patient; painter & model; etc
-but	sed	
-sawmill	segejo	
-prune	sekigita pruno	
-secret	sekreto	
-have sex	seksumi	
-safe	sekura	
-consequently	sekve 	
-subsequently	sekve	
-thus	sekve	
-follow	sekvi {tr}	
-consequence	sekvo	
-fall-out	sekvo	
-subsequent event	sekvo	
-would ensue	sekvus	
+sawmill	segejo	n.
+prune	sekigita pruno	n.
+secret	sekreto	n.
+have sex	seksumi	v.
+safe	sekura	adj.
+consequently	sekve	adv.
+subsequently	sekve	adv.
+thus	sekve	adv.
+follow	sekvi	v.tr
+consequence	sekvo	n.
+fall-out	sekvo	n.
+subsequent event	sekvo	n.
+would ensue	sekvus	v.
 breed	selekti	breed selectively
-select	selekti	
-solemnity	seleno	
+select	selekti	v.
+solemnity	seleno	n.
 without	sen	without someone/thing
 with nothing	sen io ajn	idiom, lit without anything
 to say nothing of	sen paroli pri	idiom
 unsuccessful	sen'sukces'ema	tending to be unsuccessful as a person
-carelessly	senatente	
-abandon	senbrideco	lit. unbridled-ness
-aimless	sencela	
-meaning	senco	
-sense	senco	
-sending	sendi {tr}	
-sent	sendis {tr}	
-no doubt	sendube	
-listless	senenergia	
-accurate	senerara	without errors
-endless	senfina	
-cynical	seniluzia	without illusions
-skeptical	seniluzia	without illusions
-disappointment	seniluziiĝo	
-drab	seninteresa	uninteresting
-bare-armed	senmanika	sleeveless
+carelessly	senatente	adv.
+abandon	senbrideco	n. lit. unbridled-ness
+aimless	sencela	adj.
+meaning	senco	n.
+sense	senco	n.
+sending	sendi	v.tr
+sent	sendis	v.tr
+no doubt	sendube	adv.
+listless	senenergia	adj.
+accurate	senerara	adj. without errors
+endless	senfina	adj.
+cynical	seniluzia	adj. without illusions
+skeptical	seniluzia	adj. without illusions
+disappointment	seniluziiĝo	n.
+drab	seninteresa	adj. uninteresting
+bare-armed	senmanika	adj. sleeveless
 still	senmove	not moving
-idle	senokupa	
-idly	senokupe	
-impatient	senpacienca	
-thoughtless	senpripensa	
-no problem	senprobleme	
-sensational	sensacia	
-ignorant	senscia	unknowing
-felt	sensis {tr}	physical sensation
+idle	senokupa	adj.
+idly	senokupe	adv.
+impatient	senpacienca	adj.
+thoughtless	senpripensa	adj.
+no problem	_senprobleme	adv.
+sensational	sensacia	adj.
+ignorant	senscia	adj. unknowing
+felt	sensis	v.tr physical sensation
 sense	senso	of touch hearing etc
-unsuccessful	sensukcesa	unsuccessful as a single event
-sensitivity	sentemo	
-maxim	sentenco	
+unsuccessful	sensukcesa	adj. unsuccessful as a single event
+sensitivity	sentemo	n.
+maxim	sentenco	n.
 saying	sentenco	pithy saying
-feel	senti {tr}	
-have a sense about	senti	
-sentimental	sentimentala	
-feeling	sento	
+feel	senti	v.tr
+have a sense about	senti	v.
+sentimental	sentimentala	adj.
+feeling	sento	n.
 sense	sento	sensation, or state of consciousness
-suspicion	sento	
-insight	sentumo	
+suspicion	sento	n.
+insight	sentumo	n.
 sense	sentumo	insight; suspicion
-suspicion	sentumo	
-useless	senutila	
-careless	senzorga	untroubled
-September	septembro	
-pursuit	serĉo	
-search	serĉo	
-joke	ŝerco	
-practical joke	ŝerco	
-witticism	ŝerco	
-serious	serioza	
-seriously	serioze	
-service	servico	as in “a service of china"
+suspicion	sentumo	n.
+useless	senutila	adj.
+careless	senzorga	adj. untroubled
+September	septembro	n.
+pursuit	serĉo	n.
+search	serĉo	n.
+joke	_ŝerco	n.
+practical joke	ŝerco	n.
+witticism	ŝerco	n.
+serious	serioza	adj.
+seriously	serioze	adv.
+service	servico	n. as in “a service of china"
 set	servico	as in “a service of china"
-served	servis	
-session	sesio	
-rigorous	severa	
-severe	severa	
-strict	severa	
-rape	sexatenci	
-season	sezono	
-shit	fek	
-she	ŝi	
-his	sia	
-sit	sidi {ntr}	
+served	servis	v.
+session	sesio	n.
+rigorous	severa	adj.
+severe	severa	adj.
+strict	severa	adj.
+rape	sexatenci	v.
+season	sezono	n.
+shit	fek	int.
+she	ŝi	v.
+his	sia	adj.
+sit	sidi	v.ntr
 sitting-out	sidi rande	sitting on the side-lines
-sat	sidis {ntr}	
-sat out	sidis rande	
-significant	signifa	
-means	signifis {tr}	has the meaning of
-license plate	ŝildo	
-signboard	ŝildo	
-silken	silka	
-similar	simila	
-suchlike	simila	having similar properties
-mildew	ŝimo	
-mold	ŝimo	
-agreeable	simpatia	of people
-compatible	simpatia	of people
-sympathetic	simpatia	
-sympathy	simpatio	
-simply	simple	
-her	ŝin	
-take a shower	sin duŝi	
+sat	sidis	v.ntr
+sat out	sidis rande	adv.
+significant	signifa	adj.
+means	signifis	v.tr has the meaning of
+license plate	ŝildo	n.
+signboard	ŝildo	n.
+silken	silka	adj.
+similar	simila	adj.
+suchlike	simila	adj. having similar properties
+mildew	ŝimo	n.
+mold	ŝimo	n.
+agreeable	simpatia	adj. of people
+compatible	simpatia	adj. of people
+sympathetic	simpatia	adj.
+sympathy	simpatio	n.
+simply	simple	adv.
+her	ŝin	n.
+take a shower	sin duŝi	v.
 practice	sin ekzerci	as the piano
-be shy	sin ĝeni	
-hold back	sin ĝeni	
-trouble oneself	sin ĝeni	
-turn to	sin turni	
-restraint	sindeteno	
-careful	singarda	
-cautious	singarda	lit. self-guarding
-carefully	singarde	
-cautiously	singarde	
-be careful	singardi	
-madam	sinjorino	
-Mrs	sinjorino	
-Mr	sinjoro	
-sir	sinjoro	
-attitude	sinteno	
-perspective	sinteno	
-point of view	sinteno	
+be shy	sin ĝeni	v.
+hold back	sin ĝeni	v.
+trouble oneself	sin ĝeni	v.
+turn to	sin turni	v.
+restraint	sindeteno	n.
+careful	singarda	adj.
+cautious	singarda	adj. lit. self-guarding
+carefully	singarde	adv.
+cautiously	singarde	adv.
+be careful	singardi	v.
+madam	sinjorino	n.
+Mrs	sinjorino	n.
+Mr	sinjoro	n.
+sir	sinjoro	n.
+attitude	sinteno	n.
+perspective	sinteno	n.
+point of view	sinteno	n.
 stand	sinteno	attitude
-tearing	ŝiranta	
-tear	ŝiri {tr}	
-guard	ŝirmi	
-protect	ŝirmi	
-shield	ŝirmi	
-system	sistemo	
-be situated	situi	
-scarlet	skarlata	
-cynical	skeptika	
-skeptical	skeptika	
+tearing	ŝiranta	adj.
+tear	ŝiri	v.tr
+guard	ŝirmi	v.
+protect	ŝirmi	v.
+shield	ŝirmi	v.
+system	sistemo	n.
+be situated	situi	v.
+scarlet	skarlata	adj.
+cynical	skeptika	adj.
+skeptical	skeptika	adj.
 foil	skerma glavo	fencing sword
 helmet	skerma kasko	fencing helmet
-sketch	skizo	
-school of philosophy	skolo	
-school of thought	skolo	
-write	skribi {tr}	produce letters lined up in rows
-written	skribita	
+sketch	skizo	n.
+school of philosophy	skolo	n.
+school of thought	skolo	n.
+write	skribi	v.tr produce letters lined up in rows
+written	skribita	adj.
 shake	skui	something
-shook	skuis {tr}	
-slime	ŝlimo	
-sludge	ŝlimo	
+shook	skuis	v.tr
+slime	ŝlimo	n.
+sludge	ŝlimo	n.
 Smith	Smito	family name
-smoking jacket	smokingo	
-rope	ŝnuro	
-sober	sobra	
-society	socio	
+smoking jacket	smokingo	n.
+rope	ŝnuro	n.
+sober	sobra	adj.
+society	socio	n.
 chauffeur	ŝofori	take soemone somewhere by car
-drive	ŝofori	
-chauffeur	ŝoforo	
-shock	ŝoko	
-lonely	soleca	
-loneliness	soleco	
-solemn	solena	
-dense	solida	
-massive	solida	dense
-dream	sonĝo	while sleeping
-sound	soni {ntr}	
-bell	sonorilo	
-clang	sonoro	
-yearning	sopiro	
-bewitched	sorĉita	
-sordid	sordida	
-sort	sort	speco
-destiny	sorto	
-fate	sorto	
+drive	ŝofori	v.
+chauffeur	_ŝoforo	n.
+shock	ŝoko	n.
+lonely	soleca	adj.
+loneliness	soleco	n.
+solemn	solena	adj.
+dense	solida	adj.
+massive	solida	adj.dense
+sound	soni	v.ntr
+bell	sonorilo	n.
+clang	sonoro	n.
+yearning	sopiro	n.
+bewitched	sorĉita	adj.
+sordid	sordida	adj.
+sort	speco	n.
+destiny	sorto	n.
+fate	sorto	n.
 lot	sorto	lot in life, as in fate
-luck	sorto	
-savage	sovaĝa	
-wild	sovaĝa	
-wildly	sovaĝe	
-wilderness	sovaĝejo	
+luck	sorto	n.
+savage	sovaĝa	adj.
+wild	sovaĝa	adj.
+wildly	sovaĝe	adv.
+wilderness	sovaĝejo	n.
 wilds	sovaĝejo	wilderness
-save	ŝpari	
-had saved	ŝparis {tr}	
-certain	specifa	having unique properties
+save	ŝpari	v.
+had saved	ŝparis	v.tr
+certain	specifa	adj. having unique properties
 species	specio	biological species
-kind	speco	
-sort	speco	
-type	speco	
-pageantry	spektaklo	
-experienced	sperta	
-expert	sperta	knowledgeable
-knowledgeable	sperta	
-expertise	sperteco	
-experience	sperti	
-experience	sperto	
-expertise	sperto	
-expert	spertulo	
-turnover	spezi	to turnover (money)
-spice	spico	
-séance	spiritista seanco	
-spirit	spirito	
-wit	spirito	
-in defiance of	spite de	
-order to spite	spite de	
+kind	speco	n.
+sort	speco	n.
+type	speco	n.
+pageantry	spektaklo	n.
+experienced	sperta	adj.
+expert	sperta	adj. knowledgeable
+knowledgeable	sperta	adj.
+expertise	sperteco	n.
+experience	sperti	v.
+experience	sperto	n.
+expertise	sperto	n.
+expert	spertulo	n.
+turnover	spezi	v.tr to turnover (money)
+spice	spico	n.
+séance	spiritista seanco	n.
+spirit	spirito	n.
+wit	spirito	n.
+in defiance of	spite de	adv.
+order to spite	spite de	adv.
 spite	spiti	openly defy
-spontaneous	spontanea	
-gymnasium	sportejo	stadium
-stadium	sportejo	
-clever	sprita	
-witty	sprita	
-gush	ŝpruci {ntr}	
-splashed	ŝprucis {ntr}	
-to trace	spuri {tr}	to follow traces left by an action
-cabinet	ŝranko	
-clothes closet	ŝranko	
-cupboard	ŝranko	
-stable	stabila	
-stability	stabileco	
-balance	stabiligi	balance something, stabilize
-stabilize	stabiligi	
-easel	stablo	
-trestle	stablo	
-workbench	stablo	
-workstand	stablo	
-gymnasium	sportejo	stadium
-stadium	sportejo	
+spontaneous	spontanea	adj.
+clever	sprita	adj.
+witty	sprita	adj.
+gush	ŝpruci	v.ntr
+splashed	ŝprucis	v.ntr
+to trace	spuri	v.tr to follow traces left by an action
+cabinet	_ŝranko	n.
+clothes closet	ŝranko	n.
+cupboard	ŝranko	n.
+stable	stabila	adj.
+stability	stabileco	n.
+balance	stabiligi	v.tr balance something, stabilize
+stabilize	stabiligi	v.
+easel	stablo	n.
+trestle	stablo	n.
+workbench	stablo	n.
+workstand	stablo	n.
+gymnasium	sportejo	n. stadium
+stadium	sportejo	n.
 stable	stalo	horse house (or other animals)
 stall	stalo	stall in a stable
-manger	staltrogo	
+manger	staltrogo	n.
 stand	stando	temporary sales or display area
 stand	stativo	as for a movie screen
-condition	stato	
-situation	stato	
-state	stato	condition of being; incl states of the USA
-nation	ŝtato	
-creeping	ŝtel'ir'anta	
-creeps	ŝtel'iri {ntr}	
+condition	stato	n.
+situation	stato	n.
+state	stato	n. condition of being; incl states of the USA
+nation	ŝtato	n.
+creeping	ŝtel'ir'anta	adj.
+creeps	ŝtel'iri	v.ntr
 star	stelo	in the sky
-birthmark	stigmato	
-mark	stigmato	esp of infamy
-scar	stigmato	
-pistil	stigmo	receptive surface of a flower 
-pore	stigmo	
-spinacle	stigmo	
+birthmark	stigmato	n.
+mark	stigmato	n. esp of infamy
+scar	stigmato	n.
+pistil	stigmo	receptive surface of a flower
+pore	stigmo	n.
+spinacle	stigmo	n.
 spiracle	stigmo	respiratory structure of an animal
-cloth	ŝtofo	
-stone	ŝtona	made of stone
-stone	ŝtono	
-storm	ŝtormo	
-funny	stranga	funny as in strange or curious
-peculiar	stranga	
-strange	stranga	
-weird	stranga	
-oddly	strange	
-strive	strebi	
-stretching	streĉa	causing tension
+cloth	ŝtofo	n.
+stone	ŝtona	adj. made of stone
+stone	ŝtono	n.
+storm	ŝtormo	n.
+funny	stranga	adj. funny as in strange or curious
+peculiar	stranga	adj.
+strange	_stranga	adj.
+weird	stranga	adj.
+oddly	strange	adv.
+strive	strebi	v.
+stretching	streĉa	adj. causing tension
 tense	streĉa	applied to people; situations; suspense stories; diplomatic relations; etc
-pull longer	streĉi	
-strain	streĉi {tr}	
-stretch	streĉi	
+pull longer	streĉi	v.
+strain	streĉi	v.tr
+stretch	streĉi	v.
 wind	streĉi	wind a watch
-tightly wound up	streĉita	
-exertion	streĉo	
-great effort	streĉo	
-tension	streĉo	
-close-fitting	strikta	
-tight	strikta	
-tight	strikte	
-study	studejo	place to study
-student	studento	at a university
+tightly wound up	streĉita	adj.
+exertion	streĉo	n.
+great effort	streĉo	n.
+tension	streĉo	n.
+close-fitting	strikta	adj.
+tight	strikta	adj.
+tight	strikte	adv.
+study	studejo	n. place to study
+student	studento	n. at a university
 step	ŝtupo	steps of a staircase
 below	sub	under something
 beneath	sub	under something
 under	sub	under something
-outdoor	subĉiela	
-basement	subetaĝo	
-undercurrent	subfluo	
-sudden	subita	
-giggle	subridaĉi	
-snicker	subridaĉi	
-titter	subridaĉi	
-sly smile	subrideti	
-giggle	subridi	
-snicker	subridi	
-titter	subridi	
-signature	subskribo	
-underling	subulo	
-suffers	suferas {ntr}	
-suffering	sufero	
-enough	sufiĉe	
-fairly	sufiĉe	
-rather	sufiĉe	
-enough	sufiĉe	
-suggest	sugestas	
-suggestively	sugeste	
-candy	sukeraĵo	
-confection	sukeraĵo	
-debt	ŝuldo	
-sun	suno	
-sunset	sunsubiro	
+outdoor	subĉiela	adj.
+basement	subetaĝo	n.
+undercurrent	subfluo	n.
+sudden	subita	adj.
+giggle	subridaĉi	v.
+snicker	subridaĉi	v.
+titter	subridaĉi	v.
+sly smile	subrideti	v.
+giggle	subridi	v.
+snicker	subridi	v.
+titter	subridi	v.
+signature	subskribo	n.
+underling	subulo	n.
+suffers	suferas	v.ntr
+suffering	sufero	n.
+enough	sufiĉe	adv.
+fairly	sufiĉe	adv.
+rather	sufiĉe	adv.
+suggest	sugestas	v.
+suggestively	sugeste	adv.
+candy	sukeraĵo	n.
+confection	sukeraĵo	n.
+debt	ŝuldo	n.
+sun	suno	n.
+sunset	sunsubiro	n.
 above	super	above or over something, but not directly on it
 over	super	above or over something, but not directly on it
-above the door	super'porde	
-extra bit	superfluo	
-superstition	superstiĉo	
-presumably	supozeble	
-assumed	supozita	believed as a default, without proof
-overhead	supre	
-upstairs	supre 	
+above the door	super'porde	adv.
+extra bit	superfluo	n.
+superstition	superstiĉo	n.
+presumably	supozeble	adv.
+assumed	_supozita	adj. believed as a default, without proof
+overhead	supre	adv.
+upstairs	supre	adv.
 on	sur	fixed to something & in contact
-upon	sur	
+upon	sur	*
 surplice	surpliso	liturgical garment
-on the way back	survoje reen	
-pour	ŝuti	to pour a non-liquid
+on the way back	survoje reen	*
+pour	ŝuti	v. pour a non-liquid
 mop	ŝvabri	to wetmop
-wetmop	ŝvabri	
-wetmop	ŝvabrilo	
-a mopping up	ŝvabro	
-marriage broker	svatisto	
-loom	ŝvebi {ntr}	hover
-bloated	ŝvela	
-filled	ŝvela	
-plump	ŝvela	
-swollen	ŝvela	
-be filled up	ŝveli	
-bloat	ŝveli	
-wave	svingi	
-swung	svingiĝis {ntr}	
+wetmop	ŝvabri	v.
+wetmop	ŝvabrilo	n.
+a mopping up	ŝvabro	n.
+marriage broker	svatisto	n.
+loom	ŝvebi	v.ntr hover
+bloated	ŝvela	adj.
+filled	ŝvela	adj.
+plump	ŝvela	adj.
+swollen	ŝvela	adj.
+be filled up	ŝveli	v.
+bloat	ŝveli	v.
+wave	svingi	v.
+swung	svingiĝis	v.ntr
 swear	ĵuri	an oath
 table	tabelo	column of numbers
-table	tablo	on which to place things
-board	tabulo	for games
-plank	tabulo	
-tablet	tabulo	
-stool	tabureto	
+table	_tablo	on which to place things
+board	_tabulo	n. for games
+plank	tabulo	n.
+tablet	tabulo	n.
+stool	tabureto	n.
 mooned	tag'revis obsede	lit. daydreamed obsessively
-in the daytime	tage	
+in the daytime	tage	adv.
 lunch hour	tagmanĝa horo	idiom
-at noon	tagmeze	
-noon	tagmezo	
-day	tago	
-assess	taksi	
-calculate	taksi	
-estimate	taksi	
-evaluate	taksi	
-judge	taksi	esp when applied to people
-set a maximum legal price for	taksi	
-surcharge	taksi	
-taxi	taksii	
-taxi	taksio	
-talent	talento	
-however	tamen 	
-nevertheless	tamen	
-still	tamen 	
-yet	tamen 	
-tankard	tasego	
-fit	taŭga	suitable
-suitable	taŭga	
-valuable	taŭga	for something
-be of use	taŭgi	
-be serviceable	taŭgi	
-be valuable	taŭgi	for something
-fit	taŭgi {ntr}	be suitable
+at noon	tagmeze	adv.
+noon	tagmezo	n.
+day	tago	n.
+assess	taksi	v.
+calculate	taksi	v.
+estimate	taksi	v.
+evaluate	taksi	v.
+judge	taksi	v. esp when applied to people
+set a maximum legal price for	taksi	v.
+surcharge	taksi	v.
+taxi	taksii	v.
+taxi	taksio	n.
+talent	talento	n.
+however	tamen	adv.
+nevertheless	tamen	adv.
+still	tamen	adv.
+yet	_tamen	adv.
+tankard	tasego	n.
+fit	taŭga	adj. suitable
+suitable	taŭga	adj.
+valuable	taŭga	adj. for something
+be of use	taŭgi	v.
+be serviceable	taŭgi	v.
+be valuable	taŭgi	v.tr for something
+fit	taŭgi	v.ntr be suitable
 drudgery	teda laborado	tedious ongoing work
-annoy	tedi	
-be boring	tedi	to someone
-rafters	tegmenta trabaro	
-textile	teksajo	
-weave	teksi	
-loom	teksilo	
+annoy	tedi	v.
+be boring	tedi	v. to someone
+rafters	tegmenta trabaro	n.
+textile	teksajo	n.
+weave	teksi	v.
+loom	teksilo	n.
 plate	telero	dining plate
-television	televidilo	an individual instrument
-television	televido	communications medium
-television	televizio	communications medium
-is a matter of	temi	Often used without a stated subject
-be about	temi pri	
+television	televidilo	n. individual instrument
+television	televido	n. communication medium
+television	televizio	n. communication medium
+is a matter of	temi	v. Often used without a stated subject
+be about	temi pri	v.
 concern	temi pri	be about
-temperament	temperamento	
-time	tempo	as in “time of day”
-time	tempo	
-camp fire	tendarfajro	camp fire
-biased	tendenca	
-bias	tendenco	
-inclination	tendenco	
-tendency	tendenco	
-hold	teni {tr}	
-keep	teni {tr}	
-tempt	tenti {tr}	
-ground floor	teretaĝo	
-Land’s End	Terfino	
-earth	tero	
-testicle	testiko	
-test	testo	less significant than ekzameno
-suchlike	tia	being of the same category
-such	tia 	of that kind or degree
-therefore	tial	
-for that reason	tial 	
-that’s why	tial 	
-therefore	tial 	
-then	tiam	
-then	tiam 	at that time "not earlier than then"
-there	tie	
-yonder	tie	
-there	tie	
-like that	tiel	
-so	tiel	in that way
+temperament	temperamento	n.
+time	tempo	n. as in “time of day”
+camp fire	tendarfajro	n. camp fire
+biased	tendenca	adj.
+bias	tendenco	n.
+inclination	tendenco	n.
+tendency	tendenco	n.
+hold	teni	v.tr
+keep	teni	v.tr
+tempt	tenti	v.tr
+ground floor	teretaĝo	n.
+Land’s End	Terfino	n.
+earth	tero	n.
+testicle	testiko	n.
+test	testo	n. less significant than ekzameno
+suchlike	tia	corr. being of the same category
+such	tia	corr. of that kind or degree
+therefore	tial	corr.
+for that reason	tial	corr.
+that’s why	tial	corr.
+then	_tiam	corr. at that time "not earlier than then"
+there	tie	adv.
+yonder	tie	adv.
+like that	tiel	corr.
+so	tiel	corr. in that way
 thus	tiel	in such a way
-in such a fashion	tiel 	
-in that manner	tiel 	
-in that way	tiel 	
-it seemed	tiel ŝajnis	
-afraid	tima	
-frightened	tima	
-fears	timas {tr}	
+in such a fashion	tiel	corr.
+in that manner	tiel	corr.
+in that way	tiel	corr.
+it seemed	tiel ŝajnis	corr.
+afraid	tima	adj.
+frightened	tima	adj.
+fears	timas	v.tr
 dread	timeginda	worthy of great fear
-making him fearful	timigante lin	
+making him fearful	timigante lin	*
 that	tio	that thing
-that’s	tio estas	
-so much	tiom	
-Tyrolese	Tirola	
+that’s	tio estas	*
+so much	tiom	corr.
+Tyrolese	Tirola	adj.
 Tiroler Sparbank	Tirola Ŝparbanko	Tyrolean Savings Bank
 entitled	titolita	given the title of
 that	tiu	that one
-weigh	pesi	to weigh an object
-chaotic mess	tohuvabohuo	
-mess	tohuvabohuo	
+weigh	pesi	v.tr to weigh an object
+chaotic mess	tohuvabohuo	n.
+mess	tohuvabohuo	n.
 total chaos	tohuvabohuo	total chaos
-Thos.	Tomaso	name
-grave	tombo	
+Thos.	Tomaso	n. name
+grave	tombo	n.
 to cut	tondi	with a scissors
-torches	torĉojn	
+torches	torĉojn	n.
 rushing water	torenta akvo	as in a rivulet
-torture	torturi {tr}	
-through	tra	limited from above, below and on the sides, from one side to the other
-traditions	tradicioj	
+torture	torturi	v.tr
+through	_tra	limited from above, below and on the sides, from one side to the other
+traditions	tradicioj	n.
 attain	trafi	to attain a goal
 catch	trafi	catch a bus etc
 hit	trafi	to hit a target
-take a bus	trafi buson	
-tragic	tragedia	
-to deal with	trakti	
+take a bus	trafi buson	*
+tragic	tragedia	adj.
+to deal with	trakti	v.
 treat	trakti	to treat a subject
 made light of it	traktis ĝin malserioze	idiom
-is treated	traktita	
+is treated	traktita	adj.
 coursing	trakuri	flow through
 cut	tranĉi	to cut with a knife
-sawn-off	tranĉita	
+sawn-off	tranĉita	adj.
 across	trans	from one side to the other, on the opposite side of
 on the other side of	trans	from one side to the other, on the opposite side of
 over	trans	from one side to the other, on the opposite side of
-defect	transfuĝi	hide out
-hide out	transfuĝi	
-crossing	transirante	
-trapeze	trapezo	
-very	tre 	
-exceedingly	treege	
-tremble	tremi {ntr}	
-dip	trempetiĝi {ntr}	become dipped in liquid
-soak	trempi {tr}	
-three weeks before	tri semajnojn antaŭe	
-third	tria	
-triangular	triangula	
-pulpit	tribuno	
-reviewing box	tribuno	
-rostrum	tribuno	
-speaker’s platform	tribuno	
+defect	transfuĝi	v.ntr hide out
+hide out	transfuĝi	v.
+crossing	transirante	adv.
+trapeze	trapezo	n.
+very	tre	adv.
+exceedingly	treege	adv.
+tremble	tremi	v.ntr
+dip	trempetiĝi	v.ntr become dipped in liquid
+soak	trempi	v.tr
+three weeks before	tri semajnojn antaŭe	adv.
+third	tria	adj.
+triangular	triangula	adj.
+pulpit	tribuno	n.
+reviewing box	tribuno	n.
+rostrum	tribuno	n.
+speaker’s platform	tribuno	n.
 tribune	tribunuso	a Roman official
-potation	trinkaĵo	
-drink	trinki	incl. alcohol in moderation
-triple	triobligi	
-triumphant	triumfa	
-indelicate	triviala	
-low class	triviala	
-vulgar	triviala	
-overbalanced	tro balanciĝis {ntr}	
+potation	trinkaĵo	n.
+drink	_trinki	v. incl. alcohol in moderation
+triple	triobligi	v.
+triumphant	triumfa	adj.
+indelicate	triviala	adj.
+low class	triviala	adj.
+vulgar	triviala	adj.
+overbalanced	tro balanciĝis	v.ntr
 faultfinding	troa kritikado	excessive criticism
-trough	trogo	
-exaggerate	troigi {tr}	
-excess	troo	
-trophy	pokalo	
-trophy cup	pokalo	
-be findable	trovebli	
-be found	troviĝi	
-found	trovis {tr}	
-hole	truo	
-commode	truseĝo	
-toilet seat	truseĝo	
+trough	trogo	n.
+exaggerate	troigi	v.tr
+excess	troo	n.
+trophy	pokalo	n.
+trophy cup	pokalo	n.
+be findable	trovebli	v.
+be found	troviĝi	v.
+found	_trovis	v.tr
+hole	_truo	n.
+commode	truseĝo	n.
+toilet seat	truseĝo	n.
 WWW	TTT	world-wide web
-immediately	tuj	
-instantly	tuj	
+immediately	tuj	adv.
+instantly	tuj	adv.
 just	tuj	immediate past
-in an instant	tuje	
-turquoise	turkisa	
-torment	turmenti {tr}	
-tormented	turmentis {tr}	
-turn	turni {tr}	
+in an instant	tuje	adv.
+turquoise	turkisa	adj.
+torment	_turmenti	v.tr
+tormented	turmentis	v.tr
+turn	turni	v.tr
 spin	turni sin	period of dancing
-revolving	turniĝanta	
-affect	tuŝi	have an emotional impact on
-touch	tuŝi {tr}	
-all	tuta	
-entire	tuta	
-whole	tuta	
-total	tutaĵo	
-entirely	tute	
-absolutely	tute	
-utterly	tute	
-completely	tute 	
-fellow	ulo	
-university	universitato	
-one	unu	
-side by side	unu apud la alia	
+revolving	turniĝanta	adj.
+affect	tuŝi	v. have an emotional impact on
+touch	_tuŝi	v.tr
+all	tuta	adj.
+entire	tuta	adj.
+whole	tuta	adj.
+total	tutaĵo	n.
+entirely	tute	adv.
+absolutely	tute	adv.
+utterly	tute	adv.
+completely	tute	adv.
+fellow	ulo	n.
+university	universitato	n.
+one	unu	n.
+side by side	unu apud la alia	adj.
 once or twice	unu-dufoje	idiom
-first few lines	unuajn kelkajn liniojn	
-once	unufoje	on one occasion
-single	unuopa	
-urinate	urini	
-avail	utiligi	avail oneself, take advantage of
-use	uzi {tr}	
+first few lines	unuajn kelkajn liniojn	*
+once	unufoje	adv. on one occasion
+single	unuopa	adj.
+urinate	urini	v.
+avail	utiligi	v.tr avail oneself, take advantage of
+use	uzi	v.tr
 tramp	vagado	wandering
-stage review	varia teatraĵo	
-squire	varleto	
-baby-sit	varti	
-raise	varti	
-take care of	varti	
-tend	varti	
-container	vazo	
-vessel	vazo	
-alas	ve	
-waken	veki {tr}	
-sailing	velanta	
+stage review	varia teatraĵo	n.
+squire	varleto	n.
+baby-sit	varti	v.
+raise	varti	v.
+take care of	varti	v.
+tend	varti	v.
+container	vazo	n.
+vessel	vazo	n.
+alas	ve	adv.
+waken	veki	v.tr
+sailing	velanta	adj.
 market	vendejo	shop
-shop	vendejo	
-sales counter	vendotablo	
-sales table	vendotablo	
-on Fridays	vendrede 	
-Friday	vendredo	
-Venice	Venecio	
-come	veni {ntr}	
-came	venis {ntr}	
-wind	vento	
-belly	ventro	
-paunch	ventro	
-green	verda	
-dictum	verdikto	PIV uses to describe a bad diagnosis
-genuinely	vere	truthfully, in a real way, admittedly
-really	vere	in truth
-really	vere	true, not false
-compose	verki	
-write	verki	
-worm	vermo	
-probable	verŝajna	
-apparently	verŝajne	
+shop	vendejo	n.
+sales counter	vendotablo	n.
+sales table	vendotablo	n.
+on Fridays	vendrede	adv.
+Friday	vendredo	n.
+Venice	Venecio	n.
+come	veni	v.ntr
+came	venis	v.ntr
+wind	_vento	n.
+belly	ventro	n.
+paunch	ventro	n.
+green	verda	adj.
+dictum	verdikto	n. PIV uses to describe a bad diagnosis
+genuinely	vere	adv. truthfully, in a real way, admittedly
+really	vere	adv. true, not false
+compose	verki	v.
+write	verki	v.
+worm	vermo	n.
+probable	verŝajna	adj.
+apparently	verŝajne	adv.
 probably	verŝajne	vs eventuale which is more "possibly"
-seemingly	verŝajne	
-pour	verŝi	to pour a liquid
-pouring	verŝiĝanta	
-endways	vertikale	
-dusk	vesperkrepusko	
-take supper	vespermanĝi	
-dress	vesti	a child, a model, oneself
-get dressed	vestiĝi	
+seemingly	_verŝajne	adv.
+pour	verŝi	v. pour a liquid
+pouring	verŝiĝanta	adj.
+endways	vertikale	adv.
+dusk	vesperkrepusko	n.
+take supper	vespermanĝi	v.
+dress	vesti	v. a child, a model, oneself
+get dressed	vestiĝi	v.
 garment	vesto	article of clothing
-weather	vetero	
-going for a drive	veturi {ntr}	
+weather	vetero	n.
+going for a drive	veturi	v.ntr
 travel	veturi	to travel esp by vehicle
-chauffeur	veturigi	take someone somewhere by car
-drive	veturigi	a vehicle
-take	veturigi	take someone somewhere by vehicle
-you	vi	
-meat	viando	
+chauffeur	veturigi	v.tr take someone somewhere by car
+drive	_veturigi	v.tr a vehicle
+take	veturigi	v.tr take someone somewhere by vehicle
+you	vi	v.
+meat	viando	n.
 line	vico	queue
 one’s turn	vico	ie place in line
-place in line	vico	
-queue	vico	
-see	vidi {tr}	
-have seen	vidis {tr}	
-saw	vidis	
-alert	vigla	
-attentive	vigla	
-brisk	vigla	
-crisp	vigla	
-smart	vigla	
+place in line	vico	n.
+queue	vico	n.
+see	vidi	v.tr
+have seen	vidis	v.tr
+saw	vidis	v.
+alert	vigla	adj.
+attentive	vigla	adj.
+brisk	vigla	adj.
+crisp	vigla	adj.
+smart	vigla	adj.
 hard	vigle	vigorously
-victim	viktimo	
-furry	vila	
-fuzzy	vila	
-hairy	vila	
-village	vilaĝo	
-vineyard	vinberejo	
-Wynkin de Worde	Vinko Devordo	
-violet	viola	
-violet rays	viola radioj	
-man	viro	
-men	viroj	
-mistletoe	visko	
-Whittier	Vitiero	
-glass	vitra	made of glass
-alive	viva	
-living	vivado	
-vividly	vive	
-be alive	vivi	
-life	vivo	
-pay a visit to	viziti	
-wobble	vobli {ntr}	
-wobbling	voblo	
-vote	voĉdoni	
-voice	voĉo	
-lane	vojeto	small country road
-road	vojo	
-call	voki {tr}	call to
-call	voko	
-will call	vokos {tr}	call to
-Volapük	Volapuko	
-be willing	voli	
-choose	voli	
-have a mind to	voli	
-want	voli {tr}	
-gladly	volonte	
+victim	viktimo	n.
+furry	vila	adj.
+fuzzy	vila	adj.
+hairy	vila	adj.
+village	vilaĝo	n.
+vineyard	vinberejo	n.
+Wynkin de Worde	Vinko Devordo	n.
+violet	viola	adj.
+violet rays	viola radioj	*
+man	viro	n.
+men	viroj	n.
+mistletoe	visko	n.
+Whittier	Vitiero	n.
+glass	vitra	adj. made of glass
+alive	viva	adj.
+living	vivado	n.
+vividly	vive	adv.
+be alive	vivi	v.
+life	vivo	n.
+pay a visit to	viziti	v.
+wobble	vobli	v.ntr
+wobbling	voblo	n.
+vote	voĉdoni	v.
+voice	voĉo	n.
+lane	vojeto	n. small country road
+road	vojo	n.
+call	_voki	v.tr call to
+will call	vokos	v.tr call to
+Volapük	Volapuko	n.
+be willing	voli	v.
+choose	voli	v.
+have a mind to	voli	v.
+want	voli	v.tr
+gladly	volonte	adv. willingly
 volume	volumo	book in a collection
-coiled	volvita	
-colloquial	vulgara	
-common	vulgara	
-lay	vulgara	
-ordinary	vulgara	
-popular	vulgara	
-fox	vulpo	
-hurt	vundi	wound
-injure	vundi {tr}	
-wound	vundi	
-whom	kiun	
-X-rays	X-radioj	
-attend to	zorgi	
-care for	zorgi	
-take responsibility for	zorgi	
-tend	zorgi	normally plus pri
-care	zorgo	concern and responsibility
-hum	zumi {tr}	human produced sound
-		
-		
-		
-contrive	aranĝi	
+coiled	volvita	adj.
+colloquial	vulgara	adj.
+common	vulgara	adj.
+lay	vulgara	adj.
+ordinary	vulgara	adj.
+popular	vulgara	adj.
+fox	vulpo	n.
+hurt	vundi	v.tr wound
+injure	vundi	v.tr
+wound	vundi	v.tr
+X-rays	X-radioj	n.
+attend to	zorgi	v.
+care for	zorgi	v.
+take responsibility for	zorgi	v.
+tend	zorgi	v.tr normally plus pri
+care	zorgo	n. concern and responsibility
+hum	zumi	v.tr human produced sound
+contrive	aranĝi	v.
 double	sozio	in the sense of a doppelganger
-dark	malhela	
-tall	alta	
-figure	figuro	
-himself	li mem	
-compass	plani	(tr) make a plan for
-sought	provis	ie tried
-introduction	enkonduko	
-in vain	vane	
-seem	ŝajni	(ntr)
-grace	graco	spritual grace
-grace	gracio	that which is graceful, like a dancer
-wondrous	mirinda	
-slim	svelta	
-rather than	anstataŭ ol	rather" used to introduce a contradiction humanityhomaroall humans possessposedi(tr) woodlandarbaro well-nighpreskaŭ dropfaligi(tr) runkuri(ntr) with the feet armbrako run afterpostkuri(tr) metrenkontiĝismet each other callvokothe words of one who calls callalvokoa calling to, as in a summons anyoneiu ajn obtainakiri(tr) get obtainricevi(tr) receive squarekvadrato half exhaustedtre lacavery tired in pinkrozkolorewearing pink clothing square dancekvadrila danco half exhaustedduone lacega up theresupre meanceli(tr) idiomatic signaling of intention meansignifihave the meaning of explainklarigi can’tne povas carefulatentaattentive surveysuperrigardooverview glassesokulvitrojeyeglasses don’t thinkne pensas whykial foolishlymalsaĝe insistinsisti(ntr) rudemalĝentila elsealie insteadanstataŭe describepriskribi(tr) inaccuratelymalprecize evidentlyevidente triedprovis sort ofiome nosenazo gave uprezignis(tr) to abandon as unworkable finallyfinfine sniffekflari(tr) take a sniff sniffflari(tr) to smell a smell sniffekmovi la nazon(tr) move the nose as with displeasure désiréedezirataFrench, desired one maidenfraŭlino sinksinki(ntr) sort ofiakind of horribleterura have goneiris slip outelglitieither drop accidentally, speak unintentionally, or sneak out unnoticed made up his minddecidis(tr) lingerlanti(ntr) latermalfrue intendintenci(tr) engagementrendevuo nearlypreskaŭ in the hope ofesperante hatefulmalamindadeserving to be hated at nine o’clockje la naŭa latemalfrue office⁠oficejo tiredlaca awfullyterure sylphsilfino a little whiledum iom da tempo glimpseekvido dawdlelanti hungeringmalsatante delightdelico rarefiedrara joyĝojo close uponpreskaŭnearly a short distancemallongan distancon downlaŭalong streetstrato cigarettecigaredo strollpromeni sternsevera the far endla malproksima fino justĵusimmediately preceding in time eyerigardofigurative "gaze
-visible	videbla	
-act	ago	action
-run though	trakuri	(tr)
-ran	kuris	
-that	tia	such a
-distance	distanco	
-straight	rekte	along the shortest linear path
-length	longo	
-suddenly	subite	
-short	subite	suddenly as in stop-short
-sudden	subita	
-suddenness	subiteco	
-on the instant	tuje	UK idiom, without delay
-hid	kaŝis	(tr)
-back again	returne	
-doll	pupo	
-cry	krii	
-drew	altiris	pulled or attracted
-automatic	aŭtomata	
-stab	piko	
-worse	pli malbona	
-momentary	momenta	
-fresh	freŝa	
-gave	donis	(tr)
-swooning	svenigema	prone to induce swooning
-clock	horloĝo	
-leant	apogis	(tr) to lean a thing against another thing to prop it up
-lean	apogi	(tr) to lean a thing against another thing to prop it up
-for an instant	por momento	
-two	du	
-hands	montriloj	hands of a clock
+dark	malhela	adj.
+tall	alta	adj.
+figure	figuro	n.
+himself	li mem	*
+compass	plani	v.tr make a plan for
+sought	provis	v.tr ie tried
+introduction	enkonduko	n.
+in vain	vane	adv.
+seem	ŝajni	v.ntr
+grace	graco	n. spiritual grace
+grace	gracio	n. that which is graceful, like a dancer
+wondrous	mirinda	adj.
+slim	svelta	adj.
+rather than	anstataŭ ol	rather used to introduce a contradiction
+possess	posedi	v.tr
+woodland	arbaro	n.
+well-nigh	preskaŭ	*
+drop	faligi	v.tr
+run	kuri	v.ntr with the feet
+arm	brako	n.
+run after	postkuri	v.tr
+call	alvoko	a calling to, as in a summons
+obtain	akiri	v.tr get
+obtain	ricevi	v.tr receive
+square	kvadrato	n.
+in pink	rozkolore	adv. wearing pink clothing
+up there	supre	adv.
+mean	celi	v.tr idiomatic signaling of intention
+mean	signifi	have the meaning of
+explain	klarigi	v.
+can’t	ne povas	*
+careful	_atenta	adj. attentive
+survey	superrigardo	overview
+glasses	okulvitroj	eyeglasses
+don’t think	ne pensas	*
+why	kial	corr.
+foolishly	malsaĝe	adv.
+insist	insisti	v.ntr
+rude	malĝentila	adj.
+else	alie	adv.
+describe	priskribi	v.tr
+inaccurately	malprecize	adv.
+evidently	evidente	adv.
+tried	provis	v.
+sort of	iome	adv.
+nose	nazo	n.
+finally	finfine	adv.
+sniff	flari	v.tr to smell a smell
+sniff	ekmovi la nazon	v.tr. move the nose as with displeasure
+désirée	dezirata	adj. French, desired one
+maiden	fraŭlino	n.
+sink	sinki	v.ntr
+sort of	ia	corr. kind of
+horrible	terura	adj.
+have gone	iris	v.
+slip out	elgliti	v.ntr either drop accidentally, speak unintentionally, or sneak out unnoticed
+made up his mind	decidis	v.tr
+linger	lanti	v.ntr
+later	malfrue	adv.
+engagement	rendevuo	n.
+nearly	preskaŭ	adv.
+in the hope	ofesperante	adv.
+hateful	malaminda	adj. deserving to be hated
+late	malfrue	adv.
+tired	laca	adj.
+awfully	terure	adv.
+sylph	silfino	n.
+a little while	dum iom da tempo	n.
+glimpse	ekvido	n.
+dawdle	lanti	v.
+hungering	malsatante	adv.
+delight	delico	n.
+joy	ĝojo	n.
+close upon	preskaŭ	nearly
+a short distance	mallonga distanco	n.
+down	laŭ	along
+street	strato	n.
+stern	severa	adj.
+the far end	la malproksima fino	*
+just	_ĵus	immediately preceding in time
+visible	videbla	adj.
+run though	trakuri	v.tr
+ran	kuris	v.
+that	tia	corr. such a
+distance	distanco	n.
+straight	rekte	adv. along the shortest linear path
+length	longo	n.
+suddenly	subite	adv.
+short	subite	adv. suddenly as in stop-short
+suddenness	subiteco	n.
+on the instant	tuje	adv. UK idiom, without delay
+hid	kaŝis	v.tr
+back again	returne	adv.
+doll	pupo	n.
+cry	krii	v.
+drew	altiris	v.tr pulled or attracted
+automatic	aŭtomata	adj.
+stab	piko	n.
+worse	pli malbona	adj.
+momentary	momenta	adj.
+fresh	freŝa	adj.
+gave	donis	v.tr
+swooning	svenigema	adj. prone to induce swooning
+clock	horloĝo	n.
+leant	apogis	v.tr to lean a thing against another thing to prop it up
+lean	apogi	v.tr to lean a thing against another thing to prop it up
+for an instant	por momento	n.
+two	du	n
+hands	montriloj	n. hands of a clock
 disregarding	ignorante	while ignoring
-forcibly	devigante	
-impetus	impeto	
-extra	kroma	
-in truth	vere	
-vigorous	vigla	
+forcibly	devigante	adv.
+impetus	impeto	n.
+extra	kroma	adj.
+in truth	vere	adv.
+vigorous	vigla	adj.
 the will	la volo	desire or intention
-action	ago	
-few	malmulta	
-devil	diablo	
-no	neniu	
-but	sed	
-convention	konvencio	social norm
-perfume	parfumo	
-snub	malakcepto	
+action	ago	n.
+few	malmulta	adj.
+devil	diablo	n.
+convention	konvencio	n. social norm
+perfume	parfumo	n.
+snub	malakcepto	n.
 compared to that	kompare kun tio	idiom
-best	plej bone	
-long	longa	
-slid	glitis	(ntr)
-dodge	eviti	(tr) avoid
-note	percepti	(tr) notice
-notice	percepti	(tr)
-alone	sola	
+best	plej bone	adv.
+long	longa	adj.
+slid	glitis	v.ntr
+dodge	eviti	v.tr avoid
+note	percepti	v.tr notice
+notice	percepti	v.tr
+alone	sola	adj.
 sat on	sidadis	continued to sit
-up	supren	
-quickly	rapide	
-anticipation	anticipo	
 padded hammer	kusenetita martelo	piano hammer
-tambourine	tamburino	
-quick	rapida	
-odd	strange	strange
-stairs	ŝtuparo	
-doubtless	sendube	
-exit	elirejo	
-observe	observi	(tr)
+tambourine	tamburino	n.
+quick	rapida	adj.
+stairs	ŝtuparo	n.
+doubtless	sendube	adv.
+exit	elirejo	n.
+observe	observi	v.tr
 topped	atingis la supron	reached the top
-corner	angulo	
-peering	rigardante	
+corner	angulo	n.
+peering	rigardante	adv.
 railing	balustrado	around a balcony to prevent falls
-feet	futoj	distance measure
-being	esteco	
-root	radiko	
-swam	naĝis	(ntr)
-clutched at	kaptis	(tr)
-quite	tre	very
-empty	malplena	
-seat	seĝo	
-if	ĉu	whether
-face	fronti	to face someone
-word	vorto	
-died away	formortis	(ntr)
+feet	futoj	n. distance measure
+being	esteco	n.
+root	radiko	n.
+swam	naĝis	v.ntr
+clutched at	kaptis	v.tr
+quite	tre	adv. very
+empty	malplena	adj.
+face	fronti	v. to face someone
+word	vorto	n.
+died away	formortis	v.ntr
 within	je	distance away
-inadequate	nesufiĉa	
-they	ili	
-said	diris	
-am	estas	
-was it	ĉu estis	
-effort	peno	
-great effort	granda peno	
-form	formo	ie shape
-question	demando	
+inadequate	nesufiĉa	adj.
+they	ili	v.
+said	diris	v.
+am	estas	v.
+was it	ĉu estis	*
+great effort	granda peno	n.
+question	demando	n.
 struck him	ŝajnis al li	seemed to him
 with	pro	due to
-became transfigured	transfiguriĝis	(ntr)
-drown	superbrui	drown out and overpower noise
-ballroom	bala salono	
+became transfigured	transfiguriĝis	v.ntr
+drown	superbrui	v.ntr drown out and overpower noise
 consonant	konsonanto	not a vowel
-break	rompiĝi	separate oneself into parts like a word into syllables
-most	plej multaj	
-smoothly	glate	
-pebble	ŝtoneto	
-swept	balais	(tr)
-murmur	murmuro	
-god	dio	
+most	plej multaj	*
+smoothly	glate	adv.
+pebble	ŝtoneto	n.
+swept	balais	v.tr
+murmur	murmuro	n.
+god	dio	n.
 by	je	exclamation as in "by Jove"
-string	ŝnureto	
-silence	silento	
-expand	pligrandiĝi	(ntr) get bigger
-gladly	volonte	willingly
-would listen	aŭskultus	
-concern	zorgigi	cause concern or worry to
-poor	kompatinda	deserving pity
+string	ŝnureto	n.
+silence	silento	n.
+expand	pligrandiĝi	v.ntr get bigger
+would listen	aŭskultus	v.
+concern	zorgigi	v.tr cause concern or worry to
+poor	kompatinda	adj. deserving pity
 openly	malkaŝe	revealingly as in talk openly
-broken	rompita	
-would sympathise	simpatius	
-sympathise	simpatii	(tr)
-indeed	ja	
+broken	rompita	adj.
+would sympathise	simpatius	v.
+sympathise	simpatii	v.tr
+indeed	ja	*
 take	ĉirkaŭpreni	embrace
-prevent	deteni	(tr)
-outstretched	etendita	extended
+prevent	deteni	v.tr
+outstretched	etendita	adj. extended
 lamely	mallerte	clumsily
-began	komencis	
-glad⁠	ĝoja	
-remember	rememori	recall from memory
-remember	memori	put into memory
-manners	moroj	as in "mind your manners"
-earthly	tera	
-add	aldoni	
-added	aldonis	
-my	mia	
-name	nomo	
-name	nomo	
-is	estas	
-indescribable⁠	nepriskribebla	
-unusual	nekutima	
-had moved	estis moviĝinta	
-space	spaco	
+began	komencis	v.
+glad⁠	ĝoja	adj.
+manners	moroj	n. as in "mind your manners"
+earthly	tera	adj.
+added	aldonis	v.
+my	mia	adj.
+is	estas	v.
+indescribable⁠	nepriskribebla	adj.
+had moved	estis moviĝinta	adj.
+space	spaco	n.
 room	spaco	ie space as in "make room"
-your	via	
-rustle	susuro	
+your	via	adj.
+rustle	susuro	n.
 soft	milda	as a soft sound
-skirt	jupo	
-drawing	tirante	(tr) pulling
-wonder	mirindaĵo	wonderful thing
-understood	komprenis	(tr)
+skirt	jupo	n.
 that	kvazaŭ	as if
-had been flying	estis fluginta	
-free	libera	
-top	supro	
-faded out	fadis	(ntr)
-like	volas	ie "want"
-stammer	balbuti	(tr|ntr)
-attempt	provo	
-worldly	monda	
-politeness	ĝentileco	
+free	libera	adj.
+top	supro	n.
+faded out	fadis	v.ntr
+like	volas	v.tr ie "want"
+attempt	provo	n.
+politeness	ĝentileco	n.
 poplar	poplo	tree
-surely	certe	
-first name	antaŭnomo	personal name or given name
-me	mi	
-that	tiel	like that
-blunder	fuŝi	(tr)
-blundered about	fuŝe serĉis	searched blunderingly
-pure	pura	
-vanish	malaperi	
+surely	certe	adv.
+me	mi	v.
+that	tiel	corr. like that
+blunder	fuŝi	v.tr
+pure	pura	adj.
 for the life of him	eĉ por savi sian vivon	idiom
-recollect	rememori	
-find	trovi	
-friend	amiko	
-beside himself	ekstaza	ecstatic
-stare	fikse rigardi	(tr)
-ye heavens above	ho, la ĉieloj	idiom lit. "oh, Heavens"
-had known⁠	konis	
-there were	ekzistis	there existed
-no longer	ne plu	
-any other	alia	
-framed	enkadrigita	contained within a frame
-movement	movo	
-bending	kliniĝanta	
-here was	jen	
-universe	universo	
-fantasy	fantazio	
-for the first time	unuafoje	
-would come	venus	
-was saying	estis diranta.	
-couldn’t	ne povis	
-couldn’t help yourself	ne povis sin malhelpi	idiom
-was afraid	timis	
-I	mi	
-at first	komence	
-interrupt	interrompi	(tr)
-softly	mallaŭte	
-up here	ĉi tie supre	
+recollect	rememori	v.
+find	trovi	v.
+beside himself	ekstaza	adj. ecstatic
+had known⁠	konis	v.tr
+there were	ekzistis	v.ntr there existed
+no longer	ne plu	*
+here was	jen	*
+for the first time	unuafoje	adv.
+would come	venus	v.
+was saying	estis diranta	*
+couldn’t	ne povis	*
+was afraid	timis	v.
+up here	ĉi tie supre	adv.
 all the time	dum la tuta tempo	idiom
-delighted	ĝoje	
-cried	kriis	
-reply	respondi	
-kept me company	akompanis min	
-have been	estadis	
-they	ili	
-amaze	mirigi	(tr)
-was rising to her feet	estis leviĝanta sur siajn piedojn	
-trust	fidi	
-may	rajti	(tr) are entitled to
-take care of	prizorgi	(tr) a sick person or a garden
-shall know how to	scipovos	
-ecstatic	ekstaza	
-London	Londono	
-twentieth	dudeka	
-ordinary	ordinara	
-meeting	renkontiĝo	encounter ie the act of meeting
-true	vera	
-gold	oro	
-would wake up	vekiĝus	
-waist	talio	
-magical	magia	
-lost	perdis	
-whirl	giri	(ntr) to be whirling
-it puzzled	konfuzis	
-how	kiel	
-themselves	sin	
-couple	paro	
-coming down	malsupreniro	
-recollection	memoro	
-meanwhile	dume	
-fly	flugi	
-astounding	miriga	
-make	krei	(tr) create
-swift	rapida	
-grew tired	laciĝis	(ntr)
-to pain him	dolori sin	
-had ceased	estis ĉesinta	
-rather	pli ĝuste	more precisely
-crowded	homamasa	
+cried	kriis	v.
+kept me company	akompanis min	*
+have been	estadis	v.
+amaze	mirigi	v.tr
+trust	fidi	v.
+may	rajti	v.tr are entitled to
+take care of	prizorgi	v.tr a sick person or a garden
+London	Londono	n.
+true	vera	adj.
+gold	oro	n.
+waist	talio	n.
+magical	magia	adj.
+coming down	malsupreniro	n.
+recollection	memoro	n.
+meanwhile	dume	adv.
+fly	flugi	v.
+astounding	miriga	adj.
+make	krei	v.tr create
+swift	rapida	adj.
+grew tired	laciĝis	v.ntr
+to pain him	dolori sin	*
 steering	gvido	guidance
-require	bezoni	
+require	bezoni	v.
 either	ankaŭ	as well
 skimmed	glitis laŭ	slid along
-noiseless	senbrua	
-appear	ŝajni	to seem
-the least	eĉ iomete	even a little
-dead	mortinta	
-dead	morta	
-could have sworn	estus povinta ĵuri	
-as	dum	
-faded away	fadis	
-all	ĉiu	each
-radiant	radia	
-mirror	spegulo	
-shoulder	ŝultro	
-pressing up	premadi	
-such	tia	that kind
-treetop	arba supro	
-swinging	balanciĝi	
-farther out	pli fore	
-swifter and swifter	pli kaj pli rapide	
-swift	rapida	
-motionless	senmova	
-night	nokto	
+noiseless	senbrua	adj.
+appear	ŝajni	v. to seem
+could have sworn	estus povinta ĵuri	v.
+all	ĉiu	corr. each
+radiant	radia	adj.
+mirror	spegulo	n.
+shoulder	ŝultro	n.
+pressing up	premadi	v.
+treetop	arba supro	n.
+motionless	senmova	adj.
+night	nokto	n.
 off	ne plu sur	no longer on
-rising	leviĝanta	
-dark-lying	mallume kuŝanta	
-cheek	vango	
-sky	ĉielo	
-clear	superi	(tr) rise above
-summit	supro	
-melted away	for'fandiĝis	(ntr)
-into	inter	co-mingling
-on earth	en la mondo	in the world
-desk	skribtablo	
-any	iun	
-absence	foresto	
+dark-lying	mallume kuŝanta	adj.
+cheek	vango	n.
+melted away	for'fandiĝis	v.ntr
+into	inter	prep. co-mingling
+any	iun	corr.
+absence	foresto	n.
 paper	gazeto	newspaper
-stricken	trafita	
-disease	malsano	
-in the morning	matene	
-two o’clock	la dua horo	
-manager	administranto	
-less	malpli	
-will do	faros	
-anyhow	ĉiaokaze	
-contrive	aranĝi	
-double	sozio	in the sense of a doppelganger
-dark	malhela	
-tall	alta	
-figure	figuro	
-himself	li mem	
-compass	plani	(tr) make a plan for
-sought	provis	ie tried
-introduction	enkonduko	
-in vain	vane	
-seem	ŝajni	(ntr)
-grace	graco	spritual grace
-grace	gracio	that which is graceful, like a dancer
-wondrous	mirinda	
-slim	svelta	
-rather than	anstataŭ ol	rather" used to introduce a contradiction humanityhomaroall humans possessposedi(tr) woodlandarbaro well-nighpreskaŭ dropfaligi(tr) runkuri(ntr) with the feet armbrako run afterpostkuri(tr) metrenkontiĝismet each other callvokothe words of one who calls callalvokoa calling to, as in a summons anyoneiu ajn obtainakiri(tr) get obtainricevi(tr) receive squarekvadrato half exhaustedtre lacavery tired in pinkrozkolorewearing pink clothing square dancekvadrila danco half exhaustedduone lacega up theresupre meanceli(tr) idiomatic signaling of intention meansignifihave the meaning of explainklarigi can’tne povas carefulatentaattentive surveysuperrigardooverview glassesokulvitrojeyeglasses don’t thinkne pensas whykial foolishlymalsaĝe insistinsisti(ntr) rudemalĝentila elsealie insteadanstataŭe describepriskribi(tr) inaccuratelymalprecize evidentlyevidente triedprovis sort ofiome nosenazo gave uprezignis(tr) to abandon as unworkable finallyfinfine sniffekflari(tr) take a sniff sniffflari(tr) to smell a smell sniffekmovi la nazon(tr) move the nose as with displeasure désiréedezirataFrench, desired one maidenfraŭlino sinksinki(ntr) sort ofiakind of horribleterura have goneiris slip outelglitieither drop accidentally, speak unintentionally, or sneak out unnoticed made up his minddecidis(tr) lingerlanti(ntr) latermalfrue intendintenci(tr) engagementrendevuo nearlypreskaŭ in the hope ofesperante hatefulmalamindadeserving to be hated at nine o’clockje la naŭa latemalfrue office⁠oficejo tiredlaca awfullyterure sylphsilfino a little whiledum iom da tempo glimpseekvido dawdlelanti hungeringmalsatante delightdelico rarefiedrara joyĝojo close uponpreskaŭnearly a short distancemallongan distancon downlaŭalong streetstrato cigarettecigaredo strollpromeni sternsevera the far endla malproksima fino justĵusimmediately preceding in time eyerigardofigurative "gaze
-visible	videbla	
-act	ago	action
-run though	trakuri	(tr)
-ran	kuris	
-that	tia	such a
-distance	distanco	
-straight	rekte	along the shortest linear path
-length	longo	
-suddenly	subite	
-short	subite	suddenly as in stop-short
-sudden	subita	
-suddenness	subiteco	
-on the instant	tuje	UK idiom, without delay
-hid	kaŝis	(tr)
-back again	returne	
-doll	pupo	
-cry	krii	
-drew	altiris	pulled or attracted
-automatic	aŭtomata	
-stab	piko	
-worse	pli malbona	
-momentary	momenta	
-fresh	freŝa	
-gave	donis	(tr)
-swooning	svenigema	prone to induce swooning
-clock	horloĝo	
-leant	apogis	(tr) to lean a thing against another thing to prop it up
-lean	apogi	(tr) to lean a thing against another thing to prop it up
-for an instant	por momento	
-two	du	
-hands	montriloj	hands of a clock
-disregarding	ignorante	while ignoring
-forcibly	devigante	
-impetus	impeto	
-extra	kroma	
-in truth	vere	
-vigorous	vigla	
-the will	la volo	desire or intention
-action	ago	
-few	malmulta	
-devil	diablo	
-no	neniu	
-but	sed	
-convention	konvencio	social norm
-perfume	parfumo	
-snub	malakcepto	
-compared to that	kompare kun tio	idiom
-best	plej bone	
-long	longa	
-slid	glitis	(ntr)
-dodge	eviti	(tr) avoid
-note	percepti	(tr) notice
-notice	percepti	(tr)
-alone	sola	
-sat on	sidadis	continued to sit
-up	supren	
-quickly	rapide	
-anticipation	anticipo	
-padded hammer	kusenetita martelo	piano hammer
-tambourine	tamburino	
-quick	rapida	
-odd	strange	strange
-stairs	ŝtuparo	
-doubtless	sendube	
-exit	elirejo	
-observe	observi	(tr)
-topped	atingis la supron	reached the top
-corner	angulo	
-peering	rigardante	
-railing	balustrado	around a balcony to prevent falls
-feet	futoj	distance measure
-being	esteco	
-root	radiko	
-swam	naĝis	(ntr)
-clutched at	kaptis	(tr)
-quite	tre	very
-empty	malplena	
-seat	seĝo	
+disease	malsano	n.
+in the morning	matene	adv.
+two o’clock	la dua horo	n.
+manager	administranto	n.
+less	malpli	*
+will do	faros	v.
+anyhow	ĉiaokaze	adv.
+humanity	homaro	all humans
+met	renkontiĝis	met each other
+call	voko	n. the words of one who calls
+anyone	iu ajn	corr.
+half exhausted	tre laca	very tired
+square dance	kvadrila danco	n.
+half exhausted	duone lacega	adj.
+instead	anstataŭe	adv.
+gave up	rezignis	v.tr to abandon as unworkable
+sniff	ekflari	v.tr take a sniff
+intend	intenci	v.tr
+in the hope of	esperante	adv.
+at nine o’clock	je la naŭa	adj.
+rarefied	rara	adj.
+cigarette	cigaredo	n.
+stroll	promeni	v.
+eye	rigardo	n. fig. gaze
+act	ago	n. action
+no	neniu	corr.
+but	sed	conj.
+up	supren	adv.
+quickly	rapide	adv.
+anticipation	anticipo	n.
+odd	strange	adv. strange
+seat	seĝo	n.
 if	ĉu	whether
-face	fronti	to face someone
-word	vorto	
-died away	formortis	(ntr)
-within	je	distance away
-inadequate	nesufiĉa	
-they	ili	
-said	diris	
-am	estas	
-was it	ĉu estis	
-effort	peno	
-great effort	granda peno	
-form	formo	ie shape
-question	demando	
-struck him	ŝajnis al li	seemed to him
-with	pro	due to
-became transfigured	transfiguriĝis	(ntr)
-drown	superbrui	drown out and overpower noise
-ballroom	bala salono	
-consonant	konsonanto	not a vowel
-break	rompiĝi	separate oneself into parts like a word into syllables
-most	plej multaj	
-smoothly	glate	
-pebble	ŝtoneto	
-swept	balais	(tr)
-murmur	murmuro	
-god	dio	
-by	je	exclamation as in "by Jove"
-string	ŝnureto	
-silence	silento	
-expand	pligrandiĝi	(ntr) get bigger
-gladly	volonte	willingly
-would listen	aŭskultus	
-concern	zorgigi	cause concern or worry to
-poor	kompatinda	deserving pity
-openly	malkaŝe	revealingly as in talk openly
-broken	rompita	
-would sympathise	simpatius	
-sympathise	simpatii	(tr)
-indeed	ja	
-take	ĉirkaŭpreni	embrace
-prevent	deteni	(tr)
-outstretched	etendita	extended
-lamely	mallerte	clumsily
-began	komencis	
-glad⁠	ĝoja	
+form	formo	n. ie shape
+ballroom	bala salono	n.
+break	rompiĝi	v.ntr become broken, separate oneself into parts like a word into syllables
 remember	rememori	recall from memory
-remember	memori	put into memory
-manners	moroj	as in "mind your manners"
-earthly	tera	
-add	aldoni	
-added	aldonis	
-my	mia	
-name	nomo	
-name	nomo	
-is	estas	
-indescribable⁠	nepriskribebla	
-unusual	nekutima	
-had moved	estis moviĝinta	
-space	spaco	
-room	spaco	ie space as in "make room"
-your	via	
-rustle	susuro	
-soft	milda	as a soft sound
-skirt	jupo	
-drawing	tirante	(tr) pulling
+drawing	tirante	v.tr pulling
 wonder	mirindaĵo	wonderful thing
-understood	komprenis	(tr)
-that	kvazaŭ	as if
-had been flying	estis fluginta	
-free	libera	
-top	supro	
-faded out	fadis	(ntr)
-like	volas	ie "want"
-stammer	balbuti	(tr|ntr)
-attempt	provo	
-worldly	monda	
-politeness	ĝentileco	
-poplar	poplo	tree
-surely	certe	
-first name	antaŭnomo	personal name or given name
-me	mi	
-that	tiel	like that
-blunder	fuŝi	(tr)
+understood	komprenis	v.tr
+had been flying	estis fluginta	adj.
+stammer	balbuti	v.tr.ntr
+worldly	monda	adj.
+first name	antaŭnomo	n. personal name or given name
 blundered about	fuŝe serĉis	searched blunderingly
-pure	pura	
-vanish	malaperi	
-for the life of him	eĉ por savi sian vivon	idiom
-recollect	rememori	
-find	trovi	
-friend	amiko	
-beside himself	ekstaza	ecstatic
-stare	fikse rigardi	(tr)
+vanish	malaperi	v.
+friend	amiko	n.
+stare	fikse rigardi	v.tr
 ye heavens above	ho, la ĉieloj	idiom lit. "oh, Heavens"
-had known⁠	konis	
-there were	ekzistis	there existed
-no longer	ne plu	
-any other	alia	
+any other	alia	adj.
 framed	enkadrigita	contained within a frame
-movement	movo	
-bending	kliniĝanta	
-here was	jen	
-universe	universo	
-fantasy	fantazio	
-for the first time	unuafoje	
-would come	venus	
-was saying	estis diranta.	
-couldn’t	ne povis	
+movement	movo	n.
+bending	kliniĝanta	adj.
+universe	universo	n.
+fantasy	fantazio	n.
 couldn’t help yourself	ne povis sin malhelpi	idiom
-was afraid	timis	
-I	mi	
-at first	komence	
-interrupt	interrompi	(tr)
-softly	mallaŭte	
-up here	ĉi tie supre	
-all the time	dum la tuta tempo	idiom
-delighted	ĝoje	
-cried	kriis	
-reply	respondi	
-kept me company	akompanis min	
-have been	estadis	
-they	ili	
-amaze	mirigi	(tr)
-was rising to her feet	estis leviĝanta sur siajn piedojn	
-trust	fidi	
-may	rajti	(tr) are entitled to
-take care of	prizorgi	(tr) a sick person or a garden
-shall know how to	scipovos	
-ecstatic	ekstaza	
-London	Londono	
-twentieth	dudeka	
-ordinary	ordinara	
-meeting	renkontiĝo	encounter ie the act of meeting
-true	vera	
-gold	oro	
-would wake up	vekiĝus	
-waist	talio	
-magical	magia	
-lost	perdis	
-whirl	giri	(ntr) to be whirling
-it puzzled	konfuzis	
-how	kiel	
-themselves	sin	
-couple	paro	
-coming down	malsupreniro	
-recollection	memoro	
-meanwhile	dume	
-fly	flugi	
-astounding	miriga	
-make	krei	(tr) create
-swift	rapida	
-grew tired	laciĝis	(ntr)
-to pain him	dolori sin	
-had ceased	estis ĉesinta	
+I	mi	n.
+interrupt	interrompi	v.tr
+softly	mallaŭte	adv.
+delighted	ĝoje	adv.
+reply	respondi	v.
+was rising to her feet	estis leviĝanta sur siajn piedojn	*
+shall know how to	scipovos	v.
+ecstatic	ekstaza	adj.
+twentieth	dudeka	adj.
+ordinary	ordinara	adj.
+meeting	renkontiĝo	n. encounter ie the act of meeting
+would wake up	vekiĝus	v.ntr
+lost	perdis	v.
+whirl	giri	v.ntr to be whirling
+it puzzled	konfuzis	v.
+how	kiel	corr.
+themselves	sin	n.
+couple	paro	n.
+had ceased	estis ĉesinta	adj.
 rather	pli ĝuste	more precisely
-crowded	homamasa	
-steering	gvido	guidance
-require	bezoni	
-either	ankaŭ	as well
-skimmed	glitis laŭ	slid along
-noiseless	senbrua	
-appear	ŝajni	to seem
+crowded	homamasa	adj.
 the least	eĉ iomete	even a little
-dead	mortinta	
-dead	morta	
-could have sworn	estus povinta ĵuri	
-as	dum	
-faded away	fadis	
-all	ĉiu	each
-radiant	radia	
-mirror	spegulo	
-shoulder	ŝultro	
-pressing up	premadi	
-such	tia	that kind
-treetop	arba supro	
-swinging	balanciĝi	
-farther out	pli fore	
-swifter and swifter	pli kaj pli rapide	
-swift	rapida	
-motionless	senmova	
-night	nokto	
-off	ne plu sur	no longer on
-rising	leviĝanta	
-dark-lying	mallume kuŝanta	
-cheek	vango	
-sky	ĉielo	
-clear	superi	(tr) rise above
-summit	supro	
-melted away	for'fandiĝis	(ntr)
-into	inter	co-mingling
+dead	mortinta	adj.
+dead	morta	adj.
+faded away	fadis	v.
+swinging	balanciĝi	v.
+farther out	pli fore	adv.
+swifter and swifter	pli kaj pli rapide	adv.
+rising	leviĝanta	adj.
+sky	ĉielo	n.
+clear	superi	v.tr rise above
+summit	supro	n.
 on earth	en la mondo	in the world
-desk	skribtablo	
-any	iun	
-absence	foresto	
-paper	gazeto	newspaper
-stricken	trafita	
-disease	malsano	
-in the morning	matene	
-two o’clock	la dua horo	
-manager	administranto	
-less	malpli	
-will do	faros	
-anyhow	ĉiaokaze	
+desk	skribtablo	n.
+stricken	trafita	adj.
 Nyarlathotep	Njarlatotepo	Lovecraft monster
-crawling	rampa	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+crawling	rampa	adj.
+silhouette	silueto	n.
+tower	turo	n.
+horizon	horizonto	n.
+snow	neĝo	n. 
+inexplicable	ne'klarig'ebla	adj. 
+swept asunder	dis'bala'ita	adj.
+column	vico	n.
+column	kolono	n. architectural
+daemoniac	demona	adj. demonic
+sequence	sekvenco	n.
+none	neniu	no one
+slender	svelta	adj.
+psychology	psikologio	n.
+blackness	nigreco	n.
+twenty-seven	dudek sep	n.
+planet	planedo	n.
+swore	juris	v.
+city	urbo	n.
+electric	elektra	adj.
+cursed	sakris	v.ntr
+queer	stranga	adj.
+we	ni	n.
+beckoned	mansignis	v.ntr
+had risen	estis leviĝinta	*
+rent	disŝirata	torn apart
+screams	kriegoj	n.
+terrible	aĉa	adj.
+unnumbered	nenumerita	adj.
+crimes	krimoj	n.
+had told	diris	v.tr
+trackless	sen'spura	adj.
+dreamily	sonĝe	adv. as if dreaming in sleep
+power	potenco	n.
+titanic	titana	adj. gigantic
+quivering	tremanta	adj.
+graveyard	tombejo	n.
+gargoyles	gargojloj	n.
+blind	blinda	adj. unable to see
+voiceless	senvoĉa	adj.
+greenish	verdeta	adj.
+moon	luno	n.
+ghosts	fantomoj	n.
+widespread	disvastigita	adj.
+may be imagined	eble estus imagata	*.
+sparks	fajreroj	n.
+shewed	montriĝis	v.ntr made oneself visible to the eyes
+destruction	detruo	n.
+waves	ondoj	n.
+alley	strateto	n.
+narrow	mallarĝa	adj.
+moan	ĝemo	n.
+disappeared	malaperis	v.
+dilapidated	kaduka	adj.
+lone	sola	adj.
+its	ĝia	*.
+river	rivero	n.
+each of which	ĉiu el kiuj	idiom
+laughter	ridado	*.
+howling	hurlante	adv.
+gulf	abismo	n. abyss
+delirious	delira	adj.
+dumbly	mute	adv.
+screamingly	kriege	adv.
+hands	manoj	n.
+corpses	kadavroj	n.
+monstrous	monstra	adj.
+guilt	kulpo	n.
+alteration	ŝanĝiĝo	n.
+horrible	horora	adj.
+amazingly	mirinde	adv.
+heads	kapoj	n.
+abysses	abismoj	n.
+autumn	aŭtuno	n.
+snows	neĝoj	n.
+prophesied	aŭguris	v.tr
+dared	aŭdacis	v.tr
+speechless	senparole	adv.
+fame	famo	n.
+to explore	esplori	v.tr
+direction	direkto	n.
+monotonous	monotona	adj.
+knelt	genuis	v.ntr
+fellahin	kamparanoj	n. from Arabic peasant farmer
+messages	mesaĝojn	n.
+swarthy	malhele haŭta	*.
+instruments	instrumentoj	n. musical scientific artistic
+metal	metalo	n.
+stranger	pli stranga	*.
+yet	ankoraŭ	still
+civilisation	civilizacio	n.
+buying	aĉetanta	*.
+lands	landoj	n. countries or some abstraction thereof
+sciences	sciencoj	n.
+much	multe	adv.
+exhibitions	ekspozicioj	n.
+forsendis	sent away	v.tr
+spectators	spektantoj	n.
+swelled	ŝveligis	v.ntr
+magnitude	grandeco	n.
+shuddered	ektremis	v.ntr
+sickly	malsanema	adj.
+shrieks	ŝrikoj	n.
+horribly	horore	adv.
+pitying	kompatanta	adj.
+steeples	spajroj	n.
+advised	konsilis	v.tr
+began to fade	ekfadis	v.
+company	kompanio	n. group of people or coexistence
+over and over again	denove kaj denove	idiom
+faces	vizaĝoj	n. front of head
+problem	problemo	n.
+wise	saĝa	adj.
+glimmered	glimis	v.ntr
+crumbling	diseriĝanta	adj.
+split up	disiĝis	v.ntr ceased to be together as a group
+hot	varma	adj.
+was sucked	estis suĉita	*
+which	kiu	corr.
+moor	erikejo	n.
+beheld	rigardis	v.
+hellish	infera	*.
+moon-glitter	luna-brileto	*
+glittering	briletanta	adj.
+plodded	marŝis	v.ntr
+rotting	putranta	adj.
+creation	kreitaro	n. ie biblical, all that was created in the world
+ghastly	makabra	adj. ghostlike, evoking death
+blindly	blinde	adv.
+sores	ulceroj	n. lesions with broken skin
+mindless	senmensa	adj. not having a mind
+absurdly	absurde	adv.
+gigantic	giganta	adj.
+rocks	ŝtonoj	n.
+companions	kunuloj	n.
+companions	kompanoj	n. preferred companions
+frightful	timiga	adj.
+rift	fendo	n. crack
+disquieting	maltrankviliga	adj. making one worried
+sickened	malsanigita	adj.
+writhing	tordiĝanta	adj.
+monuments	monumentoj	n. like a statue
+sores	lezoj	n. lesions
+hooded	kapuĉata	adj. wearing a hood
+ruins	ruinoj	n. remains of ruined buildings
+amidst	inter	*
+political	politika	adj.
+social	socia	adj.
+upheaval	konvulsio	v.
+brooding	moroza	adj.
+apprehension	anticipado	n.
+physical	fizika	adj.
+hideous	hida	adj.
+phantasms	fantasmoj	n.
+acknowledge	agnoski	v.tr
+repeat	ripeti	v.tr
+prophesied	profetis	v.tr.ntr
+prophecies	profetaĵoj	n. things foretold by prophesy
+prophesy	profeti	v.tr
+darkened	mallumigita	adj.
+screen	ekrano	n.
+shadowed	ombris	v.tr
+whilst	whilst	conj.
+came out	eliris	v.ntr
+exceeding	tre ega	adj. very great
+fascination	fascinado	n.
+impelling	pela	adj.
+allurement	allogado	n.
+uttermost	plej ekstrema	adj.
+impressive	impona	adj.
+was thrown	estis ĵetata	*.
+was taken	estis prenita	*.
+abroad	eksterlande	adv.
+looked on	rigardas	v.
+sights	vidaĵoj	n. things looked onto
+restless	senripoza	adj.
+stifling	subpremanta	adj. opporessive or subpressive
+choking	strangolanta	adj. strangling
+battling	batalanta	adj.
+dimming	mallumiĝanta	adj.
+cooling	malvarmiĝanta	*.
+struggling	baraktanta	(ntr)
+churning	agitadanta	v.tr
+squatted	kaŭris	v.ntr
+protest	protesto	n.
+scientific	scienca	adj.
+static	statika	adj.
+damp	malseketa	adj.
+dizzy	kapturna	adj. causing vertigo
+deserted	senhoma	adj.
+solace	konsolo	n.
+involuntary	nevola	adj.
+drifted	drivis	v.ntr
+formations	formacioj	n. military formation
+destinations	destinoj	n.
+pavement	pavimo	n.
+tramway	tramvojo	n.
+rusted	rusta	adj.
+line	linio	n.
+scarce	apenaŭ	*
+blocks	blokoj	n. block shaped chunks of material
+loose	malfiksa	adj.
+displaced	delokitaj	adj.
+tram-car	tramo	n.
+windowless	sen'fenestran	adj.
+stalked out	elmarŝis	v.ntr
+thin	maldika	adj.
+sensitive	sentema	adj.
+half-seen	duone-vidita	adj.
+unsanctified	ne'sanktita	adj.
+temples	temploj	n.
+nameless	ne'nomitaj	adj.
+rocks	rokoj	n. not to be confused with stones
+vacua	vakuoj	n. airless spaces
+spheres	sferoj	n. incl the celestial spheres
+whine	plor'grinco	n. crying squeak
+flutes	flutoj	n.
+inconceivable	ne'imagebla	adj. unimaginable
+unlighted	senluma	adj.
+ultimate	finfina	adj.
+tenebrous	tenebra	adj.
+audient	aŭdanta	adj. hearing
+void	malpleno	n.
+months ago	antaŭ monatoj	*.
+distinctly	klare	adv.
+upheaval	renvers'malordiĝo	n. disordered inversion
+brooding	paŭte ŝvebanta	*
+upheaval	tumulto	n.
+apprehension	antaŭtimo	n.
+all-embracing	tute ampleksa	*
+people	homoj	n.
+went about	estis irantaj	*
+out of	el	*.
+was upon	trapenetris	v.tr permeated
+shiver	tremigi	v.tr make one shiver
+heat	varmeco	v. warmth
+felt	sentis	v.tr had an impression
+lingered	daŭris	v,ntr continued
+fearsomely	timige	adv.
+everyone	ĉiuj	corr.
+blood	prasango	n. figurative ancestral "blood"
+had risen up	estis leviĝinta	*.
+swarthy	olive-haŭtan	adj. olive complextion
+to	ĝis	*.
+the small hours	la tre malfruaj horoj	*
+wise men	saĝuloj	n.
+now	nun	*
+terrible	terura	adj.
+unnumbered	_ne nombrataj	adj. too many to keep up with
+ultimate space	prae finfina spaco	n.
+hair stood up on end	haroj staris al la fino	idiom
+imposture	trompaĵo	n.
+drove out	elpelis	v.tr
+mumbled	murmuris	v.tr
+colder	pli malvarma	adj.
+was not afraid	ne timis	v.
+never could be afraid	neniam povus timi	*
+our	nia	adj.
+different	malsama	adj.
+drawn	altirata	adj.
+filed	marŝis kolumne	marched in a single file
+weed-choked	herbaĉe strangolita	*
+subway	metroa	adj.
+entrance	enirejo	*.
+all the blacker	des pli nigra	*.
+rift	breĉo	n.
+floated	flosis	v.
+half	duone	adv.
+unimaginable	ne'imagebla	adj.
+vortex	vortico	n.
+sightless	senvida	adj.
+those	tiuj	*.
+had gone	estis irintaj	*.
+snowdrifts	neĝamasoj	n.
+beating	batado	n.
+revolting	naŭza	adj.
+muffled	dampita	*.
+maddening	freneziga	adj.
+drums	tamburoj	n.
+detestable	abomeninda	adj. disgusting
+piping	flutado	n. piping, the music of a pipe
+whereunto	al kien	*.
+awkwardly	mallerte	adv.
+pounding	frapado	n. knocking
 &&&&&&&&&	&&&&&&&&&	&&&&&&&&&
-
