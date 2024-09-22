@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>And in trees that grow gigantic in crumbling courtyards leap little apes, while in and out of deep treasure-vaults writhe poison serpents and scaly things without a name.</seg>
+      </tuv>
+      <tuv lang="eo" changeid="systemuser" changedate="20240919T032347Z" creationid="systemuser" creationdate="20240916T224012Z">
+        <seg>Kaj en arboj, kiuj kreskas gigante en diseriĝantaj kortoj, saltas etaj simioj, dum en kaj el profundaj trezorkeloj tordiĝas venenaj serpentoj kaj skvamaj estaĵoj sen nomo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And within the depths of the valley, where the light reaches not, move forms not meant to be beheld.</seg>
+      </tuv>
+      <tuv lang="eo" changeid="systemuser" changedate="20240918T200129Z" creationid="systemuser" creationdate="20240916T224821Z">
+        <seg>Kaj en la profundoj de la valo, kie la lumo ne atingas, moviĝas formoj ne ne destinitaj por esti rigardataj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the very bottom of the valley lies the river Than, whose waters are slimy and filled with weeds.</seg>
+      </tuv>
+      <tuv lang="eo" changeid="systemuser" changedate="20240919T173709Z" creationid="systemuser" creationdate="20240916T224138Z">
+        <seg>Ĉe la fundo mem de la valo kuŝas la rivero Tomo, kies akvoj estas mucidaj kaj plenaj de herbaĉoj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For all time did their builders erect them, and in sooth they yet serve nobly, for beneath them the grey toad makes his habitation.</seg>
+      </tuv>
+      <tuv lang="eo" changeid="systemuser" changedate="20240919T163312Z" creationid="systemuser" creationdate="20240916T224123Z">
+        <seg>Por eterno iliaj konstruistoj starigis ilin, kaj vere ja ili ankoraŭ servas noble, ĉar sub ili la griza bufo faras sian loĝejon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From hidden springs it rises, and to subterranean grottoes it flows, so that the Daemon of the Valley knows not why its waters are red, nor whither they are bound.</seg>
+      </tuv>
+      <tuv lang="eo" changeid="systemuser" changedate="20240919T175214Z" creationid="systemuser" creationdate="20240916T224200Z">
+        <seg>El kaŝitaj fontoj ĝi leviĝas, kaj al subteraj grotoj ĝi fluas, tiel ke la Demono de la Valo scias nek kial ĝiaj akvoj estas ruĝaj, nek kien ili direktiĝas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In the valley of Nis the accursed waning moon shines thinly, tearing a path for its light with feeble horns through the lethal foliage of a great upas-tree.</seg>
+      </tuv>
+      <tuv lang="eo" changeid="systemuser" changedate="20240918T185648Z" creationid="systemuser" creationdate="20240916T223849Z">
+        <seg>En la valo Niso, la malbenita malkreskanta luno brilas maldike, ŝirante vojeton por sia lumo per feblaj kornoj tra la mortiga foliaro de granda upasarbo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Memory</seg>
+      </tuv>
+      <tuv lang="eo" changeid="systemuser" changedate="20240916T224717Z" creationid="systemuser" creationdate="20240916T224717Z">
+        <seg>Memoro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rank is the herbage on each slope, where evil vines and creeping plants crawl amidst the stones of ruined palaces, twining tightly about broken columns and strange monoliths, and heaving up marble pavements laid by forgotten hands.</seg>
+      </tuv>
+      <tuv lang="eo" changeid="systemuser" changedate="20240918T201130Z" creationid="systemuser" creationdate="20240916T223927Z">
+        <seg>Trokreskinta estas la herbaro sur ĉiu deklivo, kie malicaj vitoj kaj ŝtelirantaj plantoj rampas inter la ŝtonoj de ruinaj palacoj,  streĉe ĉirkaŭplektante rompitajn kolonojn kaj strangajn monolitojn, kaj supren haŭlas la marmorajn pavimojn, metitajn de forgesitaj manoj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So the Genie flew back to the thin horned moon, and the Daemon looked intently at a little ape in a tree that grew in a crumbling courtyard.</seg>
+      </tuv>
+      <tuv lang="eo" changeid="systemuser" changedate="20240919T232712Z" creationid="systemuser" creationdate="20240916T224312Z">
+        <seg>Do la Ĝino reflugis al la maldike kornita luno, kaj la Demono rigardis atente etan simion en arbo, kiu kreskis en diseriĝanta korto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tell me the deeds and aspect and name of them who built these things of stone.” And the Daemon replied, “I am Memory, and am wise in lore of the past, but I too am old.</seg>
+      </tuv>
+      <tuv lang="eo" changeid="systemuser" changedate="20240919T182446Z" creationid="systemuser" creationdate="20240916T224241Z">
+        <seg>Rakontu al mi la farojn kaj aspekton kaj nomon de tiuj, kiuj konstruis ĉi tiujn ŝtonaĵojn.” Kaj la Demono respondis, “Mi estas Memoro kaj estas saĝa pri la folkloro de la pasinteco, sed ankaŭ mi estas maljuna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Genie that haunts the moonbeams spake to the Daemon of the Valley, saying, “I am old, and forget much.</seg>
+      </tuv>
+      <tuv lang="eo" changeid="systemuser" changedate="20240919T175740Z" creationid="systemuser" creationdate="20240916T224223Z">
+        <seg>La Ĝino, kiu hantas la lunradiojn, parolis al la Demono de la Valo, dirante, “Mi estas maljuna kaj forgesas multon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Their aspect I recall dimly, for it was like to that of the little apes in the trees.</seg>
+      </tuv>
+      <tuv lang="eo" changeid="systemuser" changedate="20240919T230919Z" creationid="systemuser" creationdate="20240916T224248Z">
+        <seg>Ilian aspekton, mi malklare rememoras, ĉar ĝi similis al tiu de la etaj simioj en la arboj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Their deeds I recall not, for they were but of the moment.</seg>
+      </tuv>
+      <tuv lang="eo" changeid="systemuser" changedate="20240919T183620Z" creationid="systemuser" creationdate="20240916T224247Z">
+        <seg>Iliajn farojn, mi ne rememoras, ĉar ili estis nur de la momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Their name I recall clearly, for it rhymed with that of the river.</seg>
+      </tuv>
+      <tuv lang="eo" changeid="systemuser" changedate="20240916T224827Z" creationid="systemuser" creationdate="20240916T224250Z">
+        <seg>Ilian nomon, mi klare rememoras, ĉar ĝi rimis kun tiu de la rivero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These beings of yesterday were called Man.”</seg>
+      </tuv>
+      <tuv lang="eo" changeid="systemuser" changedate="20240919T231722Z" creationid="systemuser" creationdate="20240916T224257Z">
+        <seg>Tiuj estaĵoj de hieraŭ estis nomataj Homo.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These beings were like the waters of the river Than, not to be understood.</seg>
+      </tuv>
+      <tuv lang="eo" changeid="systemuser" changedate="20240919T183208Z" creationid="systemuser" creationdate="20240916T224246Z">
+        <seg>Ĉi tiuj estaĵoj estis kiel la akvoj de la rivero Tomo, ne komprenindaj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vast are the stones which sleep beneath coverlets of dank moss, and mighty were the walls from which they fell.</seg>
+      </tuv>
+      <tuv lang="eo" changeid="systemuser" changedate="20240919T034408Z" creationid="systemuser" creationdate="20240916T224035Z">
+        <seg>Vastaj estas la ŝtonoj, kiuj dormas sub kovriloj de malseka musko, kaj potencaj estis la muroj, de kiuj ili falis.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
