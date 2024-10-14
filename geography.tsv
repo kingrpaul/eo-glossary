@@ -1,11 +1,10 @@
+Bristol	Bristolo	n. place in England
 Campagna	Kamparo	n. Roman Campagna, countryside around Rome
-Alexandria	Aleksandrio	n.
 Grecian	greka	adj.
 Greece	Grekio	n.
 Greek	greko	n. a modern Greek
 Greek	heleno	n. an ancient Greek
 Memphis	Memfiso	n. city in Tennessee
-Memphis	Menefro	n. city in ancient Egypt
 Oxford	Oksfordo	n.
 Roman	romaniano	n. an ancient Roman
 Roman	Romano	n.
@@ -25,7 +24,6 @@ Bloomsbury	Blumsberio	n.
 China	Ĉinio	n.
 Chinese	hano	an ethnic Chinese
 Chinese	la mandarena	adj. the official language of China
-Egypt	Egiptujo	n.
 England	Anglio	n.
 English	angla	adj.
 Englishman	anglo	n.
@@ -37,10 +35,18 @@ Land’s End	Terfino	n.
 Negro	negro	n. person of African ancestry	w
 John o’ Groats	Johano de Kvar'pencoj	n. Scottish village	
 british	brita	adj.	
-
+midland counties	mezlandaj graflandoj	phr.	
+canton	kantono	Swiss canton	
+Thessaly	Tesalio	n. proper noun, place
+Syrian	Siria	adj.
+counties	graflandoj	n.	
+county	graflando	territory ruled by a count	
+county	kantono	U.S. county	
+country	lando	n.	w
 
 # LAND FEATURES
 river	rivero	n.	
+bank	bordo	n. as in river-banks	w
 rivulet	rojo	n.	
 mount	monto	n. part of the name of a mountain	
 mountain	monto	n.	
@@ -49,3 +55,10 @@ plain	ebenaĵo	n.
 valley	valo	n.	w	
 slope	deklivo	n. non-horizontal ground	w
 waterfall	akvofalo	n.	w
+moor	erikejo	n.	w
+stream	rivereto	n.	
+
+north	norda	adj.
+south	suda	adj.
+east	orienta	adj.
+west	okcidenta	adj.

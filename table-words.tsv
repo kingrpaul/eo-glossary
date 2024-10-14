@@ -1,7 +1,13 @@
 # -o
 what	kio	corr. 
+whatever	kio ajn	corr.	w
 that	tio	corr. that thing
+this	ĉi tio	corr.
+nothing	nenio	corr.	
+everything	ĉio	n.	
+all	ĉio	corr. everything
 it all	ĉio	corr. everything
+it all	ĉio tio	corr. all of this
 something	io	corr. 
 anything	io ajn	corr.
 
@@ -38,6 +44,8 @@ there	tie	corr.
 yonder	tie	corr.
 here	ĉi tie	corr.
 hither	ĉi tien	corr.
+everywhere	ĉie	adv.	
+ubiquity	ĉieo	corr.	
 somewhere	ie	corr.
 anywhere	ie ajn	corr.
 whereunto	al kien	corr.
@@ -48,6 +56,7 @@ sometime	iam	corr.
 then	tiam	corr. at that time ie not earlier than then
 when	kiam	corr.
 never	neniam	corr.
+someday	iam	corr.
 now	ĉi tiam	corr.
 ever	ĉiam	corr. always
 
@@ -67,9 +76,10 @@ in that way	tiel	corr.
 so	tiel	corr. in that way
 that	tiel	corr. like that
 thus	tiel	corr. in such a way
-like that	tiel	corr.
+like that	tiel	corr.	w
 like this	tiel	corr.
 like	kiel	corr.
+somehow	iel	corr.	w
 in every way	ĉiel	corr.
 in all these ways	ĉi ĉiel	corr.	
 
@@ -80,7 +90,11 @@ for this reason	ĉi tial	corr.
 why	kial	corr.
 for that reason	tial	corr.
 for some reason	ial	corr.
+somehow	ial	corr. for some reason
 
 # -om
 so much	tiom	corr.
+so many	tiom da	corr.	
 whom	kiun	corr.
+little	iomete	corr.	
+no	neniom da	corr. no amount	

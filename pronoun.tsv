@@ -3,24 +3,30 @@ me	mi	n.pronoun
 you	vi	n.pronoun
 he	li	n.pronoun
 she	ŝi	n.pronoun
-her	ŝin	n.pronoun
+her	ŝi	n.pronoun
 it	ĝi	n.pronoun
 we	ni	n.pronoun
 him	li	n.pronoun
+myself	min mem	n.pronoun
 himself	li mem	n.pronoun
 himself	sin	n.pronoun
 itself	sin	n.pronoun
+itself	mem	n.pronoun
 one	oni	n.pronoun
+yourself	vin	n. pronoun
+yourself	vin mem	n. pronoun
 ourselves	ni mem	n.pronoun
 they	ili	n.pronoun
 them	ilin	n.pronoun
 themselves	sin	n.pronoun
+herself	sin	n.pronoun
 
 # ADJECTIVES
 my	mia	adj.pronoun
 mine	mia	adj.pronoun
 your	via	adj.pronoun
-his	sia	adj.pronoun
+yours	via	adj.pronoun
+his	lia	adj.pronoun
 our	nia	adj.pronoun
 its	ĝia	adj.pronoun
 their	ilia	adj.pronoun

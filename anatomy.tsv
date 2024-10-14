@@ -1,12 +1,56 @@
-skull	kranio	n.	w
-eye-socket	kavo	n.	
+bodily	korpa	adj.	
+body	korpo	n.	
+organ	organo	n. body part	
+
+head	kapo	n.	
+hair	hararo	a set of hair	w
+hair	haro	a hair	w
+curl	buklo	n. of hair	w
+ringlet	buklo	n. of hair	w
+face	vizaĝo	n. front of head	
 forehead	frunto	n.	w
+brow	frunto	n. forehead	
+brow	brovo	n. eyebrow	
+eyebrow	brovo	n.	
+cheek	vango	n.	
+mouth	buŝo	n.	
+mucous membrane	mukozo	n.	
+
+skull	kranio	n.	w
+cranium	kranio	n.	
+brain	cerbo	n.
+
+eye	okulo	n.	
+eye-socket	kavo	n.	
+
+neck	kolo	n.	
+lip	lipo	n.	
+heart	koro	n.	
+
 arm	brako	n.	W
 back	dorso	anatomical	w
+shoulder	ŝultro	n.	
 female genitalia	piĉo	n.	
 knee	genuo	n.	w
-eyebrow	brovo	n.	
+
+belly	ventro	n.	
 buttocks	pugo	n.	
-eye	okulo	n.	
+
 foot	piedo	n.	
-hand	mano	n.	w
+hand	mano	n. at the ends of the arm	w
+hands	manoj	n. at the ends of the arms	w
+palm	manplato	n. as in the palm of the hand	
+finger	fingro	n.
+nose	nazo	n.	
+nostril	naztruo	n.	
+backside	pugo	n.	
+ear	orelo	n.	
+muscle	muskolo	n.	
+testicle	testiko	n.	
+waist	talio	n.	
+
+
+# ADJECTIVES
+big-boned	grand’osta	adj.	
+hearty	elkora	adj.	w
+heartfelt	elkora	adj.	w

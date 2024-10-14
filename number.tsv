@@ -1,3 +1,18 @@
+calculate	kalkuli	v.tr.ntr	
+
+digit	cifero	n. number	
+digit	diĝito	n.	
+digit	numero	n.	
+digital	diĝito	n.	
+
+number	cifero	n. digit, written sign for a number	
+number	numeri	v. to number	
+number	numero	n.	
+numeral	cifero	n. digit	
+numeral	numeralo	n.	
+fraction	frakcio	n.	
+numerator	numeratoro	n.	
+
 one	unu	n.
 two	du	n.
 three	tri	n.
@@ -20,6 +35,7 @@ billion	miliardo	n.
 trillion	biliono	n.
 
 # ADJECTIVES
+first	unua	adj.
 second	dua	adj.
 third	tria	adj.
 twelfth	dekdua	adj.
@@ -27,3 +43,9 @@ twentieth	dudeka	adj.
 
 # ADVERBS
 first	unue	adv.
+
+
+# VERBS
+double	duobligi	v.	
+triple	triobligi	v.	w
+quadruple	kvarobligi	v.	w
