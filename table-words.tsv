@@ -14,6 +14,7 @@ anything	io ajn	corr.
 # -u
 which	kiu	corr.
 who	kiu	corr.
+whom	kiun	corr.	w
 that	tiu	corr. that one
 those	tiuj	corr. 
 this	ĉi tiu	corr.
@@ -28,6 +29,7 @@ everyone	ĉiuj	corr.
 no	neniu	corr.
 no one	neniu	corr.
 somebody	iu	corr.
+some	iu	corr.
 someone	iu	corr.
 any	iu	corr.
 anybody	iu ajn	corr.
@@ -65,6 +67,7 @@ that	tia	corr. such a
 such	tia	corr. of that kind or degree
 suchlike	tia	corr. being of the same category
 sort of	ia	corr. kind of
+all	ĉia	corr. all kinds
 
 # -el
 as	kiel	corr. like, in the manner of
@@ -93,8 +96,8 @@ for some reason	ial	corr.
 somehow	ial	corr. for some reason
 
 # -om
-so much	tiom	corr.
+so much	tiom	corr.	w
 so many	tiom da	corr.	
-whom	kiun	corr.
-little	iomete	corr.	
+little	iomete	corr.	w
+somewhat	iomete	corr.	w
 no	neniom da	corr. no amount	

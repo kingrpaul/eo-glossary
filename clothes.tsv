@@ -1,9 +1,13 @@
-garment	vesto	n. article of clothing	
-ready-made garment	konfekcio	n.	
-close-fitting	strikta	adj.	
+garment	vesto	n. article of clothing	w
+ready-made garment	konfekcio	n.	w
+close-fitting	strikta	adj.	w
+
+clothes	vesto	n. everything worn by a person	
+rags	ĉifonaĵoj	n. worn torn part of a garment	
+rags	ĉifonoj	n.	
 
 skirt	jupo	n.	w
-dress	robo	n.	
+dress	robo	n.	w
 robe	mantelo	n.	
 robe	robo	n.	
 snowshoe	rakedo	n.	
@@ -12,8 +16,12 @@ jacket	jaketo	n. book jacket or baby’s jacket
 jacket	ĵaketo	n. (1) morning coat; (2) a woman’s suit jacket.; (3) little ĵako.	
 jacket	jako	n. as in bed jacket, ski jacket, smoking jacket etc; usually for a man	
 glasses	okulvitroj	eyeglasses	w
-earrings	orelringoj	n.	
-smoking jacket	smokingo	n.	
+earrings	orelringoj	n.	w
+smoking jacket	smokingo	n.	w
 
-dress	vesti	v.tr a child, a model, oneself	
-get dressed	vestiĝi	v.	
+buckle	buko	n.	
+
+dress	vesti	v.tr put clothing onto	w
+get dressed	vestiĝi	v.	w
+
+plaid	plejdo	n.	w

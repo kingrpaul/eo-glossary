@@ -1,5 +1,5 @@
 age	epoko	n. era or epoch	w
-BC	a.K.	abbr. time 'before Christ'
+BC	a.K.	abbr. time 'before Christ'	w
 
 century	jarcento	n.	w
 
@@ -7,34 +7,35 @@ year	jaro	n.
 yearlong	jarlonga	adj.	
 a year	ĉiujare	yearly	
 
-today	hodiaŭ	phr.	
-yesterday	hieraŭ	phr.	
+today	hodiaŭ	adv.	w
+yesterday	hieraŭ	adv.	w
 tomorrow	morgaŭ	n	w
 by tomorrow	ĝis morgaŭ	phr.	
 months ago	antaŭ monatoj	phr.	
-this week	ĉi semajne	adv.	
+this week	ĉi semajne	adv.	w
 two days later	du tagojn poste	adv.	
 three weeks before	tri semajnojn antaŭe	adv.	
 years ago	antaŭ jaroj	phr.	
 
 # SEASONS
-season	sezono	n.	
-autumn	aŭtuno	n.	
-winter	vintro	n. calendar
+season	sezono	n.	w
+autumn	aŭtuno	n.	w
+winter	vintro	n. 	w
+spring 	printempo 	n.	w
 
 #MONTHS
-January	januaro	n. month
-February	februaro	n. month
-March	marto	n. month
-April	aprilo	n. month
-May	majo	n. month
-June	junio	n. month
-July	julio	n. month
-August	aŭgusto	n. month
-September	septembro	n. month
-October	oktobro	n. month
-November	novembro	n. month
-December	decembro	n. month
+January	januaro	n. month	w
+February	februaro	n. month	w
+March	marto	n. month	w
+April	aprilo	n. month	w
+May	majo	n. month	w
+June	junio	n. month	w
+July	julio	n. month	w
+August	aŭgusto	n. month	w
+September	septembro	n. month	w
+October	oktobro	n. month	w
+November	novembro	n. month	w
+December	decembro	n. month	w
 
 #DAYS
 Monday	lundo	n. day of the week
@@ -45,7 +46,7 @@ Friday	vendredo	n. day of the week
 Saturday	sabato	n. day of the week
 Sunday	dimanĉo	n. day of the week
 
-day	tago	n.	
-daily	ĉiutage	adv.	
+day	tago	n.	w
+daily	ĉiutage	adv.	w
 
 on Fridays	vendrede	adv.	

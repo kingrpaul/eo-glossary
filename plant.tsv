@@ -1,47 +1,48 @@
 plant	planto	n.	w
 
-moss	musko	n.
+moss	musko	n.	w
 grass	herbo	n. one plant or blade of grass
 buttercup	ranunkolo	n.	
 marguerite	lekanto	n. a large daisy	w
 weed	herbaĉo	n.	w
 ivy	hedero	n.	w
-rosemary	rosmareno	n.	
-rosemary plant	rosmaren’planto	n.
-maquis	makiso	Mediterranean shrub	
+rosemary	rosmareno	n.	w
+maquis	makiso	n. Mediterranean shrub	w
 holly	ileksa	adj. related to the bush	w
-mistletoe	visko	n.	
+mistletoe	visko	n.	w
 vine	vito	n.	w
-cane	kano	n. as in sugar cane	
-rose	rozo	n.	
+cane	kano	n. as in sugar cane	w
+rose	rozo	n.	w
 
-tree	arbo	n.
-sapling	arbido	n.	
-laurel	laŭro	n.
-palm	palmo	n. palm tree
-palm-tree	palmo	n. palm tree
-poplar	poplo	n. poplar tree
+tree	arbo	n.	w
+sapling	arbido	n.	w
+evergreen	ĉiamverdo	n.	w
+laurel	laŭro	n.	w
+palm	palmo	n. palm tree	w
+palm-tree	palmo	n. palm tree	w
+poplar	poplo	n. poplar tree	w
 upas-tree	upasarbo	n. aka antiaris	w
-
+oaken	kverka	adj.	w
+oak	kverko	n. oak tree	w
 
 #COLLECTIVE
-flora	flaŭro	n.	
+flora	flaŭro	n.	w
 forest	arbaro	n.	w
 herbage	herbaro	n. grasses as a collection	w
 pine woods	pinaro	n.	
 woodland	arbaro	n.	w
-meadow	herbejo	n.	
-vineyard	vinberejo	n.	
+meadow	herbejo	n.	w
+vineyard	vinberejo	n.	w
 
 # PARTS
 flower	floro	n.	w
-thorn	dorno	n.	
-foliage	foliaro	n. all the leaves on a plant	w.
-fir cone	abia konuso	n.	
-branch	branĉo	n.	
-bough	branĉo	n.	
-twig	branĉeto	n.	
-treetop	arba supro	n.	
+thorn	dorno	n.	w
+foliage	foliaro	n. all the leaves on a plant	w
+fir cone	abia konuso	n.	w
+branch	branĉo	n.	w
+bough	branĉo	n.	w
+twig	branĉeto	n.	w
+treetop	arba supro	n.	w
 
 # VERBS
 bloom	flori	v.	w

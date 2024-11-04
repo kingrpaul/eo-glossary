@@ -1,12 +1,13 @@
 species	specio	n. biological species	
 
+dog	hundo	n. hound	
 serpent	serpento	n. snake	w
 ape	simio	n. any monkey or similar	w
 grasshopper	akrido	n.	w
 grasshopper	lokusto	n.	w
 cricket	grilo	n.	w
 ass	azeno	n. donkey	w
-eagle-owl	gufo	Bubo bubo, a nocturnal owl	w
+eagle-owl	gufo	n. nocturnal owl	w
 gorilla	gorilo	n.	w
 toad	bufo	n.	w
 dragonfly	libelo	n.	w
@@ -16,17 +17,25 @@ wolf	lupo	n.	w
 boar	apro	n.	w
 beaver	kastoro	n.	w
 mussel	mitulo	n.	w
-swallow	hirundo	type of bird	w
-crane	gruo	n. both bird and machine	w
 locust	akrido	n.	w
 magpie	pigo	n.	w
 oyster	ostro	n.	w
 worm	vermo	n.	w
-scallop	pekteno	n.	
-shell fish	konkulo	n.	
-bird	birdo	n.
-jackal	ŝakalo	n.
-lion	leono	n.	
+scallop	pekteno	n.	w
+shell fish	konkulo	n.	w
+jackal	ŝakalo	n.	w
+lion	leono	n.	w
+nag	ĉevaleto	n. small horse
+horse	ĉevalo	n.
+fish	fiŝo	n.
+buck	boko	n. male deer	w
+
+bird	birdo	n.	w
+swallow	hirundo	type of bird	w
+crane	gruo	n. both bird and machine	w
+nest	nesto	n.
+
+vermin	bestetaĉoj	n.	w
 
 scaly	skvama	adj.	w
 horn	korno	n. eg a bull's horn	w
