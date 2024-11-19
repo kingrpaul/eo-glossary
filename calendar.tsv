@@ -3,9 +3,9 @@ BC	a.K.	abbr. time 'before Christ'	w
 
 century	jarcento	n.	w
 
-year	jaro	n.	
-yearlong	jarlonga	adj.	
-a year	ĉiujare	yearly	
+year	jaro	n.	w
+yearlong	jarlonga	adj.	w		
+a year	ĉiujare	adv. yearly	w
 
 today	hodiaŭ	adv.	w
 yesterday	hieraŭ	adv.	w
@@ -38,13 +38,13 @@ November	novembro	n. month	w
 December	decembro	n. month	w
 
 #DAYS
-Monday	lundo	n. day of the week
-Tuesday	mardo	n. day of the week
-Wednesday	merkredo	n. day of the week
-Thursday	ĵaŭdo	n. day of the week
-Friday	vendredo	n. day of the week
-Saturday	sabato	n. day of the week
-Sunday	dimanĉo	n. day of the week
+Monday	lundo	n. day of the week	w
+Tuesday	mardo	n. day of the week	w
+Wednesday	merkredo	n. day of the week	w
+Thursday	ĵaŭdo	n. day of the week	w
+Friday	vendredo	n. day of the week	w
+Saturday	sabato	n. day of the week	w
+Sunday	dimanĉo	n. day of the week	w
 
 day	tago	n.	w
 daily	ĉiutage	adv.	w
