@@ -1,9 +1,6 @@
 Bristol	Bristolo	n. place in England
 Campagna	Kamparo	n. Roman Campagna, countryside around Rome
-Grecian	greka	adj.
-Greece	Grekio	n.
-Greek	greko	n. a modern Greek
-Greek	heleno	n. an ancient Greek
+
 Memphis	Memfiso	n. city in Tennessee
 Oxford	Oksfordo	n.
 Roman	romaniano	n. an ancient Roman
@@ -40,9 +37,12 @@ canton	kantono	Swiss canton
 Thessaly	Tesalio	n. proper noun, place
 Syrian	Siria	adj.
 Libyan	Libia	adj. 	W
+India	Hindio	n. GEOGRAPHY	w
 
 New Orlean	nov-orleano	n. CITY
 Gainsville	Gajnesvilo	n. CITY
+Gainsville pike	Gajnesvila Vojo	n. PLACE
+Big Cypress Swamp	Grandan Cipresan Marĉon	n.
 
 counties	graflandoj	n.	
 county	graflando	territory ruled by a count	
@@ -73,3 +73,16 @@ towards the west	okcidenten	adv.	w
 
 
 Arabic	la araba	phr. Arabic language	w
+
+# GREECE
+Grecian	greka	adj.
+Greece	Grekio	n.
+Greek	greko	n. a modern Greek
+Greek	heleno	n. an ancient Greek
+Athens	Ateno	n. ANCIENT Greek city GEOGRAPHY 	w
+Athens	Atenoj	n. MODERN Greek city GEOGRAPHY 	w
+Athenian	atena	adj. thing of Athens GEOGRAPHY 	w
+Athenian	atenano	n. person of Athens GEOGRAPHY 	w
+acropolis	akropolo	n. GREEK	w
+
+state	stato	n. condition of being; incl states of the USA	
