@@ -1,20 +1,7 @@
 Bristol	Bristolo	n. place in England
-Campagna	Kamparo	n. Roman Campagna, countryside around Rome
-
-Memphis	Memfiso	n. city in Tennessee
 Oxford	Oksfordo	n.
-Roman	romaniano	n. an ancient Roman
-Roman	Romano	n.
-Roman	romano	n.
-Roman	romiano	n. an ancient Roman
 Romania	Rumanio	n.
 Romanian	rumano	n.
-Rome	Romanio	n.
-Rome	Romio	n.
-Samos	Samoso	n. Greek Island
-Tyrolese	Tirola	adj.
-Venice	Venecio	n.
-Florence	Florenco	n. Italian city
 French Swiss	rumando	n.
 French Switzerland	Rumandio	n.
 Bloomsbury	Blumsberio	n.
@@ -24,7 +11,6 @@ Chinese	la mandarena	adj. the official language of China
 England	Anglio	n.
 English	angla	adj.
 Englishman	anglo	n.
-Meran	Merano	n.
 European	eŭropa	adj.
 Finn	finno	n.
 London	Londono	n.
@@ -33,21 +19,22 @@ Negro	negro	n. person of African ancestry	w
 John o’ Groats	Johano de Kvar'pencoj	n. Scottish village	
 british	brita	adj.	
 midland counties	mezlandaj graflandoj	phr.	
-canton	kantono	Swiss canton	
-Thessaly	Tesalio	n. proper noun, place
-Syrian	Siria	adj.
-Libyan	Libia	adj. 	W
+canton	kantono	n. Swiss canton	
 India	Hindio	n. GEOGRAPHY	w
 
+# UNITED STATES
 New Orlean	nov-orleano	n. CITY
 Gainsville	Gajnesvilo	n. CITY
 Gainsville pike	Gajnesvila Vojo	n. PLACE
 Big Cypress Swamp	Grandan Cipresan Marĉon	n.
+Memphis	Memfiso	n. city in Tennessee
 
+# NATIONAL DIVISIONS
 counties	graflandoj	n.	
 county	graflando	territory ruled by a count	
 county	kantono	U.S. county	
 country	lando	n.	w
+state	stato	n. condition of being; incl states of the USA	
 
 # LAND FEATURES
 river	rivero	n.	
@@ -65,24 +52,63 @@ stream	rivereto	n.	w
 pond	lageto	n.	w
 swamp	marĉo	n.	w
 
+# CARDINAL DIRECTIONS
 north	norda	adj.
 south	suda	adj.
+southwards	suden	adv.	w
 east	orienta	adj.
 west	okcidenta	adj.
 towards the west	okcidenten	adv.	w
 
-
+# MIDDLE EAST
 Arabic	la araba	phr. Arabic language	w
+Syrian	Siria	adj.
+Libyan	Libia	adj. 	W
 
 # GREECE
 Grecian	greka	adj.
 Greece	Grekio	n.
 Greek	greko	n. a modern Greek
 Greek	heleno	n. an ancient Greek
-Athens	Ateno	n. ANCIENT Greek city GEOGRAPHY 	w
-Athens	Atenoj	n. MODERN Greek city GEOGRAPHY 	w
-Athenian	atena	adj. thing of Athens GEOGRAPHY 	w
-Athenian	atenano	n. person of Athens GEOGRAPHY 	w
-acropolis	akropolo	n. GREEK	w
+Samos	Samoso	n. Greek Island
+Athens	Ateno	n. ANCIENT Greek city  	w
+Athens	Atenoj	n. MODERN Greek city  	w
+Athenian	atena	adj. thing of Athens  	w
+Athenian	atenano	n. person of Athens  	w
+Alexandria	Aleksandrio	n. 	w
+Thessaly	Tesalio	n. proper noun, place
+acropolis	akropolo	n. 	w
 
-state	stato	n. condition of being; incl states of the USA	
+# ITALY
+Tyrolese	Tirola	adj.
+Venice	Venecio	n.
+Florence	Florenco	n. Italian city
+Meran	Merano	n.
+
+# ROME
+Rome	Romanio	n.
+Rome	Romio	n.
+Roman	romaniano	n. an ancient Roman
+Roman	Romano	n.
+Roman	romano	n.
+Roman	romiano	n. an ancient Roman
+patrician	patricio	n. 	w
+Campagna	Kamparo	n. Roman Campagna, countryside around Rome
+
+# EGYPT
+Egypt	Egiptujo	n.
+Egyptian	egipto	n. Egyptian person
+Egyptian	egipta	adj.	w
+Alexandria	Aleksandrio	n.
+Memphis	Menefro	n. city in ancient Egypt
+Nile	Nilo	n. river in Egypt	w
+Isis	Iziso	n. Egyptian goddess	w
+Kephren	Kefreno	n. aka Khafre, Pharoah c2500 BC
+Menophis	Menofiso	n. personal name
+Nefertiti	Nefertito	n.
+Sethos	Seto	n. name
+Rames	Rameso	n. name
+Aton	Atono	n. name of Egyptian god
+pyramid	piramido	n.	w
+Rames	Rameso	n. name
+Pharaoh	Faraono	n. 	w
