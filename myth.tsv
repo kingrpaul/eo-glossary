@@ -7,10 +7,18 @@ Apollo	Apolono	n.	w
 Eros	Eroso	Cupid	w
 Hesperides	Hesperidoj	n.	w
 sylph	silfino	n.	w
-saturnalia	saturnalio	n.	
+saturnalia	saturnalio	n.	w
 satyr	satiruso	n.	
-Zeus	Zeŭso	n. MYTH	w
+Zeus	Zeŭso	n. 	w
 Athena	Atena	n.  Greek goddess MYTH 	w
+Theseus	Tezeo	n. 	w
+Ariadne	Ariadno	n. 	w
+Phaedra	Fedra	n. 	w
+Minos	Minoo	n. 	w
+Pasiphae	Pazifao	n. 	w
+Minotaur	Minotaŭro	n. 	w
+Dionysus	Dionizo	n. 	w
+Hippolyta	Hipolito	n. 	w
 
 # LOVECRAFT
 Nyarlathotep	Njarlatotepo	Lovecraft monster	
@@ -19,6 +27,7 @@ Nyarlathotep	Njarlatotepo	Lovecraft monster
 elf	elfo	n.	w
 sprite	elfo	n.	w
 devil	diablo	n.	
+fiendish	diabla	adj.	w
 daemon	demono	n.	w
 daemoniac	demona	adj. demonic	
 genie	ĝino	n.	w
@@ -29,7 +38,10 @@ gargoyle	gargojlo	n. 	w
 afreet	efrito	a powerful evil jinni, demon, or monstrous giant in Arabic mythology	
 ghosts	fantomoj	n.	w
 ghostly	fantome	adv.	w
+haunted	plagita	adj. haunted figuratively	w
 eldritch	preternatura	adj.	w
+uncanny	preternatura	adj.	w
+séance	spiritista seanco	n.	w
 
 # MAGIC
 enchanted	ensorĉita	adj.	w

@@ -1,5 +1,6 @@
 people	popolo	n. populace	w
 humanity	homaro	n. all humans	w
+man	homo	n. gender-neutral sense
 people	homoj	n.	w
 human	homa	adj.	w
 
@@ -44,8 +45,9 @@ woman	virino	n.	w
 women	virinoj	n.	w
 
 # FAMILY
-
-forefathers	prapatroj	n. if both sexes: prauloj	
+blood	prasango	n. fig. ancestral blood	
+forefathers	prapatroj	n.	
+forebears	prauloj	n. 	
 ancestor	praulo	n.	w
 ancestry	praularo	n.	w
 
@@ -94,3 +96,4 @@ stranger	fremdulo	n.
 
 gentleman	sinjoro	n. 	w
 gentlemen	sinjoroj	n.	w
+bigwig	grandulo	n.	w

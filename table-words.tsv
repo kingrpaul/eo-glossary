@@ -27,8 +27,8 @@ every	ĉiuj	corr.
 everybody	ĉiuj	corr.
 everyone	ĉiuj	corr.
 no	neniu	corr.
-no one	neniu	corr.
-somebody	iu	corr.
+no one	neniu	corr.	w
+somebody	iu	corr.	w
 some	iu	corr.
 someone	iu	corr.
 any	iu	corr.
@@ -52,9 +52,10 @@ somewhere	ie	corr.
 anywhere	ie ajn	corr.
 whereunto	al kien	corr.
 nowhere	nenie	corr.	
+nowhere else	nenie aliloke	phr.	w
 
 # -am
-always	ĉiam	corr.
+always	ĉiam	corr.	w
 sometime	iam	corr.
 then	tiam	corr. at that time ie not earlier than then
 when	kiam	corr.

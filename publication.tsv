@@ -1,5 +1,7 @@
 library	biblioteko	n.	w
 
+press	gazetaro	n.	
+
 paperback book	broŝuro	n.	
 pamphlet	broŝureto	n.	
 booklet	broŝureto	n.	
@@ -20,8 +22,9 @@ journal	revuo	n.
 
 paper	gazeto	n. newspaper	
 magazine	gazeto	n.	
-eriodical	gazeto	n. incl magazines and newspapers	
+periodical	gazeto	n. incl magazines and newspapers	
 newspaper	gazeto	n.	
+brochure	faldfolio	n.	w
 
 newspaper	ĵurnalo	n.	
 paper	jurnalo	n. newspaper	
@@ -38,3 +41,5 @@ frontispiece	frontispico	n.
 typefont	literaro	n.	
 prologue	prologo	n.	w
 character	persono	n. character in a work of fiction	w
+
+publish	eldoni	v.	

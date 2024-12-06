@@ -43,6 +43,7 @@ rivulet	rojo	n.
 mount	monto	n. part of the name of a mountain	
 mountain	monto	n.	
 hill	monteto	n.	
+hillside	montetflanko	n.	w
 plain	ebenaĵo	n.	
 valley	valo	n.	w	
 slope	deklivo	n. non-horizontal ground	w
@@ -64,6 +65,7 @@ towards the west	okcidenten	adv.	w
 Arabic	la araba	phr. Arabic language	w
 Syrian	Siria	adj.
 Libyan	Libia	adj. 	W
+khan	ĥano	n. leader of Turkish, Tartar, or Mongol tribe	
 
 # GREECE
 Grecian	greka	adj.
@@ -78,6 +80,8 @@ Athenian	atenano	n. person of Athens  	w
 Alexandria	Aleksandrio	n. 	w
 Thessaly	Tesalio	n. proper noun, place
 acropolis	akropolo	n. 	w
+Hymettus	Himeto	n. GEOGRAPHY GREECE mountain
+Ilissus	Iliso	n. GEOGRAPHY ancient GREECE river
 
 # ITALY
 Tyrolese	Tirola	adj.
@@ -92,8 +96,9 @@ Roman	romaniano	n. an ancient Roman
 Roman	Romano	n.
 Roman	romano	n.
 Roman	romiano	n. an ancient Roman
-patrician	patricio	n. 	w
 Campagna	Kamparo	n. Roman Campagna, countryside around Rome
+patrician	patricio	n. 	w
+tribune	tribunuso	n. a Roman official	w
 
 # EGYPT
 Egypt	Egiptujo	n.

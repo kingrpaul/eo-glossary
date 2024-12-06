@@ -1,11 +1,17 @@
+# TIME GENERALLY
+time	tempo	n. as in 'time of day'	
+what time is it	kioma horo estas	phr.	
+
 # CLOCK
 clock	horloĝo	n.	
 hands	montriloj	n. hands of a clock	w
 
-# 
-time	tempo	n. as in 'time of day'	
+# UNITS OF time
+hour	horo	n.	w
+minute	minuto	n.	w
+moment	momento	n.	w
 
-what time is it	kioma horo estas	phr.	
+## SPECIFIC CLOCK TIMES
 two o’clock	la dua horo	phr.
 half-past two	la dua kaj duono	phr. time	
 half-past five	la kvina kaj duono	phr. time 5:30	
@@ -13,10 +19,13 @@ at six	je la sesa	phr. time
 at nine o’clock	je la naŭa	adj.
 at noon	tagmeze	adv.
 six o’clock	sesa horo	phr. time
-at half past eleven	je la dekunua kaj duono	phr. TIME
+at half past eleven	je la dekunua kaj duono	phr. 
 
+## VAGUE EARTH TIMES
 afternoon	posttagmezo	n.	
 small hours	tre malfruaj horoj	phr.	
+dawn	matenkrepusko	n.	w
+sunleviĝo	sunrise	n.	w
 morning	mateno	n. 
 in the morning	matene	adv.	
 in the daytime	tage	adv.	w
@@ -24,66 +33,83 @@ noon	tagmezo	n.	w
 lunch hour	tagmanĝa horo	phr.	W
 in the afternoon	posttagmeze	adv.	
 this morning	ĉi matene	adv.	
-
 twilight	krepusko	n.	w
-dawn	matenkrepusko	n.	w
+sunset	sunsubiro	n.	w
 dusk	vesperkrepusko	n.	w
 evening	vespero	n. time	w
+night	nokto	n.	w
+tonight	ĉi-nokte	adv.
 midnight	noktomezo	n.	
-sunset	sunsubiro	n.	w
 
-now	nun	adv. TIME	
-recent	lasta	adj. TIME	w
-recently	antaŭ nelonge	adv. TIME	w
-recently	lastatempe	adv. TIME	w
-only a while ago	antaŭ nur iom da tempo	phr. TIME
-just now	ĵus	adv. time	w
-the moment	tuj kiam	phr. immediately when	
-moment ago	ĵus	just ie a moment ago	
-briefly	mallonge	adv.
-momentary	momenta	adj.	w
-moment	momento	n.	w
+## OTHER TIME THINGS
 every few seconds	ĉiuj kelkaj sekundoj	phr.	
 most of the time	plejofte	adv.	w
-at this very moment	je ĉi tiu preciza momento	n.	
 at any other time	en ajna alia tempo	phr.	
 at such a time	je tia tempo	phr.	
+a bit	iom da tempo	phr. a bit of time
+all these years	dum ĉiuj ĉi tiuj jaroj	phr. time
+as yet	ĝis nun	phr. time	
+as of old	kiel antaŭe	phr.
+long gone	for jam longe	phr.	
+longer	pli longe	adv.	
+
+## DURATION
+long	longe	adv. for a long time	w
+awhile	dum iom da tempo	phr.	w
+briefly	mallonge	adv.
+momentary	momenta	adj.	w
 from time immemorial	de post tempo nememorebla	adj.	
-in due course	post iom da tempo	n.	
 little while	dum iom da tempo	phr. a little while	
 all the time	dum la tuta tempo	phr.	
 all day	dum la tuta tago	phr. 
 for a moment	dum momento	phr.	
 for an instant	por momento	phr.	
-a bit	iom da tempo	phr. a bit of time
-any moment	en iu ajn momento	phr. at any moment	w
-any minute now	ĉiun momenton nun	phr. time	w
-always	eterne	adv. eternally
-forever and ever	eterne kaj eterne	phr.	
-long, long ago	longa, longa antaŭe	phr.	w
-all these years	dum ĉiuj ĉi tiuj jaroj	phr. time
-as yet	ĝis nun	phr. time	
-forever	por eterno	phr. for all future time
-for all time	por eterno	phr.	
-awhile	dum iom da tempo	phr.	w
-tonight	ĉi-nokte	adv.
-as of old	kiel antaŭe	phr.
-later	pli poste	phr.	
-long gone	for jam longe	phr.	
-longer	pli longe	adv.	
-long	longe	adv. for a long time	w
 
+## IN THE PAST
+recent	lasta	adj. 	w
+recently	antaŭ nelonge	adv. 	w
+recently	lastatempe	adv. 	w
+only a while ago	antaŭ nur iom da tempo	phr. 
+long, long ago	longa, longa antaŭe	phr.	w
+
+## IN THE FUTURE
+later	pli poste	phr.	
+any minute now	ĉiun momenton nun	phr. time	w
+any moment	en iu ajn momento	phr. at any moment	w
+in due course	post iom da tempo	n.	
+sooner	pli baldaŭ	*.
+
+## PRESENT DAY
 present day	nuneco	n.	
 present-day	aktuala	adj.	
 presently	baldaŭ	soon	
-presently	tuj	*	
 present day	nuntempo	n.	
-on the instant	tuje	adv. UK 'without delay'	
 present day	la estanteco	n.	
+
+## PAST PRESENT FUTURE
 past	pasinteco	n.
 future	estonta	adj.	
 future	estonteco	n.	
 
-# UNITS OF time
-hour	horo	n.	w
-minute	minuto	n.	w
+## FOREVER
+always	eterne	adv. eternally
+forever and ever	eterne kaj eterne	phr.	
+eternal	eterna	adj.	w
+forever	por eterno	phr. for all future time
+for all time	por eterno	phr.	
+
+## JUST PRECEDING
+just	ĵus	adv. immediately preceding in time	
+just now	ĵus	adv. time	w
+just now	ĵus	occuring just a moment before now	w
+newly	ĵus	adv. something that just happened	w
+moment ago	ĵus	just ie a moment ago	
+
+## RIGHT NOW
+now	nun	adv. 	
+at this very moment	je ĉi tiu preciza momento	n.	
+
+## JUST FOLLOWING
+the moment	tuj kiam	phr. immediately when	
+presently	tuj	adv	
+on the instant	tuje	adv. UK 'without delay'	

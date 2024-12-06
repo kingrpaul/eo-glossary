@@ -21,16 +21,28 @@ dull	malbrila	adj. not visually bright
 gleams	brilas	v.	
 afterglow	postbrilo	n.	w
 shines	brilas	v.ntr 	
+glistening	fulmetada	adj.	
+glittering	briletanta	adj.	w
+flash	ekbrilo	n.	
+glow	brilo	n.	
+twinkling	ekbriletanta	adj.	w
 
 shadow	ombro	n.	w
 shadowed	ombris	v.tr	
 shading	ombrado	n. a shadow which has been cast	w
+silhouette	silueto	n.	
 
 # SUN & MOON
 sun	suno	n.	w
-moonless	senluna	adj.
 sunshine	sunbrilo	n.
+
+# MOON
 moon	luno	n.	w
 moon-glitter	luna-brileto	phr.	w
+crescent moon	lunarko	n.	w
 moonbeam	lunradio	n.	w
+moonless	senluna	adj.
+
+# STARS
+starlight	stellumo	n.	w
 starlit	stelluma	adj. 
