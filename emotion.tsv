@@ -1,24 +1,37 @@
-joy	ĝojo	n. feeling of rejoicing	w
-glad	ĝoja	adj.	w
+mood	humoro	n. 	w
 
+# -ĜOJ-
+dreary	malgaja	adj.	
+sadly	malgaje	adv.	w
 carefree	gaja	adj.	w
 high spirited	gaja	adj.	
 jolly	gaja	adj.	
 merry	gaja	adj.	w
 festive	gaja	adj.	
-
 gayer	pli gaja	phr.	
-
 gaily	gaje	adv.	w
 merrily	gaje	adv.	w
-
 jollity	gajeco	n.	w	
 mirth	gajeco	n.	w
 jolly	gajega	adj.	
 joy	gajo	n. gaiety, cheerfulness	w
-
 cheerful	gajiga	adj. cheerfulness causing	
 cheered	gajigis	v.tr made one cheerful	w
+
+# -ĜOJ-
+sad	malĝoja	adj.	
+dismal	senĝoja	adj. joyless
+sadness	malĝojo	n.	w
+joy	ĝojo	n. feeling of rejoicing	w
+glad	ĝoja	adj.	w
+joyously	ĝoje	adv.	w
+
+
+***************
+
+unselfconscious	nememkonscia	adj.	w
+confident	fida	adj.	w
+
 
 jovial	joviala	adj.	w
 
@@ -26,20 +39,13 @@ enjoy	ĝui	v.tr
 enjoying	ĝuanta	adj.	
 enjoyment	ĝuo	n.	
 
-dreary	malgaja	adj.	
-sadly	malgaje	adv.	w
+sadden	ĉagreni	v.tr	w
+
 miserable	mizera	adj.	w
 
-unselfconscious	nememkonscia	adj.	w
-confident	fida	adj.	w
-
-sad	malĝoja	adj.	
-sadden	ĉagreni	v.	w
-sadness	malĝojo	n.	w
+love	amo	n.
 
 pleased	kontenta	adj.	w
-
-love	amo	n.
 
 awe	miro	n.	w
 awe	admiro	n. admiration	
@@ -72,14 +78,15 @@ calm yourself	trankviliĝu	v.ntr	w
 calm	trankvila	adj.	w
 relief	ektrankviliĝo	n. experience of being relieved of stress	w
 
-anxiety	angoro	n. severe anxiety, level-3	w
+uneasiness	maltrankvileco	n.	w
 anxiety	maltrankvileco	n. mild anxiety, level-1	w
 anxiety	anksio	n. moderate anxiety, level-2	w
+anxiety	angoro	n. severe anxiety, level-3	w
 agony	angoro	n.	
 anguish	angoro	n.	w
 anxious	anksia	adj.	w
 frenzied	freneza	adj.	w
-bundle of nerves	fasko de nervoj	n. a Nervous Nellie	w   
+
 
 tear	larmo	n. from the eyes	w
 embarrassment	embaraso	n.	w
@@ -116,6 +123,8 @@ ecstatic	ekstaza	adj.
 ecstasy	ekstazo	n,	w
 unhappy	malfeliĉa	adj.	w
 
+thrill	eksciti	v.tr   	w
+
 pine	sopiri	v.tr yearn for 	
 yearning	sopiro	n.	
 longing	sopiro	n.	w
@@ -126,5 +135,4 @@ miss	sopiri	v.tr yearn for
 jealous	ĵaluza	adj.	
 envy	envii	v.	
 envy	envio	n. 	
-
-
+resentment	rankoro	n. EMOTION

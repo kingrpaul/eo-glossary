@@ -3,71 +3,91 @@ bodily	korpa	adj.
 physical	korpa	adj. bodily, use 'fizika' when technical	w
 physically	korpe	adj. bodily, use 'fizike' when technical	
 
+organ	organo	n. body part	
+female genitalia	piĉo	n.	
+muscle	muskolo	n.	
+testicle	testiko	n.	
+skin	haŭto	n. ANATOMY	W
+
+# BONES
+bone	osto	n. ANATOMY	W
+skull	kranio	n.	w
+cranium	kranio	n.	
+big-boned	grand’osta	adj.	
+
+# HEART
+heart	koro	n.	
+hearty	elkora	adj.	w
+heartfelt	elkora	adj.	w
+half-heartedness	duona koreco	n.	w
+
+# BLOOD
 blood	sango	n.	
 thin-blooded	malfortik'sanga	adj.	
 
-organ	organo	n. body part	
+# MOUTH
+mouth	buŝo	n.	
+lip	lipo	n.	
+teeth	dentoj	n. ANATOMY	W
+mucous membrane	mukozo	n.	
 
-
+# HEAD & NECK
 head	kapo	n.	
 nod	kapjeso	n.	w
-
-hair	hararo	a set of hair	w
-hair	haro	a hair	w
-curl	buklo	n. of hair	w
-ringlet	buklo	n. of hair	w
-
 face	vizaĝo	n. front of head	
 facial	vizaĝa	adj.	w
 on his face	en lia vizaĝo	phr.
-
+chin	mentono	n. ANATOMY
 forehead	frunto	n.	w
 brow	frunto	n. forehead	
 brow	brovo	n. eyebrow	
 eyebrow	brovo	n.	
 cheek	vango	n.	
-mouth	buŝo	n.	
-mucous membrane	mukozo	n.	
+nose	nazo	n.	
+nostril	naztruo	n.	
+ear	orelo	n.	
+neck	kolo	n.	
 
-skull	kranio	n.	w
-cranium	kranio	n.	
-brain	cerbo	n.
-
+# EYES
 eye	okulo	n.	
 eye-socket	kavo	n.	
 eyes downcast	okuloj rigardantaj malsupren	phr.	w
 
-neck	kolo	n.	
-lip	lipo	n.	
-heart	koro	n.	
+# HAIR
+hair	hararo	a set of hair	w
+hair	haro	a hair	w
+curl	buklo	n. of hair	w
+ringlet	buklo	n. of hair	w
+bald	kalva	adj.	w
 
+# NERVES
+brain	cerbo	n.
+bundle of nerves	fasko de nervoj	n. a Nervous Nellie	w   
+
+# SHOULDERS
 shoulder	ŝultro	n.	
 shoulder	surŝultrigi	v.tr put up on the shoulder	w
 
+# ARMS & HANDS
 arm	brako	n.	W
-back	dorso	anatomical	w
-
-female genitalia	piĉo	n.	
-knee	genuo	n.	w
-
-belly	ventro	n.	
-buttocks	pugo	n.	
-
-foot	piedo	n.	
+hug	brakumi	v.tr	w
 hand	mano	n. at the ends of the arm	w
 hands	manoj	n. at the ends of the arms	w
 palm	manplato	n. as in the palm of the hand	
 finger	fingro	n.
-nose	nazo	n.	
-nostril	naztruo	n.	
+
+# TRUNK
+back	dorso	anatomical	w
+belly	ventro	n.	
+buttocks	pugo	n.	
 backside	pugo	n.	
-ear	orelo	n.	
-muscle	muskolo	n.	
-testicle	testiko	n.	
 waist	talio	n.	
 
-
-# ADJECTIVES
-big-boned	grand’osta	adj.	
-hearty	elkora	adj.	w
-heartfelt	elkora	adj.	w
+# LEGS & FEET
+stout-legged	dike kruraj	phr.	
+knee	genuo	n.	w
+knelt	genuis	v.ntr	
+foot	piedo	n.	
+rising to her feet	leviĝanta sur siajn piedojn	phr.	
+footstep	piedsigno	n. footprint	w
+on foot	piede	adv.	w

@@ -1,26 +1,38 @@
-Bristol	Bristolo	n. place in England
-Oxford	Oksfordo	n.
+# CARDINAL DIRECTIONS
+north	norda	adj.
+south	suda	adj.
+southwards	suden	adv.	w
+east	orienta	adj.
+west	okcidenta	adj.
+towards the west	okcidenten	adv.	w
+
+# VARIOUS
 Romania	Rumanio	n.
 Romanian	rumano	n.
 French Swiss	rumando	n.
 French Switzerland	Rumandio	n.
-Bloomsbury	Blumsberio	n.
 China	Ĉinio	n.
 Chinese	hano	an ethnic Chinese
 Chinese	la mandarena	adj. the official language of China
+European	eŭropa	adj.
+Finn	finno	n.
+Negro	negro	n. person of African ancestry	w
+canton	kantono	n. Swiss canton	
+India	Hindio	n. GEOGRAPHY	w
+
+# BRITAIN UK IRELAND ETC
+british	brita	adj.	
 England	Anglio	n.
 English	angla	adj.
 Englishman	anglo	n.
-European	eŭropa	adj.
-Finn	finno	n.
 London	Londono	n.
-Land’s End	Terfino	n.
-Negro	negro	n. person of African ancestry	w
-John o’ Groats	Johano de Kvar'pencoj	n. Scottish village	
-british	brita	adj.	
 midland counties	mezlandaj graflandoj	phr.	
-canton	kantono	n. Swiss canton	
-India	Hindio	n. GEOGRAPHY	w
+Bristol	Bristolo	n. place in England
+Oxford	Oksfordo	n.
+John o’ Groats	Johano de Kvar'pencoj	n. Scottish village	
+Land’s End	Terfino	n.
+Bloomsbury	Blumsberio	n.
+Circus	Cirklo	n. London's Picadilly Circus
 
 # UNITED STATES
 New Orlean	nov-orleano	n. CITY
@@ -40,6 +52,10 @@ state	stato	n. condition of being; incl states of the USA
 river	rivero	n.	
 bank	bordo	n. as in river-banks	w
 rivulet	rojo	n.	
+waterfall	akvofalo	n.	w
+stream	rivereto	n.	w
+pond	lageto	n.	w
+swamp	marĉo	n.	w
 mount	monto	n. part of the name of a mountain	
 mountain	monto	n.	
 hill	monteto	n.	
@@ -47,25 +63,7 @@ hillside	montetflanko	n.	w
 plain	ebenaĵo	n.	
 valley	valo	n.	w	
 slope	deklivo	n. non-horizontal ground	w
-waterfall	akvofalo	n.	w
 moor	erikejo	n.	w
-stream	rivereto	n.	w
-pond	lageto	n.	w
-swamp	marĉo	n.	w
-
-# CARDINAL DIRECTIONS
-north	norda	adj.
-south	suda	adj.
-southwards	suden	adv.	w
-east	orienta	adj.
-west	okcidenta	adj.
-towards the west	okcidenten	adv.	w
-
-# MIDDLE EAST
-Arabic	la araba	phr. Arabic language	w
-Syrian	Siria	adj.
-Libyan	Libia	adj. 	W
-khan	ĥano	n. leader of Turkish, Tartar, or Mongol tribe	
 
 # GREECE
 Grecian	greka	adj.
@@ -79,9 +77,10 @@ Athenian	atena	adj. thing of Athens  	w
 Athenian	atenano	n. person of Athens  	w
 Alexandria	Aleksandrio	n. 	w
 Thessaly	Tesalio	n. proper noun, place
+Macedonian	Makedoniano	n. ancient Macedonian person 	w
 acropolis	akropolo	n. 	w
-Hymettus	Himeto	n. GEOGRAPHY GREECE mountain
-Ilissus	Iliso	n. GEOGRAPHY ancient GREECE river
+Hymettus	Himeto	n. mountain
+Ilissus	Iliso	n. ancient river
 
 # ITALY
 Tyrolese	Tirola	adj.
@@ -99,6 +98,12 @@ Roman	romiano	n. an ancient Roman
 Campagna	Kamparo	n. Roman Campagna, countryside around Rome
 patrician	patricio	n. 	w
 tribune	tribunuso	n. a Roman official	w
+
+# MIDDLE EAST
+Arabic	la araba	phr. Arabic language	w
+Syrian	Siria	adj.
+Libyan	Libia	adj. 	W
+khan	ĥano	n. leader of Turkish, Tartar, or Mongol tribe	
 
 # EGYPT
 Egypt	Egiptujo	n.

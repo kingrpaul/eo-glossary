@@ -8,12 +8,12 @@ Thos.	Tomaso	n. name
 Smith	Smito	n. family name	
 Phillip	Filipo	n. name	
 Browne	Braŭno	n. family name	
-Marco	Marko	person's name	
+Marco	Marko	n. personal name	
 Miller	Milero	n. name	
 Cosimo	Kosimo	n. personal-name	
 Ogilvie	Ogilvio	n. family name	
-George	Georgo	n. name
-Mary	Marjo	n. name
+George	Georgo	n. personal name
+Mary	Marjo	n. personal name
 Ann	Anno	n. NAME
 Plutarch	Plutarko	n. 
 Sextus	Seksto	n. 
@@ -32,7 +32,9 @@ Bodleian	de Bodlejo	n.
 Lattin	Latino	n. name	
 Apuleius	Apulejo	n. 
 
-Lydia	Lidio	n. PERSONAL NAME	w
-Lysander	Lisandro	n. PERSONS NAME	w
-Alexander	Aleksandro	n. PERSONAL NAME	w
-Phocion	Focio	n. PERSONal name
+Lydia	Lidio	n. personal name	w
+Lysander	Lisandro	n. personal name	w
+Alexander	Aleksandro	n. personal name	w
+Phocion	Focio	n. personal name
+
+Mudbury	Kotburio	n. family name
