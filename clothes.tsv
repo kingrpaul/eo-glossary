@@ -9,6 +9,7 @@ rags	ĉifonoj	n.
 skirt	jupo	n.	w
 dress	robo	n.	w
 robe	mantelo	n.	
+coat	mantelo	n.	
 robe	robo	n.	
 snowshoe	rakedo	n.	
 mantle	mantelo	n. coat	
@@ -31,8 +32,9 @@ gaudy	malŝika	adj. CLOTHES	w
 
 plaid	plejdo	n.	w
 
-textile	teksajo	n.	
-
 silken	silka	adj.	
 cotton	katuno	n. cloth	
 cotton	kotono	n. fiber	
+
+textile	teksajo	n.	
+weave	teksi	v.tr CLOTHING	

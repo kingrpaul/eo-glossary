@@ -20,6 +20,7 @@ heart	koro	n.
 hearty	elkora	adj.	w
 heartfelt	elkora	adj.	w
 half-heartedness	duona koreco	n.	w
+bighearted	grandkora	adj.	w
 
 # BLOOD
 blood	sango	n.	
@@ -28,15 +29,20 @@ thin-blooded	malfortik'sanga	adj.
 # MOUTH
 mouth	buŝo	n.	
 lip	lipo	n.	
-teeth	dentoj	n. ANATOMY	W
+teeth	dentoj	n. 	W
 mucous membrane	mukozo	n.	
+spat	kraĉis	v.ntr	
+
+# FACE
+face	vizaĝo	n. front of head	
+facial	vizaĝa	adj.	w
+on his face	en lia vizaĝo	phr.
+expression	mieno	n. appearance of the face ANATOMY	w
 
 # HEAD & NECK
 head	kapo	n.	
 nod	kapjeso	n.	w
-face	vizaĝo	n. front of head	
-facial	vizaĝa	adj.	w
-on his face	en lia vizaĝo	phr.
+headache	kapdoloro	n.	w
 chin	mentono	n. ANATOMY
 forehead	frunto	n.	w
 brow	frunto	n. forehead	
@@ -47,10 +53,12 @@ nose	nazo	n.
 nostril	naztruo	n.	
 ear	orelo	n.	
 neck	kolo	n.	
+gullet	ezofago	n. esophagus	w
 
 # EYES
 eye	okulo	n.	
 eye-socket	kavo	n.	
+tear	larmo	n. from the eyes	w
 eyes downcast	okuloj rigardantaj malsupren	phr.	w
 
 # HAIR
@@ -91,3 +99,6 @@ foot	piedo	n.
 rising to her feet	leviĝanta sur siajn piedojn	phr.	
 footstep	piedsigno	n. footprint	w
 on foot	piede	adv.	w
+
+
+

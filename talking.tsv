@@ -4,10 +4,11 @@ remark	diri	v.tr
 tell	diri	v.tr	
 said	diris	v.tr	
 told	diris	v.tr	
-had told	diris	v.tr	
-remarked	rimarkis	v.tr	
-tells	rakontas	v.	
+had told	diris	v.tr
 saying	diranta	adj.	
+spoken	dirita	adj.	w
+uttered	eldirita	adj.	w
+
 I tell you	mi diras al vi	phr.
 it is said	oni diras	phr.	
 rumour	onidiro	n.	w
@@ -28,6 +29,10 @@ you’ve talked	vi parolis	phr.
 talk	parolado	n.
 yell at	insulti	v.	
 hoarse	raŭka	adj.	w
+
+remarked	rimarkis	v.tr	
+tells	rakontas	v.	
+
 
 congratulating	gratuli	v.tr TALKING	w
 
@@ -69,3 +74,10 @@ verbal	parola	adj.	w
 
 argument	argumento	n. point put forward	w
 argument	disputo	n.	w
+
+whisper	flustro	n. TALKING	w
+
+suggest	sugestas	v.tr TALK	
+suggestively	sugeste	adv. TALK	w
+swore	ĵuris	v.tr TALK	
+swore	sakris	v.ntr used profanity TALK	

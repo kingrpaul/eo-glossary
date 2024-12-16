@@ -1,6 +1,6 @@
 mood	humoro	n. 	w
 
-# -ĜOJ-
+# -ĜAJ-
 dreary	malgaja	adj.	
 sadly	malgaje	adv.	w
 carefree	gaja	adj.	w
@@ -25,81 +25,91 @@ sadness	malĝojo	n.	w
 joy	ĝojo	n. feeling of rejoicing	w
 glad	ĝoja	adj.	w
 joyously	ĝoje	adv.	w
+delight	ĝojo	n.	
+delighted	ĝoje	adv.	
+happily	ĝoje	adv.	w
+looked forward	antaŭĝojis pri	v.	
+looked forward to	antaŭĝojitaj	as in anticipated	
 
+# -SENT-
+feel	senti	v.tr	
+have a sense about	senti	v.	
+felt	sentis	v.tr had an impression	
+feeling	sento	n.	
+sensation	sento	n. feeling	w
+sense	sento	n. sensation, or state of consciousness	
+suspicion	sento	n.	
+sense	sentumo	n. insight, suspicion	
+suspicion	sentumo	n.	
+insight	sentumo	n.	
+sensitive	sentema	adj. 	
+sensitivity	sentemo	n. 	w
+sensibilities	sentemoj	n.	w
+consent	konsento	n. pleasant or unpleasant perceived sensation	
+sentimental	sentimentala	adj. 	
 
-***************
+# -KOLER-
+anger	kolero	n.	w
+made him angry	kolerigis lin	*	
+glaring	kolerrigardanta	adj.	w
 
-unselfconscious	nememkonscia	adj.	w
-confident	fida	adj.	w
-
-
-jovial	joviala	adj.	w
-
-enjoy	ĝui	v.tr	
-enjoying	ĝuanta	adj.	
-enjoyment	ĝuo	n.	
-
-sadden	ĉagreni	v.tr	w
-
-miserable	mizera	adj.	w
-
-love	amo	n.
-
-pleased	kontenta	adj.	w
-
-awe	miro	n.	w
-awe	admiro	n. admiration	
-awed	admirante	adv.	
-
-depressed	deprimita	adj.	
-depressing	nigra	adj. sentiments attitudes	
-depression	depresio	n. clinical depression	
-depression	deprimo	n. sub-clinical depression	
-
+# -TIM-
+am afraid	timas	v.
 frightened	tima	adj.	w
 frightful	timiga	adj. 	w
 afraid	tima	adj. 	w
 was not afraid	ne timis	v.ntr	
+making him fearful	timigante lin	phr.	
+fears	timas	v.tr	
+fearsomely	timige	adv.	w
+dread	timeginda	adj. worthy of great fear	
+apprehension	antaŭtimo	n.	w
+was afraid	timis	v.	
+frightens	timigas	v.tr	w
+lest	pro timo ke	phr. for fear that	
 
+# -TENT-
 tempted	tentata	adj. was in a state of temptation	
+tempt	tenti	v.tr	w
+temptingly	tentante	adv.
 
-remorse	bedaŭro	n.	w
-remorse	pento	n.	w
-remorse	rimorso	n.	w
+# -KONSTERN-
+consternation	konsterno	n.	w
+disconcerted	konsternita	adj.	
+dismayed	konsternita	adj.	
+startled	konsternite	adv.
+started	konsterniĝe resaltis	phr. recoil from being startled	w
+startled	konsternis	v.tr past tense of startle	w
 
-calmly	trankvile	adv. EMOTION	w
+# -MIR-
+awe	miro	n.	w
+awe	admiro	n. admiration	
+awed	admirante	adv.	
+
+# -MALTRANKVIL-
 troubled	maltrankvila	adj. anxious	w
 disquieting	maltrankviliga	adj. making one worried	
-don’t worry	restu trankvila	adj.	
 uneasiness	maltrankvilo	n.	
 worry	maltrankviligi	v.	
 worried	maltrankvila	adj.	w
+uneasiness	maltrankvileco	n.	w
+anxiety	maltrankvileco	n. mild anxiety, level-1	w
+
+# -TRANKVIL-
+calmly	trankvile	adv.	w
+don’t worry	restu trankvila	adj.	
 calm yourself	trankviliĝu	v.ntr	w
 calm	trankvila	adj.	w
 relief	ektrankviliĝo	n. experience of being relieved of stress	w
 
-uneasiness	maltrankvileco	n.	w
-anxiety	maltrankvileco	n. mild anxiety, level-1	w
-anxiety	anksio	n. moderate anxiety, level-2	w
+# -ANGOR-
 anxiety	angoro	n. severe anxiety, level-3	w
 agony	angoro	n.	
 anguish	angoro	n.	w
-anxious	anksia	adj.	w
-frenzied	freneza	adj.	w
 
-
-tear	larmo	n. from the eyes	w
-embarrassment	embaraso	n.	w
-shameless	senhonta	adj.	w
-am ashamed	hontas	v.tr	w
-shamefully	hontinde	adv.	
-
-making him fearful	timigante lin	phr.	
+# -TERUR-
 horror	teruraĵo	n. object causing horror	w
-fears	timas	v.tr	
-fearsomely	timige	adv.	w
 awful	aĉa	adj. causing fear; appalling; terrible	
-dread	timeginda	adj. worthy of great fear	
 horror	teruro	n. great fear	w
 awfully	terure	adv.	
 horrible	terura	adj.	w
@@ -107,6 +117,91 @@ terrible	terura	adj.	w
 terrifies	teruras	v.tr
 awful	terura	adj.
 terror	teruraĵo	n. a thing that inspires terror	w
+
+# -SOPIR-
+pine	sopiri	v.tr yearn for 	
+yearning	sopiro	n.	
+longing	sopiro	n.	w
+longing	sopirinta	adj. condition of having longed for
+would not pine	ne sopirus	phr. 	
+miss	sopiri	v.tr yearn for 
+
+# -ĜU-
+enjoy	ĝui	v.tr	
+enjoying	ĝuanta	adj.	
+enjoyment	ĝuo	n.	
+
+# -ĈAGREN-
+sadden	ĉagreni	v.tr	w
+annoy	ĉagreni	v.tr	w
+exasperate	ĉagreni	v.tr cause displeasure	w
+frustrate	ĉagreni	v.tr	.
+vex	ĉagreni	v.tr	
+ail	ĉagreni	v.tr	w
+
+# -FID-
+confident	fida	adj.	w
+betray	perfidi	v.tr	w
+trust	fidi	v.	w
+treachery	perfido	n.	w
+faithful	fidela	adj.	w
+confidently	memfide	adj.
+
+# -SUFER-
+suffering	sufero	n. EMOTION	w
+suffers	suferas	v.ntr	
+suffering	suferanta	adj.	w
+
+# -AM-
+love	amo	n.
+love	ami	v.tr	
+hate	malami	v.	w
+hated	malamita	adj. unloved	w
+hateful	malaminda	adj. deserving to be hated	w
+has loved	amis	v.tr	
+in love	enamiĝinte	adv.	
+
+# -FELIĈ-
+happily	feliĉe	adv.	w
+unhappy	malfeliĉa	adj.	w
+happiness	feliĉo	n.	w
+happy	feliĉa	adj.	w
+
+***************
+
+unselfconscious	nememkonscia	adj.	w
+
+jovial	joviala	adj.	w
+
+miserable	mizera	adj.	w
+
+
+pleased	kontenta	adj.	w
+
+depressed	deprimita	adj.	
+depressing	nigra	adj. sentiments attitudes	
+depression	depresio	n. clinical depression	
+depression	deprimo	n. sub-clinical depression	
+
+whine	plor'grinco	n. crying squeak	
+sob	ploregi	v.ntr	w
+
+
+remorse	bedaŭro	n.	w
+remorse	pento	n.	w
+remorse	rimorso	n.	w
+
+anxiety	anksio	n. moderate anxiety, level-2	w
+anxious	anksia	adj.	w
+
+frenzied	freneza	adj.	w
+fervently	fervore	adv.	w
+
+embarrassment	embaraso	n.	w
+shameless	senhonta	adj.	w
+am ashamed	hontas	v.tr	w
+shamefully	hontinde	adv.	
+
 
 hopelessness	senespereco	n.
 hopeless	senespera	adj.
@@ -117,22 +212,13 @@ light-heartedly	facilanime	easy-going, lit. easy-souled
 lighthearted	facilanima	adj.	
 lighthearted	malpeze kora	*	
 
-made him angry	kolerigis lin	*	
-
 ecstatic	ekstaza	adj.	
 ecstasy	ekstazo	n,	w
-unhappy	malfeliĉa	adj.	w
+
 
 thrill	eksciti	v.tr   	w
-
-pine	sopiri	v.tr yearn for 	
-yearning	sopiro	n.	
-longing	sopiro	n.	w
-longing	sopirinta	adj. condition of having longed for
-would not pine	ne sopirus	phr. 	
-miss	sopiri	v.tr yearn for 
 
 jealous	ĵaluza	adj.	
 envy	envii	v.	
 envy	envio	n. 	
-resentment	rankoro	n. EMOTION
+resentment	rankoro	n. 
