@@ -1,18 +1,37 @@
-body	korpo	n.	
+body	korpo	n.	w	
 bodily	korpa	adj.	
 physical	korpa	adj. bodily, use 'fizika' when technical	w
 physically	korpe	adj. bodily, use 'fizike' when technical	
+make corporeal	enkorpigi	v.tr	w
+disembodied	nekorpa	adj. ANATOMY  	w
+disembodied	senkorpa	adj. ANATOMY  	w
 
-organ	organo	n. body part	
-female genitalia	piĉo	n.	
+slim	svelta	adj. ANATOMY	
+fat	korpulenta	adj. of people ANATOMY	
+portly	korpulenta	adj. ANATOMY	w
+corpulent	korpulenta	adj. ANATOMY	w
+
 muscle	muskolo	n.	
+organ	organo	n. body part	
+
+# GENITO-URINARY
+female genitalia	piĉo	n.	
 testicle	testiko	n.	
-skin	haŭto	n. ANATOMY	W
+urinate	maltrinki	v.ntr 	
+urinate	urini	v.ntr	w
+piss	pisi	v.ntr 
+
+# SKIN
+skin	haŭto	n. 	W
+sweat	ŝvito	n. 	w
+swarthy	malhele haŭta	phr.	
+swarthy	olive-haŭtan	adj. olive complextion	
 
 # BONES
 bone	osto	n. ANATOMY	W
 skull	kranio	n.	w
 cranium	kranio	n.	
+rib	ripo	n.	w
 big-boned	grand’osta	adj.	
 
 # HEART
@@ -25,32 +44,42 @@ bighearted	grandkora	adj.	w
 # BLOOD
 blood	sango	n.	
 thin-blooded	malfortik'sanga	adj.	
+ichor	ikoro	n. ANATOMY	w
 
 # MOUTH
 mouth	buŝo	n.	
 lip	lipo	n.	
+pout	paŭti	v.ntr	w
 teeth	dentoj	n. 	W
 mucous membrane	mukozo	n.	
+spit	kraĉi	v.	w
 spat	kraĉis	v.ntr	
 
 # FACE
 face	vizaĝo	n. front of head	
 facial	vizaĝa	adj.	w
 on his face	en lia vizaĝo	phr.
-expression	mieno	n. appearance of the face ANATOMY	w
+expression	mieno	n. appearance of the face 	w
+
+# NOSE
+nose	nazo	n.	
+nostril	naztruo	n.	
+sniff	ekmovi la nazon	v.tr. move the nose as with displeasure	
+sniff	flari	v.tr to smell a smell	
+sniff	ekflari	v.tr take a sniff	
+stench	fetoro	n. 	w
+
 
 # HEAD & NECK
 head	kapo	n.	
 nod	kapjeso	n.	w
 headache	kapdoloro	n.	w
-chin	mentono	n. ANATOMY
+chin	mentono	n. 
 forehead	frunto	n.	w
 brow	frunto	n. forehead	
 brow	brovo	n. eyebrow	
 eyebrow	brovo	n.	
 cheek	vango	n.	
-nose	nazo	n.	
-nostril	naztruo	n.	
 ear	orelo	n.	
 neck	kolo	n.	
 gullet	ezofago	n. esophagus	w
@@ -67,10 +96,15 @@ hair	haro	a hair	w
 curl	buklo	n. of hair	w
 ringlet	buklo	n. of hair	w
 bald	kalva	adj.	w
+comb	kombi	v. through something esp hair 	
+comb	kombilo	n. 	
 
 # NERVES
 brain	cerbo	n.
 bundle of nerves	fasko de nervoj	n. a Nervous Nellie	w   
+nervously	nervoze	adv. 	w
+nervous	nerva	adv.  related to anatomical nerves	w
+nervous	nervoza	adv.  figurative use for anxiety	w
 
 # SHOULDERS
 shoulder	ŝultro	n.	
@@ -81,24 +115,26 @@ arm	brako	n.	W
 hug	brakumi	v.tr	w
 hand	mano	n. at the ends of the arm	w
 hands	manoj	n. at the ends of the arms	w
-palm	manplato	n. as in the palm of the hand	
-finger	fingro	n.
+palm	manplato	n. as in the palm of the hand	w	
+finger	fingro	n.	w
 
 # TRUNK
 back	dorso	anatomical	w
-belly	ventro	n.	
-buttocks	pugo	n.	
-backside	pugo	n.	
-waist	talio	n.	
+belly	ventro	n.	w
+buttocks	pugo	n.	w	
+backside	pugo	n.	w
+waist	talio	n.	w
 
 # LEGS & FEET
 stout-legged	dike kruraj	phr.	
 knee	genuo	n.	w
-knelt	genuis	v.ntr	
+kneel	genui	v.ntr	w	
+knelt	genuis	v.ntr	w
 foot	piedo	n.	
+feet	piedoj	n.	
 rising to her feet	leviĝanta sur siajn piedojn	phr.	
 footstep	piedsigno	n. footprint	w
 on foot	piede	adv.	w
-
+on tiptoe	piedpinte	adv. ANATOMY	w
 
 

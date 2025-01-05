@@ -1,56 +1,63 @@
 species	specio	n. biological species	
 
-dog	hundo	n. hound	
-pug	mopso	n. pugdog	w
-
-serpent	serpento	n. snake	w
-ape	simio	n. any monkey or similar	w
+# BUG
+locust	akrido	n.	w
 grasshopper	akrido	n.	w
 grasshopper	lokusto	n.	w
 cricket	grilo	n.	w
-ass	azeno	n. donkey	w
+dragonfly	libelo	n.	w
+stung	pikite	adv.
+
+#BIRD
+magpie	pigo	n.	w
+bird	birdo	n.	w
+swallow	hirundo	type of bird	w
+crane	gruo	n. both bird and machine	w
+nest	nesto	n.
 eagle-owl	gufo	n. nocturnal owl	w
+
+# FISH
+oyster	ostro	n.	w
+mussel	mitulo	n.	w
+scallop	pekteno	n.	w
+shell fish	konkulo	n.	w
+fish	fiŝo	n.
+fishbowl	bokalo	n. ANIMAL
+carapace	karapaco	n. 	w
+shell	konko	n. 	
+clam	pekteno	n.	w
+
+# HORSE
+nag	ĉevaleto	n. small horse
+horse	ĉevalo	n.
+lighted off my horse	deĉevaliĝis	v.ntr dismounted from a horse 	w
+stable	stalo	n. horse house (or other animals)	w
+stall	stalo	n. stall in a stable	
+graze	paŝtiĝi	v.ntr eat grass 	w
+
+
+dog	hundo	n. hound	
+pug	mopso	n. pugdog	w
+serpent	serpento	n. snake	w
+ape	simio	n. any monkey or similar	w
+ass	azeno	n. donkey	w
 gorilla	gorilo	n.	w
 toad	bufo	n.	w
-dragonfly	libelo	n.	w
 fox	vulpo	n.	w
 pig	porko	n.	w
 wolf	lupo	n.	w
 boar	apro	n.	w
 beaver	kastoro	n.	w
-mussel	mitulo	n.	w
-locust	akrido	n.	w
-magpie	pigo	n.	w
-oyster	ostro	n.	w
 worm	vermo	n.	w
-scallop	pekteno	n.	w
-shell fish	konkulo	n.	w
 jackal	ŝakalo	n.	w
 lion	leono	n.	w
-nag	ĉevaleto	n. small horse
-horse	ĉevalo	n.
-fish	fiŝo	n.
 buck	boko	n. male deer	w
-
 wolverine	gulo	n. ANIMAL	w
-
-bird	birdo	n.	w
-swallow	hirundo	type of bird	w
-crane	gruo	n. both bird and machine	w
-nest	nesto	n.
-
 vermin	bestetaĉoj	n.	w
 
 scaly	skvama	adj.	w
 horn	korno	n. eg a bull's horn	w
 snout	rostro	n.	
 spiracle	stigmo	n. respiratory structure of an animal	
-carapace	karapaco	n. 	w
-shell	konko	n. 	
 
-stable	stalo	n. horse house (or other animals)	w
-stall	stalo	n. stall in a stable	
 
-graze	paŝtiĝi	v.ntr eat grass 	w
-
-lighted off my horse	deĉevaliĝis	v.ntr dismounted from a horse 	w

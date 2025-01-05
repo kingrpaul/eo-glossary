@@ -14,7 +14,12 @@ fraction	frakcio	n.
 numerator	numeratoro	n.	
 
 one	unu	n.
+single	unuopa	adj.	w
+single	ununura	adj.	w
+
 two	du	n.
+both	ambaŭ	*.
+
 three	tri	n.
 four	kvar	n.
 four	kvar	n.
@@ -42,10 +47,17 @@ twelfth	dekdua	adj.
 twentieth	dudeka	adj.
 
 # ADVERBS
-first	unue	adv.
+first	unue	adv.	w
 
 
 # VERBS
-double	duobligi	v.	
-triple	triobligi	v.	w
-quadruple	kvarobligi	v.	w
+double	duobligi	v.tr	
+triple	triobligi	v.tr	w
+quadruple	kvarobligi	v.tr	w
+
+
+
+count	kalkuli	v.tr.ntr MATH	w
+count up	kalkuli	v.tr.ntr MATH	
+count on	kalkuli	v.tr.ntr MATH	
+counter	nombrilo	n. numbering device MATH	

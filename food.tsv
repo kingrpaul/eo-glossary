@@ -1,21 +1,24 @@
-food	manĝaĵo	n.	
+food	manĝaĵo	n.	w
 morsel	mordaĵo	n.	w
-chewing	maĉo	n.	
-delicious	bongusta	adj.	
-starve	malsati	v.ntr
-bon appetit	bonan apetiton	phr. 	
+chewing	maĉo	n.	w
+delicious	bongusta	adj.	w
+starve	malsati	v.ntr	w
+bon appetit	bonan apetiton	phr.	w
 tasty	bongusta	adj.	w
 take supper	vespermanĝi	v.	
+eat	manĝi	v.tr	w
 bite	mordi	v.	w
 bitter	amara	adj. literal or figurative	w
 
-provisions	provianto	n. normally food	
+provisions	provianto	n. normally food	w
 cater	provianti	v.	w
 caterer	proviantanto	n.	w
 
 take coffee	elekti kafon	phr.	
-drink	drinki	v. drink something alcoholic to excess	
 drink	trinki	v.tr incl. alcohol in moderation	
+drink	drinki	v. drink something alcoholic to excess	
+guzzle	drinki	v. drink something alcoholic to excess	w
+booze it up	drinki	v. drink something alcoholic to excess	w
 foaming	ŝaŭma	adj. frothy	
 potation	trinkaĵo	n.	
 grape juice	mosto	n.	
@@ -25,7 +28,7 @@ beef	bovaĵo	n.	w
 pork	porkaĵo	n.	
 bacon	lardo	n.	
 lard	porkograso	n. 	w
-roast	rostita	adj. that has been roasted	
+roast	rostita	adj. that has been roasted	v
 
 corn	greno	n. in the sense of a staple grain, not ears of corn	w
 flour	faruno	n.	w
@@ -45,6 +48,8 @@ pies	tortoj	n.	w
 plum-pudding	prun’pudingo	n.	w
 candy	sukeraĵo	n.	
 confection	sukeraĵo	n.	w
+gelatin	gelateno	n. FOOD	w
+gelatinous	gelatena	n. FOOD	w
 
 Mandarin orange	mandarino	n. the fruit not the tree	
 bell pepper	kapsiko	n.	
@@ -66,3 +71,5 @@ peppercorn	pipro	n.
 stuff	farĉi	v. esp food: pork chops, grape leaves etc.	w
 
 frying pan	pato	n. 	w
+pot	poto	n.	
+saucepan	poto	n.	

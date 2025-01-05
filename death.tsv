@@ -22,6 +22,7 @@ graveyard	tombejo	n.	w
 cemetery	tombejo	n.	w
 pit	tombofoso	n. grave pit	w
 urn	urno	n.	w
+catacombs	katakomboj	n. DEATH	w
 
 murder	murdi	v.	
 corpses	kadavroj	n.	
@@ -37,7 +38,9 @@ mausoleum	maŭzoleo	adj. 	w
 cenotaph	cenotafo	n. 	w
 mortuary	mortejo	n. death place in an abstract sense 
 vault	kripto	n. 	w
+decay	putri	v.ntr decompose
 
 
 ghastly	makabra	adj. ghostlike, evoking death	w
 
+necrophagous	mortmanĝa	adj. 	w

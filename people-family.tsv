@@ -15,7 +15,9 @@ retiree	pensiulo	n.
 greybeard	grizbarbo	n. 	w
 
 child	infano	n.	w
-children	infanoj	n.	
+children	infanoj	n.	w
+baby carriage	infanĉareto	n. 	
+baby-sit	varti	v. 	
 
 boy	knabo	n.	w
 boyish	knaba	adj.	w
@@ -46,6 +48,7 @@ man	viro	n.
 men	viroj	n.	
 woman	virino	n.	w
 women	virinoj	n.	w
+half woman	duonvirino	n.
 
 # FAMILY
 blood	prasango	n. fig. ancestral blood	

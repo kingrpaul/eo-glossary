@@ -1,12 +1,24 @@
+# -VIV-
+be alive	vivi	v.	
+are alive	vivas	v.ntr
+living	vivado	n.	
+life	la vivo	n.
+alive	viva	adj.	w
+life	vivo	n.	
+makes live	vivigi	v.tr	w
+
+# -KURAC-
 doctor	kuracisto	n. physician	w
 heal	kuraci	v.tr	
 healthy	sana	adj.
-unhealthy	malsana	adj. HEALTH	w	
+unhealthy	malsana	adj. 	w	
 physician	kuracisto	n.	w
-specialist	specialisto	n.	w
 treat	kuraci	v.tr an illness or wound	w
 treatment	kuracado	n.	w
 cure	kuraco	n. something that cures health	w
+
+
+specialist	specialisto	n.	w
 nurse	flegistino	n.	
 cramp	kramfo	medical condition	
 medical	medicina	adj.	w
@@ -16,6 +28,8 @@ herb	drogherbo	n. medicinal
 examination	ekzameno	n. detailed exam incl medical exam	
 case	kazo	eg law medicine grammar	
 sanatorium	sanatorio	n. residential rehab, ≠hospitalo	
+hospital	hospitalo	n.	
+hospital	malsanulejo	n.	
 sickened	malsanigita	adj.	w
 sickly	malsanema	adj.	w
 malady	malsano	n.	
@@ -26,7 +40,7 @@ ill	malsana	adj. not healthy	w
 recovery	resaniĝo	v. recovery of health
 sick	malsana	adj.	w
 ailing	malsana	adj. not healthy	
-ailment	malsaneto	n.	
+ailment	malsaneto	n.	w
 hurt	dolori	v.tr	
 hurt	vundi	v.tr wound	
 injure	vundi	v.tr	
@@ -41,6 +55,8 @@ aches	doloras	v.tr normally followed by 'sin'	w
 disease	malsano	n. 	w
 feverish	febra	adj. 	w
 
+agony	dolorego	n.	
+
 crazy	freneza	adj.	
 raving mad	frenezi	v.	
 
@@ -49,6 +65,11 @@ scab	krusto	n.
 scar	stigmato	n.	
 gout	podagro	n.	
 
-infectious	infekta	adj.	
-asthma	astmo	n. HEALTH	
-asylum	azilo	n. for refugees or mental institution HEALTH	
+infectious	infekta	adj.	w
+asthma	astmo	n. 	w
+asylum	azilo	n. for refugees or mental institution 	w
+
+swell	ŝveli	v.ntr 	w
+swell	ŝveligi	v.tr 	w
+paralysis	paralizo	n. 	w
+itches	jukas sin	v.tr 	w

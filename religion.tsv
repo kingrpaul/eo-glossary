@@ -8,6 +8,9 @@ spirit	spirito	n.
 priest	pastro	n.	w
 High Priest	Ĉefpastro	n.	
 monk	monaĥo	n.	w
+half monk	duonmonaĥo	n.
+
+religion	religio	n.	w
 
 worship	adori	v.tr	w
 is worshipping	adoras	v.tr
@@ -76,4 +79,9 @@ creation	kreitaro	n. ie biblical, all that was created in the world	w
 
 sin	malvirto	n.	
 blaspheme	blasfemi	v.	
+
 blessing	beno	n.	
+bless	beni	v.tr RELIGION	w
+curse	malbenu	v.tr RELIGION
+damned	damninda	adj. damnable, generic expletive	w
+damnable	damninda	adj. generic expletive	w

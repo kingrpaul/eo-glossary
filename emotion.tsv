@@ -148,7 +148,7 @@ faithful	fidela	adj.	w
 confidently	memfide	adj.
 
 # -SUFER-
-suffering	sufero	n. EMOTION	w
+suffering	sufero	n. 	w
 suffers	suferas	v.ntr	
 suffering	suferanta	adj.	w
 
@@ -159,7 +159,11 @@ hate	malami	v.	w
 hated	malamita	adj. unloved	w
 hateful	malaminda	adj. deserving to be hated	w
 has loved	amis	v.tr	
+loving	amanta	adj.
 in love	enamiĝinte	adv.	
+beloved	amata	adj. 	
+best loved	plej amata	adj.	
+favorite	plej amata	best loved	
 
 # -FELIĈ-
 happily	feliĉe	adv.	w
@@ -167,7 +171,25 @@ unhappy	malfeliĉa	adj.	w
 happiness	feliĉo	n.	w
 happy	feliĉa	adj.	w
 
+# - STUPOR-
+dazed	stuporita	adj.	w
+stupefied	stuporite	adv. 	w
+
+# -PLEZUR-
+pleasure	plezuro	n.	w
+displeasure	malplezuro	n. 	w
+with pleasure	plezure	adv.	w
+
 ***************
+
+despairing	malespera	adj. 	w
+horror	hororo	n. feeling of terror with disgust 	w
+horrible	horora	n. causing horror	w
+temperament	temperamento	n. 	w
+boldly	aŭdace	adv. 
+silly	facilanima	adj. light-hearted 	w
+
+be shy	sin ĝeni	v. 	
 
 unselfconscious	nememkonscia	adj.	w
 
@@ -175,8 +197,11 @@ jovial	joviala	adj.	w
 
 miserable	mizera	adj.	w
 
-
 pleased	kontenta	adj.	w
+
+affection	korinklino	n. 	w
+mooned	tag'revis obsede	lit. daydreamed obsessively 	w
+audacity	aŭdaco	n. 	w
 
 depressed	deprimita	adj.	
 depressing	nigra	adj. sentiments attitudes	
@@ -185,7 +210,7 @@ depression	deprimo	n. sub-clinical depression
 
 whine	plor'grinco	n. crying squeak	
 sob	ploregi	v.ntr	w
-
+gasp	anhelo	n. 	
 
 remorse	bedaŭro	n.	w
 remorse	pento	n.	w
@@ -202,6 +227,7 @@ shameless	senhonta	adj.	w
 am ashamed	hontas	v.tr	w
 shamefully	hontinde	adv.	
 
+on edge	kvazaŭ sur rando	phr. idiom	w
 
 hopelessness	senespereco	n.
 hopeless	senespera	adj.

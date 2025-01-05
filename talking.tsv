@@ -8,7 +8,8 @@ had told	diris	v.tr
 saying	diranta	adj.	
 spoken	dirita	adj.	w
 uttered	eldirita	adj.	w
-
+unsay	maldiru	v.	w
+would tell	dirus	v.tr
 I tell you	mi diras al vi	phr.
 it is said	oni diras	phr.	
 rumour	onidiro	n.	w
@@ -34,11 +35,15 @@ remarked	rimarkis	v.tr
 tells	rakontas	v.	
 
 
-congratulating	gratuli	v.tr TALKING	w
+congratulating	gratuli	v.tr ING	w
+dumbly	mute	adv.	
+
+brag	fanfaroni	v.	
 
 swear	blasfemi	v. blaspheme; cuss	
 swear	ĵuri	v. an oath	
 swear	sakri	v. cuss	
+cursed	sakris	v.ntr	w
 
 speak	paroli	v.ntr	
 spoke	parolis	v.
@@ -57,13 +62,18 @@ murmurs	murmuri	v.tr
 stammer	balbuti	v.tr.ntr	w
 
 whisper	flustri	v.tr	
+is whispering	flustras	v.	
 whispering	flustranta	adj.	
+whispering	flustrante	adv.	
+
 
 spake	parolis	v.tr.ntr	
 
 screamingly	kriege	adv.	
 screams	kriegoj	n.	
+yell	kriego	n. 	w
 shrieks	ŝrikoj	n.	w
+shriek forth	elŝriki	v.ntr
 shout	krii	v.ntr	
 
 
@@ -75,9 +85,44 @@ verbal	parola	adj.	w
 argument	argumento	n. point put forward	w
 argument	disputo	n.	w
 
-whisper	flustro	n. TALKING	w
+whisper	flustro	n. ING	w
 
-suggest	sugestas	v.tr TALK	
-suggestively	sugeste	adv. TALK	w
-swore	ĵuris	v.tr TALK	
-swore	sakris	v.ntr used profanity TALK	
+suggest	sugestas	v.tr 	
+suggestively	sugeste	adv. 	w
+swore	ĵuris	v.tr 	
+swore	sakris	v.ntr used profanity 	
+
+
+advice	konsilo	n. 	
+advised	konsilis	v.tr	
+
+cuss	blasfemi	v.tr blaspheme 	w
+cuss	sakri	v.ntr 	w
+
+
+defiant	defia	adj. 	
+defies	defias	v.tr 	
+
+exclamation	ekkrio	n. 	
+explain	klarigi	v.tr 	w
+
+voice	voĉo	n. 	
+voiceless	senvoĉa	adj. 	
+
+speaker	parolanto	n. 	w
+
+muttering	murmurdirante	adv. 
+screaming	kriegante	adv. 
+
+grumble	grumbli	v.ntr 	w
+mutter	murmurdiri	v.tr	w
+warning	averto	n. 	w
+in answer	responde	adv. 
+account for	klarigi	V.tr 	w
+
+slander	kalumnio	n. 	w
+discourse	diskurso	n. 	w
+
+
+slang	slango	n. 	w
+to say a word	diri eĉ vorton	phr. idiom  	w

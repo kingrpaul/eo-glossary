@@ -1,3 +1,8 @@
+lands	landoj	n. countries or some abstraction thereof	
+abroad	eksterlande	adv. 	w
+foreign	eksterlanda	adj.	w
+
+
 # CARDINAL DIRECTIONS
 north	norda	adj.
 south	suda	adj.
@@ -18,9 +23,9 @@ European	eŭropa	adj.
 Finn	finno	n.
 Negro	negro	n. person of African ancestry	w
 canton	kantono	n. Swiss canton	
-India	Hindio	n. GEOGRAPHY	w
+India	Hindio	n. 	w
 
-# BRITAIN UK IRELAND ETC
+# BRITISH ISLES & IRELAND
 british	brita	adj.	
 England	Anglio	n.
 English	angla	adj.
@@ -77,10 +82,14 @@ Athenian	atena	adj. thing of Athens  	w
 Athenian	atenano	n. person of Athens  	w
 Alexandria	Aleksandrio	n. 	w
 Thessaly	Tesalio	n. proper noun, place
-Macedonian	Makedoniano	n. ancient Macedonian person 	w
+Macedonian	Makedono	n. ancient Macedonian person 	w
 acropolis	akropolo	n. 	w
 Hymettus	Himeto	n. mountain
 Ilissus	Iliso	n. ancient river
+Kifissia	Kifisjo	n. suburb of Athens, Greece 	
+Cephissia	Kifisjo	n. suburb of Athens, Greece 	
+Cephissian	Kifisja	adj. related to the suburb of Athens, Greece 	
+Hymettus	Hijmeto	n. mountain in Greece	
 
 # ITALY
 Tyrolese	Tirola	adj.
@@ -98,11 +107,17 @@ Roman	romiano	n. an ancient Roman
 Campagna	Kamparo	n. Roman Campagna, countryside around Rome
 patrician	patricio	n. 	w
 tribune	tribunuso	n. a Roman official	w
+legion	legio	n. Roman infantry unit 	w
+legionary	legiano	n. member of a Roman infantry unit 	w
 
 # MIDDLE EAST
 Arabic	la araba	phr. Arabic language	w
 Syrian	Siria	adj.
 Libyan	Libia	adj. 	W
+Persian	Perso	n. Persian person 
+Persian	persa	n. of Persia 
+Persian Gulf	Persa Golfo	n. 
+Iran	Irano	n. 
 khan	ĥano	n. leader of Turkish, Tartar, or Mongol tribe	
 
 # EGYPT

@@ -1,3 +1,8 @@
+home	hejmo	n.	w
+home	hejme	adv.at home
+home	hejmen	adv.toward home
+homewards	hejmen	adv. 	W
+
 cell	ĉelo	n. solo room	w
 large room	halo	n. 	
 windowless	sen'fenestra	adj. 	
@@ -12,12 +17,10 @@ erect	starigi	v. tr to cause to stand up or be built	w
 builder	konstruisto	n. contruction worker	
 habitation	loĝejo	n. a place where one lives, inc animals	w
 palace	palaco	n.	w
-door	pordo	n.	w
 stairwell	ŝtuparejo	n.	w
 attic	mansardo	n.	w
 column	kolono	n. architectural	
 treasure-vault	trezorkelo	n. lit. treasure cellar	w
-eave	alero	n. roof overhang	
 basement	subetaĝo	n.	
 balustrade	balustrado	n.	w
 building	konstruaĵo	n.	w
@@ -29,5 +32,30 @@ façade	fasado	n.	w
 floor	etaĝo	n. story of a building	
 floor	planko	n.	
 ground floor	teretaĝo	n.	w
-stairs	ŝtuparo	n. ARCHITECTURE	
-study	kabineto	n. ARCHITECTURE	
+stairs	ŝtuparo	n. 	
+study	kabineto	n. 	
+ceiling	plafono	n. 	
+upstairs	supre	adv. 	
+apartment	apartamento	n. 	w
+flat	apartamento	n. 	w
+dwelling	loĝejo	n. 	w
+suite	ĉambraro	n. 	w
+
+
+
+rafters	tegmenta trabaro	n. 	w
+eave	alero	n. roof overhang	
+
+railing	balustrado	n.eg around a balcony 	w
+parlour	salono	n.	w
+hall	halo	n. 	w
+
+
+
+# -PORD, -ŜLOŜ-
+gate	pordego	n. 	w
+portal	pordego	n.	w
+door	pordo	n.	w
+above the door	superporde	adv. 	
+latchkey	klinka ŝlosilo	n. 	w
+key	ŝlosilo	n. 	w

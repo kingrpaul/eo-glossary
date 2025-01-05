@@ -1,22 +1,3 @@
-
-tenebrous	tenebra	adj.	w
-dim	mallumeta	adj. not bright
-dimness	mallumo	n. LIGHT	w
-light	lumo	n. lit. or fig. visible radiation, light source, or part of painting	
-light bath	lum'bano	phr. light bath	
-dark	malhela	adj.	
-dark-lying	mallume kuŝanta	adj.	
-darkened	mallumigita	adj.	
-darkness	mallumo	n.	w
-dimming	mallumiĝanta	adj.	
-semidarkness	duonmallumo	n.	
-dark	malluma	adj. lacking light	
-gloom	morno	n.	
-gloomy	morna	adj. Dark and depressing	
-lights to be turned up	lumoj heligu	*. a wish for more light	
-darker	pli malluma	adj.	w
-unlighted	senluma	adj.	
-
 # -BRIL-
 shone	brilis	v.
 bright	brila	adj.	
@@ -32,12 +13,33 @@ flash	ekbrilo	n.
 glow	brilo	n.	
 twinkling	ekbriletanta	adj.	w
 
+# -LUM-
+dim	mallumeta	adj. not bright
+dimness	mallumo	n. LIGHT	w
+light	lumo	n. lit. or fig. visible radiation, light source, or part of painting	
+light bath	lum'bano	phr. light bath	
+dark	malhela	adj. dimly lit, color having little white	
+dark-lying	mallume kuŝanta	adj.	
+darkened	mallumigita	adj.	
+darkness	mallumo	n.	w
+dimming	mallumiĝanta	adj.	
+semidarkness	duonmallumo	n.	
+dark	malluma	adj. lacking light, gloomy, irrational, evil	
+gloom	morno	n.	
+gloomy	morna	adj. Dark and depressing	
+lights to be turned up	lumoj heligu	*. a wish for more light	
+darker	pli malluma	adj.	w
+unlighted	senluma	adj.	
+lights began to rise	lumoj komencis heliĝi	w
+darken	mallumiĝi	v.ntr become dark	w
+
+# -OMBR-
 shadow	ombro	n.	w
 shadowed	ombris	v.tr	
 shading	ombrado	n. a shadow which has been cast	w
 silhouette	silueto	n.	
 
-# SUN & MOON
+# SUN
 sun	suno	n.	w
 sunshine	sunbrilo	n.
 
@@ -55,4 +57,6 @@ starlight	stellumo	n.	w
 starlit	stelluma	adj. 
 star	stelo	n. star in the sky LIGHT	w
 
+lamp	lampo	n.	
 lantern	lanterno	n.	w
+tenebrous	tenebra	adj.	w
