@@ -3,9 +3,24 @@ home	hejme	adv.at home
 home	hejmen	adv.toward home
 homewards	hejmen	adv. 	W
 
+house	domo	n.	w
+manor	domego	n.	
+manor house	domego	n.	
+mansion	domego	n.	
+
+# -FENEST-
+window	fenestro	n. 	W
+bank of windows	aro da fenestroj	n. 	
+windowless	senfenestra	adj. 	
+
+tower	turo	n. 	w
+patio	korto	n. 	w
+chimney	kamentubo	n. 	w
+chimney	kameno	n. 	w
+doorway	pordejo	n. 	w
+
 cell	ĉelo	n. solo room	w
 large room	halo	n. 	
-windowless	sen'fenestra	adj. 	
 wing	alo	N. wing of a plane or building	
 room	ĉambro	n. 	
 roof overhang	alero	n.	
@@ -25,10 +40,10 @@ basement	subetaĝo	n.
 balustrade	balustrado	n.	w
 building	konstruaĵo	n.	w
 ruins	ruinoj	n. remains of ruined buildings	w
-window	fenestro	n. 	W
 vestibule	vestiblo	n. 	W
 flight of steps	ŝtuparo	n.	w
 façade	fasado	n.	w
+facade	fasado	n.	
 floor	etaĝo	n. story of a building	
 floor	planko	n.	
 ground floor	teretaĝo	n.	w
@@ -41,21 +56,29 @@ flat	apartamento	n. 	w
 dwelling	loĝejo	n. 	w
 suite	ĉambraro	n. 	w
 
-
-
+roof	tegmento	n. ARCHITECTURE
 rafters	tegmenta trabaro	n. 	w
 eave	alero	n. roof overhang	
+
 
 railing	balustrado	n.eg around a balcony 	w
 parlour	salono	n.	w
 hall	halo	n. 	w
 
+brick	briko	n. ARCHITECTURE	w
+tent	tendo	n. cloth building ARCHITECTURE	w
+camp	tendaro	n. group of tents ARCHITECTURE	w
+interiors	internoj	n. ARCHITECTURE	w
+passage	pasejo	n. ARCHITECTURE
+corridor	koridoro	n. ARCHITECTURE
 
 
-# -PORD, -ŜLOŜ-
+# -PORD, -ŜLOŜ- (DOOR & KEY)
 gate	pordego	n. 	w
 portal	pordego	n.	w
 door	pordo	n.	w
 above the door	superporde	adv. 	
 latchkey	klinka ŝlosilo	n. 	w
 key	ŝlosilo	n. 	w
+ajar	malfermetita	adj. having been slightly opened	w
+ajar	malfermete	adv. being pushed slightly open	w

@@ -112,10 +112,10 @@ horror	teruraĵo	n. object causing horror	w
 awful	aĉa	adj. causing fear; appalling; terrible	
 horror	teruro	n. great fear	w
 awfully	terure	adv.	
-horrible	terura	adj.	w
+horrible	terura	adj. such as to evoke terror or very strong	w
 terrible	terura	adj.	w
 terrifies	teruras	v.tr
-awful	terura	adj.
+awful	terura	adj. such as to evoke terror or very strong
 terror	teruraĵo	n. a thing that inspires terror	w
 
 # -SOPIR-
@@ -142,7 +142,7 @@ ail	ĉagreni	v.tr	w
 # -FID-
 confident	fida	adj.	w
 betray	perfidi	v.tr	w
-trust	fidi	v.	w
+trust	fidi	v.tr	w
 treachery	perfido	n.	w
 faithful	fidela	adj.	w
 confidently	memfide	adj.
@@ -180,9 +180,20 @@ pleasure	plezuro	n.	w
 displeasure	malplezuro	n. 	w
 with pleasure	plezure	adv.	w
 
+# -ESPER-
+despairing	malespera	adj. 	w
+hopelessness	senespereco	n.
+hopeless	senespera	adj.
+hope	esperi	v.tr	
+hope for	esperi	v.	
+hopeful	esperplena	adj.	w
+hopefully	espereble	adv.	w
+in moderation	modere	adv.	w
+in the hope of	esperante	adv.	
+
 ***************
 
-despairing	malespera	adj. 	w
+
 horror	hororo	n. feeling of terror with disgust 	w
 horrible	horora	n. causing horror	w
 temperament	temperamento	n. 	w
@@ -210,7 +221,6 @@ depression	deprimo	n. sub-clinical depression
 
 whine	plor'grinco	n. crying squeak	
 sob	ploregi	v.ntr	w
-gasp	anhelo	n. 	
 
 remorse	bedaŭro	n.	w
 remorse	pento	n.	w
@@ -229,8 +239,6 @@ shamefully	hontinde	adv.
 
 on edge	kvazaŭ sur rando	phr. idiom	w
 
-hopelessness	senespereco	n.
-hopeless	senespera	adj.
 
 bewildered	perpleksa	adj.	w
 
@@ -248,3 +256,13 @@ jealous	ĵaluza	adj.
 envy	envii	v.	
 envy	envio	n. 	
 resentment	rankoro	n. 
+affect	emocio	n. an emotion 	
+bored	enua	adj. 	
+overwrought	superfortita	adj. 	
+clearheaded	klarkapa	adj. 	w
+dull	enuiga	adj. boring 	
+enthusiasm	entuziasmo	n. 	w
+eagerness	entuziasmo	n. 	
+fondly	ame	adv. 	
+
+distraught	angora	adj. EMOTION	w

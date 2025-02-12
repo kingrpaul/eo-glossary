@@ -3,13 +3,13 @@ bodily	korpa	adj.
 physical	korpa	adj. bodily, use 'fizika' when technical	w
 physically	korpe	adj. bodily, use 'fizike' when technical	
 make corporeal	enkorpigi	v.tr	w
-disembodied	nekorpa	adj. ANATOMY  	w
-disembodied	senkorpa	adj. ANATOMY  	w
+disembodied	nekorpa	adj.   	w
+disembodied	senkorpa	adj.   	w
 
-slim	svelta	adj. ANATOMY	
-fat	korpulenta	adj. of people ANATOMY	
-portly	korpulenta	adj. ANATOMY	w
-corpulent	korpulenta	adj. ANATOMY	w
+slim	svelta	adj. 	
+fat	korpulenta	adj. of people 	
+portly	korpulenta	adj. 	w
+corpulent	korpulenta	adj. 	w
 
 muscle	muskolo	n.	
 organ	organo	n. body part	
@@ -28,23 +28,16 @@ swarthy	malhele haŭta	phr.
 swarthy	olive-haŭtan	adj. olive complextion	
 
 # BONES
-bone	osto	n. ANATOMY	W
+bone	osto	n. 	W
 skull	kranio	n.	w
 cranium	kranio	n.	
 rib	ripo	n.	w
 big-boned	grand’osta	adj.	
 
-# HEART
-heart	koro	n.	
-hearty	elkora	adj.	w
-heartfelt	elkora	adj.	w
-half-heartedness	duona koreco	n.	w
-bighearted	grandkora	adj.	w
-
 # BLOOD
 blood	sango	n.	
 thin-blooded	malfortik'sanga	adj.	
-ichor	ikoro	n. ANATOMY	w
+ichor	ikoro	n. 	w
 
 # MOUTH
 mouth	buŝo	n.	
@@ -54,6 +47,13 @@ teeth	dentoj	n. 	W
 mucous membrane	mukozo	n.	
 spit	kraĉi	v.	w
 spat	kraĉis	v.ntr	
+smile	rideti	v.	
+smile	rideto	n.	
+smiles	ridetas	v.ntr	
+smiling	ridetante	adv.	
+smirk	rideti	v.	
+sly smile	subrideti	v.	
+with a smile	ridetante	adv.	w	
 
 # FACE
 face	vizaĝo	n. front of head	
@@ -64,16 +64,18 @@ expression	mieno	n. appearance of the face 	w
 # NOSE
 nose	nazo	n.	
 nostril	naztruo	n.	
+noselessness	sennazeco	n. 	w
 sniff	ekmovi la nazon	v.tr. move the nose as with displeasure	
 sniff	flari	v.tr to smell a smell	
 sniff	ekflari	v.tr take a sniff	
 stench	fetoro	n. 	w
-
+fragrant	aroma	adj. 	
 
 # HEAD & NECK
 head	kapo	n.	
-nod	kapjeso	n.	w
-headache	kapdoloro	n.	w
+nod	kapjesi	v.tr signifies 'yes'	w
+nod	kapnei	v.tr signifies 'no'	
+nod	kapindiki	v.tr signifies a direction
 chin	mentono	n. 
 forehead	frunto	n.	w
 brow	frunto	n. forehead	
@@ -96,8 +98,30 @@ hair	haro	a hair	w
 curl	buklo	n. of hair	w
 ringlet	buklo	n. of hair	w
 bald	kalva	adj.	w
+hairy	vila	adj. esp of an animal 	w
 comb	kombi	v. through something esp hair 	
 comb	kombilo	n. 	
+
+# HEART
+heart	koro	n.	
+hearty	elkora	adj.	w
+heartfelt	elkora	adj.	w
+half-heartedness	duona koreco	n.	w
+bighearted	grandkora	adj.	w
+from the heart	kore	adv. idiom	w
+
+# LUNGS
+lung 	pulmo	n.  	
+inhale	inhali	v.tr inhale for medical purposes  	w
+inhale	enspiri	v.tr 	w
+gasp	aĥ-enspiri	v.tr inhale with surprise 	w
+gasp	anheleri	v.tr a unit of gasping labored breathing 	w
+gasp	akrenspiri	v.tr a sharp inhalation	w
+inhale	inhali	v.tr inhale for medical purposes  	w
+sigh	suspiro	n.	
+sigh	suspiri	v.ntr	w
+exhalation	elspiro	n.	w
+breath	spiro	n.	w
 
 # NERVES
 brain	cerbo	n.
@@ -135,6 +159,6 @@ feet	piedoj	n.
 rising to her feet	leviĝanta sur siajn piedojn	phr.	
 footstep	piedsigno	n. footprint	w
 on foot	piede	adv.	w
-on tiptoe	piedpinte	adv. ANATOMY	w
+on tiptoe	piedpinte	adv. 	w
 
 

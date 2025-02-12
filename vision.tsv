@@ -9,6 +9,12 @@ visible	videbla	adj.
 you see	vi vidu	phr. leads and explanation	w
 you see	vidu	v.	w
 seen	vidiĝi	v.ntr	
+squinted	strabigis	v. 
+see again	revidi	v.tr 
+having glimpsed	ekvidinte	adv. 
+glimpse	ekvido	n. 	w
+invisible	nevidebla	adj. 	
+unseen	nevidita	adj.	w
 
 blind	blinda	adj. unable to see	
 blinded you	blindigis vin	phr.	
@@ -16,34 +22,38 @@ blindly	blinde	adv.
 blinds	blindigas	v.tr
 dazzling	blindiga	adj. 	w
 
+# -RIGARD-
+watching	rigardi	v.tr	
+gaze	rigardi	v.tr	w
+stare	fikse rigardi	v.tr	w
+look out	elrigardi	v.	w
 go and see	iros rigardi	phr. lit 'go look'	
 beheld	rigardis	v.	
-eye	rigardo	n. fig. gaze	
-gaze	rigardi	v.tr	w
-glance	ĵeta rigardo	n.	
-look	rigardi	v.tr to look at with the eyes	
-view	rigardo	n.	
-watching	rigardi	v.tr	
 looking	rigardante	adv.
 gazing	rigardante	adv.
 looked on	rigardas	v.	
 looking back	retrorigardante	adv.	w
 peering	esplorrigardante	adv.	
 peering	rigardante	adv.	
-stare	fikse rigardi	v.tr	w
-survey	superrigardo	n. overview	
+
 glance	ekrigardi	v.tr	w
 stares hard	fikse rigardas forte	phr.
 have been watching	estis rigardanta	phr.
 peer	elrigardi	v.tr	w
+look away	forrigardi	v.ntr 	w
+looks after	pririgardas	v.tr	w
+watched	rigardas	v.tr
+watching	rigardardante	adv.
+peep in	enrigardi	v.tr	w
+staring	rigardante fikse	adv.	w
+look through	trarigardi	v.tr	W
 
-unseen	nevidita	adj.	w
-squinted	strabigis	v. 
-see again	revidi	v.tr 
-having glimpsed	ekvidinte	adv. 
-glimpse	ekvido	n. 	w
-invisible	nevidebla	adj. 	
-
+# -RIGARDO-
+eye	rigardo	n. fig. gaze	
+glance	ĵeta rigardo	n.	
+look	rigardi	v.tr to look at with the eyes	
+view	rigardo	n.	
+survey	superrigardo	n. overview	
 
 # -APER-
 disappeared	malaperis	v.	

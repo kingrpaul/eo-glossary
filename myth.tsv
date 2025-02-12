@@ -19,6 +19,7 @@ Pasiphae	Pazifao	n. 	w
 Minotaur	Minotaŭro	n. 	w
 Dionysus	Dionizo	n. 	w
 Hippolyta	Hipolito	n. 	w
+Fates	Sortoj	n. Atropos, Clotho, and Lachesis	w
 
 # LOVECRAFT
 Nyarlathotep	Njarlatotepo	Lovecraft monster	
@@ -27,16 +28,11 @@ Nyarlathotep	Njarlatotepo	Lovecraft monster
 monster	monstro	n.	W
 elf	elfo	n.	w
 sprite	elfo	n.	w
-devil	diablo	n.	
-fiendish	diabla	adj.	w
-daemon	demono	n.	w
-daemoniac	demona	adj. demonic	
 genie	ĝino	n.	w
 Issidy	Izidio	n. woman's first name	
 witch	sorĉistino	n.
 gargoyle	gargojlo	n. 	w
 
-superstition	superstiĉo	n. 	w
 
 afreet	efrito	a powerful evil jinni, demon, or monstrous giant in Arabic mythology	
 ghosts	fantomoj	n.	w
@@ -49,6 +45,17 @@ séance	spiritista seanco	n.	w
 medium	mediumo	n. spirit medium 	w
 shade	ombra animo	phr. shadowy spirit
 
+# DEVILTRY 
+devil	diablo	n.	
+fiendish	diabla	adj.	w
+daemon	demono	n.	w
+demon	demono	n.	w
+demoniac	demona	adj. demonic	
+daemoniac	demona	adj. demonic	
+infernal	infera	adj. MYTH
+hellish	infera	adj.	
+fiend	diablo	n. devil	w
+
 # MAGIC
 enchanted	ensorĉita	adj.	w
 bewitched	sorĉita	adj.	w
@@ -56,3 +63,11 @@ has cast a glamour over	prisorĉis	v.tr	w
 magical	magia	adj.	
 wand	magia bastoneto	n. magic wand, small magical stick	
 phantasm	fantasmo	n.	w
+
+superstition	superstiĉo	n. 	w
+lore	folkloro	n. MYTH	w
+omen	antaŭsigno	n.	w
+omen	aŭguro	n. more mystical MYTH	w
+cyclopean	ciklopa	adj. MYTH	w
+ogre	ogro	n. MYTH	w
+mythic	mita	adj. MYTH

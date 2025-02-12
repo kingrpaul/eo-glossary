@@ -10,6 +10,14 @@ realising	ekkomprenante	adv.
 of course	kompreneble	adv.	
 understood	komprenis	v.tr	
 
+# -KRED-
+believe	kredi	v.tr	
+think	kredi	v.tr.ntr believe
+unbelievable	nekredebla	adj.	w
+incredulous	nekredema	adj. not credulous	
+skeptical	nekredema	adj. not credulous	
+beyond belief	preterkredeble	adv. TRUTH	
+
 # -MEMOR-
 recollect	rememori	v. 	w	
 recollection	memoro	n. 	w
@@ -45,14 +53,9 @@ be acquainted with	koni	v.tr
 become acquainted with	ekkoni	v.tr	\
 acquaintance	konato	n.	
 
-# -KONSCI-
-conscious	konscii	v. be conscious of	
-consciousness	konscio	n.	
-aware	konscia	adj.	w
-oblivious	nekonscia	adj.	w
-oblivion	nekonscio	n.	w
-realise	konscii	v.tr.ntr to be aware	
-consciousness	konscio	n.  	w
+# -KONVINK-
+convince	konvinki	v.tr	w
+conviction	konvinkiĝo	n.	w
 
 # -SCI-
 be aware of	scii	v. know a fact	
@@ -66,12 +69,24 @@ come to know	ekscii	v.
 didn’t know	ne sciis	phr.
 find out about	ekscii	v.	
 ken	scio	n.	w
+knowledge	sciaĵo	n.	
+ignorant	senscia	adj. unknowing	w
+shall know how to	scipovos	v.	
 
 # -SCIVOL-
 wonder	scivoli	v.tr mentally	
 curious	scivola	adj.	w
 curious	scivolema	adj.	w
 wanting to know	scivola	adj.	
+
+# -KONSCI-
+conscious	konscii	v. be conscious of	
+consciousness	konscio	n.	
+aware	konscia	adj.	w
+oblivious	nekonscia	adj.	w
+oblivion	nekonscio	n.	w
+realise	konscii	v.tr.ntr to be aware	
+consciousness	konscio	n.  	w
 
 # -PENS-
 think	pensi	v.ntr use brain, assume to be true	
@@ -119,18 +134,12 @@ know how to	scipovi	v.tr more specific form of povi
 
 
 #####################
-
 idea	ideo	n. 	w
-knowledge	sciaĵo	n.	
 knowledgeable	sperta	adj.	
-ignorant	senscia	adj. unknowing	w
 stupid	stulta	adj.	w
 ignorant	malklera	adj. uneducated	w
-shall know how to	scipovos	v.	
 shall never forget	neniam forgesos	*	
 become informed about	informiĝi	v.	
-unbelievable	nekredebla	adj.	w
-think	kredi	v.tr.ntr believe
 sentience	sentemo	n.	w
 theoretical	teoria	adj.   	w
 speculative	konjekta	adj. based on conjecture 	w
@@ -146,3 +155,9 @@ forgotten	forgesinta	adj. forgot, not was forgotten KNOW
 forget	forgesi	v.tr KNOW	w
 mean	signifi	v.tr have the meaning of KNOW	
 meaning	senco	n. the way a word is to be understood KNOW	
+puzzled	konfuzita	adj.	w
+dazed	konfuzite	adv.	w
+muddled	konfuzita	adj. KNOW	w
+bewildering	konfuzanta	adj.	w
+bewilderment	konfuzo	n.	w
+it puzzled	konfuzis	v.	

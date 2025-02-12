@@ -40,9 +40,10 @@ Bloomsbury	Blumsberio	n.
 Circus	Cirklo	n. London's Picadilly Circus
 
 # UNITED STATES
-New Orlean	nov-orleano	n. CITY
+New Orlean	nov-orleano	n. 
+Florida	Florido	n. GEOGRAPHY	w
 Gainsville	Gajnesvilo	n. CITY
-Gainsville pike	Gajnesvila Vojo	n. PLACE
+Gainsville pike	Gajnesvila Vojo	n. 
 Big Cypress Swamp	Grandan Cipresan Marĉon	n.
 Memphis	Memfiso	n. city in Tennessee
 
@@ -75,6 +76,7 @@ Grecian	greka	adj.
 Greece	Grekio	n.
 Greek	greko	n. a modern Greek
 Greek	heleno	n. an ancient Greek
+Hellas	Helaso	n. Green name for Greece	w
 Samos	Samoso	n. Greek Island
 Athens	Ateno	n. ANCIENT Greek city  	w
 Athens	Atenoj	n. MODERN Greek city  	w
@@ -98,9 +100,10 @@ Florence	Florenco	n. Italian city
 Meran	Merano	n.
 
 # ROME
+Rome	Romo	n. capital of ancient Roman empire or modern Italy
 Rome	Romanio	n.
 Rome	Romio	n.
-Roman	romaniano	n. an ancient Roman
+Roman	Romiano	n. an ancient Roman
 Roman	Romano	n.
 Roman	romano	n.
 Roman	romiano	n. an ancient Roman
@@ -112,6 +115,8 @@ legionary	legiano	n. member of a Roman infantry unit 	w
 
 # MIDDLE EAST
 Arabic	la araba	phr. Arabic language	w
+Arab	araba	adj. related to Arabia	
+Arab	arabo	n. an Arab person	
 Syrian	Siria	adj.
 Libyan	Libia	adj. 	W
 Persian	Perso	n. Persian person 
