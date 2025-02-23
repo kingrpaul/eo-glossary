@@ -14,10 +14,11 @@ religion	religio	n.	w
 
 worship	adori	v.tr	w
 is worshipping	adoras	v.tr
+worshipper	adoranto	n. 	w
 holy	sankta	adj.	
 sacred	sankta	adj.	w
 religious pollution	profano	n.	
-consecrate	konsekri	tr. RELIGION	W
+consecrate	konsekri	tr. 	W
 reverently	respektege	adv.	w
 
 spiritual	spirita	adj.	w
@@ -81,7 +82,25 @@ sin	malvirto	n.
 blaspheme	blasfemi	v.	
 
 blessing	beno	n.	
-bless	beni	v.tr RELIGION	w
-curse	malbenu	v.tr RELIGION
+bless	beni	v.tr 	w
+curse	malbenu	v.tr 
 damned	damninda	adj. damnable, generic expletive	w
 damnable	damninda	adj. generic expletive	w
+
+
+rite	rito	n. 	w
+nimbus	aŭreolo	n. halo 	w
+transcendent	transcenda	adj. 	w
+transcend	transcendi	v.tr 	w
+paradisal	paradiza	n. 	w
+paradisiacal	paradiza	n. 	w
+relic	relikvo	n. 	w
+grace	graco	n. spiritual grace 	
+evil	malbono	n. 	w
+religious	religia	adj. 	w
+idol	idolo	n. 	w
+prophet	profeto	n. 	w
+evil	malica	adj. malicious 	w
+apocryphal	apokrifa	adj. 	w
+Abaddon	Abadono	n. angel of the pit 	w
+paradise	paradizo	n. 	w

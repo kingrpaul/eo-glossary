@@ -59,7 +59,6 @@ agent	peranto	n.
 agitate	inciti	v.	
 agitation	agitado	n.	
 agree	konsenti	v.ntr	
-agreeable	simpatia	adj. of people	
 aim	celi	v.	
 aim for	celi	v.	
 aimless	sencela	adj.	w
@@ -93,7 +92,6 @@ amuse	amuzi	v.	w
 amusement	amuzo	n. something amusing	w
 amusing	amuza	adj.	w
 analytical	analiza	adj.	
-ancient	antikva	adj. CALENDAR	w
 and	kaj	conj.	w
 annoy	tedi	v.	w
 another	alia	adj.	
@@ -193,7 +191,6 @@ balance	ekvilibrigi	v.tr bring into balance
 balance	stabiligi	v.tr balance something, stabilize	
 ball	bulo	n. blob of stuff	
 banal	banala	adj. boringly predictable	w
-bang	knali	v.ntr make a bang or snap sound	
 banquet	bankedo	n.	
 banquet	festeno	n.	
 bare-armed	senmanika	adj. sleeveless	
@@ -430,8 +427,6 @@ company	kompanio	n. group of people or coexistence	w
 compared to that	kompare kun tio	phr.	
 compartment	fako	n. section, compartment (of a drawer or box)	
 compass	plani	v.tr make a plan for	w
-compassion	kompato	n.	
-compatible	simpatia	adj. of people	
 compensate for	kompensi	v.	
 compete	konkuri	v.	
 competition	konkurenco	n. especially commercial or political	
@@ -712,7 +707,6 @@ even	eĉ	adv.
 even from	eĉ de	adv.	
 event	evento	n.	
 evidently	evidente	adv.	
-evil	malbono	n. RELIGION	w
 evolve	evolui	v.	
 exactitude	precizeco	n.	w
 exactly	precize	adv.	w
@@ -753,7 +747,7 @@ face powder	pudro	n.	w
 facilitator	peranto	n.	w
 fact	fakto	n.	w
 faculty	fakulto	n. capability	
-faded away	fadis	v.	w
+faded away	fadis	v.ntr	w
 faded out	fadis	v.ntr	w
 fair	justa	adj.	w
 fairly	sufiĉe	adv.	
@@ -840,8 +834,7 @@ forcibly	devigante	adv.	w
 foreman	laborestro	n.	w
 forgetfulness	forgesemo	n.	
 forgive	pardoni	v.tr forgive someone or something	
-forgiveness	kompato	n.	
-forgotten	forgesita	adj. was forgotten	
+forgotten	forgesita	adj. was forgotten KNOW	
 form	formo	n. ie shape	
 formal banquet	bankedo	n.	
 sent away	forsendis	v.tr	
@@ -855,7 +848,6 @@ foundation	fondumo	n. charitable foundation
 foundation	fundamento	n. of a building or essential basis ARCHTECTURE	
 founding	fondo	n.	
 fragile	facilrompa	adj.	
-
 framed	enkadrigita	adj. contained within a frame	
 framework	kadraro	n.	
 frantic	freneza	adj. crazy	
@@ -880,7 +872,6 @@ gain	lukri	v.
 gala	festeno	n.	
 gallery	galerio	n.	
 galvanise	galvanizi	v.tr	w
-gauche	plumpa	adj. CLOTHES	
 gave	donis	v.tr	
 gave up	rezignis	v.tr to abandon as unworkable	
 general	ĝenerala	adv.	
@@ -923,9 +914,7 @@ gossip	klaĉi	v.
 gossip	klaĉo	n. gossip, always negative	
 got out	eliris	v.ntr	
 grace	gracio	n. that which is graceful, like a dancer	
-grace	graco	n. spiritual grace RELIGION	
 gradually	grade	adv.	
-grail	pokalo	n. stemmed glass FOOD	
 gratitude	dankemo	n.	
 greasy	grasa	adj.	w
 effort	peno	n.	
@@ -970,7 +959,6 @@ half exhausted	duone lacega	adj.
 half exhausted	tre laca	very tired	
 halfway	duonvoje	adv.	w
 hall	halo	n.	w
-halo	haloo	n. in astronomy LIGHT	w
 halt	halti	v. come to a halt	w
 hamper	ĝeni	v.	w
 handsome	bela	adj.	w
@@ -1086,8 +1074,7 @@ inclination	tendenco	n.
 inclined	emigis	v. inspired one to have a mental inclination	
 inconvenience	ĝeni	v.	
 increase	pliigi	v.tr make something more	
-indecent	cinika	adj. esp. of people SEX	
-indecent	maldeca	adj. SEX	
+
 indeed	ja	adv.	
 indelible	neforigebla	adj.	
 indelicate	triviala	adj.	
@@ -1458,17 +1445,16 @@ old	malnova	adj.
 old-fashioned	malmoderna	adj.	
 old-time	malmoderna	adj.	
 ominous	nigra	adj. sentiments attitudes	
-on earth	en la mondo	phr. in the world	
+on earth	en la mondo	phr. in the world	w
 on the other side of	trans	phr. from one side to the other, on the opposite side of	
-on time	akurata	adj.	w TIME
-one fell swoop	per unuopa svingo	phr. one fell swoop	
+one fell swoop	per unuopa svingo	phr. one fell swoop	w
 one’s turn	vico	n. ie place in line	
 only	nur	adv.	
 open	malferma	adj. eg an open opportunity, open as an defining feature	
 open	malfermi	v.tr cause to be open	
 open	malfermita	eg door that has been opened	
 opened	malfermiĝis	v.ntr	
-openly	malkaŝe	adv. revealingly as in talk openly	
+openly	malkaŝe	adv. revealingly as in talk openly	w
 opens	malfermas	v.tr	
 opens	malfermiĝas	v.ntr	
 opinion	opinio	n.	
@@ -1478,7 +1464,6 @@ or	aŭ	conj.
 order to spite	spite de	adv.	
 ordinary	ordinara	adj.	
 ordinary	vulgara	adj.	
-oregano	origano	n. seasoning	w
 orgy	orgio	n. wild party	w
 origin	fonto	n.	
 origin	origino	n.	
@@ -1515,7 +1500,7 @@ passing	pasanta	adj. eg passing years
 passionately	pasie	adv.	
 past	preter	pass (go/drive/fly…) someone/thing	
 pastime	amuzaĵo	n.	
-pasturage	greso	n. grazing material	
+
 pat	frapeto	n. as in 'pat on the backside'	
 paunch	ventro	n.	w
 pause	paŭzi	v.ntr	w
@@ -1550,7 +1535,6 @@ pick	pioĉo	n. a pick	w
 pick	pluki	v. pick flowers	
 pick out	elekti	v.	
 picked it up	prenis ĝin	phr.	
-picnic	pikniko	n. FOOD	
 picture	bildo	n. ART	
 picturesque	pitoreska	adj.	w
 piece	peceto	n.	
@@ -1558,7 +1542,6 @@ pile	amaso	n.	w
 pitch	asfalto	n.	
 pitch	ĵeto	n.	w
 pitch	peĉo	tar	
-pitying	kompatanta	adj.	
 place	dispozicii	v.tr.ntr arrange	
 place	lokalo	n. part of a building with a definite purpose	
 place	loko	n.	
@@ -1569,8 +1552,6 @@ plane	ebeno	n.
 planet	planedo	n.	
 plank	tabulo	n.	
 plate	plato	n. eg plate glass	w
-plate	telero	n. dining plate	w
-platter	plado	n.	w
 play	petoli	v. frolic	
 plays	ludas	v.tr.ntr	
 pleasant	plaĉa	adj.	w
@@ -1599,7 +1580,6 @@ pollution	malpureco	n.
 pollution	malpuro	n.	
 pollution	poluo	n. environmental pollution	
 pomp	pompo	n.	
-poor	kompatinda	adj. deserving pity	w
 pop apart	krevi	v.	
 popular	populara	adj.	w
 popular	vulgara	adj.	
@@ -1669,7 +1649,6 @@ profound	profunda	adj.
 profoundly	profunde	adv.	w
 promised	promesis	v.tr	
 promotion	promocio	receiving a higher rank	
-prompt	akurata	adj. TIME	
 proof	pruvo	n.	
 properly	ĝuste	adv.	
 property	bieno	n.	
@@ -1689,7 +1668,6 @@ pull longer	streĉi	v.
 pulp	pulpo	n.	w
 pulpit	podio	n.	
 pulpit	tribuno	n.	
-punctual	akurata	adj. TIME	
 pure	pura	adj.	w
 purpose	intenco	n. intention	w
 pursue	persekutis	v.tr	
@@ -2090,10 +2068,6 @@ swollen	ŝvela	adj.	w
 swooning	svenigema	adj. prone to induce swooning	
 sword	glavo	n.	w
 swung	svingiĝis	v.ntr	
-sympathetic	simpatia	adj.	
-sympathise	simpatii	v.tr	
-sympathy	kompato	n.	
-sympathy	simpatio	n.	
 system	sistemo	n.	w
 table	tabelo	n. column of numbers MATH	
 tablet	tabulo	n.	
@@ -2116,7 +2090,6 @@ talent	talento	n.	w
 tall	alta	adj. SHAPE	w
 tame	dresi	v. wild animals	w
 tame	eduki	v.tr	
-tankard	tasego	n. FOOD	
 tap	frapeto	n.	
 tar	asfalto	n.	
 tar	peĉo	n.	
@@ -2411,7 +2384,6 @@ would bind	ligus	v.tr
 would come	venus	v.	
 would ensue	sekvus	v.	
 had	havintaj	*	
-would sympathise	simpatius	v.	
 would wake up	vekiĝus	v.ntr	
 wrap up	paki	v. pack up	
 wrapping up	envolvi	v.tr	
@@ -2439,7 +2411,6 @@ coverlet	kovrilo	n. blanket used for a bed	w
 thinly	maldike	adv.	w
 feeble	febla	adj. weak	w
 ruined	ruina	adj. representing ruin, having been ruined	
-evil	malica	adj. malicious RELIGION	w
 crumbling	disfalanta	adj. lit. falling apart, more sudden and stuctural than diseriĝanta	
 slimy	mucida	adj.	w
 but	nur	adv. merely	
@@ -2813,8 +2784,8 @@ had given way	estis cedinta	phr.
 visage	aspekto	n. appearance
 perfectly	perfekte	adv.	w
 faint	malforta	adj.	w
+fainter	pli malforta	adj.	
 somber	serioza	adj.	w
-mournful	funebra	adj. DEATH	w
 up above	supren de	phr.	w
 parading	paradante	adv.	w
 twisting	tordante	adv.
@@ -2909,7 +2880,7 @@ retain	konservi	v.tr
 fascination	fascino	n. phenomenon, caused by the one who fascinates	w
 inclination	inklino	n.  natural, lasting or not, aiming of the soul at something	w
 reluctant	malvolonta	adj.	w
-merciful	kompatema	adj.
+
 incessantly	senĉese	adv.
 firm	firma	adj.
 threateningly	minace	adv.	w
@@ -3106,7 +3077,6 @@ quasi	kvazaŭ	conj.	w
 plunge	plonĝi	v.ntr	w
 bizarre	bizara	adj.	w
 thrust	puŝi	v.tr	w
-piteous	kompatinda	adj.	w
 beat it	foriru	v. go away	w
 beat it	forpiedu	v. go away, but in an intentionally slangy way
 unleash	deŝnuri	v.tr	w
@@ -3132,7 +3102,6 @@ stark	absoluta	adj.	w
 inert	senmove	adv.	w
 held	tenita	adj.
 literally	laŭvorte	adv.	w
-mercilessly	senkompate	adv.	w
 benefit	utili	v.tr.ntr bring benefit	w
 be of use	utili	v.tr.ntr bring benefit
 it's no use	ne utilas	phr.	w
@@ -3213,7 +3182,6 @@ amass	amasigi	v.	w
 amazing	miriga	adj.	w
 hardly	malverŝajne	adv. are very unlikely to	w
 save	savi	v.tr rescue from danger	w
-stuffed	farĉita	adj. FOOD	w
 step inside	enpaŝi	v.ntr	
 step inside	eniri	v.ntr	
 met	renkontis	v.tr did meet	
@@ -3243,11 +3211,9 @@ tender	tenera	adj.  tenderness and warmth of feelings	W
 exquisitely	delikate	adv.	W
 Titanic	Titaniko	n. PROPER ship	
 had gone down	estis sinkinta	phr. had drowned when the ship sunk	
-helmet	kasko	n. any sort of helmet CLOTHES	w
-wore	portis	v.tr CLOTHES	w
 string	signoĉeno	n. group of alpha-numeric characters COMPUTER	w
 string	vico	n. group of things arranged in a row or col	w
-smear	ŝmiraĵo	n. esp lipstick	w
+smear	ŝmiraĵo	n. esp lipstick ART	w
 folded	kunmetita	adj. compound, in the sense of folded hands	
 dimly	malklare	adj. not clearly as in seeing dimly	w
 familiar	konita	adj.	w
@@ -3260,15 +3226,12 @@ come on	venu	v.ntr	w
 move up	antaŭiri	v.ntr move forward	w
 amusement	amuziĝo	n.	w
 order	ordono	n. command	w
-delay	prokrasto	n. TIME	w
-without delay	senprokraste	adv. TIME	
 flanked	flankita	adj.	
 are prominent	elstaras	v.	
 rural	kampara	adj.	w
 approach	alproksimiĝi	v.	w
 snowy	neĝa	adj.	w
 path	vojo	n. TRANSPORT	w
-lit	lumigita	adj.	w
 smoking	fuma	adj. smokey FIRE	w
 sign	ŝildo	n.	w
 standing	staranta	adj.	w
@@ -3281,38 +3244,29 @@ queen	reĝino	n. GOVT	w
 assure	certigi	v.tr KNOW	w
 alter	ŝanĝiĝi	v.ntr	w
 claim	postuli	v.tr express one's will that someone give or do something	
-swear	ĵuri	v.tr	w
-sworn	ĵuris	v.tr	w
+swear	ĵuri	v.tr SPEAK	w
+sworn	ĵuris	v.tr SPEAK	w
 in return	reciproke	adv.	w
 boon	bono	n. that which is good	w
 boon	favoro	n. favor granted	w
 boon	donaco	n. gift	w
 troops	trupoj	n. WAR	w
 army	armeo	n. WAR	w
-Macedonian	Makedona	adj. related to Macedonia GEOGRAPHY	w
-Macedonia	Makedonio	adj. country GEOGRAPHY	w
-province	provinco	n. GEOGRAPHY	w
 wisdom	saĝo	n. KNOW	w
 worth	valoro	v.	w
-race	raso	n. ethnicity GEOGRAPHY	w
 protruding	protruda	adj.	
 uncannily	preternature	adj.	w
 deluge	diluvo	n.	w
 great-grandmother	praavino	n. FAMILY	w
 aura	aŭro	n.	w
 retreat	retiriĝo	n. WAR	w
-Araby	Arabio	n. Arabia GEOGRAPHY	w
 nameless	sennoma	adj.	
 low	malalta	adj.	w
 wall	muro	n. ARCHTECTURE	w
 uncounted	nekalkulita	adj. MATH	w
-Babylon	Babilono	n. city GEOGRAPHY	w
-Babylonia	Babilonio 	n. kingdom GEOGRAPHY	w
-unbaked	nebakita	adj. FOOD	w
-legend	legendo	n. old story	w
+legend	legendo	n. old story MYTH	w
 legendary	legenda	n. 	w
 grandam	avino	n. grandmother FAMILY	w
-sheik	ŝejko	n. GEOGRAPHY	w
 tribe	tribo	n. GOVT	w
 shun	eviti	v.tr	w
 poet	poeto	n. PUBLISH	w
@@ -3340,10 +3294,8 @@ chisel	ĉizilo	n.	w
 cliff	klifo	n. high coastal cliff	w
 cliff	krutaĵo	n. any cliff, a steep place	w
 steep	kruta	adj. sloping greatly	w
-antediluvian	antaŭdiluva	adj.	w
 hewn	hakita	adj.	
 rudely	krude	adv. crudely	w
-cavern	kaverno	n. GEOGRAPHY	w
 primitive	primitiva	adj.	
 curiously	kurioze	adv.	
 sculpture	skulptaĵo	n. ART	w
@@ -3355,10 +3307,8 @@ were not absent	ne forestis	phr.
 singular	unuopa	adj. individual
 chiselled	ĉizita	adj.
 chisel	ĉizi	v.tr	w
-prophet	profeto	n. RELIGION	w
 clogged	blokita	adj.	w
 contain	enhavi	v.tr	w
-rite	rito	n. RELIGION	w
 frequent	vizitadi	v.visit regularly	w
 monstrosity	monstraĵo	n.	w
 strangest	plej stranga	adj.
@@ -3371,18 +3321,10 @@ flee	fuĝi	v.ntr run away	w
 vague	svaga	adj. indistict, ill-defined	w
 broad	larĝa	adj. SHAPE	w
 recite	reciti	v.tr TALK	w
-fear	timo	n. EMOTION	w
 phenomenon	fenomeno	n. KNOW	w
 phenomena	fenomenoj	n. KNOW	w
 dispel	dispeli	v.tr disperse	w
-phosphorescent	fosforeska	adj. LIGHT	w
-phosphorescence	fosforesko	n. LIGHT	w
-sunrise	sunleviĝo	n. TIME	w
-tunnel	tunelo	n. GEOGRAPHY	w
 watch	brakhorloĝo	n. wrist clock	w
-Indian	Indiano	n. American Indian GEOGRAPHY	w
-seacoast	marbordo	n. GEOGRAPHY	w
-Africa	Afriko	n. GEOGRAPHY	w
 crept	ŝteliris	v.ntr	
 fertile	fekunda	adj. AGRICULTURE	w
 war	milito	n. WAR	w
@@ -3401,28 +3343,22 @@ fissure	fendo	n.	w
 larger	pli granda	adj.	
 quench	estingi	v.tr cause to stop burning FIRE	w
 ruffle	taŭzi	v.tr tousle	w
-thirst	soifo	n. FOOD	w
 visit	viziti	v.tr	w
 region	regiono	n. SHAPE	w
 art	arto	n. ART	w
 maze	labirinto	n.	w
 shape	formo	n. SHAPE	w
-prehistoric	prahistoria	adj. CALENDAR	w
 cutter	hakisto	n. one who cuts eg stone	
 engineering	inĝenierio	n. science and department of an engineer	w
 whence	de kie	corr. from where	w
 draft	trablovo	n. flow of air
 geological	geologia	adj.	w
 geology	geologio	n.	w
-religious	religia	adj. RELIGION	w
 history	historio	n. SCHOOL	w
 decadence	dekadenco	n. SIN	w
-paradisal	paradiza	n. RELIGION	w
-paradisiacal	paradiza	n. RELIGION	w
 ethereal	etera	adj.	w
 allegory	alegorio	n. PUBLISH	w
 defeat	malvenko	n. WAR	w
-idol	idolo	n. RELIGION	w
 ideal	idealo	n.	w
 madly	freneze	adv. HEALTH	w
 impotent	senpova	adj.	w
@@ -3433,33 +3369,25 @@ treasury	trezorejo	n. MONEY	w
 murderous	murdema	adj.	w
 shove	ŝovi	v.tr push slidingly	w
 drug	drogo	n. HEALTH	w
-eclipse	eklipso	n. LIGHT	w
 delirium	deliro	n. HEALTH	w
 infinitely	senfine	adv. endlessly, so long that no end is in sight	w
 picture	bildigi	v.tr to present in the form of a  picture	w
-moonlight	lunlumo	n. LIGHT	w
 displayed	montrita	adj.	
-illuminating	lumiganta	adj. LIGHT	w
 bas-relief	bareliefo	n. ART	w
 vault	volbo	n. arched ceiling ARCHITECTURE	w
 for the nonce	nuntempe	adv.	w
 brass	latuno	n. CHEMISTRY	w
 bronze	bronzo	n. CHEMISTRY	w
 brazen	bronza	adj. CHEMISTRY	w
-jewel	juvelo	n. CLOTHES	w
 progress	progreso	n.	w
 monotony	monotoneco	n.	w
 monotonous	monotona	adj.	w
 daringly	aŭdace	adv.	w
 color	koloro	n. VISION	w
 chaotic	ĥaosa	adj.	w
-mummified	mumiigita	adj. GEOGRAPHY	w
-mummy	mumio	adj. GEOGRAPHY	w
 paleontologist	paleontologo	n. SCHOOL	w
 paleontology	paleontologio	n. SCHOOL	w
 naturalist	naturalisto	n. SCHOOL	w
-leg	kruro	n. ANATOMY	w
-foreleg	antaŭ-kruro	n. ANIMAL	w
 delicate	delikata	adj.	w
 flexible	fleksebla	adj. bendable	w
 flexible	elasta	adj. deformable, elastic	w
@@ -3469,8 +3397,6 @@ biological	biologia	adj. SCHOOL	w
 principle	principo	n. fundamental idea	w
 violate	malobservi	v.tr transgress	w
 artistic	arta	adj. ART	w
-wildest	plej sovaĝa	adj. ANIMAL	
-earlier	pli frua	adj. TIME	
 upper	supra	adj. SHAPE	w
 pioneer	pioniro	n.	w
 member	membro	n.	w
@@ -3483,8 +3409,6 @@ climb	grimpi	v.ntr	w
 ladder	eskalo	n.	w
 ladder	ŝtupetaro	n.	w
 descent	descendo	n. TRANSPORT	w
-interminably	nefiniĝeble	adv. TIME	
-apocryphal	apokrifa	adj. RELIGION	w
 infamous	fifama	adj.	w
 line	linio	n. line of text	w
 extract	ekstrakto	n. PUBLISH	w
@@ -3492,16 +3416,12 @@ lacquer	laki	v.tr apply lacquer ie varnish ART	w
 lacquer	lako	n ie varnish ART	w
 varnish	vernisi	v.tr apply varnish ie lacquer ART	w
 varnish	verniso	n. ie lacquer ART	w
-calf	suro	n. ANATOMY	w
-paleozotic	paleozoika	adj. CALENDAR
-paleozoic	paleozoikn	n. CALENDAR
 abysmal	abisma	adj.	w
 polish	poluri	v.tr shine by rubbing	w
-implication	impliceco	n. that which is logically implied	
+implication	implicaĵo	n. that which is logically implied	
 oblong	oblonga	adj. SHAPE	w
 oblong	longforma	adj. SHAPE	w
 hideously	hide	adv.	
-coffin	ĉerko	n. DEATH	w
 firmly	firme	adv.	w
 to make sure	certiĝi	v.ntr	w
 is used to	kutimas	v.ntr is accustomed to	w
@@ -3510,19 +3430,14 @@ mechanics	mekaniko	n. statics & dynamics, the parts of a machine SCHOOL	w
 mechanical	mekanika	n. related to machanics, made by machine	w
 stumble	stumbli	v.ntr	w
 realize	ekkompreni	v.tr	w
-relic	relikvo	n. RELIGION	w
 crudity	krudeco	n.	w
 exotic	ekzota	adj.	w
 scheme	skemo	n. theoretical simplified image	w
-jaw	makzelo	n. ANATOMY	w
-paleogean	paleogena	adj. Paleogene ie prehistoric CALENDAR	w
 ornament	ornamaĵo	n. a thing that adorns	w
 artist	artisto	n. ART	w
 draw	desegni	v.tr ART	w
 epic	epopeo	n. PUBLISH	w
 nomad	nomado	n. GOVT	w
-primal	praa	adj. CALENDAR	w
-virgin	virga	ADJ. SEX	w
 settle	enloĝiĝi	v.ntr move in	w
 shrank	ŝrumpi	v.ntr	w
 study	studi	v.tr carefully observe or as a student	w
@@ -3537,9 +3452,6 @@ alphabet	alfabeto	n. PUBLISH	w
 immeasurably	nemezureble	adv.	w
 immortality	senmorteco	n. HEALTH	w
 extravagance	ekstravaganco	n.	w
-nimbus	aŭreolo	n. halo RELIGION	w
-transcendent	transcenda	adj. RELIGION	w
-transcend	transcendi	v.tr RELIGION	w
 uniform	unuforma	adj. nonvarying	w
 infinity	infinito	n. MATH	w
 oddity	strangaĵo	n. an odd thing	w
@@ -3554,19 +3466,10 @@ inimitable	neimitebla	adj.	w
 unimitable	senimita	adj.	w
 onomatopeo	sonimito	n. LANGUAGE	w
 roving	vaganta	adj.	w
-luminous	luma	adj. LIGHT	w
 concern	temi pri	v. to be about	w
-map	mapo	n. GEOGRAPHY	w
-ocean	oceano	n. GEOGRAPHY	w
-continent	kontinento	n. GEOGRAPHY	w
 succumb	venkiĝi	v.ntr	w
-hell-born	infere naskita	phr. MYTH	w
-babel	Babelo	n. RELIGION	w
 intermittently	intermite	adv. time	w
-posture	teniĝo	n. ANATOMY	w
 volume	volumeno	n. area times thickness	w
-volume	laŭteco	n. loudness of sound	w
-at the same time	samtempe	adv. TIME	w
 become conscious of	konsciiĝis pri	phr.	
 gust	ventopuŝo	n. WEATHER	w
 resist	rezisti	v.tr.ntr 	w
@@ -3574,13 +3477,6 @@ malignancy	maligneco	n. HEALTH	w
 awaken	veki	v.tr to wake someone else	w
 awaken	vekiĝi	v.ntr to become awake	w
 incredible	nekredebla	adj. KNOW	w
-claw	ungo	n. ANIMAL	w
-claw	ungi	v.tr scratch with nails or claws ANIMAL	w
-vindictive	venĝema	adj. EMOTION	w
-Abaddon	Abadono	n. angel of the pit RELIGION	w
-fury	furiozo	n. EMOTION	w
-rib cage	brustokaĝo	n. ANATOMY	w
-eternity	eterno	n. TIME	w
 while	kvankam	conj. although	w
 league	leŭgo	n. about 4 km SHAPE	w
 aether	etero	n. material comprising empty space	w
@@ -3595,8 +3491,6 @@ intestine	intesto	n. part of the intestines	w
 intestinal	intesta	adj. related to the intestines	w
 intestine	intestaro	n. all of the intestines	w
 intestines	intestaro	n. all of the intestines	w
-deafening	surdiga	adj. ANATOMY	w
-deaf	surda	adj. ANATOMY	w
 drew nigh	alproksimiĝis	v.ntr approached	
 viewless	nevidebla	adj. poetic invisible or unseen VISION	w
 must have been	evidente estis	phr. ESTI	
@@ -3612,7 +3506,6 @@ pageant	procesio	n. procession	w
 peal	sonorado	n. ringing	w
 gust	bloveto	n. small blows of air	
 quietness	kvieteco	n. SOUND	w
-bygone	pasinta	adj. TIME	w
 outline	konturo	n. ART	w
 doomed	kondamnita	adj.	w
 all at once	subite	adv.	w
@@ -3621,7 +3514,6 @@ carrying	kunportante	adv.
 niche	niĉo	n. ARCHITECTURE	w
 shaped	formita	adj.	w
 upright	vertikale	adv.	w
-moon-cast	lune ĵetita	adj. LIGHT	
 definite	difinita	adj. KNOW	w
 crowded	plena	adj.	w
 obscure	obskura	adj.	w
@@ -3630,7 +3522,6 @@ prying	serĉanta	adj.
 was about to lead	estis kondukonta	phr.	
 atop	sur	prep.	w
 fissure	fendo	n. GEOLOGY	w
-orifice	aperturo	n. ANATOMY	w
 spread	vastiĝi	v.ntr	w
 presence	ĉeesteco	n. ESTI	w
 caked sand	kunpremita sablo	phr.	w
@@ -3641,236 +3532,253 @@ plain	klara	adj.
 terrific	grandega	adj. very large	
 as	kiam	corr. when	
 of	havanta	adj.having	
-daunt	timigi	v.tr EMOTION	w
 seethe	boli	v.ntr	
 living	vivanta	adj. HEALTH	w
 ever	iam	corr.	w
 ever	iam ajn	corr.	w
-crash	kraŝa sono	n. crashing sound	w
 unvocal	senvoĉa	adj. TALK	w
 squat	kaŭra	adj. low and wide as if squatting	w
 efface	senvizaĝigi	v.tr to make a thing have no face	
 clear	debari	v.tr	w
 stalking	marŝadi	v.ntr	
-spectral	fantoma	adj. MYTH	w
 quiver	tremi	v.ntr	w
 unquiet	malkvieta	adj. SOUND	
 dull	malakrigi	v.tr make not sharp	w
 fancied	imagis	v.tr	
 pictorial	piktura	adj. ART	w
-ancient race	pra-raso	n. PEOPLE	
 curling	kirliĝanta	adj.	
 streak	ŝmiraĵo	n.	w
 crumbled away	diseriĝinta	adj.	
 well-fashioned	bone farita	adj.	
-curvilinear	kurbe-linia	adj. ART	
-aloft	supre	adv.	
-flare	brilego	n. LIGHT	
-opening	malfermaĵo	n.	
+curvilinear	kurbe-linia	adj. ART	w
+aloft	supre	adv.	w
+opening	malfermaĵo	n.	w
 remoter	pli fora	adj.	
 had blown	blovis	v.tr	
 grew faint	plimalfortiĝis	v.ntr	
 came to learn	fin-lernis	v.tr finally learned	
-at the time	je la tempo	phr. TIME	
-foothold	piedtenejo	n. place for placing the foot	
+foothold	piedtenejo	n. place for placing the foot	w
 led	kondukis	v.tr	
 lost track of the hours	perdis la spuron de la horoj	phr.	
-must be	evidente esti	phr. evidently	
-level	horizontala	adj.	
+must be	evidente esti	phr. evidently	w
+level	horizontala	adj.	w
 wriggle	flankenŝovi	v. tr	
-inarticulate	neesprimiĝebla	adj.
-precipitous	krutega	adj.
-died out	elĉerpiĝis	v.ntr
-at the time	tiutempe	adv. TIME
-cherished	ŝatita	adj.
-muttered	murmurdiris	v.tr TALK
-unreverberate	neresonanta	adj. SOUND
-singsong	kvazaŭ kanti	phr.
-lined with	kovrita per	phr.
-case	ŝranko	n. eg display-case FURNITURE
-front	antaŭo	n.
-ranged	etendis	v.tr
-interval	interdistanco	n.
-flounder	barakti	v.*
-tell	distingi	v. distinguish
-ahead	antaŭe	adv. SHAPE
-magnificent	grandioza	adj.
-beyond description	preterpriskribebla	adj.
-exquisite	delikata	adj.
-outreaching	preteratinganta	adj. reaching beyond
-grotesqueness	groteskeco	n.
-convey	transdoni	v.tr
-suggesting	sugestanta	adj.
-approximate	proksimumi	v.
-protuberant	protruda	adj.
-debate	disputi	v. TALK
-enrobed	enrobita	adj. CLOTHES
-lavishly	ege	adv.
-laden	ŝarĝita	adj.
-frescoed	freskita	adj. ART
-matchless	senkongrua	adj.
-wherein	en kiu	corr.
-wherein	en kie	corr.
-suit	taŭgi	v. be suitable for
-allegorical	alegoria	adj. PUBLISH
-totem-beast	totem-besto	n. MYTH
-metropolis	metropolo	n. GOVT
-wind-wraith	vent-efrito	n. MYTH
-died out	formortis	v.ntr
-low-studded	kun malaltaj fostoj	phr. ceiling supported by short studs ARCHITECTURE
-at arm’s length	je brakdistanco	phr. ANATOMY
-scramble	krab-grimpi	v.ntr
-ablaze	brulanta	adj. FIRE
-ancient	pra-antikva	adj. CALENDAR
-hither and thither	tien kaj reen	phr.
-at random	hazarde	adv.
-stretched	etendis	v.
-omission	preterlaso	n.
-funeral	funebra	adj. DEATH
-wonder	pripensi	v.
-reticence	malemeco	n. EMOTION
-shown	montrita	adj.
-utmost	plej
-desertion	dezerteco	n.
-growing	kreskante	adv.
-paradise	paradizo	n. RELIGION
-view	vidaĵo	n.
-splendid	grandioza	adj.
-former	antaŭa	adj. TIME
-spectrally	fantome	adv. MYTH
-elusively	eviteme	adv.
-skilful	sperta	adj.
-ancient stock	praularo	n. ancestry CALENDAR
-fostered	nutrita	adj. FAMILY
-incalculably	nekalkuleble	adv. MATH
-roughly	proksimume	adv.
-shrank away	retiriĝis foren	phr.
-realistic	vivovera	adj. true to life ART
-unmistakable	senduba	adj.
-stage	etapo	n. stopping places or the distance between them
-leave-taking	adiaŭo	n.
-quit	forlasi	v.
-shelter	ŝirmo	n.
-fight	batalo	n. WAR
-ornate	ornamita	adj. CLOTHES
-significance	signifo	n. KNOW
-with closed eyes	okulfermite	adv. ANATOMY
-banish	forpeli	v.tr
-exhaustion	lacego	n.
-death-like	kvazaŭ-morta	adj. DEATH
-prodigious	ega	adj.
-aflame	flamanta	adj. FIRE
-prone	surventre	adv.
-sank	sinkis	v.
-incredibly	nekredeble	adv.
-left-hand	maldekstra	adj.
-swung back open	resvingita malferme	phr.
-cramped	malvasta	adj. ARCHITECTURE
-sunlit	sunlumita	adj. LIGHT
-low-ceiled	malalte-plafona	adj. ARCHITECTURE
-driven	devigita	adj. compelled
-whereof	pri kiu	corr.
-connection	konekto	n.
-anticlimax	malklimakso	n.
-ferocity	sovaĝeco	n.
-emaciated	malgrasega	adj.
-primitive-looking	ŝajne primitiva	adj.
-older	pli aĝa	adj.
-older	pli malnova	adj.
-mural	murpentraĵa	adj. ART
-amazement	mirigeco	n.
-illimitable	senlima	adj.
-radiance	brileco	n. LIGHT
-radiance	lumeco	n. LIGHT
-peak	pinto	n.
-peak	supro	n.
-heyday	zenito	n. CALENDAR
-prominence	eminenteco	n.
-magnificence	grandiozeco	n.
-a moment	dum momento	phr. for a moment TIME
-underground	subtera	adj. GEOGRAPHY
-honored	honorita	adj.
-throb	pulso	n. HEALTH
-peculiarly	strange	adv.
-mist	brumo	n. WATER
-dread	timego	n. EMOTION
-leer	rigardaĉi	v.
-decay	kadukiĝi	v.ntr
-vivid	vigla	adj.
-poignant	kortuŝa	adj. EMOTION
-sensation	sentaĵo	n. KNOW
-reverberate	resonadi	v. SOUND
-endure	travivi	v.
-dark	malhelo	n. LIGHT
-scramble	kirliĝo	n.
-babble	babiladi	v.
-image	prezento	n. ART
-blast	blovego	n.
-beset	ĉirkaŭita	adj.
-pour	verŝiĝi	v.ntr
-gale	ventego	n. WEATHER
-frightfully	timige	adv. EMOTION
-restore	restaŭri	v.
-acute	akra	adj.
-rock-hewn	rok-hakita	adj.
-latest	lasta	adj. TIME
-past	pasinteco	n. TIME
-painted	pentrita	adj. ART
-balance	ekvilibro	n. equilibrium
-largely	grandparte	adv.
-inexorably	senĉese	adv.
-death-hating	morton-malŝateganta	adj. DEATH
-countless	nekalkulita	adj. MATH
-wane	malkreski	v.
-abide	restadi	v.
-reduce	redukti	v.tr
-worshipper	adoranto	n. RELIGION
-very	mem	*.
-physical	fizika	adj.
-eery	preternatura	adj.
-match	egali	v.
-position	pozicio	n. the way one occupies space
-here and there	jen kaj jen	phr.
-man	homaro	n., humanity PEOPLE
-measurement	mezuro	n. act of measuring SHAPE
-seemed	ŝajnis	v.
-association	asocio	n.
-greatest	plej granda	adj.
-explorer	esploranto	n.
-effulgence	brilegeco	n. LIGHT
-deference	respektego	n.
-perforce	nepre	adv.
-watch	poŝhorloĝo	n. pocket watch
-were lost	perdiĝis	v. became lost
-fell to	komencis	v. began
-except	krom	*
-unnatural	kontraŭnatura	n. MYTH
-desolate	dezerta	adj.
-viciousness	maliceco	n.
-pent-up	subpremita	adj.
-wasting away	atrofiiĝi	v.
-pour	verŝiĝi	v.ntr
-resentfully	indigne	adv.
-brooding	cerbumado	n. KNOW
-presently	tiatempe	adv. at that time TIME
-take articulate form	klare formiĝi	phr.
-snarling	graŭlado	n. ANIMAL
-eon-dead	eone mortinta	n. DEATH
-dawn	tagiĝe	adv. TIME
-dusk	krepusko	n. TIME
-might mistake	misidentigus	v.
-panoplied	panoplio-portanta	adj. CLOTHES
-clanged	sonoris	v. SOUND
-reverberation	resonado	n. SOUND
-bowels	intestaro	n. ANATOMY
-ghoul	ĥulo	n. MYTH
-reverberation	resonado	n. SOUND
-shut	fermite	adv.
-parched	sekigita	adj. WATER
-for fear of	timante	adv. emotion
-inhabited	loĝis en	v.
-afar	de fore	adv.
-survivor	supervivinto	n.
-bade	ordonis	v.tr ordered
-age-worn	aĝe eluzita	phr.
-were laid	kuŝigis	v.tr
+inarticulate	neesprimiĝebla	adj.	w
+precipitous	krutega	adj.	w
+died out	elĉerpiĝis	v.ntr	w
+cherished	ŝatita	adj.	w
+muttered	murmurdiris	v.tr TALK	w
+unreverberate	neresonanta	adj. SOUND	
+singsong	kvazaŭ kanti	phr.	w
+lined with	kovrita per	phr.	w
+case	ŝranko	n. eg display-case FURNITURE	w
+front	antaŭo	n.	w
+ranged	etendis	v.tr	w
+interval	interspaco	n.	
+flounder	barakti	v.*	w
+tell	distingi	v. distinguish	w
+ahead	antaŭe	adv. SHAPE	w
+magnificent	grandioza	adj.	w
+beyond description	preterpriskribebla	adj.	w
+exquisite	delikata	adj.	w
+outreaching	preteratinganta	adj. reaching beyond	
+grotesqueness	groteskeco	n.	w
+convey	transdoni	v.tr	w
+suggesting	sugestanta	adj.	
+approximate	proksimumi	v.	w
+protuberant	protruda	adj.	w
+debate	disputi	v. TALK	
+lavishly	ege	adv.	w
+laden	ŝarĝita	adj.	w
+frescoed	freskita	adj. ART	w
+matchless	senkongrua	adj.	w
+wherein	en kiu	corr.	w
+wherein	en kie	corr.	w
+suit	taŭgi	v. be suitable for	w
+allegorical	alegoria	adj. PUBLISH	w
+metropolis	metropolo	n. GOVT	w
+died out	formortis	v.ntr	
+low-studded	kun malaltaj fostoj	phr. ceiling supported by short studs ARCHITECTURE	w
+scramble	krab-grimpi	v.ntr	w
+ablaze	brulanta	adj. FIRE	w
+hither and thither	tien kaj reen	phr.	w
+at random	hazarde	adv.	w
+stretched	etendis	v.	
+omission	preterlaso	n.	w
+wonder	pripensi	v.	w
+shown	montrita	adj.	
+utmost	plej	*	w
+desertion	dezerteco	n.	
+growing	kreskante	adv.	
+view	vidaĵo	n.	w
+splendid	grandioza	adj.	w
+elusively	eviteme	adv.	w
+skilful	sperta	adj.	
+fostered	nutrita	adj. FAMILY	
+incalculably	nekalkuleble	adv. MATH	w
+roughly	proksimume	adv.	w
+shrank away	retiriĝis foren	phr.	w
+realistic	vivovera	adj. true to life ART	w
+unmistakable	senduba	adj.	
+stage	etapo	n. stopping places or the distance between them	
+leave-taking	adiaŭo	n.	w
+quit	forlasi	v.	w
+shelter	ŝirmo	n.	w
+fight	batalo	n. WAR	w
+significance	signifo	n. KNOW	w
+banish	forpeli	v.tr	w
+exhaustion	lacego	n.	w
+prodigious	ega	adj.	
+aflame	flamanta	adj. FIRE	w
+prone	surventre	adv.	w
+sank	sinkis	v.	
+incredibly	nekredeble	adv.	w
+left-hand	maldekstra	adj.	w
+swung back open	resvingita malferme	phr.	
+cramped	malvasta	adj. ARCHITECTURE	w
+low-ceiled	malalte-plafona	adj. ARCHITECTURE	w
+driven	devigita	adj. compelled	w
+whereof	pri kiu	corr.	w
+connection	konekto	n.	w
+anticlimax	malklimakso	n.	w
+ferocity	sovaĝeco	n.	w
+emaciated	malgrasega	adj.	w	
+primitive-looking	ŝajne primitiva	adj.	
+older	pli aĝa	adj.	
+older	pli malnova	adj.	
+mural	murpentraĵa	adj. ART	w
+amazement	mirigeco	n.	w
+illimitable	senlima	adj.	w
+peak	pinto	n.	w
+peak	supro	n.	w
+prominence	eminenteco	n.	w
+magnificence	grandiozeco	n.	w
+honored	honorita	adj.	w
+throb	pulso	n. HEALTH	w
+peculiarly	strange	adv.	w
+mist	brumo	n. WATER	w
+leer	rigardaĉi	v.	w
+decay	kadukiĝi	v.ntr	w
+vivid	vigla	adj.	
+sensation	sentaĵo	n. KNOW	
+reverberate	resonadi	v. SOUND	w
+endure	travivi	v.	
+scramble	kirliĝo	n.	
+babble	babiladi	v.	w
+image	prezento	n. ART	
+blast	blovego	n.	w
+beset	ĉirkaŭita	adj.	
+pour	verŝiĝi	v.ntr	
+gale	ventego	n. WEATHER	w
+restore	restaŭri	v.	w
+acute	akra	adj.	w
+rock-hewn	rok-hakita	adj.	
+painted	pentrita	adj. ART	w
+balance	ekvilibro	n. equilibrium	w
+largely	grandparte	adv.	w
+inexorably	senĉese	adv.	w
+countless	nekalkulita	adj. MATH	
+wane	malkreski	v.	w
+abide	restadi	v.	w
+reduce	redukti	v.tr	w
+very	mem	*.	w
+physical	fizika	adj.	w
+eery	preternatura	adj.	
+match	egali	v.tr	w
+position	pozicio	n. the way one occupies space	
+here and there	jen kaj jen	phr.	w
+measurement	mezuro	n. act of measuring SHAPE	w
+seemed	ŝajnis	v.	
+association	asocio	n.	w
+greatest	plej granda	adj.	
+explorer	esploranto	n.	w
+deference	respektego	n.	w
+perforce	nepre	adv.	
+watch	poŝhorloĝo	n. pocket watch	w
+were lost	perdiĝis	v. became lost	
+fell to	komencis	v. began	w
+except	krom	prep.	w
+desolate	dezerta	adj.	w
+viciousness	maliceco	n.	w
+pent-up	subpremita	adj.	w
+wasting away	atrofiiĝi	v.	w
+pour	verŝiĝi	v.ntr	w
+resentfully	indigne	adv.	w
+brooding	cerbumado	n. KNOW	w
+take articulate form	klare formiĝi	phr.	
+might mistake	misidentigus	v.	
+clanged	sonoris	v. SOUND	w
+reverberation	resonado	n. SOUND	w
+shut	fermite	adv.	w
+parched	sekigita	adj. WATER	w
+for fear of	timante	adv. emotion	w
+inhabited	loĝis en	v.tr.ntr	w
+afar	de fore	adv.	w
+survivor	supervivinto	n.	w
+bade	ordonis	v.tr ordered	w
+age-worn	epoke eluzita	phr.	
+were laid	kuŝigis	v.tr	w
+faded	fadis	v.ntr	w
+roseate	rozkolora	adj. 	w
+fiery	fajra	adj. FIRE	w
+tiny	eta	adj.	w
+amongst	inter	prep.	w
+shapeless	senforma	adj.	w
+carving	ĉizaĵo	n. ART	w
+dwelt	logis	v.	w
+therein	tie	corr.	w
+so	tiom	corr.	w
+tool	ilo	N.	w
+the rest	la cetero	n.	w
+peering	rigardegi	v.tr VISION	
+carven	ĉizita	adj. ART	w
+area	areo	n. MATH	w
+blown	blovita	adj.	
+decreasing	malkreskanta	adj.	
+seeking	serĉanta	adj.	w
+descending	descendanta	adj.	w
+rough	malglata	adj.	w
+rocky	roka	adj.	w
+unbalanced	malekvilibra	adj.	w
+reservoir	rezervujo	n.	w
+chasm	fendego	n. GEOLOGY	w
+slightly	ete	adv.	w
+smaller	pli eta	adj.	
+shuffle	sin tren-moviĝadi	v. move oneself in a dragging fashion	w
+further	plia	adj.	w
+fastened	alfiksita	adj.	
+fastened	fiksita	adj.	
+case	vitrino	n. FURNITURE display case	w
+continuous	kontinua	adj. MATH	w
+human being	homo	n. PERSON	w
+varied	diversa	adj.	w
+established	establita	adj.	
+category	kategorio	n.	w
+lavishly	abunde	adv.	w
+costliest	plej kosta	adj.	
+held	okupis	v.tr occupied	
+hewing	hakanta	adj.	
+million	miliono	n. MATH	w
+portraying	montranta	adj.	
+inner	interna	adj.	w
+trade	komerci	v.ntr BUSINESS	w
+merchant	komercisto	n. BUSINESS	w
+teem	pleni	v.ntr	w
+vigil	vigilo	n.	w
+outer	ekstera	adj.	w
+condemned	kondamnita	adj.	w
+braced myself	fortigis min	phr.	
+spent time	pasigis tempon	phr.	w
+stalking	ĉaseme marŝi	phr.	
+beholding	rigardante	adv.	w
+came to learn	eksciis	v. found out	
+upright	rekte	adv.	w
+accursed	sub malbeno	adj.	
+curiously	scivole	adv. KNOW	w
+horribly	terure	adj. in a terrible way or an extreme way	w
+amidst	meze de	adv.	w
+tiny sandstorm	sabloŝtormeto	n. WEATHER	
+stark	krude	adv. raw	w
+certain	certa	adj. + noun, something definite, "a certain thing"	w
+loom	superstari	v.tr to tower, to have ones top above somthing	w
+was whirling	turniĝadis	v.ntr	w

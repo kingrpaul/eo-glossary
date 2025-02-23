@@ -1,7 +1,7 @@
 lands	landoj	n. countries or some abstraction thereof	
 abroad	eksterlande	adv. 	w
 foreign	eksterlanda	adj.	w
-
+map	mapo	n. 	w
 
 # CARDINAL DIRECTIONS
 north	norda	adj.
@@ -41,11 +41,12 @@ Circus	Cirklo	n. London's Picadilly Circus
 
 # UNITED STATES
 New Orlean	nov-orleano	n. 
-Florida	Florido	n. GEOGRAPHY	w
+Florida	Florido	n. 	w
 Gainsville	Gajnesvilo	n. CITY
 Gainsville pike	Gajnesvila Vojo	n. 
 Big Cypress Swamp	Grandan Cipresan Marĉon	n.
 Memphis	Memfiso	n. city in Tennessee
+Indian	Indiano	n. American Indian 	w
 
 # NATIONAL DIVISIONS
 counties	graflandoj	n.	
@@ -53,6 +54,7 @@ county	graflando	territory ruled by a count
 county	kantono	U.S. county	
 country	lando	n.	w
 state	stato	n. condition of being; incl states of the USA	
+province	provinco	n. 	w
 
 # LAND FEATURES
 river	rivero	n.	
@@ -70,6 +72,13 @@ plain	ebenaĵo	n.
 valley	valo	n.	w	
 slope	deklivo	n. non-horizontal ground	w
 moor	erikejo	n.	w
+cavern	kaverno	n. 	w
+ocean	oceano	n. 	w
+continent	kontinento	n. 	w
+seacoast	marbordo	n. 	w
+shore	bordo	n. 	w
+tunnel	tunelo	n. 	w
+underground	subtera	adj. 	w
 
 # GREECE
 Grecian	greka	adj.
@@ -93,11 +102,14 @@ Cephissia	Kifisjo	n. suburb of Athens, Greece
 Cephissian	Kifisja	adj. related to the suburb of Athens, Greece 	
 Hymettus	Hijmeto	n. mountain in Greece	
 
+# AFRICA
+Africa	Afriko	n. 	w
+
 # ITALY
-Tyrolese	Tirola	adj.
-Venice	Venecio	n.
-Florence	Florenco	n. Italian city
-Meran	Merano	n.
+Tyrolese	Tirola	adj.	w
+Venice	Venecio	n.	w
+Florence	Florenco	n. Italian city	w
+Meran	Merano	n.	
 
 # ROME
 Rome	Romo	n. capital of ancient Roman empire or modern Italy
@@ -115,30 +127,38 @@ legionary	legiano	n. member of a Roman infantry unit 	w
 
 # MIDDLE EAST
 Arabic	la araba	phr. Arabic language	w
-Arab	araba	adj. related to Arabia	
+Arab	araba	adj. related to Arabia	w
 Arab	arabo	n. an Arab person	
-Syrian	Siria	adj.
+Syrian	Siria	adj.	w
 Libyan	Libia	adj. 	W
-Persian	Perso	n. Persian person 
-Persian	persa	n. of Persia 
-Persian Gulf	Persa Golfo	n. 
-Iran	Irano	n. 
-khan	ĥano	n. leader of Turkish, Tartar, or Mongol tribe	
+Persian	Perso	n. Persian person 	w
+Persian	persa	n. of Persia 	w
+Persian Gulf	Persa Golfo	n. 	w
+Iran	Irano	n. 	w
+khan	ĥano	n. leader of Turkish, Tartar, or Mongol tribe	w
+Babel	Babelo	n. 	w
+Macedonian	Makedona	adj. related to Macedonia 	w
+Macedonia	Makedonio	adj. country 	w
+Araby	Arabio	n. Arabia 	w
+Babylon	Babilono	n. city 	w
+Babylonia	Babilonio 	n. kingdom 	w
+sheik	ŝejko	n. 	w
 
 # EGYPT
-Egypt	Egiptujo	n.
-Egyptian	egipto	n. Egyptian person
+Egypt	Egiptujo	n.	w
+Egyptian	egipto	n. Egyptian person	w
 Egyptian	egipta	adj.	w
-Alexandria	Aleksandrio	n.
-Memphis	Menefro	n. city in ancient Egypt
+Alexandria	Aleksandrio	n.	w
+Memphis	Menefro	n. city in ancient Egypt	w
 Nile	Nilo	n. river in Egypt	w
 Isis	Iziso	n. Egyptian goddess	w
 Kephren	Kefreno	n. aka Khafre, Pharoah c2500 BC
 Menophis	Menofiso	n. personal name
-Nefertiti	Nefertito	n.
+Nefertiti	Nefertito	n.	w
 Sethos	Seto	n. name
 Rames	Rameso	n. name
 Aton	Atono	n. name of Egyptian god
 pyramid	piramido	n.	w
-Rames	Rameso	n. name
 Pharaoh	Faraono	n. 	w
+mummified	mumiigita	adj. 	w
+mummy	mumio	adj. 	w

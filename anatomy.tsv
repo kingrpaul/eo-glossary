@@ -5,6 +5,7 @@ physically	korpe	adj. bodily, use 'fizike' when technical
 make corporeal	enkorpigi	v.tr	w
 disembodied	nekorpa	adj.   	w
 disembodied	senkorpa	adj.   	w
+posture	teniĝo	n. 	w
 
 slim	svelta	adj. 	
 fat	korpulenta	adj. of people 	
@@ -13,6 +14,7 @@ corpulent	korpulenta	adj. 	w
 
 muscle	muskolo	n.	
 organ	organo	n. body part	
+orifice	aperturo	n. 	w
 
 # GENITO-URINARY
 female genitalia	piĉo	n.	
@@ -31,7 +33,9 @@ swarthy	olive-haŭtan	adj. olive complextion
 bone	osto	n. 	W
 skull	kranio	n.	w
 cranium	kranio	n.	
+jaw	makzelo	n. 	w
 rib	ripo	n.	w
+rib cage	brustokaĝo	n. 	w
 big-boned	grand’osta	adj.	
 
 # BLOOD
@@ -82,15 +86,18 @@ brow	frunto	n. forehead
 brow	brovo	n. eyebrow	
 eyebrow	brovo	n.	
 cheek	vango	n.	
-ear	orelo	n.	
 neck	kolo	n.	
 gullet	ezofago	n. esophagus	w
+ear	orelo	n.	
+deaf	surda	adj. 	w
+deafening	surdiga	adj. 	w
 
 # EYES
 eye	okulo	n.	
 eye-socket	kavo	n.	
 tear	larmo	n. from the eyes	w
 eyes downcast	okuloj rigardantaj malsupren	phr.	w
+with closed eyes	okulfermite	adv. 	
 
 # HAIR
 hair	hararo	a set of hair	w
@@ -137,20 +144,24 @@ shoulder	surŝultrigi	v.tr put up on the shoulder	w
 # ARMS & HANDS
 arm	brako	n.	W
 hug	brakumi	v.tr	w
+at arm’s length	je brakdistanco	phr. 	w
 hand	mano	n. at the ends of the arm	w
 hands	manoj	n. at the ends of the arms	w
 palm	manplato	n. as in the palm of the hand	w	
 finger	fingro	n.	w
 
 # TRUNK
-back	dorso	anatomical	w
+back	dorso	N. anatomical	w
+bowels	intestaro	n. 	w
 belly	ventro	n.	w
 buttocks	pugo	n.	w	
 backside	pugo	n.	w
 waist	talio	n.	w
 
 # LEGS & FEET
+leg	kruro	n. 	w
 stout-legged	dike kruraj	phr.	
+calf	suro	n. 	w
 knee	genuo	n.	w
 kneel	genui	v.ntr	w	
 knelt	genuis	v.ntr	w

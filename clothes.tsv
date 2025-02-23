@@ -31,6 +31,9 @@ dress	vesti	v.tr put clothing onto	w
 get dressed	vestiĝi	v.	w
 
 gaudy	malŝika	adj. CLOTHES	w
+gauche	plumpa	adj. CLOTHES	
+fashionable	mojosa	adj.	
+ornate	ornamita	adj.CLOTHES	w
 
 plaid	plejdo	n.	w
 
@@ -42,7 +45,16 @@ textile	teksajo	n.	w
 weave	teksi	v.tr 	w
 cloth	ŝtofo	n.	w
 
+# HEAD COVERING
 crown	kroni	v.tr 	w
 hat	ĉapelo	n. 	w
+helmet	kasko	n. any sort of helmet CLOTHES	w
 
-fashionable	mojosa	adj.	
+
+fabric	ŝtofo	n. CLOTHING	w
+jewel	juvelo	n. CLOTHES	w
+
+panoplied	panoplio-portanta	adj. CLOTHES	w
+
+enrobed	enrobita	adj. CLOTHES	w
+wore	portis	v.tr CLOTHES	w

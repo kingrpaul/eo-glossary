@@ -3,6 +3,7 @@ humanity	homaro	n. all humans	w
 man	homo	n. gender-neutral sense
 people	homoj	n.	w
 human	homa	adj.	w
+man	homaro	n., humanity 	
 
 old lady	maljunulino	n.	
 old man	maljunulo	n.	w
@@ -26,8 +27,8 @@ girl	knabino	n.	w
 
 young person	junulo	n.	w
 youth	junulo	n. young person	
-young	juna	adj. PEOPLE	w
-youth	juneco	n. being young PEOPLE	
+young	juna	adj. 	w
+youth	juneco	n. being young 	
 
 teenager	junulo	n.	
 master	fraŭlo	n.	
@@ -51,10 +52,12 @@ woman	virino	n.	w
 women	virinoj	n.	w
 half woman	duonvirino	n.
 
-
 # FAMILY
+race	raso	n. ethnicity GEOGRAPHY	w
+ancient race	pra-raso	n. 	
 blood	prasango	n. fig. ancestral blood	
 forefathers	prapatroj	n.	
+ancient stock	praularo	n. ancestry 	
 forebears	prauloj	n. 	
 ancestor	praulo	n.	w
 ancestry	praularo	n.	w

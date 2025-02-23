@@ -17,7 +17,7 @@ crane	gruo	n. both bird and machine	w
 nest	nesto	n.
 eagle-owl	gufo	n. nocturnal owl	w
 
-# FISH
+# AQUATIC
 oyster	ostro	n.	w
 mussel	mitulo	n.	w
 scallop	pekteno	n.	w
@@ -27,6 +27,29 @@ fishbowl	bokalo	n.
 carapace	karapaco	n. 	w
 shell	konko	n. 	
 clam	pekteno	n.	w
+alligator	aligatoro	n. 
+crocodile	krokodilo	n. 
+seal	foko	n. 
+
+# MAMMAL
+fox	vulpo	n.	w
+pig	porko	n.	w
+wolf	lupo	n.	w
+boar	apro	n.	w
+beaver	kastoro	n.	w
+dog	hundo	n. hound	
+pug	mopso	n. pugdog	w
+ape	simio	n. any monkey or similar	w
+ass	azeno	n. donkey	w
+gorilla	gorilo	n.	w
+camel	kamelo	n. 	w
+jackal	ŝakalo	n.	w
+lion	leono	n.	w
+buck	boko	n. male deer	w
+wolverine	gulo	n. 	w
+cat	kato	n. 
+bulldog	buldogo	n. 
+she-wolf	lupino	n. 
 
 # HORSE
 nag	ĉevaleto	n. small horse
@@ -34,32 +57,19 @@ horse	ĉevalo	n.
 lighted off my horse	deĉevaliĝis	v.ntr dismounted from a horse 	w
 stable	stalo	n. horse house (or other animals)	w
 stall	stalo	n. stall in a stable	
-graze	paŝtiĝi	v.ntr eat grass 	w
 
-dog	hundo	n. hound	
-pug	mopso	n. pugdog	w
-serpent	serpento	n. snake	w
-ape	simio	n. any monkey or similar	w
-ass	azeno	n. donkey	w
-gorilla	gorilo	n.	w
-toad	bufo	n.	w
-fox	vulpo	n.	w
-pig	porko	n.	w
-wolf	lupo	n.	w
-boar	apro	n.	w
-beaver	kastoro	n.	w
-worm	vermo	n.	w
-jackal	ŝakalo	n.	w
-lion	leono	n.	w
-buck	boko	n. male deer	w
-wolverine	gulo	n. 	w
-vermin	bestetaĉoj	n.	w
-camel	kamelo	n. 	w
-
+# BODY PARTS
 scaly	skvama	adj.	w
 horn	korno	n. eg a bull's horn	w
 snout	rostro	n.	
 spiracle	stigmo	n. respiratory structure of an animal	
+claw	ungo	n. ANIMAL	w
+claw	ungi	v.tr scratch with nails or claws ANIMAL	w
+
+# EATING
+graze	paŝtiĝi	v.ntr eat grass 	w
+pasturage	greso	n. grazing material	
+
 
 ## UNSORTED
 howling	hurlante	adv. 	w
@@ -67,10 +77,11 @@ crawl	rampi	v.ntr
 crawl out	elrampi	v.ntr 
 crawl in	enrampi	v.ntr 
 reptile	reptilio	n. 
-crocodile	krokodilo	n. 
-seal	foko	n. 
-cat	kato	n. 
-bulldog	buldogo	n. 
-she-wolf	lupino	n. 
-alligator	aligatoro	n. 
 beast	besto	n. 
+foreleg	antaŭ-kruro	n. ANIMAL	w
+wildest	plej sovaĝa	adj. ANIMAL	
+snarling	graŭlado	n. ANIMAL	w
+serpent	serpento	n. snake	w
+toad	bufo	n.	w
+worm	vermo	n.	w
+vermin	bestetaĉoj	n.	w

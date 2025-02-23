@@ -54,23 +54,27 @@ made him angry	kolerigis lin	*
 glaring	kolerrigardanta	adj.	w
 
 # -TIM-
-am afraid	timas	v.
-frightened	tima	adj.	w
-frightful	timiga	adj. 	w
+fear	timo	n. 	w
 afraid	tima	adj. 	w
-was not afraid	ne timis	v.ntr	
-making him fearful	timigante lin	phr.	
+frightened	tima	adj.	w
+am afraid	timas	v.
 fears	timas	v.tr	
+was afraid	timis	v.	
+daunt	timigi	v.tr 	w
+frightful	timiga	adj. 	w
+was not afraid	ne timis	v.ntr	
+frightfully	timige	adv. 	w
+making him fearful	timigante lin	phr.	
 fearsomely	timige	adv.	w
 dread	timeginda	adj. worthy of great fear	
 apprehension	antaŭtimo	n.	w
-was afraid	timis	v.	
 frightens	timigas	v.tr	w
 lest	pro timo ke	phr. for fear that	
+dread	timego	n. 	w
 
 # -TENT-
-tempted	tentata	adj. was in a state of temptation	
 tempt	tenti	v.tr	w
+tempted	tentata	adj. was in a state of temptation	
 temptingly	tentante	adv.
 
 # -KONSTERN-
@@ -191,6 +195,25 @@ hopefully	espereble	adv.	w
 in moderation	modere	adv.	w
 in the hope of	esperante	adv.	
 
+# -KOMPAT-
+compassion	kompato	n.	
+forgiveness	kompato	n.	
+pitying	kompatanta	adj.	
+poor	kompatinda	adj. deserving pity	w
+sympathy	kompato	n.	
+merciful	kompatema	adj.
+piteous	kompatinda	adj.	w
+mercilessly	senkompate	adv.	w
+
+# -SIMPAT-
+agreeable	simpatia	adj. of people	
+compatible	simpatia	adj. of people	
+sympathetic	simpatia	adj.	
+sympathise	simpatii	v.tr	
+sympathy	simpatio	n.	
+would sympathise	simpatius	v.	
+
+
 ***************
 
 
@@ -266,3 +289,9 @@ eagerness	entuziasmo	n.
 fondly	ame	adv. 	
 
 distraught	angora	adj. EMOTION	w
+vindictive	venĝema	adj. EMOTION	w
+fury	furiozo	n. EMOTION	w
+with joy	ĝoje	adv. EMOTION
+reticence	malemeco	n. EMOTION	w
+poignant	kortuŝa	adj. EMOTION	w
+avid	avida	adj. EMOTION	w
