@@ -1,5 +1,5 @@
 # -BRIL-
-shone	brilis	v.
+shone	brilis	v.	
 bright	brila	adj.	
 brighter	pli brila		
 
@@ -7,24 +7,24 @@ brighter	pli brila
 dull	malbrila	adj. not visually bright	
 gleams	brilas	v.	
 afterglow	postbrilo	n.	w
-shines	brilas	v.ntr 	
+shines	brilas	v.ntr	
 glistening	fulmetada	adj.	
 glittering	briletanta	adj.	w
 flash	ekbrilo	n.	
 glow	brilo	n.	
 twinkling	ekbriletanta	adj.	w
-radiance	brileco	n. 	w
-flare	brilego	n. 	w
-effulgence	brilegeco	n. 	w
+radiance	brileco	n.	w
+flare	brilego	n.	w
+effulgence	brilegeco	n.	w
 
 # -LUM-
-dim	mallumeta	adj. not bright
-dimness	mallumo	n. 	w
+dim	mallumeta	adj. not bright	
+dimness	mallumo	n.	w
 light	lumo	n. lit. or fig. visible radiation, light source, or part of painting	
 light bath	lum'bano	phr. light bath	
-radiance	lumeco	n. 	w
-illuminating	lumiganta	adj. 	w
-luminous	luma	adj. 	w
+radiance	lumeco	n.	w
+illuminating	lumiganta	adj.	w
+luminous	luma	adj.	w
 lit	lumigita	adj.	w
 
 # -MALLUM-
@@ -48,36 +48,36 @@ silhouette	silueto	n.
 
 # SUN
 sun	suno	n.	w
-sunshine	sunbrilo	n.
-sunlit	sunlumita	adj. 	w
+sunshine	sunbrilo	n.	
+sunlit	sunlumita	adj.	w
 
 # MOON
 moon	luno	n.	w
 moon-glitter	luna-brileto	phr.	w
 crescent moon	lunarko	n.	w
 moonbeam	lunradio	n.	w
-moonless	senluna	adj.
-moonlight	lunlumo	n. 	w
-moon-cast	lune ĵetita	adj. 	
+moonless	senluna	adj.	
+moonlight	lunlumo	n.	w
+moon-cast	lune ĵetita	adj.	
 waning	malkreskanta	adj. eg waning moon	
-waxing	kreskanta	adj. eg the waxing moon
-eclipse	eklipso	n. 	w
+waxing	kreskanta	adj. eg the waxing moon	
+eclipse	eklipso	n.	w
 
 # STARS
 starlight	stellumo	n.	w
-starlit	stelluma	adj. 
-star	stelo	n. star in the sky 	w
+starlit	stelluma	adj.	
+star	stelo	n. star in the sky	w
 # -HEL-
-dark	malhelo	n. 	w
+dark	malhelo	n.	w
 brightly	hele	adv.	
 dark	malhela	adj. dimly lit, color having little white	
-lights began to rise	lumoj komencis heliĝi	w
-lights to be turned up	lumoj heligu	*. a wish for more light	
+lights began to rise	lumoj komencis heliĝi	phr.	w
+lights to be turned up	lumoj heligu	phr. a wish for more light	
 
 # UNSORTED
 lamp	lampo	n.	
 lantern	lanterno	n.	w
 tenebrous	tenebra	adj.	w
-halo	haloo	n. in astronomy 	w
-phosphorescent	fosforeska	adj. 	w
-phosphorescence	fosforesko	n. 	w
+halo	haloo	n. in astronomy	w
+phosphorescent	fosforeska	adj.	w
+phosphorescence	fosforesko	n.	w

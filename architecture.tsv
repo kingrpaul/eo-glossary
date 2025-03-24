@@ -1,7 +1,17 @@
+# -LOĜ-
+dwell	loĝi	v.tr ARCHTECTURE	
+inhabited	loĝis en	v.tr.ntr	w
+habitation	loĝejo	n. a place where one lives, inc animals	w
+dwelling	loĝejo	n.	w
+dweller	loĝanto	n. ARCHTECTURE	
+settle	enloĝiĝi	v.ntr move in	w
+
+
+
 home	hejmo	n.	w
-home	hejme	adv.at home
-home	hejmen	adv.toward home
-homewards	hejmen	adv. 	W
+home	hejme	adv. at home	
+home	hejmen	adv.toward home	
+homewards	hejmen	adv.	W
 
 house	domo	n.	w
 manor	domego	n.	
@@ -9,28 +19,27 @@ manor house	domego	n.
 mansion	domego	n.	
 
 # -FENEST-
-window	fenestro	n. 	W
-bank of windows	aro da fenestroj	n. 	
-windowless	senfenestra	adj. 	
+window	fenestro	n.	W
+bank of windows	aro da fenestroj	n.	
+windowless	senfenestra	adj.	
 
-tower	turo	n. 	w
-patio	korto	n. 	w
-chimney	kamentubo	n. 	w
-chimney	kameno	n. 	w
-doorway	pordejo	n. 	w
+tower	turo	n.	w
+patio	korto	n.	w
+chimney	kamentubo	n.	w
+chimney	kameno	n.	w
+doorway	pordejo	n.	w
 
 cell	ĉelo	n. solo room	w
-large room	halo	n. 	
-wing	alo	N. wing of a plane or building	
-room	ĉambro	n. 	
+large room	halo	n.	
+wing	alo	n. wing of a plane or building	
+room	ĉambro	n.	
 roof overhang	alero	n.	
-monolith	monolito	n. monument made of one block 	w
+monolith	monolito	n. monument made of one block	w
 colonnade	kolonaro	n.	w
-pillar	piliero	n. 	w
-staircase	ŝtuparo	n. 	w
+pillar	piliero	n.	w
+staircase	ŝtuparo	n.	w
 erect	starigi	v. tr to cause to stand up or be built	w
 builder	konstruisto	n. contruction worker	
-habitation	loĝejo	n. a place where one lives, inc animals	w
 palace	palaco	n.	w
 stairwell	ŝtuparejo	n.	w
 attic	mansardo	n.	w
@@ -40,45 +49,52 @@ basement	subetaĝo	n.
 balustrade	balustrado	n.	w
 building	konstruaĵo	n.	w
 ruins	ruinoj	n. remains of ruined buildings	w
-vestibule	vestiblo	n. 	W
+vestibule	vestiblo	n.	W
 flight of steps	ŝtuparo	n.	w
 façade	fasado	n.	w
 facade	fasado	n.	
 floor	etaĝo	n. story of a building	
 floor	planko	n.	
 ground floor	teretaĝo	n.	w
-stairs	ŝtuparo	n. 	
-study	kabineto	n. 	
-ceiling	plafono	n. 	
-upstairs	supre	adv. 	
-apartment	apartamento	n. 	w
-flat	apartamento	n. 	w
-dwelling	loĝejo	n. 	w
-suite	ĉambraro	n. 	w
+stairs	ŝtuparo	n.	
+study	kabineto	n.	
+ceiling	plafono	n.	
+upstairs	supre	adv.	
+apartment	apartamento	n.	w
+flat	apartamento	n.	w
 
-roof	tegmento	n. ARCHITECTURE
-rafters	tegmenta trabaro	n. 	w
+suite	ĉambraro	n.	w
+
+roof	tegmento	n.	
+rafters	tegmenta trabaro	n.	w
 eave	alero	n. roof overhang	
 
-
-railing	balustrado	n.eg around a balcony 	w
-parlour	salono	n.	w
-hall	halo	n. 	w
-
-brick	briko	n. ARCHITECTURE	w
-tent	tendo	n. cloth building ARCHITECTURE	w
-camp	tendaro	n. group of tents ARCHITECTURE	w
-interiors	internoj	n. ARCHITECTURE	w
-passage	pasejo	n. ARCHITECTURE
-corridor	koridoro	n. ARCHITECTURE
-
-
 # -PORD, -ŜLOŜ- (DOOR & KEY)
-gate	pordego	n. 	w
+gate	pordego	n.	w
 portal	pordego	n.	w
 door	pordo	n.	w
-above the door	superporde	adv. 	
-latchkey	klinka ŝlosilo	n. 	w
-key	ŝlosilo	n. 	w
+above the door	superporde	adv.	
+latchkey	klinka ŝlosilo	n.	w
+key	ŝlosilo	n.	w
 ajar	malfermetita	adj. having been slightly opened	w
 ajar	malfermete	adv. being pushed slightly open	w
+
+
+##### UNSORTED
+
+railing	balustrado	n.eg around a balcony	w
+parlour	salono	n.	w
+hall	halo	n.	w
+
+brick	briko	n.	w
+tent	tendo	n. cloth building	w
+camp	tendaro	n. group of tents	w
+interiors	internoj	n.	w
+passage	pasejo	n.	
+corridor	koridoro	n.	
+edifice	konstruaĵo	n.	w
+niche	niĉo	n.	w
+low-studded	kun malaltaj fostoj	phr. ceiling supported by short studs	w
+vault	volbo	n. arched ceiling	w
+cramped	malvasta	adj.	w
+low-ceiled	malalte-plafona	adj.	w

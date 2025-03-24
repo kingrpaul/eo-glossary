@@ -5,6 +5,8 @@ what time is it	kioma horo estas	phr.
 # CLOCK
 clock	horloĝo	n.	
 hands	montriloj	n. hands of a clock	w
+watch	brakhorloĝo	n. wrist clock	w
+watch	poŝhorloĝo	n. pocket watch	w
 
 # UNITS OF time
 hour	horo	n.	w
@@ -12,21 +14,21 @@ minute	minuto	n.	w
 moment	momento	n.	w
 
 ## SPECIFIC CLOCK TIMES
-two o’clock	la dua horo	phr.
+two o’clock	la dua horo	phr.	
 half-past two	la dua kaj duono	phr. time	
 half-past five	la kvina kaj duono	phr. time 5:30	
-at six	je la sesa	phr. time
-at nine o’clock	je la naŭa	adj.
-at noon	tagmeze	adv.
-six o’clock	sesa horo	phr. time
-at half past eleven	je la dekunua kaj duono	phr. 
+at six	je la sesa	phr. time	
+at nine o’clock	je la naŭa	adj.	
+at noon	tagmeze	adv.	
+six o’clock	sesa horo	phr. time	
+at half past eleven	je la dekunua kaj duono	phr.	
 
 ## VAGUE EARTH TIMES
 afternoon	posttagmezo	n.	
 small hours	tre malfruaj horoj	phr.	
 dawn	matenkrepusko	n.	w
 sunleviĝo	sunrise	n.	w
-morning	mateno	n. 
+morning	mateno	n.	
 in the morning	matene	adv.	
 in the daytime	tage	adv.	w
 noon	tagmezo	n.	w
@@ -38,7 +40,7 @@ sunset	sunsubiro	n.	w
 dusk	vesperkrepusko	n.	w
 evening	vespero	n. time	w
 night	nokto	n.	w
-tonight	ĉi-nokte	adv.
+tonight	ĉi-nokte	adv.	
 midnight	noktomezo	n.	
 
 ## OTHER  THINGS
@@ -46,17 +48,17 @@ every few seconds	ĉiuj kelkaj sekundoj	phr.
 most of the time	plejofte	adv.	w
 at any other time	en ajna alia tempo	phr.	
 at such a time	je tia tempo	phr.	
-a bit	iom da tempo	phr. a bit of time
-all these years	dum ĉiuj ĉi tiuj jaroj	phr. time
+a bit	iom da tempo	phr. a bit of time	
+all these years	dum ĉiuj ĉi tiuj jaroj	phr. time	
 as yet	ĝis nun	phr. time	
-as of old	kiel antaŭe	phr.
+as of old	kiel antaŭe	phr.	
 long gone	for jam longe	phr.	
 longer	pli longe	adv.	
 
 ## -FOJ- 
 occasionally	foje	adv.	w
 occasion	fojo	n.	w
-on occasions	foje	adv. 
+on occasions	foje	adv.	
 for the first time	unuafoje	adv.	
 once	foje	adv.	
 once	unufoje	adv. on one occasion	w
@@ -65,41 +67,41 @@ a second time	duafoje	adv.	w
 time	fojo	n. occasion	
 sometimes	kelkfoje	adv.	
 for once	por unufoje	phr.	w
-several times	plurfoje	adv.
+several times	plurfoje	adv.	
 this time	ĉi-foje	adv.	w
 
 ## DURATION
-interminable	nefiniĝebla	adj. 	w
+interminable	nefiniĝebla	adj.	w
 long	longe	adv. for a long time	w
 awhile	dum iom da tempo	phr.	w
-for a little	dum iom da tempo	phr.
-briefly	mallonge	adv.
+for a little	dum iom da tempo	phr.	
+briefly	mallonge	adv.	
 from time immemorial	de post tempo nememorebla	adj.	
 forever and ever	por eterno kaj eterne	phr.	w
 little while	dum iom da tempo	phr. a little while	
 all the time	dum la tuta tempo	phr.	
-all day	dum la tuta tago	phr. 
+all day	dum la tuta tago	phr.	
 momentary	momenta	adj.	w
 momentarily	momente	adv. lasting a moment	w
 for a moment	dum momento	phr.	
 for an instant	por momento	phr.	
 
 ## IN THE PAST
-past	pasinta	adj. 
-previously	antaŭe	adv. 	w
-recent	lasta	adj. 	w
-recently	antaŭ nelonge	adv. 	w
-recently	lastatempe	adv. 	w
-only a while ago	antaŭ nur iom da tempo	phr. 
+past	pasinta	adj.	
+previously	antaŭe	adv.	w
+recent	lasta	adj.	w
+recently	antaŭ nelonge	adv.	w
+recently	lastatempe	adv.	w
+only a while ago	antaŭ nur iom da tempo	phr.	
 long, long ago	longa, longa antaŭe	phr.	w
 
 ## IN THE FUTURE
 later	pli poste	phr.	
-any minute now	ĉiun momenton nun	phr. 	w
+any minute now	ĉiun momenton nun	phr.	w
 any moment	en iu ajn momento	phr. at any moment	w
 in due course	post iom da tempo	n.	
-sooner	pli baldaŭ	*.
-afterwards	poste	adv. 	
+sooner	pli baldaŭ	adj.	
+afterwards	poste	adv.	
 
 ## PRESENT DAY
 present day	nuneco	n.	
@@ -110,15 +112,15 @@ these days	nuntempe	adv.	w
 present day	la estanteco	n.	
 
 ## PAST PRESENT FUTURE
-past	pasinteco	n.
+past	pasinteco	n.	
 future	estonta	adj.	
 future	estonteco	n.	
 
 ## FOREVER
-always	eterne	adv. eternally
+always	eterne	adv. eternally	
 forever and ever	eterne kaj eterne	phr.	
 eternal	eterna	adj.	w
-forever	por eterno	phr. for all future time
+forever	por eterno	phr. for all future time	
 for all time	por eterno	phr.	
 
 ## JUST PRECEDING
@@ -129,27 +131,27 @@ newly	ĵus	adv. something that just happened	w
 moment ago	ĵus	just ie a moment ago	
 
 ## RIGHT NOW
-now	nun	adv. 	
+now	nun	adv.	
 at this very moment	je ĉi tiu preciza momento	n.	
 
 ## JUST FOLLOWING
 the moment	tuj kiam	phr. immediately when	
 presently	tuj	adv	
 on the instant	tuje	adv. UK 'without delay'	
-instantaneous	tuja	adj. w
+instantaneous	tuja	adj.	w
 
 
 
 ####################
-no sooner … than	apenaŭ … tuj	phr. idiom, no sooner A than B 	w
-at the same time	samtempe	adv. 	w
-elapse	pasi	v.ntr 	w
-immemorial	nememorebla	adj. 	w
-at length	laŭlonge	adv. 	w
+no sooner … than	apenaŭ … tuj	phr. idiom, no sooner A than B	w
+at the same time	samtempe	adv.	w
+elapse	pasi	v.ntr	w
+immemorial	nememorebla	adj.	w
+at length	laŭlonge	adv.	w
 late	malfrue	adv.	
 later	malfrue	adv.	
 shall be late	malfruos	v.ntr	
-earliest	plej frua	*.	
+earliest	plej frua	adj.	
 in time	ĝustatempe	adv.	w
 interval	intertempo	n. time between events	w
 interminably	nefiniĝeble	adv. TIME	
@@ -170,7 +172,6 @@ former	antaŭa	adj. TIME	w
 a moment	dum momento	phr. for a moment TIME	
 latest	lasta	adj. TIME	w
 past	pasinteco	n. TIME	
-presently	tiatempe	adv. at that time TIME	
 dawn	tagiĝe	adv. TIME	w
 dusk	krepusko	n. TIME	
 just at dawn	ĝuste je tagiĝo	phr. TIME	w
@@ -184,12 +185,12 @@ still	ankoraŭ	adv. action did not stop
 yet	ankoraŭ	adv. action did not stop	
 simultaneously	samtempe	adv.	W
 
-all these years	ĉiuj ĉi tiuj jaroj	phr. 	
-common	ofta	adj. frequently occurring 	w
-eventual	fina	adj. 	
-henceforth	de nun	* 	
-herewith	ĉi kune	adv. 	w
-immediately	tuj	adv. 	
-in an instant	tuje	adv. 	
-soon	baldaŭ	adv. 	
-at last	finfine	adv. 
+all these years	ĉiuj ĉi tiuj jaroj	phr.	
+common	ofta	adj. frequently occurring	w
+eventual	fina	adj.	
+henceforth	de nun	phr.	
+herewith	ĉi kune	adv.	w
+immediately	tuj	adv.	
+in an instant	tuje	adv.	
+soon	baldaŭ	adv.	
+at last	finfine	adv.	

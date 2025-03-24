@@ -1,8 +1,8 @@
 # -VIV-
 be alive	vivi	v.	
-are alive	vivas	v.ntr
+are alive	vivas	v.ntr	
 living	vivado	n.	
-life	la vivo	n.
+life	la vivo	n.	
 alive	viva	adj.	w
 life	vivo	n.	
 makes live	vivigi	v.tr	w
@@ -10,8 +10,6 @@ makes live	vivigi	v.tr	w
 # -KURAC-
 doctor	kuracisto	n. physician	w
 heal	kuraci	v.tr	
-healthy	sana	adj.
-unhealthy	malsana	adj. 	w	
 physician	kuracisto	n.	w
 treat	kuraci	v.tr an illness or wound	w
 treatment	kuracado	n.	w
@@ -22,8 +20,8 @@ hurt	dolori	v.tr
 aches	doloras	v.tr normally followed by 'sin'	w
 agony	dolorego	n.	
 pain	doloro	n.	
-horrible pain	dolorego	n. 	
-pain him	dolori sin	phr. 	
+horrible pain	dolorego	n.	
+pain him	dolori sin	phr.	
 cause pain	dolori	v.tr	
 headache	kapdoloro	n.	w
 
@@ -34,6 +32,8 @@ injured	vundita	adj.
 wound	vundi	v.tr	w
 
 # -SAN-
+healthy	sana	adj.	
+unhealthy	malsana	adj.	w
 sanatorium	sanatorio	n. residential rehab, ≠hospitalo	
 hospital	malsanulejo	n.	
 sickened	malsanigita	adj.	w
@@ -43,14 +43,14 @@ be cured	por esti resanigita	phr. lit. for the purpose of being restored to heal
 well	sana	healthy	
 would make ill	malsanigus	v.tr	
 ill	malsana	adj. not healthy	w
-recovery	resaniĝo	v. recovery of health
+recovery	resaniĝo	v. recovery of health	
 sick	malsana	adj.	w
 ailing	malsana	adj. not healthy	
 ailment	malsaneto	n.	w
 getting ill	malsaniĝi	v.ntr	
-disease	malsano	n. 	w
+disease	malsano	n.	w
 have recovered	resaniĝis	v.ntr	
-
+sane	mense sana	adj.	w
 
 
 
@@ -68,23 +68,34 @@ nerves	nervoj	n. figurative nervous status	w
 dress	pansi	v.tr to dress a wound	
 fever	febro	n.	w
 gauze	gazo	n.	
-feverish	febra	adj. 	w
+feverish	febra	adj.	w
 crazy	freneza	adj.	
 raving mad	frenezi	v.	
 scab	krusto	n.	
 scar	stigmato	n.	
 gout	podagro	n.	
 infectious	infekta	adj.	w
-asthma	astmo	n. 	w
-asylum	azilo	n. for refugees or mental institution 	w
-swell	ŝveli	v.ntr 	w
-swell	ŝveligi	v.tr 	w
-paralysis	paralizo	n. 	w
-itches	jukas sin	v.tr 	w
-crutches	lambastonoj	n. 	w
-make weak	malfortigi	v. 	
-insomnia	sendormeco	n. 	w
-sleeplessness	sendormado	n. 	w
+asthma	astmo	n.	w
+asylum	azilo	n. for refugees or mental institution	w
+swell	ŝveli	v.ntr	w
+swell	ŝveligi	v.tr	w
+paralysis	paralizo	n.	w
+itches	jukas sin	v.tr	w
+crutches	lambastonoj	n.	w
+make weak	malfortigi	v.	
+insomnia	sendormeco	n.	w
+sleeplessness	sendormado	n.	w
 
-gasp	anhelo	n. breathe with difficulty and noisily 	w
-spasm	spasmo	n. 	w
+gasp	anhelo	n. breathe with difficulty and noisily	w
+spasm	spasmo	n.	w
+
+plague	pesto	n.	
+madly	freneze	adv.	w
+impotent	impotenta	adj.	w
+drug	drogo	n.	w
+delirium	deliro	n.	w
+immortality	senmorteco	n.	w
+malignancy	maligneco	n.	w
+unwholesome	nesalubra	adj.	w
+living	vivanta	adj.	w
+throb	pulso	n.	w

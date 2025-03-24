@@ -6,11 +6,11 @@ colder	pli malvarma	adj.
 cool	malvarma	adj. not hot	
 cool	mojosa	adj. fashionable	
 cooling	malvarmiĝanta	adj.	
-coolly	malvarme	adv. 
+coolly	malvarme	adv.	
 warmth	varmeco	n.	w
 hot	varma	adj.	
 heat	varmeco	n. warmth	
-warm	varma	adj.
+warm	varma	adj.	
 
 fire	fajro	n.	
 campfire	tendarfajro	n.	
@@ -19,12 +19,18 @@ sparks	fajreroj	n.
 
 brazier	braĝujo	n.	w
 burning	brulanta	adj.	w
-burn	bruli	v.ntr 
-burn	bruligi	v.tr 
+burn	bruli	v.ntr	
+burn	bruligi	v.tr	
 light	ekbruligi	v.tr start a fire	
-burned	bruligita	adj.
+burned	bruligita	adj.	
 seared	bruligita	adj.	w
 
 inflame	flamigi	v.tr raise flames in a burning thing, or excite strongly	
 flame	flamo	n.	w
 blazing	flamanta	adj.	w
+
+smoking	fuma	adj. smokey FIRE	w
+quench	estingi	v.tr cause to stop burning FIRE	w
+ablaze	brulanta	adj. FIRE	w
+aflame	flamanta	adj. FIRE	w
+fiery	fajra	adj. FIRE	w

@@ -10,8 +10,8 @@ debit	debeto	n.
 debt	ŝuldo	n.	
 debtor	debitoro	n.	
 salary	salajro	n.	
-paid	pagis	v.tr
-price	prezo	n.
+paid	pagis	v.tr	
+price	prezo	n.	
 account	konto	n.	
 account statement	konteltiro	n.	
 accountant	kontisto	n.	
@@ -30,7 +30,7 @@ till	kaso	n. cash register	w
 coin bank	kaso	n.	
 treasurer	kasisto	n.	
 underpaid	nesufiĉe pagata	phr.	w
-banker	bankisto	n.
+banker	bankisto	n.	
 rich	riĉa	adj.	
 richness	riĉeco	n.	
 sixpence	ses-penco	n. MONEY	w
@@ -38,7 +38,7 @@ turnover	spezi	v.tr to turnover (money)
 surcharge	taksi	v.	w
 lend	prunti	v.	w
 set a maximum legal price for	taksi	v.	
-speculative	spekula	adj. financially 	w
+speculative	spekula	adj. financially	w
 
 
 enterprise	firmao	n. COMMERCE	w
@@ -48,6 +48,8 @@ director	direktoro	n. COMMERCE	w
 supermarket	magazeno	n. COMMERCE	w
 firm	firmao	n. COMMERCE	
 firm	firmo	n. COMMERCE	
-buy	aĉeti	v.tr COMMERCE
+buy	aĉeti	v.tr COMMERCE	
 
 cheap	malmultekosta	adj.	w
+trade	komerci	v.ntr BUSINESS	w
+merchant	komercisto	n. BUSINESS	w

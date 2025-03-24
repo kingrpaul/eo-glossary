@@ -1,4 +1,4 @@
-mood	humoro	n. 	w
+mood	humoro	n.	w
 
 # -ĜAJ-
 dreary	malgaja	adj.	
@@ -11,7 +11,7 @@ festive	gaja	adj.
 gayer	pli gaja	phr.	
 gaily	gaje	adv.	w
 merrily	gaje	adv.	w
-jollity	gajeco	n.	w	
+jollity	gajeco	n.	w
 mirth	gajeco	n.	w
 jolly	gajega	adj.	
 joy	gajo	n. gaiety, cheerfulness	w
@@ -20,7 +20,7 @@ cheered	gajigis	v.tr made one cheerful	w
 
 # -ĜOJ-
 sad	malĝoja	adj.	
-dismal	senĝoja	adj. joyless
+dismal	senĝoja	adj. joyless	
 sadness	malĝojo	n.	w
 joy	ĝojo	n. feeling of rejoicing	w
 glad	ĝoja	adj.	w
@@ -42,46 +42,46 @@ suspicion	sento	n.
 sense	sentumo	n. insight, suspicion	
 suspicion	sentumo	n.	
 insight	sentumo	n.	
-sensitive	sentema	adj. 	
-sensitivity	sentemo	n. 	w
+sensitive	sentema	adj.	
+sensitivity	sentemo	n.	w
 sensibilities	sentemoj	n.	w
 consent	konsento	n. pleasant or unpleasant perceived sensation	
-sentimental	sentimentala	adj. 	
+sentimental	sentimentala	adj.	
 
 # -KOLER-
 anger	kolero	n.	w
-made him angry	kolerigis lin	*	
+made him angry	kolerigis lin	phr.	
 glaring	kolerrigardanta	adj.	w
 
 # -TIM-
-fear	timo	n. 	w
-afraid	tima	adj. 	w
+fear	timo	n.	w
+afraid	tima	adj.	w
 frightened	tima	adj.	w
-am afraid	timas	v.
+am afraid	timas	v.	
 fears	timas	v.tr	
 was afraid	timis	v.	
-daunt	timigi	v.tr 	w
-frightful	timiga	adj. 	w
+daunt	timigi	v.tr	w
+frightful	timiga	adj.	w
 was not afraid	ne timis	v.ntr	
-frightfully	timige	adv. 	w
+frightfully	timige	adv.	w
 making him fearful	timigante lin	phr.	
 fearsomely	timige	adv.	w
 dread	timeginda	adj. worthy of great fear	
 apprehension	antaŭtimo	n.	w
 frightens	timigas	v.tr	w
 lest	pro timo ke	phr. for fear that	
-dread	timego	n. 	w
+dread	timego	n.	w
 
 # -TENT-
 tempt	tenti	v.tr	w
 tempted	tentata	adj. was in a state of temptation	
-temptingly	tentante	adv.
+temptingly	tentante	adv.	
 
 # -KONSTERN-
 consternation	konsterno	n.	w
 disconcerted	konsternita	adj.	
 dismayed	konsternita	adj.	
-startled	konsternite	adv.
+startled	konsternite	adv.	
 started	konsterniĝe resaltis	phr. recoil from being startled	w
 startled	konsternis	v.tr past tense of startle	w
 
@@ -89,6 +89,22 @@ startled	konsternis	v.tr past tense of startle	w
 awe	miro	n.	w
 awe	admiro	n. admiration	
 awed	admirante	adv.	
+admiration	admiro	n.	w
+awed	mirigite	adv. with surprise	
+fantastic	mirinda	adj. such as to cause amazement	
+amazement	mirigeco	n.	w
+amaze	mirigi	v.tr	w
+astonish	mirigi	v.tr	w
+amazing	miriga	adj.	w
+wondrous	mirinda	adj.	w
+wonder	mirindaĵo	n. wonderful thing	w
+wonderful	mirinda	adj.	w
+wonder	miro	n.	w
+wonderful thing	mirindaĵo	n.	
+marvellous	mirinda	adj.	w
+little wonder	ne mirinde	phr.	w
+amazingly	mirinde	adv.	w
+astounding	miriga	adj.	
 
 # -MALTRANKVIL-
 troubled	maltrankvila	adj. anxious	w
@@ -118,17 +134,18 @@ horror	teruro	n. great fear	w
 awfully	terure	adv.	
 horrible	terura	adj. such as to evoke terror or very strong	w
 terrible	terura	adj.	w
-terrifies	teruras	v.tr
-awful	terura	adj. such as to evoke terror or very strong
+terrifies	teruras	v.tr	
+awful	terura	adj. such as to evoke terror or very strong	
 terror	teruraĵo	n. a thing that inspires terror	w
+horribly	terure	adj. in a terrible way or an extreme way	w
 
 # -SOPIR-
-pine	sopiri	v.tr yearn for 	
+pine	sopiri	v.tr yearn for	
 yearning	sopiro	n.	
 longing	sopiro	n.	w
-longing	sopirinta	adj. condition of having longed for
-would not pine	ne sopirus	phr. 	
-miss	sopiri	v.tr yearn for 
+longing	sopirinta	adj. condition of having longed for	
+would not pine	ne sopirus	phr.	
+miss	sopiri	v.tr yearn for	
 
 # -ĜU-
 enjoy	ĝui	v.tr	
@@ -149,23 +166,23 @@ betray	perfidi	v.tr	w
 trust	fidi	v.tr	w
 treachery	perfido	n.	w
 faithful	fidela	adj.	w
-confidently	memfide	adj.
+confidently	memfide	adj.	
 
 # -SUFER-
-suffering	sufero	n. 	w
+suffering	sufero	n.	w
 suffers	suferas	v.ntr	
 suffering	suferanta	adj.	w
 
 # -AM-
-love	amo	n.
+love	amo	n.	
 love	ami	v.tr	
 hate	malami	v.	w
 hated	malamita	adj. unloved	w
 hateful	malaminda	adj. deserving to be hated	w
 has loved	amis	v.tr	
-loving	amanta	adj.
+loving	amanta	adj.	
 in love	enamiĝinte	adv.	
-beloved	amata	adj. 	
+beloved	amata	adj.	
 best loved	plej amata	adj.	
 favorite	plej amata	best loved	
 
@@ -177,17 +194,17 @@ happy	feliĉa	adj.	w
 
 # - STUPOR-
 dazed	stuporita	adj.	w
-stupefied	stuporite	adv. 	w
+stupefied	stuporite	adv.	w
 
 # -PLEZUR-
 pleasure	plezuro	n.	w
-displeasure	malplezuro	n. 	w
+displeasure	malplezuro	n.	w
 with pleasure	plezure	adv.	w
 
 # -ESPER-
-despairing	malespera	adj. 	w
-hopelessness	senespereco	n.
-hopeless	senespera	adj.
+despairing	malespera	adj.	w
+hopelessness	senespereco	n.	
+hopeless	senespera	adj.	
 hope	esperi	v.tr	
 hope for	esperi	v.	
 hopeful	esperplena	adj.	w
@@ -201,7 +218,7 @@ forgiveness	kompato	n.
 pitying	kompatanta	adj.	
 poor	kompatinda	adj. deserving pity	w
 sympathy	kompato	n.	
-merciful	kompatema	adj.
+merciful	kompatema	adj.	
 piteous	kompatinda	adj.	w
 mercilessly	senkompate	adv.	w
 
@@ -214,18 +231,17 @@ sympathy	simpatio	n.
 would sympathise	simpatius	v.	
 
 
-***************
 
 
-horror	hororo	n. feeling of terror with disgust 	w
+
+horror	hororo	n. feeling of terror with disgust	w
 horrible	horora	n. causing horror	w
-temperament	temperamento	n. 	w
-boldly	aŭdace	adv. 
-silly	facilanima	adj. light-hearted 	w
+temperament	temperamento	n.	w
+boldly	aŭdace	adv.	
+silly	facilanima	adj. light-hearted	w
 
-be shy	sin ĝeni	v. 	
+be shy	sin ĝeni	v.	
 
-unselfconscious	nememkonscia	adj.	w
 
 jovial	joviala	adj.	w
 
@@ -233,9 +249,9 @@ miserable	mizera	adj.	w
 
 pleased	kontenta	adj.	w
 
-affection	korinklino	n. 	w
-mooned	tag'revis obsede	lit. daydreamed obsessively 	w
-audacity	aŭdaco	n. 	w
+affection	korinklino	n.	w
+mooned	tag'revis obsede	lit. daydreamed obsessively	w
+audacity	aŭdaco	n.	w
 
 depressed	deprimita	adj.	
 depressing	nigra	adj. sentiments attitudes	
@@ -267,31 +283,31 @@ bewildered	perpleksa	adj.	w
 
 light-heartedly	facilanime	easy-going, lit. easy-souled	
 lighthearted	facilanima	adj.	
-lighthearted	malpeze kora	*	
+lighthearted	malpeze kora	phr.	
 
 ecstatic	ekstaza	adj.	
 ecstasy	ekstazo	n,	w
 
 
-thrill	eksciti	v.tr   	w
+thrill	eksciti	v.tr  	w
 
 jealous	ĵaluza	adj.	
 envy	envii	v.	
-envy	envio	n. 	
-resentment	rankoro	n. 
-affect	emocio	n. an emotion 	
-bored	enua	adj. 	
-overwrought	superfortita	adj. 	
-clearheaded	klarkapa	adj. 	w
-dull	enuiga	adj. boring 	
-enthusiasm	entuziasmo	n. 	w
-eagerness	entuziasmo	n. 	
-fondly	ame	adv. 	
+envy	envio	n.	
+resentment	rankoro	n.	
+affect	emocio	n. an emotion	
+bored	enua	adj.	
+overwrought	superfortita	adj.	
+clearheaded	klarkapa	adj.	w
+dull	enuiga	adj. boring	
+enthusiasm	entuziasmo	n.	w
+eagerness	entuziasmo	n.	
+fondly	ame	adv.	
 
 distraught	angora	adj. EMOTION	w
 vindictive	venĝema	adj. EMOTION	w
 fury	furiozo	n. EMOTION	w
-with joy	ĝoje	adv. EMOTION
+with joy	ĝoje	adv. EMOTION	
 reticence	malemeco	n. EMOTION	w
 poignant	kortuŝa	adj. EMOTION	w
 avid	avida	adj. EMOTION	w

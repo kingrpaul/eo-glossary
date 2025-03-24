@@ -9,17 +9,18 @@ Hesperides	Hesperidoj	n.	w
 sylph	silfino	n.	w
 saturnalia	saturnalio	n.	w
 satyr	satiruso	n.	
-Zeus	Zeŭso	n. 	w
-Athena	Atena	n.  Greek goddess  	w
-Theseus	Tezeo	n. 	w
-Ariadne	Ariadno	n. 	w
-Phaedra	Fedra	n. 	w
-Minos	Minoo	n. 	w
-Pasiphae	Pazifao	n. 	w
-Minotaur	Minotaŭro	n. 	w
-Dionysus	Dionizo	n. 	w
-Hippolyta	Hipolito	n. 	w
+Zeus	Zeŭso	n.	w
+Athena	Atena	n.  Greek goddess 	w
+Theseus	Tezeo	n.	w
+Ariadne	Ariadno	n.	w
+Phaedra	Fedra	n.	w
+Minos	Minoo	n.	w
+Pasiphae	Pazifao	n.	w
+Minotaur	Minotaŭro	n.	w
+Dionysus	Dionizo	n.	w
+Hippolyta	Hipolito	n.	w
 Fates	Sortoj	n. Atropos, Clotho, and Lachesis	w
+Pan	Pajno	n. goat-god	
 
 # LOVECRAFT
 Nyarlathotep	Njarlatotepo	Lovecraft monster	
@@ -30,11 +31,11 @@ elf	elfo	n.	w
 sprite	elfo	n.	w
 genie	ĝino	n.	w
 Issidy	Izidio	n. woman's first name	
-witch	sorĉistino	n.
-gargoyle	gargojlo	n. 	w
+witch	sorĉistino	n.	
+gargoyle	gargojlo	n.	w
 
 
-afreet	efrito	a powerful evil jinni, demon, or monstrous giant in Arabic mythology	
+afreet	efrito	n. powerful evil jinni, demon, or monstrous giant in Arabic mythology	w
 ghosts	fantomoj	n.	w
 ghostly	fantome	adv.	w
 haunt	hanti	v.tr	w
@@ -42,35 +43,35 @@ haunted	plagita	adj. haunted figuratively	w
 eldritch	preternatura	adj.	w
 uncanny	preternatura	adj.	w
 séance	spiritista seanco	n.	w
-medium	mediumo	n. spirit medium 	w
-shade	ombra animo	phr. shadowy spirit
+medium	mediumo	n. spirit medium	w
+shade	ombra animo	phr. shadowy spirit	
 
 # DEVILTRY 
 devil	diablo	n.	
 fiendish	diabla	adj.	w
 daemon	demono	n.	w
 demon	demono	n.	w
-demoniac	demona	adj. demonic	
-daemoniac	demona	adj. demonic	
-infernal	infera	adj. MYTH
-hellish	infera	adj.	
+demoniac	demona	adj. demonic	w
+daemoniac	demona	adj. demonic	w
+infernal	infera	adj. MYTH	w
+hellish	infera	adj.	w
 fiend	diablo	n. devil	w
 
 # MAGIC
 enchanted	ensorĉita	adj.	w
 bewitched	sorĉita	adj.	w
 has cast a glamour over	prisorĉis	v.tr	w
-magical	magia	adj.	
+magical	magia	adj.	w
 wand	magia bastoneto	n. magic wand, small magical stick	
 phantasm	fantasmo	n.	w
 
-superstition	superstiĉo	n. 	w
+superstition	superstiĉo	n.	w
 lore	folkloro	n. MYTH	w
 omen	antaŭsigno	n.	w
 omen	aŭguro	n. more mystical MYTH	w
 cyclopean	ciklopa	adj. MYTH	w
 ogre	ogro	n. MYTH	w
-mythic	mita	adj. MYTH
+mythic	mita	adj. MYTH	w
 unnatural	kontraŭnatura	n. MYTH	w
 ghoul	ĥulo	n. MYTH	w
 haunter	hantanto	n. MYTH	w

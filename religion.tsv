@@ -1,29 +1,29 @@
 god	dio	n.	
 Jesus	Jesuo	n.	w
 angel	anĝelo	n.	w
-deity	diaĵo	n.
-divine	dia	adj. 
+deity	diaĵo	n.	
+divine	dia	adj.	
 spirit	spirito	n.	
 
 priest	pastro	n.	w
 High Priest	Ĉefpastro	n.	
 monk	monaĥo	n.	w
-half monk	duonmonaĥo	n.
+half monk	duonmonaĥo	n.	
 
 religion	religio	n.	w
 
 worship	adori	v.tr	w
-is worshipping	adoras	v.tr
-worshipper	adoranto	n. 	w
+is worshipping	adoras	v.tr	
+worshipper	adoranto	n.	w
 holy	sankta	adj.	
 sacred	sankta	adj.	w
 religious pollution	profano	n.	
-consecrate	konsekri	tr. 	W
+consecrate	konsekri	tr.	W
 reverently	respektege	adv.	w
 
 spiritual	spirita	adj.	w
 spiritually	spirite	adv.	w
-inspiration	inspiriteco	n. 	w
+inspiration	inspiriteco	n.	w
 
 prophecies	profetaĵoj	n. things foretold by prophesy	
 prophesied	aŭguris	v.tr	
@@ -35,10 +35,10 @@ prophetic	profeta	adj.
 service	diservo	n. religious service	w
 mass	meso	n. Catholic service	
 heaven	ĉielo	n. likely preceded by 'la'	
-prayer	preĝo	n.
+prayer	preĝo	n.	
 
 Candlemas	Kandelfesto	n.	
-Chrismasse Carolles	Kristnaskaj Karoloj	*	
+Chrismasse Carolles	Kristnaskaj Karoloj	n.	
 Christmas	Kristnasko	n.	w
 Christmas Morning	Kristnask’mateno	n.	
 Christmas-day	Kristnaska tago	n.	w
@@ -46,7 +46,7 @@ Christmas-eve	Kristnaska Vespero	n.	w
 Christmas-tide	Kristnask’tempo	n.	
 yule-log	Jul'ŝtipo	n.	
 waits	karolaj kantistoj	n. carol singers	
-Epiphany	Epifanio	n. 	w
+Epiphany	Epifanio	n.	w
 
 Mardi Gras	Karnavalo	n.	w
 
@@ -61,46 +61,49 @@ congregation	paroĥanaro	n. collective parishioners	w
 
 sermon	prediko	n.	
 
-hymn	himno	n.	
-carol	karolo	Christmas song	
-Gaudeamus Omnes	Ni Ĉiuj Ĝoju	“Let us all Rejoice,” Latin title of a chant	
+hymn	himno	n.	w
+carol	karolo	n. Christmas song	w
+Gaudeamus Omnes	Ni Ĉiuj Ĝoju	phr. “Let us all Rejoice,” Latin title of a chant	
 
-hallelujah	haleluja	adj.	
+hallelujah	haleluja	adj.	w
 halo	aŭreolo	n. over the head, in art	w
 
 # ETC
 synagogue	preĝejo	n. place to pray	
-agnostic	agnostika	adj.	
+agnostic	agnostika	adj.	w
 Passover	Pesaĥo	n.	
 
 
-shrine	sanktejo	n. 	w
+shrine	sanktejo	n.	w
 
 creation	kreitaro	n. ie biblical, all that was created in the world	w
 
 sin	malvirto	n.	
-blaspheme	blasfemi	v.	
+blaspheme	blasfemi	v.	w
 
 blessing	beno	n.	
-bless	beni	v.tr 	w
-curse	malbenu	v.tr 
+bless	beni	v.tr	w
+curse	malbeni	v.tr	w
 damned	damninda	adj. damnable, generic expletive	w
 damnable	damninda	adj. generic expletive	w
 
 
-rite	rito	n. 	w
-nimbus	aŭreolo	n. halo 	w
-transcendent	transcenda	adj. 	w
-transcend	transcendi	v.tr 	w
-paradisal	paradiza	n. 	w
-paradisiacal	paradiza	n. 	w
-relic	relikvo	n. 	w
-grace	graco	n. spiritual grace 	
-evil	malbono	n. 	w
-religious	religia	adj. 	w
-idol	idolo	n. 	w
-prophet	profeto	n. 	w
-evil	malica	adj. malicious 	w
-apocryphal	apokrifa	adj. 	w
-Abaddon	Abadono	n. angel of the pit 	w
-paradise	paradizo	n. 	w
+rite	rito	n.	w
+nimbus	aŭreolo	n. halo	w
+transcendent	transcenda	adj.	w
+transcend	transcendi	v.tr	w
+paradisal	paradiza	n.	w
+paradisiacal	paradiza	n.	w
+relic	relikvo	n.	w
+grace	graco	n. spiritual grace	
+evil	malbono	n.	w
+religious	religia	adj.	w
+idol	idolo	n.	w
+prophet	profeto	n.	w
+evil	malica	adj. malicious	w
+apocryphal	apokrifa	adj.	w
+Abaddon	Abadono	n. angel of the pit	w
+paradise	paradizo	n.	w
+reverence	respektego	n. RELIGION	
+bible	biblio	n. RELIGION	w
+biblical	biblia	n. RELIGION	w

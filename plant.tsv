@@ -1,8 +1,8 @@
 plant	planto	n.	w
 
 moss	musko	n.	w
-moss-grown	muske kreskita	phr.
-grass	herbo	n. one plant or blade of grass
+moss-grown	muske kreskita	phr.	
+grass	herbo	n. one plant or blade of grass	
 buttercup	ranunkolo	n.	
 marguerite	lekanto	n. a large daisy	w
 weed	herbaĉo	n.	w
@@ -25,7 +25,7 @@ poplar	poplo	n. poplar tree	w
 upas-tree	upasarbo	n. aka antiaris	w
 oaken	kverka	adj.	w
 oak	kverko	n. oak tree	w
-cypress	cipreso	n. 	w
+cypress	cipreso	n.	w
 
 #COLLECTIVE
 vegetation	vegetaĵaro	n.	w
@@ -54,18 +54,19 @@ treetop	arba supro	n.	w
 bloom	flori	v.	w
 flower	flori	v.	w
 
-rank	trokreskanta	adj. overgrowing
-rank	trokreskinta	adj. overgrown (archaic) 	w
-overgrown	superkreskita	adj.
-weed-choked	herbaĉe strangolita	phr. 	
+rank	trokreskanta	adj. overgrowing	
+rank	trokreskinta	adj. overgrown (archaic)	w
+overgrown	superkreskita	adj.	
+weed-choked	herbaĉe strangolita	phr.	
 
-greenhouse	forcejo	n. 	w
-greenhouse	oranĝerio	n. 	w
-lawn	gazono	n. decorative lawn 	
-lawn	razeno	n. decorative lawn 	
+greenhouse	forcejo	n.	w
+greenhouse	oranĝerio	n.	w
+lawn	gazono	n. decorative lawn	
+lawn	razeno	n. decorative lawn	
 
 
 ############
 mildew	ŝimo	n. PLANT	w
 root	radiko	n. PLANT	
 garden	ĝardeno	n. PLANT	w
+cactus	kakto	n. PLANT	w

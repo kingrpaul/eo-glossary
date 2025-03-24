@@ -1,3 +1,4 @@
+# -VID-
 half-seen	duone-vidita	adj.	w
 have seen	vidis	v.tr	
 see	vidi	v.tr	
@@ -9,18 +10,23 @@ visible	videbla	adj.
 you see	vi vidu	phr. leads and explanation	w
 you see	vidu	v.	w
 seen	vidiĝi	v.ntr	
-squinted	strabigis	v. 
-see again	revidi	v.tr 
-having glimpsed	ekvidinte	adv. 
-glimpse	ekvido	n. 	w
-invisible	nevidebla	adj. 	
+squinted	strabigis	v.	
+see again	revidi	v.tr	
+having glimpsed	ekvidinte	adv.	
+glimpse	ekvido	n.	w
+invisible	nevidebla	adj.	
 unseen	nevidita	adj.	w
+would not see	ne vidus	phr.	
+visually	vide	adv.	w
+color	koloro	n.	w
+viewless	nevidebla	adj. poetic invisible or unseen	w
 
+# -BLIND-
 blind	blinda	adj. unable to see	
 blinded you	blindigis vin	phr.	
 blindly	blinde	adv.	
-blinds	blindigas	v.tr
-dazzling	blindiga	adj. 	w
+blinds	blindigas	v.tr	
+dazzling	blindiga	adj.	w
 
 # -RIGARD-
 watching	rigardi	v.tr	
@@ -29,21 +35,22 @@ stare	fikse rigardi	v.tr	w
 look out	elrigardi	v.	w
 go and see	iros rigardi	phr. lit 'go look'	
 beheld	rigardis	v.	
-looking	rigardante	adv.
-gazing	rigardante	adv.
+looking	rigardante	adv.	
+gazing	rigardante	adv.	
 looked on	rigardas	v.	
 looking back	retrorigardante	adv.	w
 peering	esplorrigardante	adv.	
 peering	rigardante	adv.	
+peering	rigardegi	v.tr	
 
 glance	ekrigardi	v.tr	w
-stares hard	fikse rigardas forte	phr.
-have been watching	estis rigardanta	phr.
+stares hard	fikse rigardas forte	phr.	
+have been watching	estis rigardanta	phr.	
 peer	elrigardi	v.tr	w
-look away	forrigardi	v.ntr 	w
+look away	forrigardi	v.ntr	w
 looks after	pririgardas	v.tr	w
-watched	rigardas	v.tr
-watching	rigardardante	adv.
+watched	rigardas	v.tr	
+watching	rigardardante	adv.	
 peep in	enrigardi	v.tr	w
 staring	rigardante fikse	adv.	w
 look through	trarigardi	v.tr	W
@@ -58,7 +65,11 @@ survey	superrigardo	n. overview
 # -APER-
 disappeared	malaperis	v.	
 vanish	malaperi	v.	
-disappearance	malapero	n.
+disappearance	malapero	n.	
 peep	ekaperi	v.ntr	w
 aperture	aperturo	n.	w
-breaking	ekaperanta	adj. in the sense of suddenly appearing
+breaking	ekaperanta	adj. in the sense of suddenly appearing	
+
+
+#### UNSORTED
+clear	klara	adj.	w

@@ -13,38 +13,40 @@ numeral	numeralo	n.
 fraction	frakcio	n.	
 numerator	numeratoro	n.	
 
-one	unu	n.
+one	unu	n.	
 single	unuopa	adj.	w
 single	ununura	adj.	w
 
-two	du	n.
-both	ambaŭ	*.
+two	du	n.	
+both	ambaŭ	conj.	
 
-three	tri	n.
-four	kvar	n.
-four	kvar	n.
-five	kvin	n.
-six	sep	n.
-seven	ses	n.
-eight	ok	n.
-nine	naŭ	n.
-ten	dek	n.
-twelve	dekduO	n.
-dozen	dekduo	n. twelve
-score	dudeko	n. twenty
-twenty-six	dudek ses	n.
-twenty-seven	dudek sep	n.
-hundred	cent	n
-thousand	milo	n.
-billion	miliardo	n.
-trillion	biliono	n.
+three	tri	n.	
+four	kvar	n.	
+four	kvar	n.	
+five	kvin	n.	
+six	sep	n.	
+seven	ses	n.	
+eight	ok	n.	
+nine	naŭ	n.	
+ten	dek	n.	
+twelve	dekduO	n.	
+dozen	dekduo	n. twelve	
+score	dudeko	n. twenty	
+twenty-six	dudek ses	n.	
+twenty-seven	dudek sep	n.	
+hundred	cent	n.	
+thousand	milo	n.	
+million	miliono	n. MATH	w
+billion	miliardo	n.	
+trillion	biliono	n.	
+infinity	infinito	n. MATH	w
 
 # ADJECTIVES
-first	unua	adj.
-second	dua	adj.
-third	tria	adj.
-twelfth	dekdua	adj.
-twentieth	dudeka	adj.
+first	unua	adj.	
+second	dua	adj.	
+third	tria	adj.	
+twelfth	dekdua	adj.	
+twentieth	dudeka	adj.	
 
 # ADVERBS
 first	unue	adv.	w
@@ -61,3 +63,11 @@ count	kalkuli	v.tr.ntr MATH	w
 count up	kalkuli	v.tr.ntr MATH	
 count on	kalkuli	v.tr.ntr MATH	
 counter	nombrilo	n. numbering device MATH	
+table	tabelo	n. column of numbers MATH	
+uncounted	nekalkulita	adj. MATH	w
+numerous	multnombra	adj. MATH	w
+incalculably	nekalkuleble	adv. MATH	w
+countless	nekalkulita	adj. MATH	
+
+continuous	kontinua	adj. MATH	w
+area	areo	n. MATH	w

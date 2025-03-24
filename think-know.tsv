@@ -1,47 +1,49 @@
 # -KOMPR-
-understanding	kompreno	n.
-understand	kompreni	v.tr
-understanding	komprenante	adv.
-comprehension	kompreno	n.	
-make me understand	komprenigi min	phr.
+understanding	kompreno	n.	w
+understand	kompreni	v.tr	w
+understanding	komprenante	adv.	
+comprehension	kompreno	n.	w
+make me understand	komprenigi min	phr.	
 understands	komprenas	v.tr	
-realising	komprenante	adv.
-realising	ekkomprenante	adv.
-of course	kompreneble	adv.	
+realising	komprenante	adv.	
+realising	ekkomprenante	adv.	
+of course	kompreneble	adv.	w
 understood	komprenis	v.tr	
 
 # -KRED-
-believe	kredi	v.tr	
-think	kredi	v.tr.ntr believe
+believe	kredi	v.tr	w
+think	kredi	v.tr.ntr believe	
 unbelievable	nekredebla	adj.	w
-incredulous	nekredema	adj. not credulous	
-skeptical	nekredema	adj. not credulous	
-beyond belief	preterkredeble	adv. TRUTH	
+incredulous	nekredema	adj. not credulous	w
+skeptical	nekredema	adj. not credulous	w
+beyond belief	preterkredeble	adv.	
+incredibly	nekredeble	adv.	w
+realize	ekkompreni	v.tr	w
 
 # -MEMOR-
-recollect	rememori	v. 	w	
-recollection	memoro	n. 	w
-recall	rememori	v.tr 	w
-remember	memori	v.tr put into memory 	w
-remember	rememori	v.tr recall from memory 	w
-in memory	memore	adv. KNOW	w
-remind	memorigi	v.tr of something in the future 	
-remind	rememorigi	v.tr remind of something in the past 	
-memory	memoro	n. 	w
-well informed	klera	adj. 	
-remembered	memorita	adj. 
+recollect	rememori	v.	w
+recollection	memoro	n.	w
+recall	rememori	v.tr	w
+remember	memori	v.tr put into memory	w
+remember	rememori	v.tr recall from memory	w
+in memory	memore	adv.	w
+remind	memorigi	v.tr of something in the future	
+remind	rememorigi	v.tr remind of something in the past	
+memory	memoro	n.	w
+well informed	klera	adj.	
+remembered	memorita	adj.	
 
 # -PERCEP-
 note	percepti	v.tr notice	w
 notice	percepti	v.tr	w
 perceive	percepti	v.tr	w
-perceiving	perceptante	adv.
+perceiving	perceptante	adv.	
 
 # -KON-
 know	koni	v.tr be acquainted with	
 knows	konas	v.tr	
 knew	konis	v.tr	
-have known	konis	v.tr 	
+have known	konis	v.tr	
 had known	konis	v.tr	
 known	konata	adj.	w
 unknown	nekonata	adj.	
@@ -61,12 +63,12 @@ conviction	konvinkiĝo	n.	w
 be aware of	scii	v. know a fact	
 know	scii	v. know a fact	
 knows	scias	v.tr	
-know not	scias-ne	phr. KNOW
-knew	sciis	v.tr
-knowledge	scio	n. all that is known
+know not	scias-ne	phr.	
+knew	sciis	v.tr	
+knowledge	scio	n. all that is known	
 as you know	kiel vi scias	phr.	
 come to know	ekscii	v.	
-didn’t know	ne sciis	phr.
+didn’t know	ne sciis	phr.	
 find out about	ekscii	v.	
 ken	scio	n.	w
 knowledge	sciaĵo	n.	
@@ -86,22 +88,26 @@ aware	konscia	adj.	w
 oblivious	nekonscia	adj.	w
 oblivion	nekonscio	n.	w
 realise	konscii	v.tr.ntr to be aware	
-consciousness	konscio	n.  	w
+consciousness	konscio	n.	w
+become conscious of	konsciiĝis pri	phr.	
+conscience	konscienco	n.	w
+unselfconscious	nememkonscia	adj.	w
+
 
 # -PENS-
 think	pensi	v.ntr use brain, assume to be true	
 consider	pensi	v.ntr	
-ponder	pensi	v.ntr	
+ponder	pripensi	v.tr	w
 think	pensas	v.ntr	
 thought	pensis + inf.	v.ntr intended to	
 thought	penso	n.	
 have been thinking	pensis	v.ntr	
 don’t think	ne pensas	v	
-thinking	pensanta	adj.
-unthinkable	nepensebla	adj. KNOW	w
-think	ekpensi	v.ntr abruptly receive a thought
-made him think of that	ekpensigis pri tio	phr. 
-think of it	ekpensi pri ĝi	phr.  suddendly receive a thought
+thinking	pensanta	adj.	
+unthinkable	nepensebla	adj.	w
+think	ekpensi	v.ntr abruptly receive a thought	
+made him think of that	ekpensigis pri tio	phr.	
+think of it	ekpensi pri ĝi	phr. suddendly receive a thought	
 
 # -PRIPENS-
 wonder about	pripensi	v.tr	
@@ -121,7 +127,7 @@ can't	ne povi	v.tr	w
 cannot	ne povas	phr.	w
 was able	povis	v.tr	w
 be able to	povi	v.tr be able to do something	
-couldn't	ne povus	v.
+couldn't	ne povus	v.	
 could	povis	v.tr	
 could have sworn	estus povinta ĵuri	phr.	
 couldn’t	ne povis	v.tr	
@@ -134,30 +140,46 @@ know how to	scipovi	v.tr more specific form of povi
 
 
 #####################
-idea	ideo	n. 	w
+idea	ideo	n.	w
 knowledgeable	sperta	adj.	
 stupid	stulta	adj.	w
 ignorant	malklera	adj. uneducated	w
-shall never forget	neniam forgesos	*	
+shall never forget	neniam forgesos	phr.	
 become informed about	informiĝi	v.	
 sentience	sentemo	n.	w
-theoretical	teoria	adj.   	w
-speculative	konjekta	adj. based on conjecture 	w
-speculative	spekulativa	adj. based on theoretical reasoning 	w
-expert	sperta	adj. knowledgeable KNOW	w
-mental	mensa	adj. psych, use 'psika' when technical KNOW	w
-mentally	mense	adv. psych, use 'psike' when technical KNOW	w
-experience	sperti	v.tr learn by experience KNOW	w
-experience	sperto	n. that which is endured and knowledge thereby gained KNOW	w
-mental blank	mensa malpleno	phr. KNOW	w
-imagination	imago	n. KNOW	w
-forgotten	forgesinta	adj. forgot, not was forgotten KNOW
-forget	forgesi	v.tr KNOW	w
-mean	signifi	v.tr have the meaning of KNOW	
-meaning	senco	n. the way a word is to be understood KNOW	
+theoretical	teoria	adj. 	w
+speculative	konjekta	adj. based on conjecture	w
+speculative	spekulativa	adj. based on theoretical reasoning	w
+expert	sperta	adj. knowledgeable	w
+mental	mensa	adj. psych, use 'psika' when technical	w
+mentally	mense	adv. psych, use 'psike' when technical	w
+experience	sperti	v.tr learn by experience	w
+experience	sperto	n. that which is endured and knowledge thereby gained	w
+mental blank	mensa malpleno	phr.	w
+imagination	imago	n.	w
+forgotten	forgesinta	adj. forgot, not was forgotten	
+forget	forgesi	v.tr	w
+mean	signifi	v.tr have the meaning of	
+meaning	senco	n. the way a word is to be understood	
 puzzled	konfuzita	adj.	w
 dazed	konfuzite	adv.	w
-muddled	konfuzita	adj. KNOW	w
+muddled	konfuzita	adj.	w
 bewildering	konfuzanta	adj.	w
 bewilderment	konfuzo	n.	w
 it puzzled	konfuzis	v.	
+forgotten	forgesita	adj. was forgotten	
+idiotic	idiota	adj.	w
+opinion	opinio	n.	w
+assure	certigi	v.tr	w
+wisdom	saĝo	n.	w
+unexplainable	neklarigebla	adj.	w
+curiosity	scivoleco	n. desire to know	
+curiosity	scivolemo	n. constant desire to know	
+phenomenon	fenomeno	n.	w
+phenomena	fenomenoj	n.	w
+incredible	nekredebla	adj.	w
+definite	difinita	adj.	w
+significance	signifo	n.	w
+sensation	sentaĵo	n.	w
+brooding	cerbumado	n.	w
+curiously	scivole	adv.	w
