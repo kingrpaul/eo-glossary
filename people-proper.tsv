@@ -1,48 +1,53 @@
 Mr.	S-ro	abbr. sinjoro	
 Mrs.	S-ino	abbr. sinjoro	
-sir	sinjoro	n.	
-madam	sinjorino	n.	
 
-John	Johano	n. name	
-Thos.	Tomaso	n. name	
-Smith	Smito	n. family name	
-Phillip	Filipo	n. name	
-Browne	Braŭno	n. family name	
-Marco	Marko	n. personal name	
-Miller	Milero	n. name	
-Cosimo	Kosimo	n. personal-name	
-Ogilvie	Ogilvio	n. family name	
-George	Georgo	n. personal name	
-Mary	Marjo	n. personal name	
-Ann	Anno	n. NAME	
-Plutarch	Plutarko	n.	
-Sextus	Seksto	n.	
-James	Jakobo	n.	
-Jane	Johanino	n.	
-Randolph	Randolfo	n.	
-Carter	Kartero	n.	
-Warren	Vareno	n. personal name	
-Harley	Harlejo	n. personal name	
-Milly	Miljo	n. personal name	
-Milly	Miljo	n.	
-Bill	Biljo	n.	
-Jean	Ĵino	n.	
-Palmer	Palmero	n.	
-Jinny	Ĵenjo	n.	
+John	Johano	n.proper name	
+Thos.	Tomaso	n.proper name	
+Smith	Smito	n.proper family name	
+Phillip	Filipo	n.proper name	
+Browne	Braŭno	n.proper family name	
+Marco	Marko	n.proper personal name	
+Miller	Milero	n.proper name	
+Cosimo	Kosimo	n.proper personal-name	
+Ogilvie	Ogilvio	n.proper family name	
+George	Georgo	n.proper personal name	
+Mary	Marjo	n.proper personal name	
+Ann	Anno	n.proper NAME	
+Plutarch	Plutarko	n.proper	
+Sextus	Seksto	n.proper	
+James	Jakobo	n.proper	
+Jane	Johanino	n.proper	
+Randolph	Randolfo	n.proper	
+Carter	Kartero	n.proper	
+Warren	Vareno	n.proper personal name	
+Harley	Harlejo	n.proper personal name	
+Milly	Miljo	n.proper personal name	
+Milly	Miljo	n.proper	
+Bill	Biljo	n.proper	
+Jean	Ĵino	n.proper	
+Palmer	Palmero	n.proper	
+Jinny	Ĵenjo	n.proper	
 Everard	Everardo	n. proper	
 Minturn	Minturno	n. proper	
 
-
 # SPECIFIC
-Whittier	Vitiero	n.	
-Wynkin de Worde	Vinko Devordo	n.	
+Whittier	Vitiero	n.proper	
+Wynkin de Worde	Vinko Devordo	n.proper	
 Bodleian	de Bodlejo	n.	
-Lattin	Latino	n. name	
-Apuleius	Apulejo	n.	
+Lattin	Latino	n.proper name	
+Apuleius	Apulejo	n.proper	
 
-Lydia	Lidio	n. personal name	w
-Lysander	Lisandro	n. personal name	w
-Alexander	Aleksandro	n. personal name	w
-Phocion	Focio	n. personal name	
+Lydia	Lidio	n.proper personal name	w
+Lysander	Lisandro	n.proper personal name	w
+Alexander	Aleksandro	n.proper personal name	w
+Phocion	Focio	n.proper personal name	
 
-Mudbury	Kotburio	n. family name	
+Mudbury	Kotburio	n.proper family name	
+
+di Medici	de Mediĉoj	n.proper	
+Damiano	Damiano	n.proper	
+Paulo	Paŭlo	n.proper	
+Statira	Statiro	n.proper wife of Alexander the Great	
+Lucia	Lucino	n.proper some gender ambiguity, careful	
+
+Salviati	Salviato	n.proper	

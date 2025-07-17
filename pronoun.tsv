@@ -1,52 +1,57 @@
 # FIRST PERSON
-I	mi	n.pronoun	
-me	mi	n.pronoun	
-myself	min mem	n.pronoun	
-I’ve	mi	n. pronoun + past tense	
-my	mia	adj.pronoun	
-mine	mia	adj.pronoun	
+I	mi	n.pronoun	w
+me	mi	n.pronoun	w
+myself	min mem	n.pronoun	s
+I’ve	mi	phr.	s
+my	mia	adj.pronoun	w
+mine	mia	adj.pronoun	w
+to me	al mi	phr.	
 
 # SECOND PERSON
-you	vi	n.pronoun	
-yourself	vin	n. pronoun	
-yourself	vin mem	n. pronoun	
-your	via	adj.pronoun	
-yours	via	adj.pronoun	
+you	vi	n.pronoun	w
+yourself	vin	n.pronoun	w
+yourself	vin mem	n.pronoun	w
+your	via	adj.pronoun	w
+yours	via	adj.pronoun	w
 
 # THIRD PERSON - M
-he	li	n.pronoun	
-him	li	n.pronoun	
-his	lia	adj.pronoun	
-himself	sin	n.pronoun	
-himself	li mem	n.pronoun	
-himself	si mem	n. pronoun	
+he	li	n.pronoun	w
+him	li	n.pronoun	w
+his	lia	adj.pronoun	w
+himself	sin	n.pronoun	w
+himself	li mem	n.pronoun	w
+himself	si mem	n.pronoun	w
 
 # THIRD PERSON - F
-she	ŝi	n.pronoun	
-her	ŝi	n.pronoun	
-herself	sin	n.pronoun	
+she	ŝi	n.pronoun	w
+her	ŝi	n.pronoun	w
+herself	sin	n.pronoun	s
 
 # THIRD PERSON - N
-it	ĝi	n.pronoun	
-itself	sin	n.pronoun	
-itself	mem	n.pronoun	
-its	ĝia	adj.pronoun	
-it all	tuta ĝi	n.pronoun	
+it	ĝi	n.pronoun	w
+itself	sin	n.pronoun	w
+itself	mem	n.pronoun	w
+its	ĝia	adj.pronoun	w
+it all	tuta ĝi	n.pronoun	s
+to themselves	por si mem	phr.	
 
 # FIRST PERSON - PLURAL
-we	ni	n.pronoun	
-us	nin	n.	w
-ourselves	ni mem	n.pronoun	
-our	nia	adj.pronoun	
+we	ni	n.pronoun	w
+us	nin	n.pronoun	w
+ourselves	ni mem	n.pronoun	w
+our	nia	adj.pronoun	w
 
 # SECOND PERSON - PLURAL
 
 # THIRD PERSON - PLURAL
-they	ili	n.pronoun	
-them	ilin	n.pronoun	
-themselves	sin	n.pronoun	
-their	ilia	adj.pronoun	
-their	siaj	adj.pronoun	
+they	ili	n.pronoun	w
+them	ilin	n.pronoun	w
+themselves	sin	n.pronoun	w
+their	ilia	adj.pronoun	w
+their	siaj	adj.pronoun	w
 
-# IMPERSONA
-one	oni	n.pronoun	
+# IMPERSONAL
+one	oni	n.pronoun	w
+you	oni	n.pronoun impersonal 	w
+they	oni	n.pronoun impersonal	w
+person’s	onia	adj. relating to some unmentioned person	

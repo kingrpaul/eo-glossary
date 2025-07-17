@@ -1,45 +1,33 @@
-calculate	kalkuli	v.tr.ntr	
 
-digit	cifero	n. number	
-digit	diĝito	n.	
-digit	numero	n.	
-digital	diĝito	n.	
-
-number	cifero	n. digit, written sign for a number	
-number	numeri	v. to number	
-number	numero	n.	
-numeral	cifero	n. digit	
 numeral	numeralo	n.	
 fraction	frakcio	n.	
 numerator	numeratoro	n.	
 
-one	unu	n.	
+one	unu	n. 	
 single	unuopa	adj.	w
-single	ununura	adj.	w
+singular	unuopa	adj. individual	
 
-two	du	n.	
-both	ambaŭ	conj.	
+two	du	n. 	
 
-three	tri	n.	
-four	kvar	n.	
-four	kvar	n.	
-five	kvin	n.	
-six	sep	n.	
-seven	ses	n.	
-eight	ok	n.	
-nine	naŭ	n.	
-ten	dek	n.	
-twelve	dekduO	n.	
-dozen	dekduo	n. twelve	
-score	dudeko	n. twenty	
-twenty-six	dudek ses	n.	
-twenty-seven	dudek sep	n.	
-hundred	cent	n.	
-thousand	milo	n.	
-million	miliono	n. MATH	w
-billion	miliardo	n.	
-trillion	biliono	n.	
-infinity	infinito	n. MATH	w
+three	tri	n. 	
+four	kvar	n. 	
+five	kvin	n. 	
+six	sep	n. 	
+seven	ses	n. 	
+eight	ok	n. 	
+nine	naŭ	n. 	
+ten	dek	n. 	
+twelve	dekduo	n. 	
+dozen	dekduo	n.  twelve	
+score	dudeko	n.  twenty	
+twenty-six	dudek ses	n. 	
+twenty-seven	dudek sep	n. 	
+hundred	cent	n. 	
+thousand	milo	n. 	
+million	miliono	n.  	w
+billion	miliardo	n. 	
+trillion	biliono	n. 	
+infinity	infinito	n.  	w
 
 # ADJECTIVES
 first	unua	adj.	
@@ -51,23 +39,8 @@ twentieth	dudeka	adj.
 # ADVERBS
 first	unue	adv.	w
 
-
 # VERBS
 double	duobligi	v.tr	
 triple	triobligi	v.tr	w
 quadruple	kvarobligi	v.tr	w
 
-
-
-count	kalkuli	v.tr.ntr MATH	w
-count up	kalkuli	v.tr.ntr MATH	
-count on	kalkuli	v.tr.ntr MATH	
-counter	nombrilo	n. numbering device MATH	
-table	tabelo	n. column of numbers MATH	
-uncounted	nekalkulita	adj. MATH	w
-numerous	multnombra	adj. MATH	w
-incalculably	nekalkuleble	adv. MATH	w
-countless	nekalkulita	adj. MATH	
-
-continuous	kontinua	adj. MATH	w
-area	areo	n. MATH	w

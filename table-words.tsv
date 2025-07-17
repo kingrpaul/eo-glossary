@@ -1,27 +1,28 @@
 # -o
 what	kio	corr.	
-whatever	kio ajn	corr.	w
+whatever	kio ajn	phr.	w
 that	tio	corr. that thing	
-this	ĉi tio	corr.	
+this	ĉi tio	phr.	
 nothing	nenio	corr.	
 everything	ĉio	n.	
 all	ĉio	corr. everything	
 it all	ĉio	corr. everything	
-it all	ĉio tio	corr. all of this	
+it all	ĉio tio	phr. all of this	
 something	io	corr.	w
-anything	io ajn	corr.	
-all this	ĉio ĉi	corr.	
+anything	io ajn	phr.	
+all this	ĉio ĉi	phr.	
+no more than	nenio pli ol	phr. idiom	
 
 # -u
 which	kiu	corr.	
-wherein	en kiu	corr.	w
+wherein	en kiu	phr.	w
 who	kiu	corr.	
-whereof	pri kiu	corr.	w
+whereof	pri kiu	phr.	w
 whom	kiun	corr.	w
 that	tiu	corr. that one	
 those	tiuj	corr.	
-this	ĉi tiu	corr.	
-these	ĉi tiuj	corr.	
+this	ĉi tiu	phr.	
+these	ĉi tiuj	phr.	
 all	ĉiu	corr. each	
 each	ĉiu	corr.	
 every	ĉiu	corr.	
@@ -35,10 +36,10 @@ somebody	iu	corr.	w
 some	iu	corr.	
 someone	iu	corr.	
 any	iu	corr.	
-anybody	iu ajn	corr.	
-anyone	iu ajn	corr.	
+anybody	iu ajn	phr.	
+anyone	iu ajn	phr.	
 some	iuj	corr. some countable things	
-each of which	ĉiu el kiuj	corr.	
+each of which	ĉiu el kiuj	phr.	
 none	neniu	corr. no one	
 
 # -es
@@ -49,33 +50,36 @@ where	kie	corr.
 whither	kien	corr. to where	
 there	tie	corr.	
 yonder	tie	corr.	
-here	ĉi tie	corr.	
-hither	ĉi tien	corr.	
+here	ĉi tie	phr.	
+hither	ĉi tien	phr.	
 everywhere	ĉie	adv.	
-ubiquity	ĉieo	corr.	
+ubiquity	ĉieo	n.	
 somewhere	ie	corr.	
-anywhere	ie ajn	corr.	
-whereunto	al kien	corr.	
+anywhere	ie ajn	phr.	
+whereunto	al kien	phr.	
 nowhere	nenie	corr.	
 nowhere else	nenie aliloke	phr.	w
 out there	tie	corr.	
-whence	de kie	corr. from where	w
-wherein	en kie	corr.	w
+whence	de kie	phr. from where	w
+wherein	en kie	phr.	w
 therein	tie	corr.	w
 
 # -am
 always	ĉiam	corr.	w
 sometime	iam	corr.	
 then	tiam	corr. at that time ie not earlier than then	
+by that time	jam tiam	phr.	s
 when	kiam	corr.	
 never	neniam	corr.	
 someday	iam	corr.	
-now	ĉi tiam	corr.	
+now	ĉi tiam	phr.	
 ever	ĉiam	corr. always	
 as	kiam	corr. when	
 ever	iam	corr.	w
-ever	iam ajn	corr.	w
+ever	iam ajn	phr.	w
 once	iam	corr. when, at the time that	
+once	post kiam	phr. after
+as soon as	tuj kiam	corr.	w
 
 # -a
 what manner of	kia	corr.	
@@ -97,28 +101,35 @@ so	tiel	corr. in that way
 that	tiel	corr. like that	
 thus	tiel	corr. in such a way	
 like that	tiel	corr.	w
-like this	tiel	corr.	
+like this	tiel	corr.	s
 like	kiel	corr.	
 somehow	iel	corr.	w
 in every way	ĉiel	corr.	
-in all these ways	ĉi ĉiel	corr.	
+in all these ways	ĉi ĉiel	phr.	
 
 # -al
 therefore	tial	corr.	
 that’s why	tial	corr.	
-for this reason	ĉi tial	corr.	
+for this reason	ĉi tial	phr.	
 why	kial	corr.	
 for that reason	tial	corr.	
 for some reason	ial	corr.	
 somehow	ial	corr. for some reason	
+reason	kialo	n. cause or motive	w
 
 # -om
 so	tiom	corr.	w
 so much	tiom	corr.	w
-so many	tiom da	corr.	
-how many	kiom da	corr.	w
+so many	tiom da	phr.	
+how many	kiom da	phr.	w
 to some extent	iom	corr.	
-little	iomete	corr.	w
-somewhat	iomete	corr.	w
-no	neniom da	corr. no amount	
-rather	iomete	corr. to some degree	
+no	neniom da	phr. no amount	
+sort of	iome	adv.	w
+little	iomete	adv.	w
+somewhat	iomete	adv.	w
+pretty	iomete	adv. somewhat	w
+rather	iomete	adv. to some degree	
+least	eĉ iomete	phr. even a little	
+a trifle	iomete	adv. slightly	w
+a bit	iomete	adv.	w
+

@@ -1,83 +1,26 @@
-myth	mito	n.	
-mythology	mitologio	n.	w
-
 # GREEK & ROMAN
-Jove	Jovo	n. Jupiter	w
-Apollo	Apolono	n.	w
-Eros	Eroso	Cupid	w
+Jove	Jovo	n.proper Jupiter	w
+Apollo	Apolono	n.proper	w
+Eros	Eroso	n.proper Cupid	w
 Hesperides	Hesperidoj	n.	w
-sylph	silfino	n.	w
 saturnalia	saturnalio	n.	w
-satyr	satiruso	n.	
-Zeus	Zeŭso	n.	w
-Athena	Atena	n.  Greek goddess 	w
-Theseus	Tezeo	n.	w
-Ariadne	Ariadno	n.	w
-Phaedra	Fedra	n.	w
-Minos	Minoo	n.	w
-Pasiphae	Pazifao	n.	w
-Minotaur	Minotaŭro	n.	w
-Dionysus	Dionizo	n.	w
-Hippolyta	Hipolito	n.	w
-Fates	Sortoj	n. Atropos, Clotho, and Lachesis	w
-Pan	Pajno	n. goat-god	
+Zeus	Zeŭso	n.proper	w
+Athena	Atena	n.proper Greek goddess 	w
+Theseus	Tezeo	n.proper	w
+Ariadne	Ariadno	n.proper	w
+Phaedra	Fedra	n.proper	w
+Minos	Minoo	n.proper	w
+Pasiphae	Pazifao	n.proper	w
+Minotaur	Minotaŭro	n.proper	w
+Dionysus	Dionizo	n.proper	w
+Hippolyta	Hipolito	n.proper	w
+Pan	Pajno	n.proper goat-god	
+Selene	Seleno	n.proper Greek goddess of the Moon	w
 
 # LOVECRAFT
-Nyarlathotep	Njarlatotepo	Lovecraft monster	
+Nyarlathotep	Njarlatotepo	n.proper Lovecraft monster	
 
 # MISC
-monster	monstro	n.	W
-elf	elfo	n.	w
-sprite	elfo	n.	w
-genie	ĝino	n.	w
-Issidy	Izidio	n. woman's first name	
-witch	sorĉistino	n.	
-gargoyle	gargojlo	n.	w
+Issidy	Izidio	n.proper woman's first name	
 
-
-afreet	efrito	n. powerful evil jinni, demon, or monstrous giant in Arabic mythology	w
-ghosts	fantomoj	n.	w
-ghostly	fantome	adv.	w
-haunt	hanti	v.tr	w
-haunted	plagita	adj. haunted figuratively	w
-eldritch	preternatura	adj.	w
-uncanny	preternatura	adj.	w
-séance	spiritista seanco	n.	w
-medium	mediumo	n. spirit medium	w
-shade	ombra animo	phr. shadowy spirit	
-
-# DEVILTRY 
-devil	diablo	n.	
-fiendish	diabla	adj.	w
-daemon	demono	n.	w
-demon	demono	n.	w
-demoniac	demona	adj. demonic	w
-daemoniac	demona	adj. demonic	w
-infernal	infera	adj. MYTH	w
-hellish	infera	adj.	w
-fiend	diablo	n. devil	w
-
-# MAGIC
-enchanted	ensorĉita	adj.	w
-bewitched	sorĉita	adj.	w
-has cast a glamour over	prisorĉis	v.tr	w
-magical	magia	adj.	w
-wand	magia bastoneto	n. magic wand, small magical stick	
-phantasm	fantasmo	n.	w
-
-superstition	superstiĉo	n.	w
-lore	folkloro	n. MYTH	w
-omen	antaŭsigno	n.	w
-omen	aŭguro	n. more mystical MYTH	w
-cyclopean	ciklopa	adj. MYTH	w
-ogre	ogro	n. MYTH	w
-mythic	mita	adj. MYTH	w
-unnatural	kontraŭnatura	n. MYTH	w
-ghoul	ĥulo	n. MYTH	w
-haunter	hantanto	n. MYTH	w
-cauldron	kaldrono	n. MYTH	w
-hell-born	infere naskita	phr. MYTH	w
-spectral	fantoma	adj. MYTH	w
-totem-beast	totem-besto	n. MYTH	w
-wind-wraith	vent-efrito	n. MYTH	
-spectrally	fantome	adv. MYTH	w
+Ammon	Amono	n.proper Egyptian God	

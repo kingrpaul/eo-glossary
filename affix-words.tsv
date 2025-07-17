@@ -1,0 +1,188 @@
+# SUFFIXES
+
+_aĉ_ = [
+awful	aĉa	adj. causing fear; appalling; terrible	
+terrible	aĉa	adj.	w
+nasty	aĉa	adj.	w
+]
+
+_ad_ = [
+]
+
+_aĵ_ = [
+thing	aĵo	n.	w
+]
+
+_an_ = [
+member	ano	n. member of a group or society	w
+]
+
+_ar_ = [
+]
+
+_ebl_ = [
+]
+
+_ec_ = [
+]
+
+
+_eg_ = [
+exceeding	tre ega	adj. very great	w
+exceedingly	treege	adv.	w
+tremendously	ege	adv.	w
+lavishly	ege	adv.	w
+prodigious	ega	adj.	
+]
+
+_ej_ = [
+]
+
+_em_ = [
+tend	emas	v.ntr has the tendency	w
+tendency	emo	n.	w
+reticence	malemeco	n. 	w
+inclined	emigis	v.tr inspired one to have a mental inclination	
+]
+
+_end_ = [
+]
+
+_er_ = [
+crumbled away	diseriĝinta	adj.	
+crumbling	diseriĝanta	adj.	w
+moldering	diseriĝanta	adj.	w
+]
+
+_estr_ = [
+manager	estro	n. boss	
+board of directors	estraro	n.	w
+]
+
+_et_ = [
+tiny	eta	adj.	w
+slightly	ete	adv.	w
+smaller	pli eta	adj.	
+ready	preta	adj.	
+little	eta	adj.	
+]
+
+_id_ = [
+]
+
+_ig_ = [
+make	igi	v.tr cause to be	
+bring myself	igi min	phr. eg can't bring oneself to do something	
+]
+
+_iĝ_ = [
+become	iĝi	v.ntr	w
+became	iĝis	v.ntr	
+has grown	iĝis	v.ntr has become	
+he’ll become	li iĝos	phr.	
+]
+
+_il_ = [
+tool	ilo	n.	w
+]
+
+_in_ = [
+female	ino	n.	
+]
+
+_ind_ = [
+worthy	inda	adj.	w
+worthier	pli inda	adj.	w
+worthy of	inda je	phr.	
+]
+
+_ing_ = [
+]
+
+_ist_ = [
+]
+
+_obl_ = [
+]
+
+_uj_ = [
+]
+
+_ul_ = [
+fellow	ulo	n.	w
+old thing	ulo	n. familiar address (UK)	
+boy	ulo	n. familiar address to a young man	w
+underling	subulo	n.	
+successor	posteulo	n.	w
+forebears	prauloj	n.	
+ancestor	praulo	n.	w
+ancient stock	praularo	n. ancestry	s
+ancestry	praularo	n.	w
+]
+
+# PREFIXES
+
+_bo_ = [
+]
+
+_dis_ = [
+disband	disiĝi	v.ntr
+divide	disigi	v.tr separate something previously united	
+split up	disiĝis	v.ntr ceased to be together as a group	w
+]
+
+_ek_ = [
+will set him off	ekigos lin	phr.	
+]
+
+_eks_ = [
+resign	eksiĝi	v.ntr from a position, less formal	
+dismiss	eksigi	v.tr terminate from a job	w
+]
+
+_fi_ = [
+]
+
+_ge_ = [
+]
+
+_mal_ = [
+]
+
+_mis_ = [
+]
+
+_pra_ = [
+primal	praa	adj. 	w
+primordial	praa	adj. 	w
+]
+
+_re_ = [
+back	reen	adv.	
+to and fro	tien kaj reen	phr. back and forth	w
+hither and thither	tien kaj reen	phr.	w
+]
+
+
+# PARTICLES
+
+_mem_ = [
+very	mem	part.	w
+]
+
+
+
+# YES / NO
+_jes_ = [
+yes	jes	part.	
+if so	se jes	phr.	w
+]
+
+_ne_ = [
+deny	nei	v.tr.ntr	
+will not deny	ne neos	phr.	
+]
+
+_mucid_ = [
+slimy	mucida	adj.	w
+]

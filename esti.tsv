@@ -1,7 +1,9 @@
 be	esti	v.ntr	
+must be	evidente esti	phr. evidently	w
 
 # PRESENT TENSE, INDICATIVE MOOD
 am	estas	v.ntr	
+are	estas	v.ntr
 I’m	mi estas	phr.	
 are	estas	v.ntr	
 you’re	vi estas	phr.	
@@ -14,10 +16,12 @@ there are	estas	phr.
 he’s	li estas	phr.	
 she’s	ŝi estas	phr.	
 they’re	ili estas	phr. esti	
-it’s	estas	v.	w
+it’s	estas	v.ntr	w
 it’s	ĝi estas	phr.	
 that’s	tio estas	phr.	
 it’s all	ĉio estas	phr.	 
+that is	tio estas	phr.	
+isn’t	ne estas	v.ntr	w
 
 # PAST TENSE, INDICATIVE MOOD
 was	estis	v.ntr	
@@ -47,4 +51,16 @@ being	esteco	n.
 creature	estaĵo	n.	
 
 # NOUN
+presence	ĉeesto	n. the fact of being present	w
 presence	ĉeesteco	n.	w
+attendance	ĉeestado	n.	w
+present day	la estanteco	n.	
+future	estonteco	n.	
+
+#ADJECTIVE
+future	estonta	adj.	
+
+be away	foresti	v.ntr	s
+been	forestis	v.ntr been away	s
+were not absent	ne forestis	phr.	s
+attend	ĉeesti	v.ntr	w

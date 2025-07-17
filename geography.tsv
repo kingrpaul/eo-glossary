@@ -1,102 +1,59 @@
-lands	landoj	n. countries or some abstraction thereof	
-abroad	eksterlande	adv.	w
-foreign	eksterlanda	adj.	w
-map	mapo	n.	w
-
 # CARDINAL DIRECTIONS
-north	norda	adj.	
-south	suda	adj.	
+north	norda	adj.	w
+south	suda	adj.	w
 southwards	suden	adv.	w
-east	orienta	adj.	
-west	okcidenta	adj.	
+east	orienta	adj.	w
+west	okcidenta	adj.	w
 towards the west	okcidenten	adv.	w
 
 # VARIOUS
-Romania	Rumanio	n.	
-Romanian	rumano	n.	
-French Swiss	rumando	n.	
-French Switzerland	Rumandio	n.	
-China	Ĉinio	n.	
+Romania	Rumanio	n.proper	w
+Romanian	rumano	n.	w
+China	Ĉinio	n.proper	w
 Chinese	hano	n. an ethnic Chinese	
 Chinese	la mandarena	adj. the official language of China	
 European	eŭropa	adj.	
 Finn	finno	n.	
 Negro	negro	n. person of African ancestry	w
-canton	kantono	n. Swiss canton	
-India	Hindio	n.	w
+India	Hindio	n.proper	w
 gypsy	cigano	n.	w
 
 # BRITISH ISLES & IRELAND
-british	brita	adj.	
-England	Anglio	n.	
+british	brita	adj.	w
+England	Anglio	n.proper	w
 English	angla	adj.	
 Englishman	anglo	n.	
-London	Londono	n.	
-midland counties	mezlandaj graflandoj	phr.	
-Bristol	Bristolo	n. place in England	
-Oxford	Oksfordo	n.	
+London	Londono	n.proper	w
+Bristol	Bristolo	n.proper in England	w
+Oxford	Oksfordo	n.proper	
 John o’ Groats	Johano de Kvar'pencoj	n. Scottish village	
 Land’s End	Terfino	n.	
-Bloomsbury	Blumsberio	n.	
+Bloomsbury	Blumsberio	n.proper	
 Circus	Cirklo	n. London's Picadilly Circus	
 
 # UNITED STATES
-New Orlean	nov-orleano	n.	
-Florida	Florido	n.	w
+New Orlean	Nov-Orleano	n.proper	
+Florida	Florido	n.proper	w
 Gainsville	Gajnesvilo	n. CITY	
 Gainsville pike	Gajnesvila Vojo	n.	
 Big Cypress Swamp	Grandan Cipresan Marĉon	n.	
-Memphis	Memfiso	n. city in Tennessee	
-Indian	Indiano	n. American Indian	w
-
-# NATIONAL DIVISIONS
-counties	graflandoj	n.	
-county	graflando	territory ruled by a count	
-county	kantono	U.S. county	
-country	lando	n.	w
-state	stato	n. condition of being; incl states of the USA	
-province	provinco	n.	w
+Memphis	Memfiso	n.proper city in Tennessee	w
+Indian	Indiano	n.proper American Indian	w
 
 # LAND FEATURES
-river	rivero	n.	
-bank	bordo	n. as in river-banks	w
 rivulet	rojo	n.	
-waterfall	akvofalo	n.	w
-stream	rivereto	n.	w
 pond	lageto	n.	w
 swamp	marĉo	n.	w
-mount	monto	n. part of the name of a mountain	
-mountain	monto	n.	
-hill	monteto	n.	
-hillside	montetflanko	n.	w
-plain	ebenaĵo	n.	
 valley	valo	n.	w
-slope	deklivo	n. non-horizontal ground	w
 moor	erikejo	n.	w
-cavern	kaverno	n.	w
 ocean	oceano	n.	w
 continent	kontinento	n.	w
-seacoast	marbordo	n.	w
-shore	bordo	n.	w
-tunnel	tunelo	n.	w
-underground	subtera	adj.	w
-rift	fendo	n. crack	
-fissure	fendo	n. GEOLOGY	w
-bed-rock	bazroko	n. GEOLOGY	w
-chasm	fendego	n. GEOLOGY	w
-
-# DESERT
-desert	dezerto	n.	
-deserted	dezerta	adj.like a desert or uninhabited	w
-waste	dezerto	n. a desert	w
-desertion	dezerteco	n.	
-desolate	dezerteca	adj.	w
 
 # GREECE
 Grecian	greka	adj.	
 Greece	Grekio	n.	
-Greek	greko	n. a modern Greek	
-Greek	heleno	n. an ancient Greek	
+Greek	greko	n. a modern Greek	w
+Greek	heleno	n. an ancient Greek	w
 Hellas	Helaso	n. Green name for Greece	w
 Samos	Samoso	n. Greek Island	
 Athens	Ateno	n. ANCIENT Greek city 	w
@@ -105,19 +62,19 @@ Athenian	atena	adj. thing of Athens 	w
 Athenian	atenano	n. person of Athens 	w
 Alexandria	Aleksandrio	n.	w
 Thessaly	Tesalio	n. proper noun, place	
-Macedonian	Makedono	n. ancient Macedonian person	w
+Macedonian	makedono	n. ancient Macedonian person	w
+Macedonian	makedonano	n. ancient Macedonian citizen	w
 acropolis	akropolo	n.	w
-Hymettus	Himeto	n. mountain	
+Hymettus	Himeto	n. mountain in Greece	
 Ilissus	Iliso	n. ancient river	
 Kifissia	Kifisjo	n. suburb of Athens, Greece	
 Cephissia	Kifisjo	n. suburb of Athens, Greece	
 Cephissian	Kifisja	adj. related to the suburb of Athens, Greece	
-Hymettus	Hijmeto	n. mountain in Greece	
 
 # AFRICA
-Africa	Afriko	n.	w
-Zimbabwe	Zimbabvo	n.	w
-Sudan	Sudano	n.	w
+Africa	Afriko	n.proper	w
+Zimbabwe	Zimbabvo	n.proper	w
+Sudan	Sudano	n.proper	w
 
 # ITALY
 Tyrolese	Tirola	adj.	w
@@ -133,7 +90,7 @@ Roman	Romiano	n. ancient Roman
 Roman	Romano	n.	
 Roman	romano	n.	
 Roman	romiano	n. an ancient Roman	
-Campagna	Kamparo	n. Roman Campagna, countryside around Rome	
+Campagna	Kamparo	n.proper Roman Campagna, countryside around Rome	
 patrician	patricio	n.	w
 tribune	tribunuso	n. a Roman official	w
 legion	legio	n. Roman infantry unit	w
@@ -143,45 +100,50 @@ legionary	legiano	n. member of a Roman infantry unit	w
 Arabic	la araba	phr. Arabic language	w
 Arab	araba	adj. related to Arabia	w
 Arab	arabo	n. an Arab person	
-Syria	Sirio	adj.	
+Syria	Sirio	n.proper	
 Syrian	Siria	adj.	w
 Libyan	Libia	adj.	W
-Persian	Perso	n. Persian person	w
-Persian	persa	n. of Persia	w
+Persian	perso	n. Persian person	w
+Persian	persa	adj. of Persia	w
 Persian Gulf	Persa Golfo	n.	w
-Iran	Irano	n.	w
-Mesopotamia	Mezopotamio	n.	w
+Iran	Irano	n.proper	w
+Mesopotamia	Mezopotamio	n.proper	w
 khan	ĥano	n. leader of Turkish, Tartar, or Mongol tribe	w
-Babel	Babelo	n.	w
-Macedonian	Makedona	adj. related to Macedonia	w
-Macedonia	Makedonio	adj. country	w
-Araby	Arabio	n. Arabia	w
-Babylon	Babilono	n. city	w
+Babel	Babelo	n.proper	w
+Macedonian	makedona	adj. related to Macedonia	w
+Macedonia	Makedonio	n.proper country	w
+Araby	Arabio	n.proper Arabia	w
+Babylon	Babilono	n.proper city	w
 Babylonia	Babilonio	n. kingdom	w
 sheik	ŝejko	n.	w
 
 # EGYPT
-Egypt	Egiptujo	n.	w
+Egypt	Egiptujo	n.proper	w
 Egyptian	egipto	n. Egyptian person	w
 Egyptian	egipta	adj.	w
 Alexandria	Aleksandrio	n.	w
 Memphis	Menefro	n. city in ancient Egypt	w
-Nile	Nilo	n. river in Egypt	w
+Nile	Nilo	n.proper river in Egypt	w
 Isis	Iziso	n. Egyptian goddess	w
 Kephren	Kefreno	n. aka Khafre, Pharoah c2500 BC	
-Menophis	Menofiso	n. personal name	
-Nefertiti	Nefertito	n.	w
-Sethos	Seto	n. name	
-Rames	Rameso	n. name	
-Aton	Atono	n. name of Egyptian god	
+Menophis	Menofiso	n.proper personal name	
+Nefertiti	Nefertito	n.proper	w
+Sethos	Seto	n.proper name	
+Rames	Rameso	n.proper name	
+Aton	Atono	n.proper name of Egyptian god	
 pyramid	piramido	n.	w
 Pharaoh	Faraono	n.	w
-mummified	mumiigita	adj.	w
-mummy	mumio	adj.	w
-
 
 # UNSORTED
-France	Francio	n.	w
-Ireland	Irlando	n.	w
-capital	ĉefurbo	n.	w
-Asia	Azio	n.	w
+France	Francio	n.proper	w
+Ireland	Irlando	n.proper	w
+Asia	Azio	n.proper	w
+
+Salamis	Salamino	n. GEOGRAPHY island near Athens	w
+Libia	Libio	n.proper	
+Italy	Italio	n.proper	w
+Florentine	florencano	n. person of Florence	w
+
+Madrid	Madrido	n.proper	w
+American	Usonano	n.	w
+Barcelona	Barcelono	n.proper	w
