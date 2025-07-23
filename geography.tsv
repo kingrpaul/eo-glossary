@@ -36,18 +36,8 @@ New Orlean	Nov-Orleano	n.proper
 Florida	Florido	n.proper	w
 Gainsville	Gajnesvilo	n. CITY	
 Gainsville pike	Gajnesvila Vojo	n.	
-Big Cypress Swamp	Grandan Cipresan Marĉon	n.	
 Memphis	Memfiso	n.proper city in Tennessee	w
 Indian	Indiano	n.proper American Indian	w
-
-# LAND FEATURES
-rivulet	rojo	n.	
-pond	lageto	n.	w
-swamp	marĉo	n.	w
-valley	valo	n.	w
-moor	erikejo	n.	w
-ocean	oceano	n.	w
-continent	kontinento	n.	w
 
 # GREECE
 Grecian	greka	adj.	
@@ -115,7 +105,6 @@ Macedonia	Makedonio	n.proper country	w
 Araby	Arabio	n.proper Arabia	w
 Babylon	Babilono	n.proper city	w
 Babylonia	Babilonio	n. kingdom	w
-sheik	ŝejko	n.	w
 
 # EGYPT
 Egypt	Egiptujo	n.proper	w
@@ -131,7 +120,6 @@ Nefertiti	Nefertito	n.proper	w
 Sethos	Seto	n.proper name	
 Rames	Rameso	n.proper name	
 Aton	Atono	n.proper name of Egyptian god	
-pyramid	piramido	n.	w
 Pharaoh	Faraono	n.	w
 
 # UNSORTED
@@ -143,6 +131,7 @@ Salamis	Salamino	n. GEOGRAPHY island near Athens	w
 Libia	Libio	n.proper	
 Italy	Italio	n.proper	w
 Florentine	florencano	n. person of Florence	w
+Florentine	Florenca	adj. of Florence	w
 
 Madrid	Madrido	n.proper	w
 American	Usonano	n.	w

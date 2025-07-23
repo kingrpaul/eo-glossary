@@ -64,6 +64,8 @@ by	de	prep. by someone
 for	de	prep. for a period of time	
 from	de	prep. from a place, by someone, possession	
 of	de	prep. from a place, by someone, possession	
+since	ekde	adv. from a specific point in time until now	w
+from	ekde	adv. beginning at a certaint time	w
 ]
 
 _ĉe_ = [
@@ -257,6 +259,7 @@ _super_ = [
 over	super	prep. above or over something, but not directly on it	
 above	super	prep. above or over something, but not directly on it	
 clear	superi	v.tr rise above	
+surpass	superi	v.tr	w
 ]
 
 _sur_ = [
@@ -346,7 +349,16 @@ is it not	ĉu ne	phr.	w
 hasn’t he	ĉu li ne	phr.	
 ]
 
-
 _ambaŭ_ = [
 both	ambaŭ	conj.	
+]
+
+_preter_ = [
+past	preter	prep. pass (go/drive/fly…) someone/thing	w
+]
+
+
+# ARTICLE 
+_la_ [
+the	la	art.	
 ]

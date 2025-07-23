@@ -1,46 +1,87 @@
-
-numeral	numeralo	n.	
-fraction	frakcio	n.	
-numerator	numeratoro	n.	
-
+_un_ = [
 one	unu	n. 	
+first	unua	adj.	
+first	unue	adv.	w
 single	unuopa	adj.	w
 singular	unuopa	adj. individual	
+]
 
+_du_ = [
 two	du	n. 	
+second	dua	adj.	
+double	duobligi	v.tr	
+two o’clock	la dua horo	phr.	
+half-past two	la dua kaj duono	phr. time	
+]
 
+_tri_ = [
 three	tri	n. 	
+third	tria	adj.	
+triple	triobligi	v.tr	w
+]
+
+_kvar_ = [
 four	kvar	n. 	
+quadruple	kvarobligi	v.tr	w
+]
+
+_kvin_ = [
 five	kvin	n. 	
-six	sep	n. 	
-seven	ses	n. 	
+half-past five	la kvina kaj duono	phr. time 5:30	
+]
+
+_ses_ = [
+six	ses	n. 	
+at six	je la sesa	phr. time	
+six o’clock	sesa horo	phr. time	
+]
+
+_sep_ = [
+seven	sep	n. 	
+]
+
+_ok_ = [
 eight	ok	n. 	
+]
+
+_naŭ_ = [
 nine	naŭ	n. 	
+at nine o’clock	je la naŭa	adj.	
+]
+
+_dek_ = [
 ten	dek	n. 	
+at half past eleven	je la dekunua kaj duono	phr.	
 twelve	dekduo	n. 	
 dozen	dekduo	n.  twelve	
+twelfth	dekdua	adj.	
 score	dudeko	n.  twenty	
+twentieth	dudeka	adj.	
 twenty-six	dudek ses	n. 	
 twenty-seven	dudek sep	n. 	
+forty	kvardek	n.	w
+]
+
+_cent_ = [
 hundred	cent	n. 	
+]
+
+_mil_ = [
 thousand	milo	n. 	
+]
+
+_milion_ = [
 million	miliono	n.  	w
+]
+
+_miliard_ = [
 billion	miliardo	n. 	
+]
+
+_bilion_ = [
 trillion	biliono	n. 	
+]
+
+_infinit_ = [
 infinity	infinito	n.  	w
-
-# ADJECTIVES
-first	unua	adj.	
-second	dua	adj.	
-third	tria	adj.	
-twelfth	dekdua	adj.	
-twentieth	dudeka	adj.	
-
-# ADVERBS
-first	unue	adv.	w
-
-# VERBS
-double	duobligi	v.tr	
-triple	triobligi	v.tr	w
-quadruple	kvarobligi	v.tr	w
-
+]
