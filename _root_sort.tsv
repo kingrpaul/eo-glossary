@@ -4033,6 +4033,7 @@ richness	riĉeco	n.	w
 poverty	malriĉeco	n.	w
 wealth	riĉeco	n.	w
 wealthy	riĉa	adj.	w
+richly	riĉe	adv.	w
 ]
 
 _eben_ = [
@@ -6440,6 +6441,7 @@ pay	pagi	v.tr amount paid is in the accusative	w
 paid	pagis	v.tr	s
 rent payment	lupago	n.	w
 underpaid	nesufiĉe pagata	phr.	w
+paid	pagata	adj.	
 ]
 
 _prunt_ = [
@@ -6571,6 +6573,7 @@ shakedown	malhonestaĵo	n.	w
 ]
 
 _vend_ = [
+sold	vendis	v.tr	w
 shop	vendejo	n.	w
 market	vendejo	n. shop	w
 flower-seller	flor’vendisto	n.
@@ -7450,6 +7453,7 @@ daughter	filino	n. 	w
 
 _riproĉ_ = [
 chide	riproĉi	v.tr accuse, shame, express displeasure	w
+reproach	riproĉi	v.tr	w
 ]
 
 _tremp_ = [
@@ -9855,6 +9859,7 @@ satirical	satira	adj.	w
 
 _silk_ = [
 silken	silka	adj.	w
+silk	silko	n.	w
 ]
 
 _ŝik_ = [
@@ -12429,4 +12434,16 @@ epiphany	epifanio	n. religious	w
 
 _volapuk_ = [
 volapük	volapuko	n. language	
+]
+
+_lir_ = [
+lira	liro	n. italian currency	w
+]
+
+_akropol_ = [
+acropolis	akropolo	n.	w
+]
+
+_Faraon_ = [
+pharaoh	faraono	n.	w
 ]
