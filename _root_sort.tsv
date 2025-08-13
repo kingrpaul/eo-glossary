@@ -12,6 +12,7 @@ inflate	enblovi	v.tr blow up like a balloon	w
 _vek_ = [
 waken	veki	v.tr	w
 awaken	veki	v.tr to wake someone else	w
+are waking	vekas	v.tr	w
 awake	vekiĝi	v.ntr wake up	w
 awaken	vekiĝi	v.ntr to become awake	w
 would wake up	vekiĝus	v.ntr	
@@ -414,6 +415,7 @@ close	fermiĝi	v.ntr become in a closed state
 open	malfermiĝi	v.ntr become open	w
 opening	malfermaĵo	n.	w
 shut	fermite	adv.	w
+shut in	enfermite	adv.	
 ]
 
 _pur_ = [
@@ -463,6 +465,7 @@ aid	helpi	v.tr
 prevent	malhelpi	v.tr	
 helpless	senhelpa	adj.	w
 aid	helpo	n.	w
+help	helpo	n.	w
 couldn’t help yourself	ne povis sin malhelpi	phr.	
 ]
 
@@ -495,6 +498,9 @@ sleep	dormi	v.ntr	w
 asleep	dormanta	adj.	w
 insomnia	sendormeco	n.	w
 sleeplessness	sendormado	n.	w
+doze	dormeti	v.ntr 	 w
+fall asleep	endormiĝi	v.ntr 	 w
+dormant	dormanta	adj.	w
 ]
 
 _vast_ = [
@@ -522,6 +528,7 @@ overgrown	superkreskita	adj.
 grownup	plenkreskulo	n.	w
 adult	plenkreskulo	n.	w
 grown-up	plenkreskulo	n.	w
+growth	kreskaĵo	n.	w
 ]
 
 _plen_ = [
@@ -560,6 +567,7 @@ raving mad	frenezi	v.ntr
 be crazy	frenezi	v.ntr	
 maddening	freneziga	adj.	w
 madly	freneze	adv.	w
+madman	frenezulo	n.	w
 ]
 
 _oft_ = [
@@ -606,7 +614,8 @@ shrink	malgrandiĝi	v.ntr get smaller
 bigwig	grandulo	n.	w
 as greatly	same grande	adv.	
 Great One	Grandulo	phr. moniker	
-had little enough	havis malgrande sufiĉe	adv.	
+had little enough	havis malgrande sufiĉe	adv.	s
+huge	grandega	adj.	w
 ]
 
 _grandioz_ = [
@@ -693,6 +702,7 @@ lone	sola	adj.
 loneliness	soleco	n.	w
 lonely	soleca	adj.	w
 alone	sole	adv. 	
+solitary	soleca	adj.	w
 ]
 
 _far_ = [
@@ -796,6 +806,7 @@ receiver	aŭdilo	n.	w
 unheard-of	neaŭdita	adj.	w
 overhear	kaŝe aŭdi	phr.	w
 overhear	hazarde aŭdi	phr. accidentally overhear	w
+could hear a pin drop	povus aŭdi la falon de pinglo	29	phr.	w
 ]
 
 _dev_ = [
@@ -842,10 +853,11 @@ dwelling	loĝejo	n.	w
 house	loĝigi	v.tr provide accomodation	w
 dweller	loĝanto	n. 	
 settle	enloĝiĝi	v.ntr move in	w
+abode	loĝejo	n.	w
 ]
 
 _romp_ = [
-break	rompiĝi	v.ntr become broken, separate oneself into parts like a word into syllables	
+break	rompiĝi	v.ntr become broken, incl voice breaking	
 broke forth	elrompiĝis	v.ntr	
 broken	rompita	adj.	
 crisp	facilrompa	adj.	w
@@ -988,6 +1000,7 @@ deepen	profundigi	v.tr
 deepest	plej profunda	adj.	
 deeply	profunde	adv.	
 depth	profundo	n. the deep part or the depth of a place	w
+shallow	malprofunda	adj.	w
 ]
 
 _kutim_ = [
@@ -1044,12 +1057,15 @@ hot	varma	adj.	w
 heat	varmeco	n. warmth	w
 warm	varma	adj.	w
 coldly	malvarme	adv.	w
+chillingly	malvarmige	adv.	w
 ]
 
 _trem_ = [
 tremble	tremi	v.ntr	w
 quiver	tremi	v.ntr	w
+tremulous	trema	adj.	w
 shaking	tremanta	adj.	
+shivering	tremanta	adj.	
 shiver	tremigi	v.tr make one shiver	
 shuddered	ektremis	v.ntr	
 quivering	tremanta	adj.	
@@ -1098,6 +1114,7 @@ thrust	puŝi	v.tr	w
 pushing him off	elpuŝante lin	phr.	
 repellent	forpuŝema	adj.	w
 gust	ventopuŝo	n. 	w
+repulsed	repuŝita	adj.	s
 ]
 
 _kovr_ = [
@@ -1264,7 +1281,7 @@ _laŭt_ = [
 loud	laŭta	adj.	
 louder	pli laŭte	adv.	
 loudest	plej laŭta	adj.	w
-lower	pli mallaute	adv.	
+lower	pli mallaŭte	adv.	
 loudly	laŭte	adv.	
 aloud	laŭte	adv.	
 volume	laŭteco	n. loudness of sound	w
@@ -1289,6 +1306,7 @@ favorite	plej amata	adj. best loved
 lover	amanto	n.	
 fondly	ame	adv.	
 love me too well	amas min tro profunde	phr.'love me too deeply'	
+hatred	malamo	n.	w
 ]
 
 _amor_ = [
@@ -1345,6 +1363,7 @@ greatest	plej bona	phr.
 more than good	ege bona	adj.	
 great	bonega	adj.	
 harm	malbono	n. moral badness	
+worst	plej malbona	adj.	w
 ]
 
 _kompren_ = [
@@ -1359,6 +1378,7 @@ realising	ekkomprenante	adv.
 of course	kompreneble	adv.	w
 understood	komprenis	v.tr	
 realize	ekkompreni	v.tr	w
+comprehend	kompreni	v.tr	w
 ]
 
 _komand_ = [
@@ -1376,6 +1396,8 @@ plucky	kuraĝa	adj.
 bravest	plej kuraĝa	adj.	
 coward	malkuraĝulo	n.	w
 venture	kuraĝi	v.ntr(+inf) dare to do something 	w
+discourage	senkuraĝigi	v.tr	w
+encouragement	kuraĝigo	n.	w
 ]
 
 _sort_ = [
@@ -1424,6 +1446,9 @@ ignorant	senscia	adj. unknowing	w
 shall know how to	scipovos	v.tr	
 came to learn	eksciis	v.tr found out	
 completely at a loss to	tute ne scias kiel	phr.	w
+ignorance	nescio	n.	w
+impart	sciigi	v.tr	w
+
 ]
 
 _foj_ = [
@@ -1453,6 +1478,7 @@ inform	informi	v.tr	w
 learn about	informiĝi	v.ntr	
 become informed about	informiĝi	v.ntr	
 check out	informiĝi	v.ntr	
+information	informo	n.	w
 ]
 
 _edz_ = [
@@ -1485,6 +1511,7 @@ doubtless	sendube	adv.
 no doubt	sendube	adv.	w
 question	pridubi	v.tr doubt	
 unmistakable	senduba	adj.	
+undoubtedly	sendube	adv.	w
 ]
 
 _kviet_ = [
@@ -1582,6 +1609,7 @@ put back	remeti	v.tr
 has put aside	formetis	v.tr	w
 interfere	sin intermeti	v.tr	w
 placed upon me	metita sur min	phr.	
+superimposed	supermetita	adj.	w
 ]
 
 _akr_ = [
@@ -1650,6 +1678,7 @@ hangs	pendas	v.ntr	w
 depend	dependi	v.ntr	
 hung	pendis	v.ntr	w
 hung	pendigis	v.tr	
+hanging	pendaĵo	n. a thing hung	w
 ]
 
 _inic_ = [
@@ -1708,8 +1737,6 @@ rude	malĝentila	adj.	w
 nice	ĝentila	adj. polite	w
 ]
 
-###################
-
 _viŝ_ = [
 wipe	viŝi	v.tr clean by rubbing	
 wipe	deviŝi	v.tr remove by wiping	
@@ -1744,6 +1771,7 @@ skeptical	nekredema	adj. not credulous	w
 beyond belief	preterkredeble	adv.	
 incredibly	nekredeble	adv.	w
 incredible	nekredebla	adj.	w
+belief	kredo	n.	w
 ]
 
 _tuŝ_ = [
@@ -1771,6 +1799,7 @@ lowered	malsuprenigis	v.tr
 aloft	supre	adv.	w
 peak	supro	n.	w
 treetop	arba supro	n.	w
+prick up	alsuprigi	v.tr as in prick up one's ears	w
 ]
 
 _pens_ = [
@@ -1877,8 +1906,9 @@ dislodged	elpelita	adj.
 ]
 
 _vid_ = [
-see	vidi	v.tr	
-saw	vidis	v.tr	
+see	vidi	v.tr	w
+saw	vidis	v.tr	w
+had seen	vidis	v.tr	w
 half-seen	duone-vidita	adj.	w
 have seen	vidis	v.tr	
 prevision	antaŭvido	n.	w
@@ -1904,6 +1934,8 @@ view	vidaĵo	n.	w
 transparent	travidebla	adj.	w
 wait and see	atendi kaj vidi	phr.	w
 forecast	antaŭvido	n.	s
+become visible	videbliĝi	v.ntr	 s
+foreseen	antaŭvidita	adj.	s 
 ]
 
 _tir_ = [
@@ -1957,6 +1989,7 @@ horrible pain	dolorego	n.
 pain him	dolori sin	phr.	w
 cause pain	dolori	v.tr	w
 headache	kapdoloro	n.	w
+painless	sendolora	adj.	w
 ]
 
 _pentr_ = [
@@ -2056,14 +2089,14 @@ jog	skui	v.tr	w
 ]
 
 _kapt_ = [
-seize	kapti	v.tr	
-catch	kapti	v.tr	
+seize	kapti	v.tr	w
+catch	kapti	v.tr	w
 clutched at	kaptis	v.tr	
 caught	kaptiĝis	v.ntr become caught as in a trap	
 clutching	ekkaptante	adv.	
 would seize	kaptus	v.tr	
 caught	kaptita	adj.	
-snatch	forkapti	v.tr	
+snatch	forkapti	v.tr	w
 catching	kaptante	adv.	
 benighted	nokte kaptita	adj.	w
 ]
@@ -2113,7 +2146,7 @@ field of grain	grenkampo	n.	s
 
 _hak_ = [
 hewing	hakanta	adj.	
-hewn	elhakita	adj. shaped by hacking	
+hewn	elhakita	adj. shaped by hacking	w
 cutter	hakisto	n. one who cuts eg stone	
 had cut it down	dehakis ĝin	phr.	
 rock-hewn	rok-hakita	adj.	
@@ -2125,6 +2158,7 @@ guide	gvidi	v.tr show the path	w
 leadership	gvidado	n.
 leader	gvidanto	n.
 leadership	gvideco	n.	w
+guide	gvidanto	n.	w
 ]
 
 _hezit_ = [
@@ -2201,6 +2235,7 @@ inscription	surskribo	n.	w
 describe	priskribi	v.tr	
 indescribable	nepriskribebla	adj.	w
 beyond description	preterpriskribebla	adj.	w
+hand	skribkaraktero	n. manner of writing	w
 ]
 
 _intenc_ = [
@@ -2257,6 +2292,7 @@ civilisation	civilizacio	n. society	w
 ]
 
 _subit_ = [
+abrupt	subita	adj.	w
 short	subite	adv. suddenly as in stop-short	w
 sudden	subita	adj.	w
 suddenly	subite	adv.	w
@@ -2331,6 +2367,8 @@ shapeless	senforma	adj.	w
 shape	formo	n. 	w
 oblong	longforma	adj. 	w
 take articulate form	klare formiĝi	phr.	
+disfigure	deformi	v.tr	w
+disfigure	misformi	v.tr	w
 ]
 
 _angul_ = [
@@ -2358,9 +2396,10 @@ far away	malproksime	adv.	w
 ]
 
 _venk_ = [
+victory	venko	n.	w
+defeat	malvenko	n. 	w
 succumb	venkiĝi	v.ntr	w
 victor	venkanto	n. one who conquers and is victorious 	w
-defeat	malvenko	n. 	w
 ]
 
 _pov_ = [
@@ -2378,6 +2417,7 @@ could	povus	v.tr
 know how to	povi	v.tr	
 know how to	scipovi	v.tr more specific form of povi	
 can it be	ĉu povas esti	phr.	s
+willpower	volpovo	n.	 w
 ]
 
 _forges_ = [
@@ -2415,6 +2455,9 @@ aspect	aspekto	n.	w
 look	aspekti	v.ntr appear as, how one looks to others	w
 visage	aspekto	n. appearance	w
 to look at	laŭ aspekte	phr. in terms of appearance	
+disfigure	disaspektigi	v.tr	
+foreign-looking	fremdaspekta	adj. non-PIV	 s
+toad-like appearance	buf-aspekto	phr.	s 
 ]
 
 _kaŝ_ = [
@@ -2488,9 +2531,11 @@ safest	plej sekure	phr.
 ]
 
 _solid_ = [
+solid	solida	adj. state of matter	
 dense	solida	adj.	
 massive	solida	adj.dense	
 consolidate	solidigi	v.tr
+
 ]
 
 _util_ = [
@@ -2598,6 +2643,8 @@ marvellous	mirinda	adj.	w
 amazingly	mirinde	adv.	w
 astounding	miriga	adj.	
 little wonder	ne mirinde	phr.	w
+amazed	mirigita	adj.	w
+awed	mirega	adj.	
 ]
 
 _spec_ = [
@@ -2679,6 +2726,7 @@ pretence	pretendo	n. claim of having a right or flattering qualities	w
 ]
 
 _maĉ_ = [
+chew	maĉi	v.tr	 w
 chewing	maĉo	n.	w
 crisp	krakmaĉa	adj.	w
 crunchy	krakmaĉa	adj.	w
@@ -2700,9 +2748,13 @@ house	domo	n.	w
 manor	domego	n.	
 manor house	domego	n.	
 mansion	domego	n.	
-loss	domaĝo	n. regrettable loss actual or potential	
 outdoor	eksterdoma	adj.	
 within doors	intern'dome	adv.	
+]
+
+_domaĝ_ = [
+loss	domaĝo	n. regrettable loss actual or potential	
+a pity	domaĝe	n. regrettably	 w
 ]
 
 _konsekv_ = [
@@ -2772,6 +2824,7 @@ unsuccessful	sensukcesa	adj. unsuccessful as a single event
 succeed	sukcesi	v.ntr	w
 success	sukceso	n.	w
 unsuccessful	sen'sukces'ema	adj. tending to be unsuccessful	
+succeeded	sukcesis	v.ntr	w
 ]
 
 _fiks_ = [
@@ -2800,6 +2853,7 @@ omission	preterlaso	n.	w
 quit	forlasi	v.tr	w
 desertion	forlasiĝo	n. abandonment	w
 let go	delasi	v.tr	w
+admit	allasi	v.tr	W
 ]
 
 _kontrol_ = [
@@ -2853,6 +2907,7 @@ idle	senokupa	adj.	w
 idly	senokupe	adv.	w
 held	okupis	v.tr occupied	
 taken up with	okupita pri	phr.	
+unoccupied	neokupata	adj.	w
 ]
 
 _prefer_ = [
@@ -2950,13 +3005,13 @@ _garanti_ = [
 guarantee	garantio	n.	
 guaranteeing	garantiante	adv.	
 surety	garantiulo	n.  a hostage given as guarantor	w
-
 ]
 
 _esper_ = [
 despairing	malespera	adj.	w
 hopelessness	senespereco	n.	
-hopeless	senespera	adj.	
+hopeless	senespera	adj.	w
+hopelessly	senespere	adv.	w
 hope	esperi	v.tr	
 hope for	esperi	v.tr	
 hopeful	esperplena	adj.	w
@@ -3047,6 +3102,9 @@ starlit	stelluma	adj.
 dawn-lit	tagiĝo-lumigita	adj. 	
 dimness	mallumeco	n.
 darker	pli malluma	adj.	w
+luminosity	lumeco	n.	w
+see the light	vidi la lumon	phr.	w
+luminosity	aŭrolumo	n. aura-like light	s
 ]
 
 _long_ = [
@@ -3196,6 +3254,7 @@ dread	timego	n.	w
 for fear of	timante	adv. 	w
 fear	timiĝi	b.ntr	w
 never could be afraid	neniam povus timi	phr.	
+frightened	timigite	adv. in a was as if frightened	
 ]
 
 _sinjor_ = [
@@ -3309,12 +3368,14 @@ naturalist	naturalisto	n. 	w
 eery	preternatura	adj.	
 eldritch	preternatura	adj.	w
 uncanny	preternatura	adj.	w
+preternatural	preternatura	adj.	w
 unnatural	kontraŭnatura	adj. 	w
 ]
 
 _fantom_ = [
-ghosts	fantomoj	n.	w
+ghost	fantomo	n.	w
 ghostly	fantome	adv.	w
+specter	fantomo	n. ghost	w
 spectral	fantoma	adj. 	w
 spectrally	fantome	adv. 	w
 ]
@@ -3504,6 +3565,7 @@ _larĝ_ = [
 broad	larĝa	adj. 	w
 wide	larĝa	adj.	w
 narrow	mallarĝa	adj.	w
+wider	pli larĝa	adj.	
 ]
 
 _mister_ = [
@@ -3689,7 +3751,7 @@ picture	bildo	n.
 
 _prezent_ = [
 image	prezento	n. 	
-representation	prezento	n. an image of art	
+representation	prezento	n. an image of art	w
 performance	prezentado	n.	
 represented	reprezentis	v.tr acted as representative, eg lawyer	
 present	prezenti	v.tr	w
@@ -3704,7 +3766,7 @@ reverberation	resonado	n. 	w
 crash	kraŝa sono	n. crashing sound	w
 ]
 
-_solor_ = [
+_sonor_ = [
 clanged	sonoris	v.tr.ntr 	w
 clang	sonoro	n. 	w
 bell	sonorilo	n. 	
@@ -3830,6 +3892,8 @@ acquaintance	konato	n.	w
 worth knowing	koninda	adj.	
 common knowledge	ĝenerale konata	phr.	w
 familiar	konita	adj.	w
+unrecognized	nerekonita	adj.	w
+unrecognizable	nerekonebla	adj.	w
 ]
 
 _kler_ = [
@@ -3880,6 +3944,7 @@ _koler_ = [
 anger	kolero	n.	w
 made him angry	kolerigis lin	phr.	
 be angry	koleri	v.tr.ntr	s
+rage	kolerego	n.	w
 ]
 
 _gaj_ = [
@@ -3937,6 +4002,7 @@ posture	teniĝo	n.	w
 hold out	antaŭteni	v.tr hold (something) out, extend it forward	w
 holding out	antaŭtenante	adv. extending a thing in front of oneself	
 unbearable	neeltenebla	adj.	w
+handle	tenilo	n.	 
 ]
 
 _fajr_ = [
@@ -3969,6 +4035,7 @@ tried	provis	v.tr
 attempt	provo	n.	w
 sought	provis	v.tr ie tried	
 put to the test	elprovi	v.tr apply an object to its intended purpose	w
+tried	elprovita	adj. has satisfactorily withstood tests	w
 ]
 
 _fal_ = [
@@ -3990,6 +4057,7 @@ unearthly	netera	adj.	w
 bury	enterigi	v.tr	w
 unearths	elterigas	v.tr	
 underground	subtera	adj.	w
+terrestrial	surtera	adj.	w
 ]
 
 _ĵuri_ = [
@@ -4054,6 +4122,7 @@ _part_ = [
 part	parto	n.	w
 partial	parta	adj.	
 most	plejparto	n. the majority from among countable things	w
+mostly	plejparte	adv.	w
 partly	parte	adv.	w
 largely	grandparte	adv.	w
 much	granda parto	phr.	
@@ -4157,6 +4226,7 @@ stab	piko	n.	w
 prick	piki	v.tr	w
 sting	piki	v.tr like a bee	w
 stung	pikite	adv.	
+toothpick	dentopikilo	n.	 w
 ]
 
 _stabil_ = [
@@ -4223,6 +4293,7 @@ mistake	eraro	n.	w
 accurate	senerara	adj. without errors	
 are mistaken	eraras	v.ntr	w
 mistaken	erara	adj.	w
+mislead	erarigi	v.tr	 w
 ]
 
 _lingv_ = [
@@ -4247,6 +4318,7 @@ intrusion	entrudiĝo	n.	w
 _urĝ_ = [
 urgent	urĝa	adj.	w
 urge	urĝi	v.tr urge with emphasis on time constraint	w
+urge	urĝi	v.tr	 w
 ]
 
 _rekt_ = [
@@ -4334,6 +4406,7 @@ imploringly	petege	adv.	w
 _sklav_ = [
 slave	sklavo	n.	w
 slavish	sklaveca	adj.	w
+bondage	sklaveco	n.	w
 ]
 
 _freŝ_ = [
@@ -4607,6 +4680,7 @@ _estim_ = [
 contemptuous	malestima	adj.	w
 held in high repute	estimata	adj.	
 scorn	malestimo	n.	w
+despise	malestimi	v.tr	w
 ]
 
 _instig_ = [
@@ -4685,6 +4759,7 @@ firm	firmo	n.
 ]
 
 _ĝoj_ = [
+joyous	ĝoja	adj.	
 with joy	ĝoje	adv. 	
 sad	malĝoja	adj.	
 dismal	senĝoja	adj. joyless	w
@@ -4698,6 +4773,7 @@ happily	ĝoje	adv.	w
 looked forward	antaŭĝojis pri	phr.	
 looked forward to	antaŭĝojitaj	phr. as in anticipated	
 make happy	ĝojigi	v.tr	s
+delighted	ĝojigita	adj.	w
 Gaudeamus Omnes	Ni Ĉiuj Ĝoju	phr. Latin “Let us all Rejoice,” Latin title of a chant	
 ]
 
@@ -4869,6 +4945,7 @@ _sam_ = [
 different	malsama	adj.	
 just the same	same	adv. in the same way	
 same	sama	adj.	
+very	sama	adj.	w
 ]
 
 _amar_ = [
@@ -4943,6 +5020,7 @@ face	vizaĝo	n. front of head	w
 facial	vizaĝa	adj.	w
 on his face	en lia vizaĝo	phr.	w
 efface	senvizaĝigi	v.tr to make a thing have no face	
+flushed	ruĝ-vizaĝa	adj.	 w
 ]
 
 _ĉerp_ = [
@@ -5071,11 +5149,14 @@ another	alia	adj.	w
 any other	alia	adj.	s
 else	alie	adv.	
 other	alio	n.	w
+change	aliigi	v.tr	 w
+altered	aliigita	adj.	w
 ]
 
 _ŝanc_ = [
 lucky	bonŝanca	adj.	w
 chance	ŝanco	n.	w
+unfortunate	malbonŝanca	adj.	w
 ]
 
 _absolut_ = [
@@ -5145,6 +5226,7 @@ has crept	estas ŝtelirinta	phr.
 went about	ĉirkaŭe iris	phr. use 'iri' if they weren't going around something	
 advancement	antaŭeniro	n.	w
 go through with	trairi	v.tr	w
+inaccessible	nealirebla	adj.	w
 ]
 
 _elektr_ = [
@@ -5319,6 +5401,7 @@ beast	besto	n.	w
 vermin	bestetaĉoj	n.	w
 pest	damaĝbesto	n. household beasty eg rat 	
 totem-beast	totem-besto	n.	w
+pet	dombesto	n.	w
 ]
 
 _dec_ = [
@@ -5348,6 +5431,7 @@ combing out	kombo	n. a combing out
 _murd_ = [
 murder	murdi	v.tr	w
 murderous	murdema	adj.	w
+homicidal	murdema	adj.	w
 ]
 
 _ŝov_ = [
@@ -5369,6 +5453,7 @@ scramble	krab-grimpi	v.ntr	w
 _aĝ_ = [
 older	pli aĝa	adj.	
 what age	kiom aĝa	phr.	
+elder	pliaĝa	adj.	w
 eldest	plej aĝa	phr. 	w
 age	aĝo	n. time in existence	
 at the age of	en la aĝo de	phr.	
@@ -5453,6 +5538,7 @@ foreign	eksterlanda	adj.	w
 counties	graflandoj	n.	
 county	graflando	n. territory ruled by a count	w
 midland counties	mezlandaj graflandoj	phr.	
+foreigner	alilandano	n.	w 
 ]
 
 _vent_ = [
@@ -5679,12 +5765,14 @@ retain	konservi	v.tr
 _impet_ = [
 impetus	impeto	n.	w
 rush	impeti	v.ntr throw oneself forward forcefully	w
+impetuously	impete	adv.	w
 ]
 
 _precip_ = [
 particularly	precipe	adv.	w
 above all	precipe	adv.	w
 especially	precipe	adv.	w
+least of all	plej precipe ne	phr. lit: most especially not	w
 ]
 
 _kompens_ = [
@@ -5740,6 +5828,7 @@ would steal	ŝtelus	v.tr
 crept in	enŝteliĝis	v.ntr	w
 stealthily	ŝtele	adv.	w
 steal	alŝteliĝi	v.ntr sneak up	w
+furtively	ŝtele	adv.	w
 ]
 
 _drink_ = [
@@ -5908,6 +5997,7 @@ built	konstruis	v.tr
 builder	konstruisto	n. contruction worker	
 building	konstruaĵo	n.	w
 edifice	konstruaĵo	n.	w
+constructed	konstruita	adj.	w
 ]
 
 _konsci_ = [
@@ -5921,6 +6011,8 @@ consciousness	konscio	n.	w
 become conscious of	konsciiĝis pri	phr.	
 conscience	konscienco	n.	w
 unselfconscious	nememkonscia	adj.	w
+unconsciously	senkonscie	adv.	w
+
 ]
 
 _percept_ = [
@@ -6126,6 +6218,7 @@ noblest	plej nobla	phr.
 ]
 
 _glit_ = [
+glide	gliti	v.ntr	w
 slid	glitis	v.ntr	
 skimmed	glitis laŭ	phr. slid along	w
 slip out	elgliti	v.ntr either drop accidentally, speak unintentionally, or sneak out unnoticed	w
@@ -6273,6 +6366,7 @@ pop apart	krevi	v.ntr
 
 _figur_ = [
 figure	figuro	n.	w
+foreshadowing	antaŭfiguro	n.	w
 became transfigured	transfiguriĝis	v.ntr	
 ]
 
@@ -6482,6 +6576,7 @@ forever	por eterno	phr. for all future time
 for all time	por eterno	phr.	
 forever and ever	por eterno kaj eterne	phr.	w
 for eternity	eterne	adv.	s
+eternity	eterneco	n.	w
 ]
 
 _horloĝ_ = [
@@ -6536,6 +6631,7 @@ bare	nuda	adj.	w
 
 _patron_ = [
 patron	patrono	n.	w
+patronage	patronado	n.	w
 ]
 
 _atelier_ = [
@@ -6561,7 +6657,7 @@ intently	intense	adv.	w
 
 _prepar_ = [
 prepare	prepari	v.tr	w
-preparation	preparo	n.	
+preparation	preparo	n.	w
 unprepared	senprepara	adj.	w
 without preparation	senprepare	adv.	s
 ]
@@ -6573,10 +6669,12 @@ shakedown	malhonestaĵo	n.	w
 ]
 
 _vend_ = [
+sell	vendi	v.tr	w
+would sell	vendus	v.tr	w
 sold	vendis	v.tr	w
 shop	vendejo	n.	w
 market	vendejo	n. shop	w
-flower-seller	flor’vendisto	n.
+flower-seller	flor’vendisto	n.	s
 ]
 
 _sentenc_ = [
@@ -6588,6 +6686,7 @@ _esplor_ = [
 research	esploro	n.	w
 explore	esplori	v.tr	w
 explorer	esploranto	n.	w
+investigator	esploristo	n. researcher	 s
 ]
 
 _tuk_ = [
@@ -6597,7 +6696,7 @@ apron	antaŭtuko	n.	w
 _pipr_ = [
 pepper	pipro	n.	w
 peppercorn	pipro	n.	w
-off-color joke	pipro	n.	
+off-color joke	pipro	n.	s
 ]
 
 _blag_ = [
@@ -6617,10 +6716,10 @@ damnable	damninda	adj. generic expletive	w
 ]
 
 _di_ = [
-god	dio	n.	
-divine	dia	adj.	
+god	dio	n.	w
+divine	dia	adj.	w
 divine	dieca	adj. less literal	w
-deity	diaĵo	n.	
+deity	diaĵo	n.	w
 goddess	diino	n.	w
 ]
 
@@ -6761,6 +6860,7 @@ _griz_ = [
 grey	griza	adj.	w
 gray	griza	adj.	w
 hoary	aĝe griza	adj.	w
+grayed	grizigita	adj.	s
 ]
 
 _plafon_ = [
@@ -6788,6 +6888,8 @@ decay	kadukiĝi	v.ntr	w
 _lim_ = [
 limitation	limo	n.	w
 illimitable	senlima	adj.	w
+boundlessly	senlime	adv.	w
+bounds	limoj	n. boundaries	w
 ]
 
 _nov_ = [
@@ -6802,6 +6904,7 @@ horizontal	horizontala	adj. 	w
 
 _brid_ = [
 unbridle	senbridigi	v.tr	w
+unchecked	senbrida	adj.	w
 abandon	senbrideco	n. lit. unbridled-ness	w
 ]
 
@@ -6903,6 +7006,7 @@ vulgar	triviala	adj.	w
 _ofend_ = [
 insult	ofendi	v.tr	w
 offend	ofendi	v.tr	w
+offensively	ofende	adv.	w
 ]
 
 _lun_ = [
@@ -6950,6 +7054,7 @@ _supoz_ = [
 suppose	supozi	v.tr	w
 assumed	supozita	adj. believed as a default, without proof	w
 presumably	supozeble	adv.	w
+supposedly	supozeble	adv.	w
 take it	supozi	v.tr	w
 guess	supozi	v.tr idiomatic	w
 ]
@@ -7143,6 +7248,7 @@ contest	konkurso	n. with judges and rules	w
 _danĝer_ = [
 peril	danĝero	n.	w
 dangerous	danĝera	adj.	w
+harmless	sendanĝera	adj.	w
 ]
 
 _difekt_ = [
@@ -7350,6 +7456,7 @@ stuffed	farĉita	adj.	w
 _kost_ = [
 costliest	plej kosta	adj.	
 cheap	malmultekosta	adj.	w
+cost	kosto	n.	w
 ]
 
 _komerc_ = [
@@ -7402,6 +7509,7 @@ photograph	fotografaĵo	n.	w
 _ring_ = [
 earrings	orelringoj	n.	w
 rings	gimnastikaj ringoj	n. gymnastic rings	w
+circled	malhel-ringita	adj. having dark circles around the eyes	s
 ]
 
 _raked_ = [
@@ -7569,6 +7677,7 @@ sniff	ekmovi la nazon	phr. move the nose as with displeasure	w
 _flar_ = [
 sniff	flari	v.tr to smell a smell	w
 sniff	ekflari	v.tr take a sniff	w
+smelled	flarita	adj.	 
 ]
 
 _kor_ = [
@@ -7624,6 +7733,7 @@ gasp	akrenspiri	v.tr a sharp inhalation	w
 exhalation	elspiro	n.	w
 breath	spiro	n.	w
 breathless	senspire	adv.	w
+breathlessly	senspire	adv.	w
 ]
 
 _suspir_ = [
@@ -7643,6 +7753,7 @@ break wind	furzi	v.ntr	w
 ]
 
 _hurl_ = [
+howl	hurli	v.ntr	w
 howling	hurlante	adv.	w
 ]
 
@@ -7747,6 +7858,7 @@ make excessively merry	diboĉi	v.ntr
 ]
 
 _maŝin_ = [
+machine	maŝino	n.	w
 mechanically	maŝine	adv. by means of a machine or as if a machine	w
 machinery	maŝinaro	n.	w
 ]
@@ -7953,6 +8065,7 @@ convention	kongreso	n.	w
 
 _nub_ = [
 cloud	nubo	n.	w
+cloudy	nubokovrita	adj.	w
 ]
 
 _magazen_ = [
@@ -7963,9 +8076,6 @@ shop	magazeno	n.
 warehouse	magazeno	n.	w
 ]
 
-_ne_ = [ 
-not	ne	adv.	
-]
 
 _avert_ = [
 warn	averti	v.tr	w
@@ -7990,6 +8100,8 @@ unseasonably	malsezone	adv.	w
 
 _komplez_ = [
 gracious	kompleza	adj. courteous, obliging	w
+kompleze	kompleze	adv.	 
+komplezi	komplezi	v.tr.ntr show oneself to be kind	 
 ]
 
 _arm_ = [
@@ -8093,6 +8205,7 @@ in moderation	modere	adv.	w
 
 _aer_ = [
 air	aero	n.	w
+aerial	aera	adj.	w
 ]
 
 _atenc_ = [
@@ -8202,6 +8315,7 @@ assert	aserti	v.tr express in good that a thing is true	w
 _par_ = [
 pair	paro	n.	w
 couple	paro	n.	w
+even	para	adj. 2-4-6-8	w
 ]
 
 _rent_ = [
@@ -8226,6 +8340,7 @@ racket	ĉantaĝo	n. corrupt enterprise; especially blackmail	w
 
 _ond_ = [
 wave	ondo	n.	w
+corrugated	ondumita	adj.	w
 ]
 
 _neglekt_ = [
@@ -8309,6 +8424,7 @@ hunt	ĉasi	v.tr	w
 
 _punkt_ = [
 point	punkto	n. exact location	w
+point of view	vidpunkto	n.	w
 ]
 
 _afiŝ_ = [
@@ -8404,6 +8520,7 @@ static	statika	adj.	w
 ]
 
 _venĝ_ = = [
+revenge	venĝo	n.	 w
 vindictive	venĝema	adj. 	w
 ]
 
@@ -8538,6 +8655,7 @@ maybe	eble	adv.	w
 as possible	kiel eble	adv.	s
 as possible	kiel eble plej	phr.	s
 as possible	laŭeble	adv.	s
+impossibility	neeblo	n.	 w
 ]
 
 _akcident_ = [
@@ -8692,6 +8810,7 @@ record	registri	v.tr	w
 
 _egal_ = [
 match	egali	v.tr	w
+equally	egale	adv.	w
 ]
 
 _babil_ = [
@@ -8731,6 +8850,7 @@ geology	geologio	n.	w
 
 _frakas_ = [
 smash	frakasi	v.tr	w
+shattered	frakasita	adj.	w
 brittle	frakasebla	adj. shatterable	w
 ]
 
@@ -8756,6 +8876,7 @@ small cave	groto	n. esp a decorated or artificial cave
 ]
 
 _proviz_ = [
+provide	provizi	v.tr	
 supply	provizi	v.tr one usually provizas someone with (per or je) something	w
 provision	provizi	v.tr one usually provizas someone 'with' (per or je) something	
 ]
@@ -8781,6 +8902,7 @@ _brak_ = [
 arm	brako	n.	W
 hug	brakumi	v.tr	w
 embrace	brakumi	v.tr	w
+take in arms	enbrakigi	v.tr embrace	s
 ]
 
 _ceremoni_ = [
@@ -8797,6 +8919,7 @@ dictum	verdikto	n. incl a bad diagnosis
 
 _esting_ = [
 quench	estingi	v.tr cause to stop burning 	w
+go out	estingiĝi	v.ntr	w
 ]
 
 _pest_ = [
@@ -8869,12 +8992,14 @@ retiree	pensiulo	n.
 ]
 
 _barb_ = [
+beard	barbo	n.	w
 greybeard	grizbarbo	n.	w
 ]
 
 _infan_ = [
 child	infano	n.	w
 children	infanoj	n.	w
+childish	infana	adj.	w
 ]
 
 _konvink_ = [
@@ -9056,6 +9181,7 @@ theory	teorio	n.	w
 _scienc_ = [
 sciences	sciencoj	n.	
 scientific	scienca	adj.	w
+scientist	sciencisto	n.	w
 ]
 
 _botel_ = [
@@ -9108,8 +9234,10 @@ quantity	maso	n. indefinite quantity	w
 
 _evolu_ = [
 evolve	evolui	v.ntr	w
-evolutionist	evoluiisto	n.	w
 be transformed	evolui	v.ntr	
+evolutionist	evoluiisto	n.	w
+evolution	evoluo	n.	w
+evolution	evoluado	n.	w
 ]
 
 _fut_ = [
@@ -9356,6 +9484,7 @@ outline	konturo	n. 	w
 
 _bar_ = [
 clear	debari	v.tr	w
+barrier	baro	n.	w
 ]
 
 _etap_ = [
@@ -9448,6 +9577,7 @@ whine	plor'grinco	n. crying squeak
 
 _rankor_ = [
 resentment	rankoro	n.	w
+resentment	rankoro	n.	w
 ]
 
 _guvern_ = [
@@ -9485,6 +9615,7 @@ fanfare	fanfaro	n. musical	w
 
 _kin_ = [
 cinema house	kinejo	n.	w
+cinema	kino	n.	
 ]
 
 _afekci_ = [
@@ -9624,10 +9755,12 @@ reservoir	rezervujo	n.	w
 
 _fizik_ = [
 physical	fizika	adj.	w
+metaphysical	metafizika	adj.	w
 ]
 
 _atrofi_ = [
 wasting away	atrofiiĝi	v.ntr	w
+atrophied	atrofia	adj.	w
 ]
 
 _redukt_ = [
@@ -9726,6 +9859,7 @@ silhouette	silueto	n.	w
 ]
 
 _heredit_ = [
+inherit	heredi	v.tr	w
 inherited	heredita	adj.	w
 ]
 
@@ -9904,6 +10038,7 @@ echo	eĥo	n. 	w
 
 _merit_ = [
 deserve	meriti	v.tr	w
+merit	merito	n.	w
 ]
 
 _benk_ = [
@@ -9937,6 +10072,7 @@ jovial	joviala	adj.	w
 
 _surpriz_ = [
 surprise	surprizo	n.	w
+surprize	surprizo	n.	w
 ]
 
 _leĝer_ = [
@@ -10236,6 +10372,7 @@ clawing	ungogratado	n.
 
 _hund_ = [
 dog	hundo	n. hound	w
+lapdog	dorlothundo	n.	w
 ]
 
 _pork_ = [
@@ -10295,6 +10432,7 @@ blotter	inksorbilo	n.	w
 
 _infekt_ = [
 infectious	infekta	adj.	w
+became infected	infektiĝis	v.ntr	s
 ]
 
 _spasm_ = [
@@ -10311,6 +10449,7 @@ trapeze	trapezo	n.	w
 
 _kolos_ = [
 colossal	kolosa	adj. 	w
+stupendous	kolosa	adj.	w
 ]
 
 _atmosfer_ = [
@@ -10336,6 +10475,7 @@ companion	kompano	n. preferred companions	w
 
 _grad_ = [
 by degrees	grade	adv.	w
+to some degree	iugrade	adv.	s
 ]
 
 _ĝin_  = [
@@ -10439,10 +10579,12 @@ casket	kesteto	n. small chest 	w
 
 _imperativ_ = [
 imperative	imperativa	adj.	w
+imperatively	imperative	adv.	w
 ]
 
 _horizont_ = [
 horizon	horizonto	n.	w
+vista	horizonto	n. figurative	w
 ]
 
 _instinkt_ = [
@@ -10787,6 +10929,7 @@ career	kariero	n.	w
 ]
 
 _energi_ = [
+energy	energio	n.	w
 listless	senenergia	adj.	w
 ]
 
@@ -10852,6 +10995,7 @@ people	popolo	n. populace	w
 
 _nutr_ = [
 fostered	nutrita	adj. 	
+feed	nutriĝi	v.ntr eat, as an animal	w
 ]
 
 _kotiz_ = [
@@ -10865,6 +11009,7 @@ perforce	nepre	adv.	w
 _brod_ = [
 embroidery	brodaĵo	n.	w
 embroider	brodi	v.tr	w
+embroidered	brodita	adj.	w 
 ]
 
 _establ_ = [
@@ -10881,6 +11026,7 @@ anticlimax	malklimakso	n.	w
 
 _ident_ = [
 might mistake	misidentigus	v.tr	s
+unidentified	neidentigita	adj.	w
 ]
 
 _akrid_ = [
@@ -11201,6 +11347,7 @@ handle	anso	n.	w
 
 _koher_ = [
 incoherent	nekohera	adj.	w
+coherent	kohera	adj.	w
 ]
 
 _kvalit_ = [
@@ -11722,6 +11869,7 @@ conductor	konduktoro	n. on a train or bus	w
 
 _naci_ = [
 nation	nacio	n.	
+League of Nations	Ligo de Nacioj	n.proper	w 
 ]
 
 _argil_ = [
@@ -11746,6 +11894,7 @@ muscle	muskolo	n.	w
 
 _organ_ = [
 organ	organo	n. body part	w
+sense-organ	sensorgano	n.	w
 ]
 
 _pis_ = [
@@ -11775,6 +11924,7 @@ waist	talio	n.	w
 
 _man_ = [
 hand	mano	n. at the ends of the arm	w
+at hand	je la mano	phr.	 w
 ]
 
 _ostr_ = [
@@ -11835,6 +11985,8 @@ college	kolegio	n.
 
 _filozof_ = [
 philosopher	filozofo	n.	w
+philosophy	filozofio	n.	w
+philosophically	filozofe	adv.	w
 ]
 
 _labirint_ = [
@@ -11979,7 +12131,7 @@ chant	ĉanti	v.tr	w
 ]
 
 _pitĉ_ = [
-pitch	pitĉo	n. musical note	
+pitch	pitĉo	n. musical note	w
 ]
 
 _strab_ = [
@@ -11991,7 +12143,7 @@ Eolian harp	eola harpo	n.	w
 ]
 
 _podagr_ = [
-gout	podagro	n.	
+gout	podagro	n.	w
 ]
 
 _seks_ = [
@@ -12129,7 +12281,7 @@ sweat	ŝvito	n.	w
 ]
 
 _razen_ = [
-lawn	razeno	n. decorative lawn	
+lawn	razeno	n. decorative lawn	w
 ]
 
 _metal_ = [
@@ -12146,6 +12298,7 @@ nazi	nazio	n. member of the German NatSoc party or regime	w
 
 _flav_ = [
 yellow	flava	adj.	w
+yellowed	flavigita	adj. made yellow	w
 ]
 
 _oranĝ_ = [
@@ -12165,7 +12318,7 @@ gymnasium	gimnastikejo	n. place designated for gymnastics	w
 ]
 
 _medikament_ = [
-medicine	medikamento	n. as something to be taken	
+medicine	medikamento	n. as something to be taken	w
 ]
 
 _katakomb_ = [
@@ -12173,7 +12326,7 @@ catacombs	katakomboj	n. 	w
 ]
 
 _kapriĉ_ = [
-caprice	kapriĉo	n. in music	
+caprice	kapriĉo	n. in music	w
 ]
 
 _ĥor_ = [
@@ -12197,7 +12350,7 @@ slang	slango	n.	w
 ]
 
 _instituci_ = [
-institution	institucio	n.	
+institution	institucio	n.	w
 ]
 
 _lez_ = [
@@ -12261,11 +12414,11 @@ crumpled	ĉifitajn	adj.	w
 ]
 
 _fortun_ = [
-ill-fortune	malbona fortuno	n.	
+ill-fortune	malbona fortuno	n.	w
 ]
 
 _kondukt_ = [
-conduct	kondukti	v.tr an electrical current	
+conduct	kondukti	v.tr an electrical current	w
 ]
 
 _filantropi_ = [
@@ -12290,7 +12443,8 @@ battering-ram	batila ramo	n. 	w
 
 _viol_ = [
 violet	viola	adj.	w
-violet rays	violaj radioj	phr.	
+violet rays	violaj radioj	phr.	s
+ultra-violet	ultraviola	adj.	w
 ]
 
 _darvin_ = [
@@ -12334,7 +12488,7 @@ radium	radiumo	n.	w
 ]
 
 _al_ = [
-wing	alo	n. wing of a plane or building	
+wing	alo	n. wing of a plane or building	w
 ]
 
 _popl_ = [ 
@@ -12342,11 +12496,11 @@ poplar	poplo	n. poplar tree	w
 ]
 
 _kibuc_ = [
-farm	kibuco	n. Israeli collective farm	
+farm	kibuco	n. Israeli collective farm	s
 ]
 
 _kolĥoz_ = [
-farm	kolĥozo	n. Soviet collective farm	
+farm	kolĥozo	n. Soviet collective farm	s
 ]
 
 _tohuvabohu_ = [
@@ -12389,6 +12543,8 @@ inquisition	inkvizicio	n. intense investigation non-PIV	w
 ]
 
 _ord_ = [
+proper	bonorda	adj. according to rules	 w
+disorder	malordo	n.	w
 upheaval	renvers'malordiĝo	n. disordered inversion	
 ]
 
@@ -12401,7 +12557,7 @@ scudi	arĝentaj dukatoj	n. Italian coin, one silver ducat comparable to a scudo	
 ]
 
 _kavalir_ = [
-calviere	kavaliro	n. honorific signifying "knight"	
+calviere	kavaliro	n. honorific signifying "knight"	s
 ]
 
 _ekstravaganc_ = [
@@ -12409,7 +12565,7 @@ extravagance	ekstravaganco	n.	w
 ]
 
 _cinik_ = [
-cynics	cinikoj	n. school of philosophers	
+cynics	cinikoj	n. school of philosophers	w
 ]
 
 _mandaren_ = [
@@ -12433,7 +12589,7 @@ epiphany	epifanio	n. religious	w
 ]
 
 _volapuk_ = [
-volapük	volapuko	n. language	
+volapük	volapuko	n. language	w
 ]
 
 _lir_ = [
@@ -12444,6 +12600,507 @@ _akropol_ = [
 acropolis	akropolo	n.	w
 ]
 
-_Faraon_ = [
+_faraon_ = [
 pharaoh	faraono	n.	w
+]
+
+_cigan_ = [
+gypsy	cigano	n.	w
+]
+
+_patrici_ = [
+patrician	patricio	n.	w
+]
+
+_leĝi_ = [
+legion	legio	n. Roman infantry unit	w
+legionary	legiano	n. member of a Roman infantry unit	w
+]
+
+_tribunus_ = [
+tribune	tribunuso	n. a Roman official	w
+]
+
+_mecenat_ = [
+patronage	mecenateco	n.	w
+]
+
+_tip_ = [
+type	tipo	n.	w
+]
+
+_sup_ = [
+soup	supo	n.	w
+]
+
+_stab_ = [
+staff	stabo	n.	w
+]
+
+_lam_ = [
+lame	lama	adj.	w
+]
+
+_ole_ = [
+oily	olea	adj.	w
+]
+
+_pek_ = [
+sin	peko	n. 7 deadly	w
+]
+
+_doz_ = [
+dose	dozo	n. 	 w
+]
+
+_elit_ = [
+elite	elito	n. 	 w
+]
+
+_fur_ = [
+ferret	furo	n. animal mammal	 w
+]
+
+_gum_ = [
+gum	gumo	n. 	 w
+]
+
+_karn_ = [
+carnal	karna	adj.	 w
+]
+
+_kast_ = [
+caste	kasto	n.	 w
+]
+
+_krab_ = [
+crab	krabo	n. animal aquatic	 w
+]
+
+_kupe_ = [
+compartment	kupeo	n. in a vehicle	 w
+sleeping compartment	dorm-kupeon	n. on a train	 s
+]
+
+_lu_ = [
+rent	lui	v.tr as a renter	 w
+]
+
+_mafi_ = [
+mafia	mafio	n.	 w
+]
+
+_palt_ = [
+coat	palto	n. men’s garment	 w
+]
+
+_pun_ = [
+punishment	puno	n.	 w
+capital punishment	mortpuno	n.	 w
+]
+
+_ronk_ = [
+snore	ronki	v.ntr	 w
+]
+
+_snob_ = [
+snob	snobo	n.	 w
+]
+
+_buton_ = [
+button	butono	n. clothing	 w
+]
+
+_detektiv_ = [
+detective	detektivo	n.	 w
+]
+
+_pingl_ = [
+hatpin	ĉapelpinglo	n. clothing	 w
+]
+
+_negr_ = [
+Negro	negro	n. person of African ancestry	w
+]
+
+_diskret_ = [
+discreet	diskreta	adj.	w 
+]
+
+_dogan_ = [
+customs	dogano	n. border tax	w 
+]
+
+_fals_ = [
+false	falsa	adj.	w 
+counterfeit	falsigita	adj.	w 
+]
+
+_frank_ = [
+Frank	franko	n. Germanic tribesman	 w
+]
+
+_galoŝ_ = [
+galoshes	galoŝojn	n. garment	 w
+]
+
+_drak_ = [
+dragon	drako	n.	 w
+]
+
+_candl_ = [
+candle	kandelo	n.	w
+]
+
+_ŝalt_ = [
+turned off	elŝaltita	adj. electrical	w
+switch	ŝaltilo	n.	w
+]
+
+_parodi_ = [
+parody	parodio	n.	w
+]
+
+_kemi_ = [
+chemical	kemia	adj.	w
+]
+
+_vor_ = [
+devour	vori	v.tr	w
+]
+
+_fanatik_ = [
+fanatical	fanatikeca	adj.	w
+fanatic	fanatikulo	n.	w
+]
+
+_laboratori_ = [
+laboratory	laboratorio	n.	w
+]
+
+_kurent_ = [
+current	kurento	n. electrical	w
+]
+
+_elektron_ = [
+electron	elektrono	n.	w
+]
+
+_bapt_ = [
+goddaughter	baptofilino	n.	 w
+godmother	baptopatrino	n.	w 
+godson	baptofilo	n.	 w
+goddaughter	baptofilino	n.	 w
+]
+
+_revolver_ = [
+revolver	revolvero	n. pistol	w
+gunman	revolverulo	n.	 w
+]
+
+_endokrin_ = [
+endocrinologist	endokrinologo	n. medicine	w
+]
+
+_kompleks_ = [
+complex	kompleksa	adj.	w
+]
+
+_kubut_ = [
+elbow	kubuto	n. anatomy	w
+]
+
+_paf_ = [
+shot	pafo	n. with a gun	w
+]
+
+_pineal_ = [
+pineal	pineala	adj. anatomy	w
+]
+
+_apopleksi_ = [
+apoplexy	apopleksio	n.	w
+]
+
+_ronron_ = [
+purr	ronroni	v.ntr	w
+purred	ronronis	v.ntr	w
+]
+
+_stadi_ = [
+stage	stadio	n. stage of development	w
+]
+
+_pred_ = [
+prey	predo	n.	w
+]
+
+_melankoli_ = [
+melancholy	melankolio	n.	w
+]
+
+_pedant_ = [
+pedantic	pedanta	adj.	w
+]
+
+_gland_ = [
+gland	glando	n. anatomy	w
+]
+
+_lokomotiv_ = [
+locomotive	lokomotivo	n. train	w
+]
+
+_kosm_ = [
+cosmic	kosma	adj.	w
+cosmos	kosmo	n.	w
+]
+
+_pil_ = [
+battery	pilo	n. electrical	w
+]
+
+_freŭd_ = [
+Freudian	freŭdulo	n. follower of Freud 	w
+]
+
+_metamorfoz_ = [
+metamorphosed	metamorfozita	adj. having been transformed	s
+]
+
+_eksperiment_ = [
+experimental	eksperimenta	adj.	w
+]
+
+_alumet_ = [
+match	alumeto	n.	w
+matchbox	alumetujo	n.	w
+matchbox	allumet-skatoleto	n.	 w
+]
+
+_konfes_ = [
+admit	konfesi	v.tr	w
+]
+
+_akcident_ = [
+accidentally	akcidente	adv.	w
+]
+
+_amator_ = [
+amateur	amatoro	n.	 w
+]
+
+_ekzil_ = [
+exile	ekzilo	v.	w
+]
+
+_alternativ_ = [
+alternative	alternativo	n.	w
+]
+
+_vestiĝ_ = [
+vestige	vestiĝo	n.	w
+]
+
+_organik_ = [
+organic	organika	adj.	w
+]
+
+_rudiment_ = [
+rudimentary	rudimenta	adj.	w
+]
+
+_graci_ = [
+graceful	gracia	adj.	w 
+]
+
+_koks_ = [
+hip	kokso	n. anatomy	w
+]
+
+_feroc_ = [
+ferocious	feroca	adj.	w 
+]
+
+_solv_ = [
+dissolve	dissolvi	v.tr separate into solution	w
+dissolve	solvi	v.tr homogeneously and stably mix	w
+]
+
+_perl_ = [
+pearl	perlo	n.	 w
+]
+
+_konkret_ = [
+concrete	konkreta	adj. Not abstract	 w
+]
+
+_vejn_ = [
+veined	vejnita	adj.	w
+]
+
+_jung_ = [
+harness	jungi	v.tr put in a harness	w
+]
+
+_koket_ = [
+flirtatious	koketa	adj.	 w
+]
+
+_eksklud_ = [
+excluding	ekskludante	adv.	w
+]
+
+_raz_ = [
+clean-shaven	pure razita	adj.	w
+]
+
+_ink_ = [
+inky	inka	adj.	w
+]
+
+_partikl_ = [
+particle	partiklo	n.	w
+]
+
+_telegraf_ = [
+telegraph	telegrafi	v.tr notify by telegraph	w
+]
+
+_kalejdoskop_ = [
+kaleidoscopic	kalejdoskopa	adj.	w
+]
+
+_subtil_ = [
+subtly	subtile	adv.	w
+]
+
+_kofr_ = [
+suitcase	kofro	n.	w
+]
+
+_vak_ = [
+vacant	vaka	adj.	w
+]
+
+_materi_ = [
+matter	materio	n. not energy	w
+]
+
+_gam_ = [
+range	gamo	n.	 w
+]
+
+_stomak_ = [
+stomach	stomako	n. anatomy	 w
+]
+
+_koincid_ = [
+coincidence	koincido	n.	 w
+]
+
+_arest_ = [
+arrest	aresti	v.tr	w
+]
+
+_paraf_ = [
+paraph	parafo	n. fluorish after signature	 w
+]
+
+_cirkl_ = [
+circle	cirklo	n.	w
+Circus	Cirklo	n. London's Picadilly Circus	
+]
+
+_brand_ = [
+brandy	brando	n.	 w
+]
+
+_hipnot_ = [
+hypnotized	hipnotigita	adj.	w
+]
+
+_aspirin_ = [
+aspirin	aspirino	n.	 w
+]
+
+_konstelaci_ = [
+constellation	konstelacio	n.	w
+]
+
+_galaksi_ = [
+galaxy	galaksio	n.	w
+]
+
+_zibel_ = [
+sable	zibelo	n. animal	 w
+]
+
+_akumul_ = [
+cumulative	akumula	adj.	w
+]
+
+_tik_ = [
+twitching	tikadanta	adj.	w
+]
+
+_estetik_ = [
+esthetic	estetika	adj.	w
+]
+
+_tualet_ = [
+unkemptness	maltualetiteco	n.	w
+]
+
+_aŭtokrat_ = [
+autocratic	aŭtokrata	adj.	 w
+]
+
+_boj_ = [
+bark	boji	v.ntr like a dog	w
+]
+
+_koncesi_ = [
+concession	koncesio	n. legal, business	w
+]
+
+_kolonel_ = [
+colonel	kolonelo	n.	 w
+]
+
+_ĝib_ = [
+hump	ĝibo	n. as a camel	 w
+]
+
+_alibi_ = [
+alibi	alibio	n.	 w
+]
+
+_ov_ = [
+oval	ovoforma	adj.	 w
+]
+
+_pret_ = [
+ready	preta	adj.	
+prepare	pretigi	v.tr	 w
+]
+
+_dung_ = [
+employer	dunganto	n.	w 
+]
+
+_proverb_ = [
+proverb	proverbo	n.	 w
+]
+
+_sond_ = [
+prying	sondado	n. sounding, probing, intrustive exploring	w
+]
+
+_ataŝe_ = [
+attaché	ataŝeo	n. diplomat	w
+]
+
+_mucid_ = [
+slimy	mucida	adj.	w
 ]

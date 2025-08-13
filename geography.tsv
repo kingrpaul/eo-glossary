@@ -13,10 +13,10 @@ China	Ĉinio	n.proper	w
 Chinese	hano	n. an ethnic Chinese	
 Chinese	la mandarena	adj. the official language of China	
 European	eŭropa	adj.	
+central european	mez-eŭropa	adj.	w
 Finn	finno	n.	
-Negro	negro	n. person of African ancestry	w
 India	Hindio	n.proper	w
-gypsy	cigano	n.	w
+
 
 # BRITISH ISLES & IRELAND
 british	brita	adj.	w
@@ -29,7 +29,6 @@ Oxford	Oksfordo	n.proper
 John o’ Groats	Johano de Kvar'pencoj	n. Scottish village	
 Land’s End	Terfino	n.	
 Bloomsbury	Blumsberio	n.proper	
-Circus	Cirklo	n. London's Picadilly Circus	
 
 # UNITED STATES
 New Orlean	Nov-Orleano	n.proper	
@@ -66,8 +65,10 @@ Zimbabwe	Zimbabvo	n.proper	w
 Sudan	Sudano	n.proper	w
 
 # ITALY
+Italian	italo	n. Italian person	 w
 Tyrolese	Tirola	adj.	w
 Venice	Venecio	n.	w
+venetian	veneciano	n. person of Venice geography	w
 Florence	Florenco	n. Italian city	w
 Meran	Merano	n.	
 
@@ -80,10 +81,6 @@ Roman	Romano	n.
 Roman	romano	n.	
 Roman	romiano	n. an ancient Roman	
 Campagna	Kamparo	n.proper Roman Campagna, countryside around Rome	
-patrician	patricio	n.	w
-tribune	tribunuso	n. a Roman official	w
-legion	legio	n. Roman infantry unit	w
-legionary	legiano	n. member of a Roman infantry unit	w
 
 # MIDDLE EAST
 Arabic	la araba	phr. Arabic language	w
@@ -134,3 +131,22 @@ Florentine	Florenca	adj. of Florence	w
 Madrid	Madrido	n.proper	w
 American	Usonano	n.	w
 Barcelona	Barcelono	n.proper	w
+
+Belgian	belga	adj. related to Belgium	 w
+Belgian	belgo	n. Belgian person	 w
+
+Bucharest	Bukareŝto	n.proper Romania	w
+Yugoslavia	Jugoslavujo	n.proper non-PIV	 w
+Yugoslavia	Jugoslavio	n.proper	w
+
+austrian	aŭstra	adj. Geography	 w
+
+Balkan	balkana	adj. geography	 w
+
+
+Scottish girl	skotino	n.	 
+Swiss	svisa	adj. of Switzerland	w
+
+Hungarian	hungara	adj	 w
+
+Anglo-Saxon	anglosaksa	adj.	s

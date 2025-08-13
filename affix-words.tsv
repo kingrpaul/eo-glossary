@@ -52,6 +52,7 @@ _er_ = [
 crumbled away	diseriĝinta	adj.	
 crumbling	diseriĝanta	adj.	w
 moldering	diseriĝanta	adj.	w
+disintegration	diseriĝo	n.	w
 ]
 
 _estr_ = [
@@ -63,7 +64,6 @@ _et_ = [
 tiny	eta	adj.	w
 slightly	ete	adv.	w
 smaller	pli eta	adj.	
-ready	preta	adj.	
 little	eta	adj.	
 ]
 
@@ -179,10 +179,8 @@ if so	se jes	phr.	w
 ]
 
 _ne_ = [
+not	ne	adv.	
 deny	nei	v.tr.ntr	
 will not deny	ne neos	phr.	
-]
-
-_mucid_ = [
-slimy	mucida	adj.	w
+denying	neante	adv.	 s
 ]
