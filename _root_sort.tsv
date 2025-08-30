@@ -62,6 +62,7 @@ pitch	ĵeto	n.	w
 throw off	deĵeti	v.tr	w
 moon-cast	lune ĵetita	adj.	
 dashed full-tilt against	plene sin ĵetis kontraŭ	phr.	
+launch	alĵeti	v.tr	w
 ]
 
 _ĝust_ = [
@@ -196,6 +197,7 @@ lifting	levanta	adj.
 uplifting	levo	n. act of lifting something up	w
 pry up	perforte levi	phr.	
 rising	leviĝo	n.	w
+arose	leviĝis	v.ntr	w
 ]
 
 _mov_ = [
@@ -216,6 +218,7 @@ moves back	retromoviĝas	v.ntr
 moving	movanta	adj.	
 moved	moviĝinta	adj.	
 immovably	nemoveble	adv.	w
+stir	ekmoviĝi	v.ntr	w
 ]
 
 _rapid_ = [
@@ -462,6 +465,8 @@ ravish	perforti	v.tr
 rape	perforti	v.tr	
 stronger	pli forta	adj.	
 fainter	pli malforta	adj.	
+augmented	plifortigita	adj.	
+overwhelming	superforta	adj.	w
 ]
 
 _help_ = [
@@ -561,6 +566,7 @@ liberty	libereco	n.	w
 deliver	liberigi	v.tr make free 	w
 jail-like	mallibereca	adj.	w
 jail-like	malliberejo-simila	adj.	w
+release	liberigi	v.tr	w
 ]
 
 _frenez_ = [
@@ -621,6 +627,8 @@ as greatly	same grande	adv.
 Great One	Grandulo	phr. moniker	
 had little enough	havis malgrande sufiĉe	adv.	s
 huge	grandega	adj.	w
+magnitude	grando	n.	w
+
 ]
 
 _grandioz_ = [
@@ -773,6 +781,7 @@ in-flight	fluganta	adj.
 
 _trankvil_ = [
 calmly	trankvile	adv.	w
+don't worry	ne maltrankviliĝu	phr.	
 don’t worry	restu trankvila	adj.	
 calm yourself	trankviliĝu	v.ntr	w
 calm	trankvila	adj.	w
@@ -790,7 +799,7 @@ anxiously	maltrankvile	adv.	w
 _aŭdac_ = [
 dare	aŭdaci	v.tr	w
 daringly	aŭdace	adv.	w
-boldly	aŭdace	adv.	
+boldly	aŭdace	adv.	w
 audacity	aŭdaco	n.	w
 ]
 
@@ -1080,6 +1089,7 @@ shaky	tremanta	adj.	w
 shudderingly	ektremante	adv.	w
 chill	malvarm'tremo	n. sensation of a chill accompanied by trembling	
 make tremble	tremigi	v.tr	s
+shaky	tremema	adj.	w
 ]
 
 _gras_ = [
@@ -1578,6 +1588,7 @@ sweep	balai	v.tr	w
 swept	balais	v.tr	
 clean-up	balao	n. a clean-up	
 swept asunder	dis'bala'ita	adj.	
+swept up	kunbalais	v.tr	w
 ]
 
 _sever_ = [
@@ -1619,6 +1630,7 @@ interfere	sin intermeti	v.tr	w
 placed upon me	metita sur min	phr.	
 superimposed	supermetita	adj.	w
 transmit	transmeti	v.tr	w
+composition	kunmetaĵo	n.	w
 ]
 
 _akr_ = [
@@ -1814,6 +1826,7 @@ shallow	supraĵa	adj. superficial	w
 
 _pens_ = [
 invent	elpensi	v.tr	
+invented	elpensita	adj.	w
 wonder	pripensi	v.tr	w
 think	pensi	v.ntr use brain, assume to be true	
 consider	pensi	v.ntr	
@@ -1946,6 +1959,8 @@ wait and see	atendi kaj vidi	phr.	w
 forecast	antaŭvido	n.	s
 become visible	videbliĝi	v.ntr	 s
 foreseen	antaŭvidita	adj.	s 
+sight	videblo	n. what can been seen	s
+sight	vidindaĵo	n.	w
 ]
 
 _tir_ = [
@@ -2001,6 +2016,7 @@ pain him	dolori sin	phr.	w
 cause pain	dolori	v.tr	w
 headache	kapdoloro	n.	w
 painless	sendolora	adj.	w
+hurt	dolorigi	v.tr	w
 ]
 
 _pentr_ = [
@@ -2205,6 +2221,7 @@ plenty	abundo	n. abundance	w
 lavishly	abunde	adv.	w
 is everywhere rife	abundas	v.ntr	
 scarce	malabunda	adj.	w
+profusion	abundo	n.	w
 ]
 
 _afer_ = [
@@ -2265,6 +2282,7 @@ step	paŝado	n. stepping	w
 paces	paŝas	v.ntr	w
 footstep	paŝo	n.	
 step inside	enpaŝi	v.ntr	
+stride	paŝegi	v.ntr	w
 ]
 
 _klopod_ = [
@@ -2444,6 +2462,7 @@ _flu_ = [
 flows	fluas	v.ntr	
 running	fluanta	adj. flowing	
 stream	fluo	n.	w
+semi-fluid	duone flua	adj.	s
 undercurrent	subfluo	n.	
 extra bit	superfluo	n.	
 effluence	elfluo	n.	w
@@ -3133,6 +3152,7 @@ long gone	for jam longe	phr.
 longer	pli longe	adv.	
 at length	laŭlonge	adv.	w
 long since	antaŭlonge	adv.	w
+soon enough	post nelonge	phr.	s
 ]
 
 _oblong_ = [
@@ -3304,6 +3324,7 @@ lighthearted	facilanima	adj.	w
 old faithful soul	fidelanimulon	phr.	
 light-heartedly	facilanime	adv. easy-going, lit. easy-souled	w
 shade	ombra animo	phr. shadowy spirit	
+animate	animita	adj.	w
 ]
 
 _amas_ = [
@@ -3339,6 +3360,7 @@ hit	trafi	v.tr to hit a target	w
 stricken	trafita	adj.	
 comes over	trafas	v.tr as in 'fear comes over me'	
 came over	trafis	v.tr as in "disappointment came over him"	w
+struck	trafis	v.tr	w
 ]
 
 _ĉiz_ = [
@@ -3456,6 +3478,7 @@ avoid	eviti	v.tr	w
 dodge	eviti	v.tr avoid	w
 shun	eviti	v.tr	w
 elusively	eviteme	adv.	w
+evasive	evitema	adj.	w
 ]
 
 _kompar_ = [
@@ -3477,6 +3500,7 @@ arrange	aranĝi	v.tr	w
 array	aranĝo	n. arrangement	w
 dispose	aranĝi	v.tr	w
 been arranged	aranĝita	adj.	
+disarray	disaranĝo	n.	w
 ]
 
 _senc_ = [
@@ -3912,6 +3936,7 @@ common knowledge	ĝenerale konata	phr.	w
 familiar	konita	adj.	w
 unrecognized	nerekonita	adj.	w
 unrecognizable	nerekonebla	adj.	w
+familiar	konateca	adj.	
 ]
 
 _kler_ = [
@@ -4065,6 +4090,7 @@ fell	falis	v.ntr
 crumbling	disfalanta	adj. lit. falling apart, more sudden and stuctural than diseriĝanta	
 waterfall	akvofalo	n.	w
 falls upon	alfalas sur	phr. eg an eye falls up what it looks at	
+flop	falaĉi	v.ntr	w
 ]
 
 _ter_ = [
@@ -4077,6 +4103,7 @@ bury	enterigi	v.tr	w
 unearths	elterigas	v.tr	
 underground	subtera	adj.	w
 terrestrial	surtera	adj.	w
+alien	netera	adj. unearthly	
 ]
 
 _ĵuri_ = [
@@ -4679,6 +4706,7 @@ _naŭz_ = [
 noisome	naŭza	adj. disgusting	w
 nauseous	naŭza	adj.	w
 revolting	naŭza	adj.	w
+loathsome	naŭza	adj.	w
 ]
 
 _ŝnur_ = [
@@ -6189,6 +6217,7 @@ shadow	ombro	n.	w
 shade	ombro	n.	w
 shadowed	ombris	v.tr	
 shading	ombrado	n. a shadow which has been cast	w
+shadowy	ombreca	adj.	w
 ]
 
 _diabl_ = [
@@ -7835,6 +7864,8 @@ dew	roso	n.	w
 
 _abomen_ = [
 detestable	abomeninda	adj. disgusting	w
+disgusting	abomeninda	adj.	w
+loathsome	abomeninda	adj.	w
 ]
 
 _tabel_ = [
@@ -8649,6 +8680,7 @@ take advantage of	profiti	v.tr	w
 
 _mol_ = [
 tender	mola	adj. in regard to meat	w
+flabbily	molaĉe	adv.	w
 ]
 
 _ĵak_ = [
@@ -8973,6 +9005,7 @@ jumble	miksaĵo	n.	w
 mingle	intermiksiĝi	v.ntr	w
 coming between	enmiksiĝis inter	phr.	w
 was coming between	estis enmiksiĝanta inter	phr.	
+mixed	miksita	adj.	
 ]
 
 _fulm_ = [
@@ -9444,6 +9477,7 @@ _teatr_ = [
 theatre	teatro	n.	W
 play	teatraĵo	n.	w
 stage review	varia teatraĵo	n.	
+theater	teatro	n.	
 ]
 
 _kadavr_ = [
@@ -10142,6 +10176,7 @@ conception	konceptaĵo	n. an idea concieved of	w
 
 _streb_ = [
 strive	strebi	v.ntr	w
+strove	strebis	v.ntr	w
 ]
 
 _plet_ = [
@@ -10224,6 +10259,7 @@ petroleum	petrolo	n.	w
 
 _bros_ = [
 brush	broso	n.	w
+brush	brosi	v.tr	w
 ]
 
 _rimors_ = [
@@ -10254,6 +10290,7 @@ _enket_ = [
 inquiry	enketo	n.	w
 investigation	enketo	n.	w
 inquisition	enketo	n. investigation	w
+coroner	enketisto	n.	w
 ]
 
 _ŝpat_ = [
@@ -10676,6 +10713,7 @@ vacua	vakuoj	n. airless spaces	w
 
 _venen_ = [
 poison	venena	adj. poisonous or venomous	
+noxious	venena	adj.	w
 ]
 
 _indiĝen_ = [
@@ -13231,3 +13269,51 @@ _muslin_ = [
 muslin	muslino	n.	w
 ]
 
+_trejn_ = [
+better trained	pli bone trejnita	phr.	s
+]
+
+_prudent_ = [
+prudence	prudento	n.	w
+]
+
+_ent_ = [
+entities	entoj	n.	w
+]
+
+_ĉef_ = [
+foremost	ĉefe	adv.	w
+]
+
+_harmoni_ = [
+in harmony with	harmonie laŭ	phr.	s
+harmony	harmonio	n.	w
+]
+
+_vibr_ = [
+vibration	vibro	n. one vibration cycle	w
+]
+
+_ĵele_ = [
+jellyish	ĵelea	adj.	w
+]
+
+_invers_ = [
+vice versa	inverse	adv.	w
+]
+
+_fles_ = [
+flounder	fleso	n. fish	w
+]
+
+_sem_ = [
+sow	semi	v.tr	w
+]
+
+_magnitud_ = [
+magnitude	magnitudo	n.	w
+]
+
+_norm_ = [
+standard	normo	n.	s
+]
