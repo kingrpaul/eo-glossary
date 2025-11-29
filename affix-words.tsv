@@ -85,6 +85,7 @@ he’ll become	li iĝos	phr.
 
 _il_ = [
 tool	ilo	n.	w
+toolkit	ilaro	n.	w
 ]
 
 _in_ = [
@@ -107,6 +108,7 @@ _obl_ = [
 ]
 
 _uj_ = [
+container	ujo	n.	w
 ]
 
 _ul_ = [
@@ -151,6 +153,7 @@ _mal_ = [
 ]
 
 _mis_ = [
+amiss	mise	adv.	w
 ]
 
 _pra_ = [
