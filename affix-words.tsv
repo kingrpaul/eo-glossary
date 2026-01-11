@@ -21,6 +21,19 @@ _ar_ = [
 ]
 
 _ebl_ = [
+be possible	ebli	v.ntr	s
+enabled	ebligis	v.ntr	w
+impossible	neeble	adv.	w
+might	eble	adv.	w
+perhaps	eble	adv.	w
+possibly	eble	adv.	w
+opportunities	ebloj	n. options	w
+maybe	eble	adv.	w
+as possible	kiel eble	adv.	s
+as possible	kiel eble plej	phr.	s
+as possible	laŭeble	adv.	s
+impossibility	neeblo	n.	 w
+prevent	malebligi	v.tr	w
 ]
 
 _ec_ = [
@@ -117,6 +130,7 @@ old thing	ulo	n. familiar address (UK)
 boy	ulo	n. familiar address to a young man	w
 underling	subulo	n.	
 successor	posteulo	n.	w
+descendant	posteulo	n.	w
 forebears	prauloj	n.	
 ancestor	praulo	n.	w
 ancient stock	praularo	n. ancestry	s

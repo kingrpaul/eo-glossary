@@ -13,12 +13,18 @@ China	Ĉinio	n.proper	w
 Chinese	hano	n. an ethnic Chinese	
 Chinese	la mandarena	adj. the official language of China	
 European	eŭropa	adj.	
+Central European	Centr-Eŭropa	adj.	w
+Northern European	Nord-Eŭropa	adj.	w
+Western European	Okcident-Eŭropa	adj.	w
+Eastern European	Okcident-Eŭropa	adj.	w
+Southern European	Sud-Eŭropa	adj.	s
 central european	mez-eŭropa	adj.	w
 Finn	finno	n.	
 India	Hindio	n.proper	w
 
 
 # BRITISH ISLES & IRELAND
+Britain	Britio	n. geography	w
 british	brita	adj.	w
 England	Anglio	n.proper	w
 English	angla	adj.	
@@ -31,7 +37,7 @@ Land’s End	Terfino	n.
 Bloomsbury	Blumsberio	n.proper	
 
 # UNITED STATES
-New Orlean	Nov-Orleano	n.proper	
+New Orleans	Nov-Orleano	n.proper	
 Florida	Florido	n.proper	w
 Gainsville	Gajnesvilo	n. CITY	
 Gainsville pike	Gajnesvila Vojo	n.	
@@ -121,6 +127,7 @@ Aton	Atono	n.proper name of Egyptian god
 
 # UNSORTED
 France	Francio	n.proper	w
+French	franca	adj.	w
 Ireland	Irlando	n.proper	w
 Asia	Azio	n.proper	w
 
