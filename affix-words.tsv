@@ -1,5 +1,9 @@
 # SUFFIXES
 
+_op_ = [
+collectively	ope	adv. as a unit	w
+]
+
 _aĉ_ = [
 awful	aĉa	adj. causing fear; appalling; terrible	
 terrible	aĉa	adj.	w
@@ -76,6 +80,7 @@ board of directors	estraro	n.	w
 
 _et_ = [
 tiny	eta	adj.	w
+slight	eta	adj.	w
 slightly	ete	adv.	w
 smaller	pli eta	adj.	
 little	eta	adj.	
@@ -153,7 +158,9 @@ will set him off	ekigos lin	phr.
 ]
 
 _eks_ = [
+outdated	eks	n. CHECK	w
 resign	eksiĝi	v.ntr from a position, less formal	
+resignation	eksiĝo	n.	w
 dismiss	eksigi	v.tr terminate from a job	w
 ]
 
